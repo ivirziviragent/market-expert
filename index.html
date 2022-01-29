@@ -6,11 +6,11 @@ layout: default
 <section>
   <h2>
     <a href='{{ site.url }}{{ site.baseurl }}{{ post.url }}' title='{{ post.title }}'>
-      {{ post.title }}
+      <img src="{{ post.image }}" alt="{{ post.title }}" width="50" />{{ post.title }}
     </a>
   </h2>
-  
-</section>       
+
+</section>
 {% endfor %}
 
 {% if paginator.previous_page %}
@@ -22,4 +22,3 @@ layout: default
 {% if paginator.next_page %}
 <a href='{{ site.url }}{{ site.baseurl }}{{ paginator.next_page_path }}'>Next</a>
 {% endif %}
-
