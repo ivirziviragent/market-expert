@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mis Uht Süt Yağlı 1 Lt"
-date:   Sat Jan 29 2022 16:55:20 GMT+0300 (GMT+03:00)
+date:   Sat Jan 29 2022 17:06:22 GMT+0300 (GMT+03:00)
 categories: sut-kahvaltilik
 ---
 

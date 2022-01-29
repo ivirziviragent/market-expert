@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pınar Süt 1 L"
-date:   Sat Jan 29 2022 16:54:58 GMT+0300 (GMT+03:00)
+date:   Sat Jan 29 2022 17:05:59 GMT+0300 (GMT+03:00)
 categories: sut-kahvaltilik
 ---
 
