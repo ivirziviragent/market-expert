@@ -1,34 +1,17 @@
 ---
 layout: post
 title:  "Doğuş Karadeniz Çayı 1000 G"
-date:   2018-01-01 23:22:40 +0300
+date:   2022-01-29 19:43:50
+image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg
+categories: cay-kahve
 ---
 
-True minimal theme is extremely lightweight and ascetic jekyll theme.
+Son Güncelleme: 2022-01-29 19:43:50
 
-This theme has only one css file, which is used for source code highlighting. 
+<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg" width="200" alt="Doğuş Karadeniz Çayı 1000 G" />
 
 
-# Heading 1
-## Heading 2
-### Heading 3
+### - Migros: 37,95 TL
 
-List of entries:
+### - Çağrı Market: 37,95 TL
 
-- item 1
-- item 2
-- item 3
-- item 4
-
-Source code are highlighted:
-
-```perl
-#!/usr/bin/perl
-
-sub print_hello {
-    print "Hello, Jekyll!\n";
-}
-
-print_hello;
-```
-    

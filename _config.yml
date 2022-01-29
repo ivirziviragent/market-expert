@@ -1,8 +1,9 @@
-name: "Jekyll true minimal theme"
+name: "Market Fiyatları Karşılaştır"
 description: "Lightweight theme"
 
 url: '' 
-baseurl: ''
+baseurl: '/market-expert'
+permalink: :categories/:title
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -25,4 +26,3 @@ destination: ./_site
 sass:
     style: :compressed
     sass_dir: assets/css/
-
