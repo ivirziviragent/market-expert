@@ -6,11 +6,10 @@ layout: default
 <section>
   <h2>
     <a href='{{ site.url }}{{ site.baseurl }}{{ post.url }}' title='{{ post.title }}'>
-      <img src='{{ post.image }}' width="50" alt='{{ post.title }}' />
+      <img src='{{ post.image }}' width='50' alt='{{ post.title }}' />
       {{ post.title }}
     </a>
   </h2>
-  <div style="clear: both;"></div>
   <!--<p>{{ post.excerpt | strip_html | truncate: 250 }}</p>-->
 </section>
 {% endfor %}
