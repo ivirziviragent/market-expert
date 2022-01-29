@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Pınar Süt 1 L"
-date:   Sat Jan 29 2022 02:19:43 GMT+0300 (GMT+03:00)
+date:   Sat Jan 29 2022 16:54:58 GMT+0300 (GMT+03:00)
+image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/11010010/11010010-1ae231-1650x1650.jpg
 categories: sut-kahvaltilik
 ---
 

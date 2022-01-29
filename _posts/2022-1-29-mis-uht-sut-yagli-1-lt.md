@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Mis Uht Süt Yağlı 1 Lt"
-date:   Sat Jan 29 2022 02:20:05 GMT+0300 (GMT+03:00)
+date:   Sat Jan 29 2022 16:55:20 GMT+0300 (GMT+03:00)
+image: https://cdnd-tr.ceptesok.com/product/1000x1000/97884_uht-sut-yagli-1-lt.jpg
 categories: sut-kahvaltilik
 ---
 
 Güncelleme Tarihi: 29-1-2022
 
-<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/11010010/11010010-1ae231-1650x1650.jpg" width="200" alt="Mis Uht Süt Yağlı 1 Lt" />
+<img src="https://cdnd-tr.ceptesok.com/product/1000x1000/97884_uht-sut-yagli-1-lt.jpg" width="200" alt="Mis Uht Süt Yağlı 1 Lt" />
 
 
 ### - Şok: 7,90 TL
