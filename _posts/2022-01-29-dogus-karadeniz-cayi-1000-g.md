@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Doğuş Karadeniz Çayı 1000 G"
-date:   Sat Jan 29 2022 17:15:13 GMT+0300 (GMT+03:00)
+date:   2018-01-01 23:22:40 +0300
 ---
 
 True minimal theme is extremely lightweight and ascetic jekyll theme.
