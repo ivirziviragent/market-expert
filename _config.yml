@@ -1,8 +1,8 @@
-name: "Market Fiyatları"
+name: "Jekyll true minimal theme"
 description: "Lightweight theme"
 
 url: '' 
-baseurl: '/market-expert'
+baseurl: ''
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -26,4 +26,3 @@ sass:
     style: :compressed
     sass_dir: assets/css/
 
-permalink: :categories/:title
