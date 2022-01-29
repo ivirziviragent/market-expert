@@ -26,4 +26,4 @@ sass:
     style: :compressed
     sass_dir: assets/css/
 
-permalink: market-expert/:categories/:title
+permalink: :categories/:title
