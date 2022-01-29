@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Persil Çamaşır Deterjanı 46 Yıkama 7 Kg"
-date:   2022-01-30 2:33:10 +0
+date:   2022-01-30 2:33:10 +0000
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/30121523/30121523-431025-1650x1650.jpg
 categories: deterjan-temizlik
 ---
