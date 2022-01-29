@@ -2,7 +2,7 @@ name: "Market Fiyatları"
 description: "Lightweight theme"
 
 url: '' 
-baseurl: '/market-expert'
+baseurl: ''
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
