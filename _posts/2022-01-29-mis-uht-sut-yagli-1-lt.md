@@ -6,7 +6,7 @@ image: https://cdnd-tr.ceptesok.com/product/1000x1000/97884_uht-sut-yagli-1-lt.j
 categories: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-01-29 19:52:15
+Son Güncelleme: 2022-01-29 20:52:28
 
 <img src="https://cdnd-tr.ceptesok.com/product/1000x1000/97884_uht-sut-yagli-1-lt.jpg" width="200" alt="Mis Uht Süt Yağlı 1 Lt" />
 
