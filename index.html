@@ -5,9 +5,8 @@ layout: default
 {% for post in paginator.posts %}
 <section>
   <h2>
-    <a href='{{ site.url }}{{ site.baseurl }}{{ post.url }}' title='{{ post.title }}'>
-      <img src='{{ post.image }}' width='50' alt='{{ post.title }}' />
-      {{ post.title }}
+    <a href='{{ site.url }}{{ site.baseurl }}{{ post.url }}' title='{{ post.title }}'><img src='{{ post.image }}'
+        width='50' alt='{{ post.title }}' />{{ post.title }}
     </a>
   </h2>
   <!--<p>{{ post.excerpt | strip_html | truncate: 250 }}</p>-->
