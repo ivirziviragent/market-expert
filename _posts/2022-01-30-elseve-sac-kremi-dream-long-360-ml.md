@@ -1,21 +1,36 @@
 ---
 layout: post
 title:  "Elseve Saç Kremi Dream Long 360 ml"
-date:   2022-01-30 20:29:46 +0300
+date:   2022-01-30 20:53:06 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/elseve-sac-kremi-dream-long-360-ml-82df.jpg
 categories: Saç Bakım Ürünleri
 ---
 
-Son Güncelleme: 2022-01-30 23:29:46
+Son Güncelleme: 2022-01-30 23:53:06
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/elseve-sac-kremi-dream-long-360-ml-82df.jpg" width="200" alt="Elseve Saç Kremi Dream Long 360 ml" />
 
-
-### - Çağrı Market: 26,95 TL
- (<a target="_blank" href="https://www.cagri.com/elseve-sac-kremi-dream-long-360-ml">satın al</a>)
-### - Migros: 35,90 TL
- (<a target="_blank" href="https://www.migros.com.tr/elseve-dream-long-kolay-tarama-sac-bakim-kremi-360-ml-p-20c14f3">satın al</a>)
-### - Onur Market: 35,90 TL
- (<a target="_blank" href="https://www.onurmarket.com/product/elseve-sac-kremi-360ml-dream-long/08d8b7b8-1cfc-4ed5-8004-8354510d6bc0">satın al</a>)
-### - CarrefourSA: 20,93 TL
- (<a target="_blank" href="https://www.carrefoursa.com/l-oreal-paris-elseve-dream-long-onarici-bakim-sampuani-360ml-p-30254246">satın al</a>)
+<table border="1" style="padding: 5px;">
+  <tr>
+    <td style="padding: 5px;">Perakendeci</td>
+    <td>Fiyat</td>
+    <td>İşlem</td>
+  </tr>
+  <tr>
+              <td>Çağrı Market</td>
+              <td>26,95 TL</td>
+              <td><a target="_blank" href="https://www.cagri.com/elseve-sac-kremi-dream-long-360-ml">satın al</a></td>
+            </tr><tr>
+              <td>Migros</td>
+              <td>35,90 TL</td>
+              <td><a target="_blank" href="https://www.migros.com.tr/elseve-dream-long-kolay-tarama-sac-bakim-kremi-360-ml-p-20c14f3">satın al</a></td>
+            </tr><tr>
+              <td>Onur Market</td>
+              <td>35,90 TL</td>
+              <td><a target="_blank" href="https://www.onurmarket.com/product/elseve-sac-kremi-360ml-dream-long/08d8b7b8-1cfc-4ed5-8004-8354510d6bc0">satın al</a></td>
+            </tr><tr>
+              <td>CarrefourSA</td>
+              <td>20,93 TL</td>
+              <td><a target="_blank" href="https://www.carrefoursa.com/l-oreal-paris-elseve-dream-long-onarici-bakim-sampuani-360ml-p-30254246">satın al</a></td>
+            </tr>
+</table>

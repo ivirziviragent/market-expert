@@ -1,27 +1,48 @@
 ---
 layout: post
 title:  "Balparmak Süzme Çiçek Balı 850 g"
-date:   2022-01-30 20:28:32 +0300
+date:   2022-01-30 20:51:53 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/balparmak-suzme-cicek-bali-850-gr-b86e.jpg
 categories: Süt, Kahvaltılık
 ---
 
-Son Güncelleme: 2022-01-30 23:28:32
+Son Güncelleme: 2022-01-30 23:51:53
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/balparmak-suzme-cicek-bali-850-gr-b86e.jpg" width="200" alt="Balparmak Süzme Çiçek Balı 850 g" />
 
-
-### - Çağrı Market: 91,95 TL
- (<a target="_blank" href="https://www.cagri.com/balparmak-suzme-cicek-bali-850-gr">satın al</a>)
-### - Migros: 91,50 TL
- (<a target="_blank" href="https://www.migros.com.tr/balparmak-cicek-bali-850-g-p-6be1c6">satın al</a>)
-### - Onur Market: 89,99 TL
- (<a target="_blank" href="https://www.onurmarket.com/product/balparmak-cicek-bali-850gr/527b2cea-0b4f-4318-af85-750a357899d6">satın al</a>)
-### - Happy Center: 89,95 TL
- (<a target="_blank" href="https://www.happycenter.com.tr/Product/?product_id=15264">satın al</a>)
-### - Show Market: 84,99 TL
- (<a target="_blank" href="https://www.showsanal.com/product/balparmak-bal-cicek-suzme-850-gr/d9c32956-4a2f-4a2c-b6dd-a5c1fe0e9634">satın al</a>)
-### - CarrefourSA: 77,90 TL
- (<a target="_blank" href="https://www.carrefoursa.com/balparmak-suzme-cicek-bali-850-g-p-30032429">satın al</a>)
-### - İste Gelsin: 91,50 TL
- (<a target="_blank" href="https://www.istegelsin.com/urun/balparmak-kavanoz-suzme-cicek-bali-850-gr_BLP8-AD">satın al</a>)
+<table border="1" style="padding: 5px;">
+  <tr>
+    <td style="padding: 5px;">Perakendeci</td>
+    <td>Fiyat</td>
+    <td>İşlem</td>
+  </tr>
+  <tr>
+              <td>Çağrı Market</td>
+              <td>91,95 TL</td>
+              <td><a target="_blank" href="https://www.cagri.com/balparmak-suzme-cicek-bali-850-gr">satın al</a></td>
+            </tr><tr>
+              <td>Migros</td>
+              <td>91,50 TL</td>
+              <td><a target="_blank" href="https://www.migros.com.tr/balparmak-cicek-bali-850-g-p-6be1c6">satın al</a></td>
+            </tr><tr>
+              <td>Onur Market</td>
+              <td>89,99 TL</td>
+              <td><a target="_blank" href="https://www.onurmarket.com/product/balparmak-cicek-bali-850gr/527b2cea-0b4f-4318-af85-750a357899d6">satın al</a></td>
+            </tr><tr>
+              <td>Happy Center</td>
+              <td>89,95 TL</td>
+              <td><a target="_blank" href="https://www.happycenter.com.tr/Product/?product_id=15264">satın al</a></td>
+            </tr><tr>
+              <td>Show Market</td>
+              <td>84,99 TL</td>
+              <td><a target="_blank" href="https://www.showsanal.com/product/balparmak-bal-cicek-suzme-850-gr/d9c32956-4a2f-4a2c-b6dd-a5c1fe0e9634">satın al</a></td>
+            </tr><tr>
+              <td>CarrefourSA</td>
+              <td>77,90 TL</td>
+              <td><a target="_blank" href="https://www.carrefoursa.com/balparmak-suzme-cicek-bali-850-g-p-30032429">satın al</a></td>
+            </tr><tr>
+              <td>İste Gelsin</td>
+              <td>91,50 TL</td>
+              <td><a target="_blank" href="https://www.istegelsin.com/urun/balparmak-kavanoz-suzme-cicek-bali-850-gr_BLP8-AD">satın al</a></td>
+            </tr>
+</table>
