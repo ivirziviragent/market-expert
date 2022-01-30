@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Balparmak Süzme Çiçek Balı 850 g"
-date:   2022-01-30 15:33:56 +0300
+date:   2022-01-30 19:13:32 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/balparmak-suzme-cicek-bali-850-gr-b86e.jpg
 categories: Süt, Kahvaltılık
 ---
 
-Son Güncelleme: 2022-01-30 18:33:56
+Son Güncelleme: 2022-01-30 22:13:32
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/balparmak-suzme-cicek-bali-850-gr-b86e.jpg" width="200" alt="Balparmak Süzme Çiçek Balı 850 g" />
 
