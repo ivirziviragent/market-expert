@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Mis Uht Süt Yağlı 1 Lt"
-date:   2022-01-30 6:14:56 +0300
+date:   2022-01-30 6:27:50 +0300
 image: https://cdnd-tr.ceptesok.com/product/1000x1000/97884_uht-sut-yagli-1-lt.jpg
 categories: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-01-30 9:14:56
+Son Güncelleme: 2022-01-30 9:27:50
 
 <img src="https://cdnd-tr.ceptesok.com/product/1000x1000/97884_uht-sut-yagli-1-lt.jpg" width="200" alt="Mis Uht Süt Yağlı 1 Lt" />
 

@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Balparmak Süzme Çiçek Balı 850 g"
-date:   2022-01-30 6:15:22 +0300
+date:   2022-01-30 6:28:15 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/balparmak-suzme-cicek-bali-850-gr-b86e.jpg
 categories: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-01-30 9:15:22
+Son Güncelleme: 2022-01-30 9:28:15
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/balparmak-suzme-cicek-bali-850-gr-b86e.jpg" width="200" alt="Balparmak Süzme Çiçek Balı 850 g" />
 
@@ -21,5 +21,5 @@ Son Güncelleme: 2022-01-30 9:15:22
 
 ### - Show Market: 84,99 TL
 
-### - CarrefourSA: undefined TL
+### - CarrefourSA: 77,90 TL
 
