@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Doğuş Karadeniz Çayı 1000 G"
-date:   2022-01-30 19:12:13 +0300
+date:   2022-01-30 19:18:50 +0300
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg
 categories: Çay, Kahve
 ---
 
-Son Güncelleme: 2022-01-30 22:12:13
+Son Güncelleme: 2022-01-30 22:18:50
 
 <img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg" width="200" alt="Doğuş Karadeniz Çayı 1000 G" />
 

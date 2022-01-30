@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Elseve Saç Kremi Dream Long 360 ml"
-date:   2022-01-30 19:14:20 +0300
+date:   2022-01-30 19:21:15 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/elseve-sac-kremi-dream-long-360-ml-82df.jpg
 categories: Saç Bakım Ürünleri
 ---
 
-Son Güncelleme: 2022-01-30 22:14:20
+Son Güncelleme: 2022-01-30 22:21:15
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/elseve-sac-kremi-dream-long-360-ml-82df.jpg" width="200" alt="Elseve Saç Kremi Dream Long 360 ml" />
 
