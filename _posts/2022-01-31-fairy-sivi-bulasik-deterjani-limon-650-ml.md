@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Fairy Sıvı Bulaşık Deterjanı Limon 650 Ml"
-date:   2022-01-31 11:10:58 +0300
+date:   2022-01-31 11:23:40 +0300
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/30619668/30619668_urundetay-a7cd2c-1650x1650.jpg
 categories: Deterjan, Temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-01-31 14:10:58
+Son Güncelleme: 2022-01-31 14:23:40
 
 <img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/30619668/30619668_urundetay-a7cd2c-1650x1650.jpg" width="200" alt="Fairy Sıvı Bulaşık Deterjanı Limon 650 Ml" />
 
