@@ -14,14 +14,13 @@
     {% if site.highlighter %}
     <link rel='stylesheet' href='{{ site.url }}{{ site.baseurl }}/assets/css/syntax.css' type='text/css'>
     {% endif %}
-    <script async src="https://cse.google.com/cse.js?cx=c1f71edf653e1019e"></script>
-
+    <script async src="https://cse.google.com/cse.js?cx=667e62321134efe0f"></script>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <meta name="description" content="{{ page.title }}" />
     <meta name="robots" content="index,follow" />
     <meta name="keywords" content="{{ page.tags }}" />
-    <meta property="og:site_name" content="{{ page.title }}"/>
-    <meta property="og:image" content="{{ page.image }}"/>
+    <meta property="og:site_name" content="{{ page.title }}" />
+    <meta property="og:image" content="{{ page.image }}" />
 </head>
 
 <body>
@@ -31,6 +30,16 @@
     <hr>
     <p><small> <i>Build with <a href="https://jekyllrb.com/">Jekyll</a> and <a
                     href="https://github.com/cyevgeniy/jekyll-true-minimal/">true minimal theme</a></i> </small></p>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-185MMWBQX2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-185MMWBQX2');
+    </script>
 </body>
 
 </html>

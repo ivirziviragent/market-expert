@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Elseve Saç Kremi Dream Long 360 ml"
-date:   2022-01-31 11:33:19 +0300
+date:   2022-01-31 11:42:24 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/elseve-sac-kremi-dream-long-360-ml-82df.jpg
 categories: sac-bakim-urunleri
 tags: sac-bakim-urunleri
 ---
 
-Son Güncelleme: 2022-01-31 14:33:19
+Son Güncelleme: 2022-01-31 14:42:24
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/elseve-sac-kremi-dream-long-360-ml-82df.jpg" width="200" alt="Elseve Saç Kremi Dream Long 360 ml" />
 
@@ -24,18 +24,18 @@ Marka: L'OREAL PARIS ELSEVE
   <tr>
               <td>CarrefourSA</td>
               <td>20,93 TL</td>
-              <td style="text-align:center;"><a target="_blank" href="https://www.carrefoursa.com/l-oreal-paris-elseve-dream-long-onarici-bakim-sampuani-360ml-p-30254246">satın al</a></td>
+              <td><a target="_blank" href="https://www.carrefoursa.com/l-oreal-paris-elseve-dream-long-onarici-bakim-sampuani-360ml-p-30254246">satın al</a></td>
             </tr><tr>
               <td>Çağrı Market</td>
               <td>26,95 TL</td>
-              <td style="text-align:center;"><a target="_blank" href="https://www.cagri.com/elseve-sac-kremi-dream-long-360-ml">satın al</a></td>
+              <td><a target="_blank" href="https://www.cagri.com/elseve-sac-kremi-dream-long-360-ml">satın al</a></td>
             </tr><tr>
               <td>Migros</td>
               <td>35,90 TL</td>
-              <td style="text-align:center;"><a target="_blank" href="https://www.migros.com.tr/elseve-dream-long-kolay-tarama-sac-bakim-kremi-360-ml-p-20c14f3">satın al</a></td>
+              <td><a target="_blank" href="https://www.migros.com.tr/elseve-dream-long-kolay-tarama-sac-bakim-kremi-360-ml-p-20c14f3">satın al</a></td>
             </tr><tr>
               <td>Onur Market</td>
               <td>35,90 TL</td>
-              <td style="text-align:center;"><a target="_blank" href="https://www.onurmarket.com/product/elseve-sac-kremi-360ml-dream-long/08d8b7b8-1cfc-4ed5-8004-8354510d6bc0">satın al</a></td>
+              <td><a target="_blank" href="https://www.onurmarket.com/product/elseve-sac-kremi-360ml-dream-long/08d8b7b8-1cfc-4ed5-8004-8354510d6bc0">satın al</a></td>
             </tr>
 </table>

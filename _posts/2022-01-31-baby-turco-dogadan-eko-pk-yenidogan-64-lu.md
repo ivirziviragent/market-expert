@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Baby Turco Doğadan Eko Pk Yenidoğan 64 lü"
-date:   2022-01-31 11:32:24 +0300
+date:   2022-01-31 11:41:31 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/baby-turco-dogadan-eko-pk-yenidogan-64-c-71fb.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-01-31 14:32:24
+Son Güncelleme: 2022-01-31 14:41:31
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/baby-turco-dogadan-eko-pk-yenidogan-64-c-71fb.jpg" width="200" alt="Baby Turco Doğadan Eko Pk Yenidoğan 64 lü" />
 
@@ -24,6 +24,6 @@ Marka: Baby Turco
   <tr>
               <td>Çağrı Market</td>
               <td>65,95 TL</td>
-              <td style="text-align:center;"><a target="_blank" href="https://www.cagri.com/baby-turco-dogadan-eko-pk-yenidogan-64-lu">satın al</a></td>
+              <td><a target="_blank" href="https://www.cagri.com/baby-turco-dogadan-eko-pk-yenidogan-64-lu">satın al</a></td>
             </tr>
 </table>
