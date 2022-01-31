@@ -1,15 +1,19 @@
 ---
 layout: post
 title:  "Torku Süzme Peynir 450 g"
-date:   2022-01-31 11:26:04 +0300
+date:   2022-01-31 11:33:41 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/torku-suzme-peynir-450-gr-9960.jpg
-categories: Süt, Kahvaltılık
+categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-01-31 14:26:04
+Son Güncelleme: 2022-01-31 14:33:41
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/torku-suzme-peynir-450-gr-9960.jpg" width="200" alt="Torku Süzme Peynir 450 g" />
+
+Kategori: Süt, Kahvaltılık
+<br />
+Marka: Torku
 
 <table border="1" style="padding: 5px;width:80%;">
   <tr>

@@ -1,15 +1,19 @@
 ---
 layout: post
 title:  "Johnson's Bebek Şampuanı 200 Ml"
-date:   2022-01-31 11:25:59 +0300
+date:   2022-01-31 11:33:34 +0300
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/31600031/31600031-488cae-1650x1650.jpg
-categories: Bebek
+categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-01-31 14:25:59
+Son Güncelleme: 2022-01-31 14:33:34
 
 <img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/31600031/31600031-488cae-1650x1650.jpg" width="200" alt="Johnson's Bebek Şampuanı 200 Ml" />
+
+Kategori: Bebek
+<br />
+Marka: JBABY
 
 <table border="1" style="padding: 5px;width:80%;">
   <tr>
