@@ -5,18 +5,21 @@
     <meta charset='utf-8'>
     <title>
         {% if page.title %}
-            {{ page.title }}
-        {% else %} 
-            {{ site.name }} &mdash; {{ site.description }}
+        {{ page.title }}
+        {% else %}
+        {{ site.name }} &mdash; {{ site.description }}
         {% endif %}
     </title>
 
     {% if site.highlighter %}
-        <link rel='stylesheet' href='{{ site.url }}{{ site.baseurl }}/assets/css/syntax.css' type='text/css'>
+    <link rel='stylesheet' href='{{ site.url }}{{ site.baseurl }}/assets/css/syntax.css' type='text/css'>
     {% endif %}
     <script async src="https://cse.google.com/cse.js?cx=c1f71edf653e1019e"></script>
-    
+
     <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <meta name="description" content="{{ page.description }}" />
+    <meta name="robots" content="index,follow" />
+    <meta name="keywords" content="{{ page.tags }}" />
 
 </head>
 
@@ -24,7 +27,9 @@
     {% include header.html %}
 
     {{ content }}
-<hr>
-    <p><small> <i>Build with <a href="https://jekyllrb.com/">Jekyll</a> and  <a href="https://github.com/cyevgeniy/jekyll-true-minimal/">true minimal theme</a></i> </small></p>
+    <hr>
+    <p><small> <i>Build with <a href="https://jekyllrb.com/">Jekyll</a> and <a
+                    href="https://github.com/cyevgeniy/jekyll-true-minimal/">true minimal theme</a></i> </small></p>
 </body>
+
 </html>
