@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Johnson's Baby Şampuan 750 ml"
-date:   2022-01-31 11:41:48 +0300
+date:   2022-02-01 7:39:06 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/johnsons-baby-sampuan-750-ml-78f6.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-01-31 14:41:48
+Son Güncelleme: 2022-02-01 10:39:06
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/johnsons-baby-sampuan-750-ml-78f6.jpg" width="200" alt="Johnson's Baby Şampuan 750 ml" />
 
@@ -26,6 +26,10 @@ Marka: JBABY
               <td>undefined TL</td>
               <td><a target="_blank" href="https://www.cagri.com/johnsons-baby-sampuan-750-ml">satın al</a></td>
             </tr><tr>
+              <td>Migros</td>
+              <td>18,13 TL</td>
+              <td><a target="_blank" href="https://www.migros.com.tr/johnsons-bebek-sampuani-750-ml-p-1e22da1">satın al</a></td>
+            </tr><tr>
               <td>CarrefourSA</td>
               <td>20,72 TL</td>
               <td><a target="_blank" href="https://www.carrefoursa.com/johnson-s-baby-sampuan-750-ml-p-30051172">satın al</a></td>
@@ -33,10 +37,6 @@ Marka: JBABY
               <td>Onur Market</td>
               <td>24,99 TL</td>
               <td><a target="_blank" href="https://www.onurmarket.com/product/johnsons-sampuan-750ml/894fe092-8ce7-4306-bd32-c06e28d53581">satın al</a></td>
-            </tr><tr>
-              <td>Migros</td>
-              <td>25,90 TL</td>
-              <td><a target="_blank" href="https://www.migros.com.tr/johnsons-bebek-sampuani-750-ml-p-1e22da1">satın al</a></td>
             </tr><tr>
               <td>Getir</td>
               <td>25,90 TL</td>
