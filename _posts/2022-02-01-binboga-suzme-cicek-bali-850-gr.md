@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Binboğa Süzme Çiçek Balı 850 gr"
-date:   2022-02-01 16:36:40 +0300
+date:   2022-02-01 16:53:08 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/binboga-suzme-cicek-bali-850-gr-5849.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-02-01 19:36:40
+Son Güncelleme: 2022-02-01 19:53:08
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/binboga-suzme-cicek-bali-850-gr-5849.jpg" width="200" alt="Binboğa Süzme Çiçek Balı 850 gr" />
 
@@ -22,13 +22,13 @@ Marka: Binboğa
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td>Çağrı Market</td>
+              <td>49,95 TL</td>
+              <td><a target="_blank" href="https://www.cagri.com/binboga-suzme-cicek-bali-850-gr">satın al</a></td>
+            </tr><tr>
               <td>Onur Market</td>
               <td>56,99 TL</td>
               <td><a target="_blank" href="https://www.onurmarket.com/product/binboga-cicek-bali-850-gr/0a2a998b-1caa-4af6-ba49-a51512528b8c">satın al</a></td>
-            </tr><tr>
-              <td>Çağrı Market</td>
-              <td>59,95 TL</td>
-              <td><a target="_blank" href="https://www.cagri.com/binboga-suzme-cicek-bali-850-gr">satın al</a></td>
             </tr><tr>
               <td>Happy Center</td>
               <td>59,95 TL</td>
