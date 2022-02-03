@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Balparmak Süzme Çiçek Balı 850 g"
-date:   2022-02-03 21:02:09 +0300
+date:   2022-02-03 21:22:53 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/balparmak-suzme-cicek-bali-850-gr-b86e.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-02-04 0:02:09
+Son Güncelleme: 2022-02-04 0:22:53
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/balparmak-suzme-cicek-bali-850-gr-b86e.jpg" width="200" alt="Balparmak Süzme Çiçek Balı 850 g" />
 
@@ -30,6 +30,14 @@ Marka: Balparmak
               <td>77,90 TL</td>
               <td><a target="_blank" href="https://www.carrefoursa.com/balparmak-suzme-cicek-bali-850-g-p-30032429">satın al</a></td>
             </tr><tr>
+              <td>Onur Market</td>
+              <td>79,99 TL</td>
+              <td><a target="_blank" href="https://www.onurmarket.com/product/balparmak-cicek-bali-850gr/527b2cea-0b4f-4318-af85-750a357899d6">satın al</a></td>
+            </tr><tr>
+              <td>Show Market</td>
+              <td>84,99 TL</td>
+              <td><a target="_blank" href="https://www.showsanal.com/product/balparmak-bal-cicek-suzme-850-gr/d9c32956-4a2f-4a2c-b6dd-a5c1fe0e9634">satın al</a></td>
+            </tr><tr>
               <td>Happy Center</td>
               <td>89,95 TL</td>
               <td><a target="_blank" href="https://www.happycenter.com.tr/Product/?product_id=15264">satın al</a></td>
@@ -37,14 +45,6 @@ Marka: Balparmak
               <td>Çağrı Market</td>
               <td>91,95 TL</td>
               <td><a target="_blank" href="https://www.cagri.com/balparmak-suzme-cicek-bali-850-gr">satın al</a></td>
-            </tr><tr>
-              <td>Onur Market</td>
-              <td>undefined TL</td>
-              <td><a target="_blank" href="https://www.onurmarket.com/product/balparmak-cicek-bali-850gr/527b2cea-0b4f-4318-af85-750a357899d6">satın al</a></td>
-            </tr><tr>
-              <td>Show Market</td>
-              <td> TL</td>
-              <td><a target="_blank" href="https://www.showsanal.com/product/balparmak-bal-cicek-suzme-850-gr/d9c32956-4a2f-4a2c-b6dd-a5c1fe0e9634">satın al</a></td>
             </tr><tr>
               <td>İste Gelsin</td>
               <td>undefined TL</td>
