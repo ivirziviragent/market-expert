@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Asperox Sarı Güç Sprey 1 lt"
+date:   2022-02-03 21:05:02 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg
+categories: deterjan-temizlik
+tags: deterjan-temizlik
+---
+
+Son Güncelleme: 2022-02-04 0:05:02
+
+<img src="https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg" width="200" alt="Asperox Sarı Güç Sprey 1 lt" />
+
+Kategori: Deterjan, Temizlik
+<br />
+Marka: Asperox
+
+<table border="1" style="padding: 5px;width:80%;">
+  <tr>
+    <td style="padding: 5px;"><strong>Perakendeci</strong></td>
+    <td><strong>Fiyat</strong></td>
+    <td><strong>İşlem</strong></td>
+  </tr>
+  <tr>
+              <td>Çağrı Market</td>
+              <td>14,95 TL</td>
+              <td><a target="_blank" href="https://www.cagri.com//asperox-sari-guc-sprey-1-lt-18038">satın al</a></td>
+            </tr><tr>
+              <td>Migros</td>
+              <td>16,95 TL</td>
+              <td><a target="_blank" href="https://www.migros.com.tr//asperox-sari-guc-sprey-1-l-p-1d4f3c4">satın al</a></td>
+            </tr><tr>
+              <td>Onur Market</td>
+              <td>16,99 TL</td>
+              <td><a target="_blank" href="https://www.onurmarket.com//product/asperox-sari-guc-1-lt-sprey/b30900fa-67df-4291-b1ec-bf06304889fc">satın al</a></td>
+            </tr><tr>
+              <td>A101</td>
+              <td>19,90 TL</td>
+              <td><a target="_blank" href="https://www.a101.com.tr//market/asperox-sari-guc-ultra-yag-cozucu-1-l/">satın al</a></td>
+            </tr><tr>
+              <td>Happy Center</td>
+              <td>19,95 TL</td>
+              <td><a target="_blank" href="https://www.happycenter.com.tr//asperox-sari-guc-1lt-sprey12">satın al</a></td>
+            </tr><tr>
+              <td>Kim</td>
+              <td>21,99 TL</td>
+              <td><a target="_blank" href="https://www.kimgeldi.com//asperox-sari-guc-1000-ml">satın al</a></td>
+            </tr><tr>
+              <td>CarrefourSA</td>
+              <td>65,18 TL</td>
+              <td><a target="_blank" href="https://www.carrefoursa.com/camasir-yikama-urunleri/c/1627?sort=bestSeller&amp;sortingOption=bestSeller&amp;q=%3Arelevance%3AinStockFlag%3Atrue%3AdiscountFlag%3Atrue#">satın al</a></td>
+            </tr><tr>
+              <td>Şok</td>
+              <td>undefined TL</td>
+              <td><a target="_blank" href="https://www.sokmarket.com.tr//sari-guc-1-lt-p-29102/">satın al</a></td>
+            </tr><tr>
+              <td>İste Gelsin</td>
+              <td>undefined TL</td>
+              <td><a target="_blank" href="https://www.istegelsin.com//kampanyalar">satın al</a></td>
+            </tr><tr>
+              <td>Hakmar</td>
+              <td>undefined TL</td>
+              <td><a target="_blank" href="https://www.hakmarexpress.com.tr//urun/temizlik-asperox-sari-guc-cok-amacli-ultra-yag-cozucu-1-lt">satın al</a></td>
+            </tr>
+</table>
