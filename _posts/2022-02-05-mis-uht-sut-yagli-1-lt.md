@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Mis Uht Süt Yağlı 1 Lt"
-date:   2022-02-04 20:12:06 +0300
+date:   2022-02-04 21:20:04 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-02-04 23:12:06
+Son Güncelleme: 2022-02-05 0:20:04
 
 <img src="undefined" width="200" alt="Mis Uht Süt Yağlı 1 Lt" />
 

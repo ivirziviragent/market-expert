@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Kebir Trabzon Tereyağı 750 gr"
-date:   2022-02-04 20:15:40 +0300
+date:   2022-02-04 21:23:53 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/kebir-trabzon-tereyagi-750-gr-8181.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-02-04 23:15:40
+Son Güncelleme: 2022-02-05 0:23:53
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/kebir-trabzon-tereyagi-750-gr-8181.jpg" width="200" alt="Kebir Trabzon Tereyağı 750 gr" />
 
@@ -27,7 +27,7 @@ Marka: Kebir
               <td><a target="_blank" href="https://www.cagri.com/kebir-trabzon-tereyagi-750gr?">satın al</a></td>
             </tr><tr>
               <td>Onur Market</td>
-              <td>undefined TL</td>
+              <td> TL</td>
               <td><a target="_blank" href="https://www.onurmarket.com/product/kebir-tereyag-gurme-tuzsuz-750-gr/786e230f-79a2-4555-a178-cc18ebcccca5">satın al</a></td>
             </tr><tr>
               <td>Happy Center</td>
