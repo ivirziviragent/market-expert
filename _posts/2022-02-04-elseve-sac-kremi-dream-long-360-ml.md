@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Elseve Saç Kremi Dream Long 360 ml"
-date:   2022-02-04 15:37:24 +0300
+date:   2022-02-04 20:14:14 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/elseve-sac-kremi-dream-long-360-ml-82df.jpg
 categories: sac-bakim-urunleri
 tags: sac-bakim-urunleri
 ---
 
-Son Güncelleme: 2022-02-04 18:37:24
+Son Güncelleme: 2022-02-04 23:14:14
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/elseve-sac-kremi-dream-long-360-ml-82df.jpg" width="200" alt="Elseve Saç Kremi Dream Long 360 ml" />
 
@@ -35,7 +35,7 @@ Marka: L'OREAL PARIS ELSEVE
               <td><a target="_blank" href="https://www.cagri.com/elseve-sac-kremi-dream-long-360-ml">satın al</a></td>
             </tr><tr>
               <td>Onur Market</td>
-              <td>35,90 TL</td>
+              <td> TL</td>
               <td><a target="_blank" href="https://www.onurmarket.com/product/elseve-sac-kremi-360ml-dream-long/08d8b7b8-1cfc-4ed5-8004-8354510d6bc0">satın al</a></td>
             </tr>
 </table>

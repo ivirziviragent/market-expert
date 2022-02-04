@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Yudum Ayçiçek Yağı 2 lt Pet"
-date:   2022-02-04 15:39:42 +0300
+date:   2022-02-04 20:17:01 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-2-lt-6bab.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-02-04 18:39:42
+Son Güncelleme: 2022-02-04 23:17:01
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-2-lt-6bab.jpg" width="200" alt="Yudum Ayçiçek Yağı 2 lt Pet" />
 
@@ -22,17 +22,9 @@ Marka: Yudum
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td>Onur Market</td>
-              <td>54,99 TL</td>
-              <td><a target="_blank" href="https://www.onurmarket.com/product/yudum-aycicek-2lt/1aac416a-9865-4eb2-bb8b-da48c0f9c4f5">satın al</a></td>
-            </tr><tr>
               <td>CarrefourSA</td>
               <td>58,90 TL</td>
               <td><a target="_blank" href="https://www.carrefoursa.com/yudum-aycicek-yagi-2-lt-pet-p-30099933">satın al</a></td>
-            </tr><tr>
-              <td>Happy Center</td>
-              <td>67,95 TL</td>
-              <td><a target="_blank" href="https://www.happycenter.com.tr/Yudum_Y_aycicek_Yagi_2_Lt">satın al</a></td>
             </tr><tr>
               <td>İste Gelsin</td>
               <td>68,90 TL</td>
@@ -49,5 +41,13 @@ Marka: Yudum
               <td>A101</td>
               <td>74,90 TL</td>
               <td><a target="_blank" href="https://www.a101.com.tr/market/yudum-aycicek-yagi-2-l/">satın al</a></td>
+            </tr><tr>
+              <td>Onur Market</td>
+              <td>undefined TL</td>
+              <td><a target="_blank" href="https://www.onurmarket.com/product/yudum-aycicek-2lt/1aac416a-9865-4eb2-bb8b-da48c0f9c4f5">satın al</a></td>
+            </tr><tr>
+              <td>Happy Center</td>
+              <td>67,95 TL</td>
+              <td><a target="_blank" href="https://www.happycenter.com.tr/Yudum_Y_aycicek_Yagi_2_Lt">satın al</a></td>
             </tr>
 </table>

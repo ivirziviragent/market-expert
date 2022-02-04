@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Domestos Dağ Esintisi 750 ml"
-date:   2022-02-04 15:40:07 +0300
+date:   2022-02-04 20:17:43 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/domestos-dag-esintisi-750-ml-f7984f.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-02-04 18:40:07
+Son Güncelleme: 2022-02-04 23:17:43
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/domestos-dag-esintisi-750-ml-f7984f.jpg" width="200" alt="Domestos Dağ Esintisi 750 ml" />
 
@@ -49,6 +49,10 @@ Marka: Domestos
               <td>Hakmar</td>
               <td>13,50 TL</td>
               <td><a target="_blank" href="https://www.hakmarexpress.com.tr/urun/temizlik-domestos-ultra-camasir-suyu-cesitleri-806-gr">satın al</a></td>
+            </tr><tr>
+              <td>Getir</td>
+              <td>14,75 TL</td>
+              <td><a target="_blank" href="https://getir.com/urun/domestos-yogun-kivamli-camasir-suyu-dag-esintisi-fz2OLCRl15/">satın al</a></td>
             </tr><tr>
               <td>Kim</td>
               <td>14,85 TL</td>

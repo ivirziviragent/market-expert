@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Balparmak Süzme Çiçek Balı 850 g"
-date:   2022-02-04 15:36:17 +0300
+date:   2022-02-04 20:12:59 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/balparmak-suzme-cicek-bali-850-gr-b86e.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-02-04 18:36:17
+Son Güncelleme: 2022-02-04 23:12:59
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/balparmak-suzme-cicek-bali-850-gr-b86e.jpg" width="200" alt="Balparmak Süzme Çiçek Balı 850 g" />
 
@@ -43,11 +43,11 @@ Marka: Balparmak
               <td><a target="_blank" href="https://www.cagri.com/balparmak-suzme-cicek-bali-850-gr">satın al</a></td>
             </tr><tr>
               <td>Onur Market</td>
-              <td> TL</td>
+              <td>undefined TL</td>
               <td><a target="_blank" href="https://www.onurmarket.com/product/balparmak-cicek-bali-850gr/527b2cea-0b4f-4318-af85-750a357899d6">satın al</a></td>
             </tr><tr>
               <td>Show Market</td>
-              <td> TL</td>
+              <td>undefined TL</td>
               <td><a target="_blank" href="https://www.showsanal.com/product/balparmak-bal-cicek-suzme-850-gr/d9c32956-4a2f-4a2c-b6dd-a5c1fe0e9634">satın al</a></td>
             </tr>
 </table>
