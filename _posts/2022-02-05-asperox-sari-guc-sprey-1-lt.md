@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Asperox Sarı Güç Sprey 1 lt"
-date:   2022-02-04 23:06:53 +0300
+date:   2022-02-04 23:38:20 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-02-05 2:06:53
+Son Güncelleme: 2022-02-05 2:38:20
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg" width="200" alt="Asperox Sarı Güç Sprey 1 lt" />
 
@@ -38,6 +38,10 @@ Marka: Asperox
               <td>16,99 TL</td>
               <td><a target="_blank" href="https://www.onurmarket.com/product/asperox-sari-guc-1-lt-sprey/b30900fa-67df-4291-b1ec-bf06304889fc">satın al</a></td>
             </tr><tr>
+              <td>Kim</td>
+              <td>17,99 TL</td>
+              <td><a target="_blank" href="https://www.kimgeldi.com/asperox-sari-guc-1000-ml">satın al</a></td>
+            </tr><tr>
               <td>Migros</td>
               <td>19,90 TL</td>
               <td><a target="_blank" href="https://www.migros.com.tr/asperox-sari-guc-sprey-1-l-p-1d4f3c4">satın al</a></td>
@@ -57,9 +61,5 @@ Marka: Asperox
               <td>Happy Center</td>
               <td>19,95 TL</td>
               <td><a target="_blank" href="https://www.happycenter.com.tr/asperox-sari-guc-1lt-sprey12">satın al</a></td>
-            </tr><tr>
-              <td>Kim</td>
-              <td>21,99 TL</td>
-              <td><a target="_blank" href="https://www.kimgeldi.com/asperox-sari-guc-1000-ml">satın al</a></td>
             </tr>
 </table>

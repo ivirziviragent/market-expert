@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Johnson's Baby Şampuan 750 ml"
-date:   2022-02-04 23:04:39 +0300
+date:   2022-02-04 23:36:12 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/johnsons-baby-sampuan-750-ml-78f6.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-02-05 2:04:39
+Son Güncelleme: 2022-02-05 2:36:12
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/johnsons-baby-sampuan-750-ml-78f6.jpg" width="200" alt="Johnson's Baby Şampuan 750 ml" />
 
@@ -23,7 +23,7 @@ Marka: JBABY
   </tr>
   <tr>
               <td>Çağrı Market</td>
-              <td>undefined TL</td>
+              <td></td>
               <td><a target="_blank" href="https://www.cagri.com/johnsons-baby-sampuan-750-ml">satın al</a></td>
             </tr><tr>
               <td>Onur Market</td>
