@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Asperox Sarı Güç Sprey 1 lt"
-date:   2022-02-04 14:37:32 +0300
+date:   2022-02-04 14:52:46 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-02-04 17:37:32
+Son Güncelleme: 2022-02-04 17:52:46
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg" width="200" alt="Asperox Sarı Güç Sprey 1 lt" />
 
@@ -39,7 +39,7 @@ Marka: Asperox
               <td><a target="_blank" href="https://www.a101.com.tr/market/asperox-sari-guc-ultra-yag-cozucu-1-l/">satın al</a></td>
             </tr><tr>
               <td>Onur Market</td>
-              <td> TL</td>
+              <td>undefined TL</td>
               <td><a target="_blank" href="https://www.onurmarket.com/product/asperox-sari-guc-1-lt-sprey/b30900fa-67df-4291-b1ec-bf06304889fc">satın al</a></td>
             </tr><tr>
               <td>Hakmar</td>
