@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Domestos Dağ Esintisi 750 ml"
-date:   2022-02-04 21:25:48 +0300
+date:   2022-02-04 23:07:54 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/domestos-dag-esintisi-750-ml-f7984f.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-02-05 0:25:48
+Son Güncelleme: 2022-02-05 2:07:54
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/domestos-dag-esintisi-750-ml-f7984f.jpg" width="200" alt="Domestos Dağ Esintisi 750 ml" />
 

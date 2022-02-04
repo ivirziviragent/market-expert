@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Kamelya Çayı 500 gr"
-date:   2022-02-04 21:27:44 +0300
+date:   2022-02-04 23:09:18 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-500-gr-9a74.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-02-05 0:27:44
+Son Güncelleme: 2022-02-05 2:09:18
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-500-gr-9a74.jpg" width="200" alt="Çaykur Kamelya Çayı 500 gr" />
 
@@ -34,6 +34,10 @@ Marka: Çaykur
               <td>24,90 TL</td>
               <td><a target="_blank" href="https://www.happycenter.com.tr/Caykur_500_Gr_Cay_Kamelya">satın al</a></td>
             </tr><tr>
+              <td>CarrefourSA</td>
+              <td>24,90 TL</td>
+              <td><a target="_blank" href="https://www.carrefoursa.com/caykur-kamelya-cayi-500-g-p-30018810">satın al</a></td>
+            </tr><tr>
               <td>İste Gelsin</td>
               <td>24,90 TL</td>
               <td><a target="_blank" href="https://www.istegelsin.com/urun/caykur-kamelya-500-gr_CAY27-AD">satın al</a></td>
@@ -49,9 +53,5 @@ Marka: Çaykur
               <td>Kim</td>
               <td>27,49 TL</td>
               <td><a target="_blank" href="https://www.kimgeldi.com/caykur-kamelya-cay-500-gr">satın al</a></td>
-            </tr><tr>
-              <td>CarrefourSA</td>
-              <td>99,90 TL</td>
-              <td><a target="_blank" href="https://www.carrefoursa.com/diyet-ve-dogal-urunler/c/1938" class="" id="sm-16440094375537017-40" aria-haspopup="true" aria-controls="category-1938" aria-expanded="false">satın al</a></td>
             </tr>
 </table>
