@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Johnson's Baby Şampuan 750 ml"
-date:   2022-02-04 23:50:28 +0300
+date:   2022-02-05 8:10:23 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/johnsons-baby-sampuan-750-ml-78f6.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-02-05 2:50:28
+Son Güncelleme: 2022-02-05 11:10:23
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/johnsons-baby-sampuan-750-ml-78f6.jpg" width="200" alt="Johnson's Baby Şampuan 750 ml" />
 

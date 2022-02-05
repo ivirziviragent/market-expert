@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Kamelya Çayı 1000 gr"
-date:   2022-02-04 23:54:42 +0300
+date:   2022-02-05 8:14:37 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-1000-gr-f72f.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-02-05 2:54:42
+Son Güncelleme: 2022-02-05 11:14:37
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-1000-gr-f72f.jpg" width="200" alt="Çaykur Kamelya Çayı 1000 gr" />
 
