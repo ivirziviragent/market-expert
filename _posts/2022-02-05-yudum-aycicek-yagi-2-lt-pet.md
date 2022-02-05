@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Yudum Ayçiçek Yağı 2 lt Pet"
-date:   2022-02-05 8:52:55 +0300
+date:   2022-02-05 9:03:18 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-2-lt-6bab.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-02-05 11:52:55
+Son Güncelleme: 2022-02-05 12:03:18
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-2-lt-6bab.jpg" width="200" alt="Yudum Ayçiçek Yağı 2 lt Pet" />
 
@@ -22,6 +22,10 @@ Marka: Yudum
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td>Onur Market</td>
+              <td>54,99 TL</td>
+              <td><a target="_blank" href="https://www.onurmarket.com/product/yudum-aycicek-2lt/1aac416a-9865-4eb2-bb8b-da48c0f9c4f5">satın al</a></td>
+            </tr><tr>
               <td>CarrefourSA</td>
               <td>58,90 TL</td>
               <td><a target="_blank" href="https://www.carrefoursa.com/yudum-aycicek-yagi-2-lt-pet-p-30099933">satın al</a></td>
@@ -45,9 +49,5 @@ Marka: Yudum
               <td>Migros</td>
               <td>89,50 TL</td>
               <td><a target="_blank" href="https://www.migros.com.tr/yudum-ziyafet-aycicek-yagi-2-l-pet-p-3f668e">satın al</a></td>
-            </tr><tr>
-              <td>Onur Market</td>
-              <td></td>
-              <td><a target="_blank" href="https://www.onurmarket.com/product/yudum-aycicek-2lt/1aac416a-9865-4eb2-bb8b-da48c0f9c4f5">satın al</a></td>
             </tr>
 </table>
