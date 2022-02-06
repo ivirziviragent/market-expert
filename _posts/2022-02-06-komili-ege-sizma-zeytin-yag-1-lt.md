@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Komili Ege Sızma Zeytin Yağ 1 lt"
-date:   2022-02-06 8:31:38 +0300
+date:   2022-02-06 9:48:23 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/komili-sizma-zeytinyagi-1-lt-bb4f5f.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-02-06 11:31:38
+Son Güncelleme: 2022-02-06 12:48:23
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/komili-sizma-zeytinyagi-1-lt-bb4f5f.jpg" width="200" alt="Komili Ege Sızma Zeytin Yağ 1 lt" />
 
