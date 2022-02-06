@@ -1,7 +1,7 @@
 name: "Market Fiyatlarını Karşılaştır"
 description: "Gıda, Temizlik, Kozmetik ve diğer temel ürünlerin fiyatlarını burada karşılaştırabilirsiniz."
 
-url: '' 
+url: 'https://www.marketlerikarsilastir.com'
 baseurl: ''
 permalink: :categories/:title
 
@@ -15,6 +15,7 @@ kramdown:
 
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 paginate: 10
 paginate_path: /page-:num
 
