@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Doğuş Karadeniz Siyah Filiz Çayı 1000 G"
-date:   2022-02-06 7:46:17 +0300
+date:   2022-02-06 8:25:27 +0300
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/3111650/3111650-65cdb2-1650x1650.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-02-06 10:46:17
+Son Güncelleme: 2022-02-06 11:25:27
 
 <img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/3111650/3111650-65cdb2-1650x1650.jpg" width="200" alt="Doğuş Karadeniz Siyah Filiz Çayı 1000 G" />
 
@@ -26,6 +26,10 @@ Marka: Doğuş
               <td>34,95 TL</td>
               <td><a target="_blank" href="https://www.cagri.com/dogus-karadeniz-siyah-filiz-cay-1000-gr">satın al</a></td>
             </tr><tr>
+              <td>Onur Market</td>
+              <td>36,99 TL</td>
+              <td><a target="_blank" href="https://www.onurmarket.com/product/dogus-cay-siyah-filiz-1000-gr/118d2f0a-5b9b-42a4-8669-e824fedd4de4">satın al</a></td>
+            </tr><tr>
               <td>Migros</td>
               <td>38,95 TL</td>
               <td><a target="_blank" href="https://www.migros.com.tr/dogus-filiz-cayi-1000-g-p-2f7ae2">satın al</a></td>
@@ -33,9 +37,5 @@ Marka: Doğuş
               <td>A101</td>
               <td>39,50 TL</td>
               <td><a target="_blank" href="https://www.a101.com.tr/market/dogus-cay-filiz-1000-g/">satın al</a></td>
-            </tr><tr>
-              <td>Onur Market</td>
-              <td></td>
-              <td><a target="_blank" href="https://www.onurmarket.com/product/dogus-cay-siyah-filiz-1000-gr/118d2f0a-5b9b-42a4-8669-e824fedd4de4">satın al</a></td>
             </tr>
 </table>
