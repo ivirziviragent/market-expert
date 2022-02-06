@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Doğuş Karadeniz Siyah Filiz Çayı 1000 G"
-date:   2022-02-05 10:09:19 +0300
+date:   2022-02-06 7:46:17 +0300
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/3111650/3111650-65cdb2-1650x1650.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-02-05 13:09:19
+Son Güncelleme: 2022-02-06 10:46:17
 
 <img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/3111650/3111650-65cdb2-1650x1650.jpg" width="200" alt="Doğuş Karadeniz Siyah Filiz Çayı 1000 G" />
 
