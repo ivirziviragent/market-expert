@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Doğal Kaymaksız Yoğurt 2000 g"
-date:   2022-02-07 21:50:55 +0300
+date:   2022-02-08 20:37:21 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-dogal-yogurt-2-kg-fa2-bb.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-02-08 0:50:55
+Son Güncelleme: 2022-02-08 23:37:21
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-dogal-yogurt-2-kg-fa2-bb.jpg" width="200" alt="İçim Doğal Kaymaksız Yoğurt 2000 g" />
 
@@ -22,13 +22,17 @@ Marka: İçim
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td>Çağrı Market</td>
-              <td>23,95 TL</td>
-              <td><a target="_blank" href="https://www.cagri.com/icim-dogal-yogurt-2-kg">satın al</a></td>
-            </tr><tr>
               <td>Migros</td>
               <td>23,95 TL</td>
               <td><a target="_blank" href="https://www.migros.com.tr/icim-kaymaksiz-yogurt-2000-g-p-bec403">satın al</a></td>
+            </tr><tr>
+              <td>Mopaş</td>
+              <td>23,99 TL</td>
+              <td><a target="_blank" href="https://www.mopas.com.tr/icim-dogal-yogurt-2000-gr/p/670365">satın al</a></td>
+            </tr><tr>
+              <td>Çağrı Market</td>
+              <td>25,95 TL</td>
+              <td><a target="_blank" href="https://www.cagri.com/icim-dogal-yogurt-2-kg">satın al</a></td>
             </tr><tr>
               <td>CarrefourSA</td>
               <td>26,95 TL</td>
@@ -37,9 +41,5 @@ Marka: İçim
               <td>Kim</td>
               <td></td>
               <td><a target="_blank" href="https://www.kimgeldi.com/icim-yogurt-2000-gr-dogal-kaymaksiz">satın al</a></td>
-            </tr><tr>
-              <td>Mopaş</td>
-              <td>23,99 TL</td>
-              <td><a target="_blank" href="https://www.mopas.com.tr/icim-dogal-yogurt-2000-gr/p/670365">satın al</a></td>
             </tr>
 </table>

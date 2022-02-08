@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Komili Ege Sızma Zeytin Yağ 1 lt"
-date:   2022-02-07 21:47:37 +0300
+date:   2022-02-08 20:34:01 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/komili-sizma-zeytinyagi-1-lt-bb4f5f.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-02-08 0:47:37
+Son Güncelleme: 2022-02-08 23:34:01
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/komili-sizma-zeytinyagi-1-lt-bb4f5f.jpg" width="200" alt="Komili Ege Sızma Zeytin Yağ 1 lt" />
 
@@ -22,6 +22,10 @@ Marka: Komili
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td>CarrefourSA</td>
+              <td>13,40 TL</td>
+              <td><a target="_blank" href="https://www.carrefoursa.com/camasir-yikama-urunleri/c/1627?sort=bestSeller&amp;sortingOption=bestSeller&amp;q=%3Arelevance%3AinStockFlag%3Atrue%3AdiscountFlag%3Atrue#">satın al</a></td>
+            </tr><tr>
               <td>Migros</td>
               <td>59,90 TL</td>
               <td><a target="_blank" href="https://www.migros.com.tr/komili-naturel-sizma-zeytinyagi-yumusak-lezzet-1-l-p-3f1231">satın al</a></td>
@@ -45,9 +49,5 @@ Marka: Komili
               <td>İste Gelsin</td>
               <td>91,95 TL</td>
               <td><a target="_blank" href="https://www.istegelsin.com/urun/komili-sizma-zeytinyagi-1-l_BNG2-AD">satın al</a></td>
-            </tr><tr>
-              <td>CarrefourSA</td>
-              <td>92,90 TL</td>
-              <td><a target="_blank" href="https://www.carrefoursa.com/camasir-yikama-urunleri/c/1627?sort=bestSeller&amp;sortingOption=bestSeller&amp;q=%3Arelevance%3AinStockFlag%3Atrue%3AdiscountFlag%3Atrue#">satın al</a></td>
             </tr>
 </table>
