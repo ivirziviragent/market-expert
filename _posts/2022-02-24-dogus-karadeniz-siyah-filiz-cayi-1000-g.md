@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Doğuş Karadeniz Siyah Filiz Çayı 1000 G fiyatları"
-date:   2022-02-23 23:08:00 +0300
+title:  "Doğuş Karadeniz Siyah Filiz Çayı 1000 G"
+date:   2022-02-23 23:37:06 +0300
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/3111650/3111650-65cdb2-1650x1650.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-02-24 2:08:00
+Son Güncelleme: 2022-02-24 2:37:06
 
-<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/3111650/3111650-65cdb2-1650x1650.jpg" width="200" alt="Doğuş Karadeniz Siyah Filiz Çayı 1000 G fiyatları" />
+<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/3111650/3111650-65cdb2-1650x1650.jpg" width="200" alt="Doğuş Karadeniz Siyah Filiz Çayı 1000 G market fiyatları" />
 
 Kategori: Çay, Kahve
 <br />

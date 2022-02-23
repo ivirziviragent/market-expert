@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Sütaş Tereyağ Yayık 250 gr fiyatları"
-date:   2022-02-23 23:19:56 +0300
+title:  "Sütaş Tereyağ Yayık 250 gr"
+date:   2022-02-23 23:47:29 +0300
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/12010211/12010211-d8c7c1-1650x1650.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-02-24 2:19:56
+Son Güncelleme: 2022-02-24 2:47:29
 
-<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/12010211/12010211-d8c7c1-1650x1650.jpg" width="200" alt="Sütaş Tereyağ Yayık 250 gr fiyatları" />
+<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/12010211/12010211-d8c7c1-1650x1650.jpg" width="200" alt="Sütaş Tereyağ Yayık 250 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />

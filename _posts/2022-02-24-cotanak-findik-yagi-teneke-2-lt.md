@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Çotanak Fındık Yağı Teneke 2 lt fiyatları"
-date:   2022-02-23 23:18:11 +0300
+title:  "Çotanak Fındık Yağı Teneke 2 lt"
+date:   2022-02-23 23:45:44 +0300
 image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2e/hfd/8895581552670/127642_0_521Wx521H
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-02-24 2:18:11
+Son Güncelleme: 2022-02-24 2:45:44
 
-<img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2e/hfd/8895581552670/127642_0_521Wx521H" width="200" alt="Çotanak Fındık Yağı Teneke 2 lt fiyatları" />
+<img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2e/hfd/8895581552670/127642_0_521Wx521H" width="200" alt="Çotanak Fındık Yağı Teneke 2 lt market fiyatları" />
 
 Kategori: Gıda, Şekerleme
 <br />

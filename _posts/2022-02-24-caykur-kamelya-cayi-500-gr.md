@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Çaykur Kamelya Çayı 500 gr fiyatları"
-date:   2022-02-23 23:14:40 +0300
+title:  "Çaykur Kamelya Çayı 500 gr"
+date:   2022-02-23 23:43:51 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-500-gr-9a74.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-02-24 2:14:40
+Son Güncelleme: 2022-02-24 2:43:51
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-500-gr-9a74.jpg" width="200" alt="Çaykur Kamelya Çayı 500 gr fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-500-gr-9a74.jpg" width="200" alt="Çaykur Kamelya Çayı 500 gr market fiyatları" />
 
 Kategori: Çay, Kahve
 <br />
