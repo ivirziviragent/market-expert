@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Asperox Sarı Güç Sprey 1 lt"
-date:   2022-02-23 22:41:47 +0300
+title:  "Asperox Sarı Güç Sprey 1 lt fiyatları"
+date:   2022-02-23 23:12:01 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-02-24 1:41:47
+Son Güncelleme: 2022-02-24 2:12:01
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg" width="200" alt="Asperox Sarı Güç Sprey 1 lt" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg" width="200" alt="Asperox Sarı Güç Sprey 1 lt fiyatları" />
 
 Kategori: Deterjan, Temizlik
 <br />

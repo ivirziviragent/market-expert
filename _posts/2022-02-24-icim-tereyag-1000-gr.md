@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "İçim Tereyağ 1000 gr"
-date:   2022-02-23 22:47:06 +0300
+title:  "İçim Tereyağ 1000 gr fiyatları"
+date:   2022-02-23 23:19:36 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-tereyag-1000-gr-f90-fd.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-02-24 1:47:06
+Son Güncelleme: 2022-02-24 2:19:36
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/icim-tereyag-1000-gr-f90-fd.jpg" width="200" alt="İçim Tereyağ 1000 gr" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/icim-tereyag-1000-gr-f90-fd.jpg" width="200" alt="İçim Tereyağ 1000 gr fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
