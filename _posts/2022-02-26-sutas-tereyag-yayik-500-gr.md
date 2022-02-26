@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Tereyağ Yayık 500 gr"
-date:   2022-02-26 14:08:15 +0300
+date:   2022-02-26 19:00:17 +0300
 image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/he3/h12/8797351018526/824_0_521Wx521H
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-02-26 17:08:15
+Son Güncelleme: 2022-02-26 22:00:17
 
 <img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/he3/h12/8797351018526/824_0_521Wx521H" width="200" alt="Sütaş Tereyağ Yayık 500 gr market fiyatları" />
 
