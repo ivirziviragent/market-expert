@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Johnson's Bebek Şampuanı 200 Ml"
-date:   2022-02-25 22:14:18 +0300
+date:   2022-02-26 13:38:41 +0300
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/31600031/31600031-488cae-1650x1650.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-02-26 1:14:18
+Son Güncelleme: 2022-02-26 16:38:41
 
 <img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/31600031/31600031-488cae-1650x1650.jpg" width="200" alt="Johnson's Bebek Şampuanı 200 Ml market fiyatları" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Balparmak Süzme Çiçek Balı 850 g"
-date:   2022-02-25 22:13:04 +0300
+date:   2022-02-26 13:37:24 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/balparmak-suzme-cicek-bali-850-gr-b86e.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-02-26 1:13:04
+Son Güncelleme: 2022-02-26 16:37:24
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/balparmak-suzme-cicek-bali-850-gr-b86e.jpg" width="200" alt="Balparmak Süzme Çiçek Balı 850 g market fiyatları" />
 
@@ -27,7 +27,7 @@ Marka: Balparmak
               <td><a target="_blank" href="https://www.showsanal.com/product/balparmak-bal-cicek-suzme-850-gr/d9c32956-4a2f-4a2c-b6dd-a5c1fe0e9634">satın al</a></td>
             </tr><tr>
               <td>Happy Center</td>
-              <td>84,07 TL</td>
+              <td>84,95 TL</td>
               <td><a target="_blank" href="https://www.happycenter.com.tr/Product/?product_id=15264">satın al</a></td>
             </tr><tr>
               <td>Onur Market</td>
