@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  "İçim Taze Kaşar 400 Gr"
-date:   2022-03-05 8:33:29 +0300
-image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h11/h56/8799877201950/104912_0_521Wx521H
-categories: gida-sekerleme
-tags: gida-sekerleme
+date:   2022-03-05 13:52:38 +0300
+image: https://www.kimgeldi.com//images/thumbs/0013957_icim-taze-kasar-peyniri-400-gr-_510.jpeg
+categories: sut-kahvaltilik
+tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-05 11:33:29
+Son Güncelleme: 2022-03-05 16:52:38
 
-<img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h11/h56/8799877201950/104912_0_521Wx521H" width="200" alt="İçim Taze Kaşar 400 Gr market fiyatları" />
+<img src="https://www.kimgeldi.com//images/thumbs/0013957_icim-taze-kasar-peyniri-400-gr-_510.jpeg" width="200" alt="İçim Taze Kaşar 400 Gr market fiyatları" />
 
-Kategori: Gıda, Şekerleme
+Kategori: Süt, Kahvaltılık
 <br />
 Marka: İçim
 

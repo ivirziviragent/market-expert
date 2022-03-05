@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  "Sütaş Eski Kaşar 350 gr"
-date:   2022-03-05 8:30:37 +0300
+date:   2022-03-05 13:49:45 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-eski-kasar-350-gr-6be9.jpg
-categories: gida-sekerleme
-tags: gida-sekerleme
+categories: sut-kahvaltilik
+tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-05 11:30:37
+Son Güncelleme: 2022-03-05 16:49:45
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-eski-kasar-350-gr-6be9.jpg" width="200" alt="Sütaş Eski Kaşar 350 gr market fiyatları" />
 
-Kategori: Gıda, Şekerleme
+Kategori: Süt, Kahvaltılık
 <br />
 Marka: Sütaş
 
@@ -29,10 +29,6 @@ Marka: Sütaş
               <td>Kalafatlar</td>
               <td>54,95 TL</td>
               <td><a target="_blank" href="https://www.kalafatlar.com/urun/sutas-eski-kasar-350-gr">satın al</a></td>
-            </tr><tr>
-              <td>Showmar</td>
-              <td>54,95 TL</td>
-              <td><a target="_blank" href="https://www.showmar.com.tr/urun/sutas-eski-kasar-350gr">satın al</a></td>
             </tr><tr>
               <td>Kalafatlar</td>
               <td>54,95 TL</td>
@@ -53,5 +49,9 @@ Marka: Sütaş
               <td>Market Paketi</td>
               <td>64,99 TL</td>
               <td><a target="_blank" href="https://www.marketpaketi.com.tr/sutas-eski-kasar-peyniri-350-gr-p-548527">satın al</a></td>
+            </tr><tr>
+              <td>Showmar</td>
+              <td></td>
+              <td><a target="_blank" href="https://www.showmar.com.tr/urun/sutas-eski-kasar-350gr">satın al</a></td>
             </tr>
 </table>

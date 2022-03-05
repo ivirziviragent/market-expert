@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  "İçim Taze Kaşar 600 gr"
-date:   2022-03-05 8:33:04 +0300
-image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h0c/h15/8826657243166/751626_0_521Wx521H
-categories: gida-sekerleme
-tags: gida-sekerleme
+date:   2022-03-05 13:52:13 +0300
+image: https://www.kimgeldi.com//images/thumbs/0018159_icim-taze-kasar-peyniri-600-gr_510.jpeg
+categories: sut-kahvaltilik
+tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-05 11:33:04
+Son Güncelleme: 2022-03-05 16:52:13
 
-<img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h0c/h15/8826657243166/751626_0_521Wx521H" width="200" alt="İçim Taze Kaşar 600 gr market fiyatları" />
+<img src="https://www.kimgeldi.com//images/thumbs/0018159_icim-taze-kasar-peyniri-600-gr_510.jpeg" width="200" alt="İçim Taze Kaşar 600 gr market fiyatları" />
 
-Kategori: Gıda, Şekerleme
+Kategori: Süt, Kahvaltılık
 <br />
 Marka: İçim
 
@@ -38,10 +38,6 @@ Marka: İçim
               <td>45,15 TL</td>
               <td><a target="_blank" href="https://www.kimgeldi.com/icim-taze-kasar-peyniri-600-gr">satın al</a></td>
             </tr><tr>
-              <td>Showmar</td>
-              <td>46,95 TL</td>
-              <td><a target="_blank" href="https://www.showmar.com.tr/urun/icim-t-kasar-600gr">satın al</a></td>
-            </tr><tr>
               <td>Happy Center</td>
               <td>47,95 TL</td>
               <td><a target="_blank" href="https://www.happycenter.com.tr/icim-kasar-peynir-600-gr">satın al</a></td>
@@ -53,5 +49,9 @@ Marka: İçim
               <td>Market Paketi</td>
               <td>49,99 TL</td>
               <td><a target="_blank" href="https://www.marketpaketi.com.tr/icim-taze-kasar-600-gr-p-543420">satın al</a></td>
+            </tr><tr>
+              <td>Showmar</td>
+              <td></td>
+              <td><a target="_blank" href="https://www.showmar.com.tr/urun/icim-t-kasar-600gr">satın al</a></td>
             </tr>
 </table>

@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  "Teksüt Kaşar Peynir 400 gr"
-date:   2022-03-05 8:32:23 +0300
+date:   2022-03-05 13:51:31 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-400-gr-352d.jpg
-categories: gida-sekerleme
-tags: gida-sekerleme
+categories: sut-kahvaltilik
+tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-05 11:32:23
+Son Güncelleme: 2022-03-05 16:51:31
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-400-gr-352d.jpg" width="200" alt="Teksüt Kaşar Peynir 400 gr market fiyatları" />
 
-Kategori: Gıda, Şekerleme
+Kategori: Süt, Kahvaltılık
 <br />
 Marka: Teksüt
 

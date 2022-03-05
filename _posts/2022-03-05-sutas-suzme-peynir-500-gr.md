@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  "Sütaş Süzme Peynir 500 gr"
-date:   2022-03-05 8:28:27 +0300
+date:   2022-03-05 13:47:29 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-suzme-peynir-500-gr-d746.jpg
-categories: gida-sekerleme
-tags: gida-sekerleme
+categories: sut-kahvaltilik
+tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-05 11:28:27
+Son Güncelleme: 2022-03-05 16:47:29
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-suzme-peynir-500-gr-d746.jpg" width="200" alt="Sütaş Süzme Peynir 500 gr market fiyatları" />
 
-Kategori: Gıda, Şekerleme
+Kategori: Süt, Kahvaltılık
 <br />
 Marka: Sütaş
 

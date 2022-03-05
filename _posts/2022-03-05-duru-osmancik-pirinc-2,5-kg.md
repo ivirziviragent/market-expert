@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Duru Osmancık Pirinç 2,5 kg"
-date:   2022-03-05 8:26:43 +0300
+date:   2022-03-05 13:44:39 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/duru-osmancik-pirinc-25-kg-d2f8.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-03-05 11:26:43
+Son Güncelleme: 2022-03-05 16:44:39
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/duru-osmancik-pirinc-25-kg-d2f8.jpg" width="200" alt="Duru Osmancık Pirinç 2,5 kg market fiyatları" />
 
@@ -34,12 +34,12 @@ Marka: Duru Bakliyat
               <td>58,83 TL</td>
               <td><a target="_blank" href="https://www.happycenter.com.tr/Duru_2500_Gr_Bkl_Pirinc_Osmancik_">satın al</a></td>
             </tr><tr>
-              <td>Show Market</td>
-              <td>61,99 TL</td>
-              <td><a target="_blank" href="https://www.showsanal.com/product/duru-pirinc-osmancik-2500-gr/8ef7f515-9189-451c-82c7-b23cb1130398">satın al</a></td>
-            </tr><tr>
               <td>Market Paketi</td>
               <td>64,50 TL</td>
               <td><a target="_blank" href="https://www.marketpaketi.com.tr/duru-bakliyat-osmancik-pilavlik-pirinc-25-kg-p-549399">satın al</a></td>
+            </tr><tr>
+              <td>Show Market</td>
+              <td></td>
+              <td><a target="_blank" href="https://www.showsanal.com/product/duru-pirinc-osmancik-2500-gr/8ef7f515-9189-451c-82c7-b23cb1130398">satın al</a></td>
             </tr>
 </table>

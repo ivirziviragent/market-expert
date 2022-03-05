@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Duru Baldo Pirinç 2.5 kg"
-date:   2022-03-05 8:26:57 +0300
+date:   2022-03-05 13:45:55 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/duru-baldo-pirinc-2.5-kg-9374.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-03-05 11:26:57
+Son Güncelleme: 2022-03-05 16:45:55
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/duru-baldo-pirinc-2.5-kg-9374.jpg" width="200" alt="Duru Baldo Pirinç 2.5 kg market fiyatları" />
 
@@ -23,7 +23,7 @@ Marka: Duru Bakliyat
   </tr>
   <tr>
               <td>Çağrı Market</td>
-              <td>51,95 TL</td>
+              <td>58,95 TL</td>
               <td><a target="_blank" href="https://www.cagri.com/duru-baldo-pirinc-2.5-kg">satın al</a></td>
             </tr><tr>
               <td>Happy Center</td>

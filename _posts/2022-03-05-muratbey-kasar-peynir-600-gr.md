@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  "Muratbey Kaşar Peynir 600 gr"
-date:   2022-03-05 8:31:05 +0300
+date:   2022-03-05 13:50:13 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/muratbey-kasar-peynir-600-gr-d8b1.jpg
-categories: gida-sekerleme
-tags: gida-sekerleme
+categories: sut-kahvaltilik
+tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-05 11:31:05
+Son Güncelleme: 2022-03-05 16:50:13
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/muratbey-kasar-peynir-600-gr-d8b1.jpg" width="200" alt="Muratbey Kaşar Peynir 600 gr market fiyatları" />
 
-Kategori: Gıda, Şekerleme
+Kategori: Süt, Kahvaltılık
 <br />
 Marka: Murat Bey
 
@@ -38,10 +38,6 @@ Marka: Murat Bey
               <td>59,95 TL</td>
               <td><a target="_blank" href="https://www.carrefoursa.com/muratbey-taze-kasar-peyniri-600-g-p-30112082">satın al</a></td>
             </tr><tr>
-              <td>Showmar</td>
-              <td>59,95 TL</td>
-              <td><a target="_blank" href="https://www.showmar.com.tr/urun/muratbey-t-kasar-600gr">satın al</a></td>
-            </tr><tr>
               <td>Kalafatlar</td>
               <td>69,90 TL</td>
               <td><a target="_blank" href="https://www.kalafatlar.com/urun/muratbey-kasar-peyniri-600-gr">satın al</a></td>
@@ -49,5 +45,9 @@ Marka: Murat Bey
               <td>Macro Center</td>
               <td>72,29 TL</td>
               <td><a target="_blank" href="https://www.macrocenter.com.tr/muratbey-taze-kasar-peyniri-600-g-p-9a3f62">satın al</a></td>
+            </tr><tr>
+              <td>Showmar</td>
+              <td></td>
+              <td><a target="_blank" href="https://www.showmar.com.tr/urun/muratbey-t-kasar-600gr">satın al</a></td>
             </tr>
 </table>

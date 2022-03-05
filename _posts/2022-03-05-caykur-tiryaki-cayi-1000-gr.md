@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Tiryaki Çayı 1000 gr"
-date:   2022-03-05 8:12:46 +0300
+date:   2022-03-05 13:30:31 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-1000-gr-0103.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-03-05 11:12:46
+Son Güncelleme: 2022-03-05 16:30:31
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-1000-gr-0103.jpg" width="200" alt="Çaykur Tiryaki Çayı 1000 gr market fiyatları" />
 
@@ -22,6 +22,10 @@ Marka: Çaykur
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td>Kalafatlar</td>
+              <td>41,90 TL</td>
+              <td><a target="_blank" href="https://www.kalafatlar.com/urun/caykur-tiryaki-cayi-1-kg">satın al</a></td>
+            </tr><tr>
               <td>Çağrı Market</td>
               <td>42,25 TL</td>
               <td><a target="_blank" href="https://www.cagri.com/caykur-tiryaki-cayi-1000-gr">satın al</a></td>
@@ -43,16 +47,12 @@ Marka: Çaykur
               <td><a target="_blank" href="https://www.carrefoursa.com/caykur-tiryaki-cayi-1000-g-p-30097422">satın al</a></td>
             </tr><tr>
               <td>Şok</td>
-              <td></td>
+              <td>42,50 TL</td>
               <td><a target="_blank" href="https://www.sokmarket.com.tr/tiryaki-cayi-1000-gr-p-2431/">satın al</a></td>
             </tr><tr>
               <td>İste Gelsin</td>
               <td></td>
               <td><a target="_blank" href="https://www.istegelsin.com/urun/caykur-tiryaki-cayi-1-kg_CAY15-AD">satın al</a></td>
-            </tr><tr>
-              <td>Kalafatlar</td>
-              <td>41,90 TL</td>
-              <td><a target="_blank" href="https://www.kalafatlar.com/urun/caykur-tiryaki-cayi-1-kg">satın al</a></td>
             </tr><tr>
               <td>Avansas</td>
               <td>42,22 TL</td>

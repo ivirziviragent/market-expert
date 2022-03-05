@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  "İçim Kaşar 1 kg"
-date:   2022-03-05 8:32:40 +0300
+date:   2022-03-05 13:51:50 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-kasar-kg-6804.jpg
-categories: gida-sekerleme
-tags: gida-sekerleme
+categories: sut-kahvaltilik
+tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-05 11:32:40
+Son Güncelleme: 2022-03-05 16:51:50
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-kasar-kg-6804.jpg" width="200" alt="İçim Kaşar 1 kg market fiyatları" />
 
-Kategori: Gıda, Şekerleme
+Kategori: Süt, Kahvaltılık
 <br />
 Marka: İçim
 
@@ -30,10 +30,6 @@ Marka: İçim
               <td>71,45 TL</td>
               <td><a target="_blank" href="https://www.cagri.com/icim-kasar-kg">satın al</a></td>
             </tr><tr>
-              <td>Showmar</td>
-              <td>74,40 TL</td>
-              <td><a target="_blank" href="https://www.showmar.com.tr/urun/icim-taze-kasar-kg">satın al</a></td>
-            </tr><tr>
               <td>Yunus Market</td>
               <td>74,50 TL</td>
               <td><a target="_blank" href="https://www.yunusonline.com/product/icim-kasar-1-kg/6dcd8665-2f83-4c6b-b16e-b91c4c37f66e">satın al</a></td>
@@ -49,5 +45,9 @@ Marka: İçim
               <td>İste Gelsin</td>
               <td></td>
               <td><a target="_blank" href="https://www.istegelsin.com/">satın al</a></td>
+            </tr><tr>
+              <td>Showmar</td>
+              <td></td>
+              <td><a target="_blank" href="https://www.showmar.com.tr/urun/icim-taze-kasar-kg">satın al</a></td>
             </tr>
 </table>

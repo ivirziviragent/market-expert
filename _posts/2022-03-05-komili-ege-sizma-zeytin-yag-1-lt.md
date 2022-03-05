@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Komili Ege Sızma Zeytin Yağ 1 lt"
-date:   2022-03-05 8:20:40 +0300
+date:   2022-03-05 13:38:17 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/komili-sizma-zeytinyagi-1-lt-bb4f5f.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-03-05 11:20:40
+Son Güncelleme: 2022-03-05 16:38:17
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/komili-sizma-zeytinyagi-1-lt-bb4f5f.jpg" width="200" alt="Komili Ege Sızma Zeytin Yağ 1 lt market fiyatları" />
 
@@ -34,13 +34,13 @@ Marka: Komili
               <td></td>
               <td><a target="_blank" href="https://www.onurmarket.com/product/komili-sizma-1-lt-pet/25251ee5-6cbe-4394-9e19-237b4e950a60">satın al</a></td>
             </tr><tr>
-              <td>CarrefourSA</td>
-              <td>13,40 TL</td>
-              <td><a target="_blank" href="https://www.carrefoursa.com/camasir-yikama-urunleri/c/1627?sort=bestSeller&amp;sortingOption=bestSeller&amp;q=%3Arelevance%3AinStockFlag%3Atrue%3AdiscountFlag%3Atrue#">satın al</a></td>
-            </tr><tr>
               <td>Happy Center</td>
               <td>74,72 TL</td>
               <td><a target="_blank" href="https://www.happycenter.com.tr/Komili_Y_zeytinyagi_Sizma_1_Lt">satın al</a></td>
+            </tr><tr>
+              <td>CarrefourSA</td>
+              <td></td>
+              <td><a target="_blank" href="https://www.carrefoursa.com/camasir-yikama-urunleri/c/1627?sort=bestSeller&amp;sortingOption=bestSeller&amp;q=%3Arelevance%3AinStockFlag%3Atrue%3AdiscountFlag%3Atrue#">satın al</a></td>
             </tr><tr>
               <td>Kim</td>
               <td>84,69 TL</td>
