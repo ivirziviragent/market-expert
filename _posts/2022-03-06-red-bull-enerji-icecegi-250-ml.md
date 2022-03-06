@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Red Bull Enerji İçeceği 250 ml"
-date:   2022-03-06 14:35:03 +0300
+date:   2022-03-06 20:24:20 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg
 categories: icecekler
 tags: icecekler
 ---
 
-Son Güncelleme: 2022-03-06 17:35:03
+Son Güncelleme: 2022-03-06 23:24:20
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg" width="200" alt="Red Bull Enerji İçeceği 250 ml market fiyatları" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Duru Osmancık Pirinç 2,5 kg"
-date:   2022-03-06 14:36:56 +0300
+date:   2022-03-06 20:26:11 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/duru-osmancik-pirinc-25-kg-d2f8.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-03-06 17:36:56
+Son Güncelleme: 2022-03-06 23:26:11
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/duru-osmancik-pirinc-25-kg-d2f8.jpg" width="200" alt="Duru Osmancık Pirinç 2,5 kg market fiyatları" />
 

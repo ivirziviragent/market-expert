@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Doğuş Karadeniz Çayı 1000 G"
-date:   2022-03-06 14:17:18 +0300
+date:   2022-03-06 20:06:14 +0300
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-03-06 17:17:18
+Son Güncelleme: 2022-03-06 23:06:14
 
 <img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg" width="200" alt="Doğuş Karadeniz Çayı 1000 G market fiyatları" />
 
