@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Kamelya Çayı 500 gr"
-date:   2022-03-06 8:13:38 +0300
+date:   2022-03-06 14:28:29 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-500-gr-9a74.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-03-06 11:13:38
+Son Güncelleme: 2022-03-06 17:28:29
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-500-gr-9a74.jpg" width="200" alt="Çaykur Kamelya Çayı 500 gr market fiyatları" />
 
@@ -42,6 +42,10 @@ Marka: Çaykur
               <td>23,28 TL</td>
               <td><a target="_blank" href="https://www.migros.com.tr/caykur-kamelya-cay-500-g-p-2f7988">satın al</a></td>
             </tr><tr>
+              <td>İste Gelsin</td>
+              <td>23,28 TL</td>
+              <td><a target="_blank" href="https://www.istegelsin.com/urun/caykur-kamelya-500-gr_CAY27-AD">satın al</a></td>
+            </tr><tr>
               <td>Hakmar</td>
               <td>24,10 TL</td>
               <td><a target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-caykur-kamelya-cayi-siyah-cay-500gr">satın al</a></td>
@@ -49,9 +53,5 @@ Marka: Çaykur
               <td>Kim</td>
               <td>25,85 TL</td>
               <td><a target="_blank" href="https://www.kimgeldi.com/caykur-kamelya-cay-500-gr">satın al</a></td>
-            </tr><tr>
-              <td>İste Gelsin</td>
-              <td></td>
-              <td><a target="_blank" href="https://www.istegelsin.com/urun/caykur-kamelya-500-gr_CAY27-AD">satın al</a></td>
             </tr>
 </table>

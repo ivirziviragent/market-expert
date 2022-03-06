@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Komili Ege Sızma Zeytin Yağ 1 lt"
-date:   2022-03-06 8:12:47 +0300
+date:   2022-03-06 14:27:06 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/komili-sizma-zeytinyagi-1-lt-bb4f5f.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-03-06 11:12:47
+Son Güncelleme: 2022-03-06 17:27:06
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/komili-sizma-zeytinyagi-1-lt-bb4f5f.jpg" width="200" alt="Komili Ege Sızma Zeytin Yağ 1 lt market fiyatları" />
 
@@ -22,6 +22,14 @@ Marka: Komili
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td>Onur Market</td>
+              <td>74,39 TL</td>
+              <td><a target="_blank" href="https://www.onurmarket.com/-komili-sizma-1-lt-pet--7589">satın al</a></td>
+            </tr><tr>
+              <td>Happy Center</td>
+              <td>74,72 TL</td>
+              <td><a target="_blank" href="https://www.happycenter.com.tr/Komili_Y_zeytinyagi_Sizma_1_Lt">satın al</a></td>
+            </tr><tr>
               <td>Çağrı Market</td>
               <td>79,90 TL</td>
               <td><a target="_blank" href="https://www.cagri.com/komili-sizma-zeytinyagi-1-lt">satın al</a></td>
@@ -29,14 +37,6 @@ Marka: Komili
               <td>Migros</td>
               <td>82,25 TL</td>
               <td><a target="_blank" href="https://www.migros.com.tr/komili-naturel-sizma-zeytinyagi-yumusak-lezzet-1-l-p-3f1231">satın al</a></td>
-            </tr><tr>
-              <td>Onur Market</td>
-              <td></td>
-              <td><a target="_blank" href="https://www.onurmarket.com/product/komili-sizma-1-lt-pet/25251ee5-6cbe-4394-9e19-237b4e950a60">satın al</a></td>
-            </tr><tr>
-              <td>Happy Center</td>
-              <td>74,72 TL</td>
-              <td><a target="_blank" href="https://www.happycenter.com.tr/Komili_Y_zeytinyagi_Sizma_1_Lt">satın al</a></td>
             </tr><tr>
               <td>CarrefourSA</td>
               <td></td>
@@ -47,7 +47,7 @@ Marka: Komili
               <td><a target="_blank" href="https://www.kimgeldi.com/komili-z-yagi-sizma-1-lt">satın al</a></td>
             </tr><tr>
               <td>İste Gelsin</td>
-              <td></td>
+              <td>85,00 TL</td>
               <td><a target="_blank" href="https://www.istegelsin.com/urun/komili-sizma-zeytinyagi-1-l_BNG2-AD">satın al</a></td>
             </tr>
 </table>

@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Sütaş Tereyağ Yayık 500 gr"
-date:   2022-03-06 8:16:03 +0300
-image: https://cdnd-tr.ceptesok.com/product/1000x1000/f7782_Geleneksel_Tereyag_500_Gr.jpg
+date:   2022-03-06 14:32:17 +0300
+image: https://www.kimgeldi.com/undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-06 11:16:03
+Son Güncelleme: 2022-03-06 17:32:17
 
-<img src="https://cdnd-tr.ceptesok.com/product/1000x1000/f7782_Geleneksel_Tereyag_500_Gr.jpg" width="200" alt="Sütaş Tereyağ Yayık 500 gr market fiyatları" />
+<img src="https://www.kimgeldi.com/undefined" width="200" alt="Sütaş Tereyağ Yayık 500 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -22,13 +22,17 @@ Marka: Sütaş
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td>Şok</td>
-              <td>46,70 TL</td>
-              <td><a target="_blank" href="https://www.sokmarket.com.tr/geleneksel-tereyag-500-gr-p-3601/">satın al</a></td>
-            </tr><tr>
               <td>CarrefourSA</td>
               <td>47,65 TL</td>
               <td><a target="_blank" href="https://www.carrefoursa.com/sutas-yayik-tereyagi-500-g-p-30076795">satın al</a></td>
+            </tr><tr>
+              <td>Kim</td>
+              <td></td>
+              <td><a target="_blank" href="https://www.kimgeldi.com/sutas-tereyag-yayik-500-gr">satın al</a></td>
+            </tr><tr>
+              <td>Şok</td>
+              <td>46,70 TL</td>
+              <td><a target="_blank" href="https://www.sokmarket.com.tr/geleneksel-tereyag-500-gr-p-3601/">satın al</a></td>
             </tr><tr>
               <td>Mopaş</td>
               <td>52,07 TL</td>

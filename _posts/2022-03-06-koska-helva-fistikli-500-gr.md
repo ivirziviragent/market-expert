@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Fıstıklı 500 gr"
-date:   2022-03-06 8:29:43 +0300
+date:   2022-03-06 14:58:36 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-500-gr-f131.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-06 11:29:43
+Son Güncelleme: 2022-03-06 17:58:36
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-500-gr-f131.jpg" width="200" alt="Koska Helva Fıstıklı 500 gr market fiyatları" />
 
@@ -38,9 +38,9 @@ Marka: Koska
               <td>46,68 TL</td>
               <td><a target="_blank" href="https://www.happycenter.com.tr/Koska_500_Gr_Helva_Antep_Fistikli">satın al</a></td>
             </tr><tr>
-              <td>Yunus Market</td>
-              <td>48,28 TL</td>
-              <td><a target="_blank" href="https://www.yunusonline.com/product/koska-helva-fistikli-500-gr/e7b915c5-0166-47cc-bbcc-226f5ccddd3c">satın al</a></td>
+              <td>Showmar</td>
+              <td>49,95 TL</td>
+              <td><a target="_blank" href="https://www.showmar.com.tr/urun/koska-helva-fistikli-500gr">satın al</a></td>
             </tr><tr>
               <td>CarrefourSA</td>
               <td>50,90 TL</td>
@@ -50,16 +50,16 @@ Marka: Koska
               <td>50,92 TL</td>
               <td><a target="_blank" href="https://www.migros.com.tr/koska-fistikli-helva-paket-500-g-p-6c0856">satın al</a></td>
             </tr><tr>
-              <td>İste Gelsin</td>
-              <td></td>
-              <td><a target="_blank" href="https://www.istegelsin.com/urun/koska-fistikli-helva-500-gr_KSK15-AD">satın al</a></td>
-            </tr><tr>
               <td>Macro Center</td>
               <td>50,92 TL</td>
               <td><a target="_blank" href="https://www.macrocenter.com.tr/koska-fistikli-helva-paket-500-g-p-6c0856">satın al</a></td>
             </tr><tr>
-              <td>Showmar</td>
+              <td>İste Gelsin</td>
+              <td>51,75 TL</td>
+              <td><a target="_blank" href="https://www.istegelsin.com/urun/koska-fistikli-helva-500-gr_KSK15-AD">satın al</a></td>
+            </tr><tr>
+              <td>Yunus Market</td>
               <td></td>
-              <td><a target="_blank" href="https://www.showmar.com.tr/urun/koska-helva-fistikli-500gr">satın al</a></td>
+              <td><a target="_blank" href="https://www.yunusonline.com/product/koska-helva-fistikli-500-gr/e7b915c5-0166-47cc-bbcc-226f5ccddd3c">satın al</a></td>
             </tr>
 </table>

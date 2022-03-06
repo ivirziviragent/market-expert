@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Fıstıklı 200 gr"
-date:   2022-03-06 8:31:04 +0300
+date:   2022-03-06 15:00:50 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-200-gr-5a52.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-06 11:31:04
+Son Güncelleme: 2022-03-06 18:00:50
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-200-gr-5a52.jpg" width="200" alt="Koska Helva Fıstıklı 200 gr market fiyatları" />
 
@@ -42,6 +42,10 @@ Marka: Koska
               <td>20,45 TL</td>
               <td><a target="_blank" href="https://www.kimgeldi.com/koska-helva-200-gr-fistikli">satın al</a></td>
             </tr><tr>
+              <td>Showmar</td>
+              <td>20,65 TL</td>
+              <td><a target="_blank" href="https://www.showmar.com.tr/urun/koska-helva-fistikli-200gr">satın al</a></td>
+            </tr><tr>
               <td>Migros</td>
               <td>20,80 TL</td>
               <td><a target="_blank" href="https://www.migros.com.tr/koska-fistikli-helva-paket-200-g-p-6c085b">satın al</a></td>
@@ -53,9 +57,5 @@ Marka: Koska
               <td>Macro Center</td>
               <td>20,80 TL</td>
               <td><a target="_blank" href="https://www.macrocenter.com.tr/koska-fistikli-helva-paket-200-g-p-6c085b">satın al</a></td>
-            </tr><tr>
-              <td>Showmar</td>
-              <td></td>
-              <td><a target="_blank" href="https://www.showmar.com.tr/urun/koska-helva-fistikli-200gr">satın al</a></td>
             </tr>
 </table>

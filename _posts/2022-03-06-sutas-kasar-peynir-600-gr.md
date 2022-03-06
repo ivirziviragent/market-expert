@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Kaşar Peynir 600 gr"
-date:   2022-03-06 8:22:18 +0300
+date:   2022-03-06 14:46:06 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-600-gr-9fb4.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-06 11:22:18
+Son Güncelleme: 2022-03-06 17:46:06
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-600-gr-9fb4.jpg" width="200" alt="Sütaş Kaşar Peynir 600 gr market fiyatları" />
 
@@ -22,6 +22,10 @@ Marka: Sütaş
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td>Showmar</td>
+              <td>41,80 TL</td>
+              <td><a target="_blank" href="https://www.showmar.com.tr/urun/sutas-t-kasar-600-gr">satın al</a></td>
+            </tr><tr>
               <td>Çağrı Market</td>
               <td>42,00 TL</td>
               <td><a target="_blank" href="https://www.cagri.com/sutas-kasar-peynir-600-gr">satın al</a></td>
@@ -49,9 +53,5 @@ Marka: Sütaş
               <td>Market Paketi</td>
               <td>52,90 TL</td>
               <td><a target="_blank" href="https://www.marketpaketi.com.tr/sutas-kasar-peyniri-600-gr-p-548528">satın al</a></td>
-            </tr><tr>
-              <td>Showmar</td>
-              <td></td>
-              <td><a target="_blank" href="https://www.showmar.com.tr/urun/sutas-t-kasar-600-gr">satın al</a></td>
             </tr>
 </table>

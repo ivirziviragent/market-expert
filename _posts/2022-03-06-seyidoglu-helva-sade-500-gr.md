@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Sade 500 gr"
-date:   2022-03-06 8:26:21 +0300
+date:   2022-03-06 14:53:04 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-sade-500-gr-b4bb.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-06 11:26:21
+Son Güncelleme: 2022-03-06 17:53:04
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-sade-500-gr-b4bb.jpg" width="200" alt="Seyidoğlu Helva Sade 500 gr market fiyatları" />
 
@@ -43,7 +43,7 @@ Marka: Seyidoğlu
               <td><a target="_blank" href="https://www.mopas.com.tr/seyidoglu-sade-helva-500-gr/p/106200">satın al</a></td>
             </tr><tr>
               <td>Showmar</td>
-              <td></td>
+              <td>28,65 TL</td>
               <td><a target="_blank" href="https://www.showmar.com.tr/urun/seyidoglu-helva-500gr-sade">satın al</a></td>
             </tr>
 </table>

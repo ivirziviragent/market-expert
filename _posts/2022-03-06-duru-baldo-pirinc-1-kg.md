@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Duru Baldo Pirinç 1 kg"
-date:   2022-03-06 8:19:30 +0300
+date:   2022-03-06 14:37:53 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/duru-baldo-pirinc-1-kg-b5f2.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-03-06 11:19:30
+Son Güncelleme: 2022-03-06 17:37:53
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/duru-baldo-pirinc-1-kg-b5f2.jpg" width="200" alt="Duru Baldo Pirinç 1 kg market fiyatları" />
 
@@ -37,5 +37,9 @@ Marka: Duru Bakliyat
               <td>Happy Center</td>
               <td>27,06 TL</td>
               <td><a target="_blank" href="https://www.happycenter.com.tr/Duru_1000_Gr_Bkl_Pirinc_Baldo">satın al</a></td>
+            </tr><tr>
+              <td>Bizim Toptan</td>
+              <td></td>
+              <td><a target="_blank" href="https://www.bizimtoptan.com.tr/duru-baldo-pirinc-1-kg">satın al</a></td>
             </tr>
 </table>

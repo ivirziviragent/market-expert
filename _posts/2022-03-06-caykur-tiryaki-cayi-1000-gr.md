@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Tiryaki Çayı 1000 gr"
-date:   2022-03-06 8:05:15 +0300
+date:   2022-03-06 14:15:08 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-1000-gr-0103.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-03-06 11:05:15
+Son Güncelleme: 2022-03-06 17:15:08
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-1000-gr-0103.jpg" width="200" alt="Çaykur Tiryaki Çayı 1000 gr market fiyatları" />
 
@@ -26,6 +26,14 @@ Marka: Çaykur
               <td>41,90 TL</td>
               <td><a target="_blank" href="https://www.kalafatlar.com/urun/caykur-tiryaki-cayi-1-kg">satın al</a></td>
             </tr><tr>
+              <td>CarrefourSA</td>
+              <td>42,20 TL</td>
+              <td><a target="_blank" href="https://www.carrefoursa.com/caykur-tiryaki-cayi-1000-g-p-30097422">satın al</a></td>
+            </tr><tr>
+              <td>Avansas</td>
+              <td>42,22 TL</td>
+              <td><a target="_blank" href="https://www.avansas.com/caykur-tiryaki-cayi-1000-gr-p-50129">satın al</a></td>
+            </tr><tr>
               <td>Çağrı Market</td>
               <td>42,25 TL</td>
               <td><a target="_blank" href="https://www.cagri.com/caykur-tiryaki-cayi-1000-gr">satın al</a></td>
@@ -38,25 +46,13 @@ Marka: Çaykur
               <td>42,25 TL</td>
               <td><a target="_blank" href="https://www.a101.com.tr/market/caykur-tiryaki-cayi-1000-gr/">satın al</a></td>
             </tr><tr>
-              <td>Onur Market</td>
-              <td></td>
-              <td><a target="_blank" href="https://www.onurmarket.com/product/caykur-tiryaki-1000-gr/3f32bbfc-1763-41fb-9b98-6072034cdc07">satın al</a></td>
-            </tr><tr>
-              <td>CarrefourSA</td>
-              <td>42,20 TL</td>
-              <td><a target="_blank" href="https://www.carrefoursa.com/caykur-tiryaki-cayi-1000-g-p-30097422">satın al</a></td>
-            </tr><tr>
               <td>Şok</td>
               <td>42,50 TL</td>
               <td><a target="_blank" href="https://www.sokmarket.com.tr/tiryaki-cayi-1000-gr-p-2431/">satın al</a></td>
             </tr><tr>
               <td>İste Gelsin</td>
-              <td></td>
+              <td>42,50 TL</td>
               <td><a target="_blank" href="https://www.istegelsin.com/urun/caykur-tiryaki-cayi-1-kg_CAY15-AD">satın al</a></td>
-            </tr><tr>
-              <td>Avansas</td>
-              <td>42,22 TL</td>
-              <td><a target="_blank" href="https://www.avansas.com/caykur-tiryaki-cayi-1000-gr-p-50129">satın al</a></td>
             </tr><tr>
               <td>Hakmar</td>
               <td>42,50 TL</td>

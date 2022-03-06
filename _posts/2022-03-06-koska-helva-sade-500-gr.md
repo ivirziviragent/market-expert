@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Sade 500 gr"
-date:   2022-03-06 8:28:34 +0300
+date:   2022-03-06 14:56:49 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-500-gr-18f2.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-06 11:28:34
+Son Güncelleme: 2022-03-06 17:56:49
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-500-gr-18f2.jpg" width="200" alt="Koska Helva Sade 500 gr market fiyatları" />
 
@@ -42,24 +42,28 @@ Marka: Koska
               <td>31,75 TL</td>
               <td><a target="_blank" href="https://www.sokmarket.com.tr/tahin-helvasi-sade-500-gr-p-2506/">satın al</a></td>
             </tr><tr>
+              <td>Macro Center</td>
+              <td>31,75 TL</td>
+              <td><a target="_blank" href="https://www.macrocenter.com.tr/koska-sade-helva-paket-500-g-p-6c0854">satın al</a></td>
+            </tr><tr>
+              <td>İste Gelsin</td>
+              <td>32,50 TL</td>
+              <td><a target="_blank" href="https://www.istegelsin.com/urun/koska-sade-helva-500-gr_KSK13-AD">satın al</a></td>
+            </tr><tr>
               <td>CarrefourSA</td>
               <td>32,65 TL</td>
               <td><a target="_blank" href="https://www.carrefoursa.com/koska-sade-helva-500-g-paket-p-30090805">satın al</a></td>
             </tr><tr>
-              <td>İste Gelsin</td>
-              <td></td>
-              <td><a target="_blank" href="https://www.istegelsin.com/urun/koska-sade-helva-500-gr_KSK13-AD">satın al</a></td>
-            </tr><tr>
-              <td>Macro Center</td>
-              <td>31,75 TL</td>
-              <td><a target="_blank" href="https://www.macrocenter.com.tr/koska-sade-helva-paket-500-g-p-6c0854">satın al</a></td>
+              <td>Showmar</td>
+              <td>33,50 TL</td>
+              <td><a target="_blank" href="https://www.showmar.com.tr/urun/koska-helva-sade-500gr">satın al</a></td>
             </tr><tr>
               <td>Market Paketi</td>
               <td>34,90 TL</td>
               <td><a target="_blank" href="https://www.marketpaketi.com.tr/koska-tahin-helvasi-sade-500-gr-p-547667">satın al</a></td>
             </tr><tr>
-              <td>Showmar</td>
+              <td>Bizim Toptan</td>
               <td></td>
-              <td><a target="_blank" href="https://www.showmar.com.tr/urun/koska-helva-sade-500gr">satın al</a></td>
+              <td><a target="_blank" href="https://www.bizimtoptan.com.tr/koska-helva-sade-500-g">satın al</a></td>
             </tr>
 </table>

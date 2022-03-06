@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Cevizli 350 gr"
-date:   2022-03-06 8:27:58 +0300
+date:   2022-03-06 14:55:45 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-cevizli-350-gr--78dd4.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-06 11:27:58
+Son Güncelleme: 2022-03-06 17:55:45
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-cevizli-350-gr--78dd4.jpg" width="200" alt="Seyidoğlu Helva Cevizli 350 gr market fiyatları" />
 
@@ -30,6 +30,10 @@ Marka: Seyidoğlu
               <td>14,95 TL</td>
               <td><a target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-kahvaltilik-seyidoglu-cevizli-ve-bademli-yaz-helvasi-350-gr-vakumlu-paket">satın al</a></td>
             </tr><tr>
+              <td>İste Gelsin</td>
+              <td>15,75 TL</td>
+              <td><a target="_blank" href="https://www.istegelsin.com/urun/seyidoglu-cevizli-helva-350-gr_SEY10-AD">satın al</a></td>
+            </tr><tr>
               <td>Mopaş</td>
               <td>15,99 TL</td>
               <td><a target="_blank" href="https://www.mopas.com.tr/seyidoglu-helva-cevizli-350-gr/p/638637">satın al</a></td>
@@ -45,9 +49,5 @@ Marka: Seyidoğlu
               <td>Kim</td>
               <td>19,79 TL</td>
               <td><a target="_blank" href="https://www.kimgeldi.com/seyidoglu-350-gr--cevizli-yaz-helvasi">satın al</a></td>
-            </tr><tr>
-              <td>İste Gelsin</td>
-              <td></td>
-              <td><a target="_blank" href="https://www.istegelsin.com/urun/seyidoglu-cevizli-helva-350-gr_SEY10-AD">satın al</a></td>
             </tr>
 </table>

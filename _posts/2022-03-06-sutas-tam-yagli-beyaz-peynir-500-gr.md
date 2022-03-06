@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Tam Yağlı Beyaz Peynir 500 gr"
-date:   2022-03-06 8:24:01 +0300
+date:   2022-03-06 14:48:56 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-tam-yagli-beyaz-peynir-500-gr-4d75.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-06 11:24:01
+Son Güncelleme: 2022-03-06 17:48:56
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-tam-yagli-beyaz-peynir-500-gr-4d75.jpg" width="200" alt="Sütaş Tam Yağlı Beyaz Peynir 500 gr market fiyatları" />
 
@@ -38,14 +38,6 @@ Marka: Sütaş
               <td></td>
               <td><a target="_blank" href="https://www.istegelsin.com/">satın al</a></td>
             </tr><tr>
-              <td>Kalafatlar</td>
-              <td>13,95 TL</td>
-              <td><a target="_blank" href="https://www.kalafatlar.com/urun/sutas-tam-yagli-beyaz-peynir-250-gr">satın al</a></td>
-            </tr><tr>
-              <td>Yunus Market</td>
-              <td>23,45 TL</td>
-              <td><a target="_blank" href="https://www.yunusonline.com/product/sutas-tam-yagli-beyaz-peynir-500-gr/be622581-7b4c-4e90-b33f-8896705ceb12">satın al</a></td>
-            </tr><tr>
               <td>Mopaş</td>
               <td>26,96 TL</td>
               <td><a target="_blank" href="https://www.mopas.com.tr/sutas-tam-yagli-beyaz-peynir-500-gr/p/47790">satın al</a></td>
@@ -54,8 +46,16 @@ Marka: Sütaş
               <td>31,90 TL</td>
               <td><a target="_blank" href="https://www.marketpaketi.com.tr/sutas-tam-yagli-beyaz-peynir-500-gr-p-1021">satın al</a></td>
             </tr><tr>
-              <td>Showmar</td>
+              <td>Yunus Market</td>
               <td></td>
+              <td><a target="_blank" href="https://www.yunusonline.com/product/sutas-tam-yagli-beyaz-peynir-500-gr/be622581-7b4c-4e90-b33f-8896705ceb12">satın al</a></td>
+            </tr><tr>
+              <td>Kalafatlar</td>
+              <td>13,95 TL</td>
+              <td><a target="_blank" href="https://www.kalafatlar.com/urun/sutas-tam-yagli-beyaz-peynir-250-gr">satın al</a></td>
+            </tr><tr>
+              <td>Showmar</td>
+              <td>23,15 TL</td>
               <td><a target="_blank" href="https://www.showmar.com.tr/urun/sutas-b-peynir-500gr-pvc">satın al</a></td>
             </tr>
 </table>

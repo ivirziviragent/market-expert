@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Asperox Sarı Güç Sprey 1 lt"
-date:   2022-03-06 8:11:08 +0300
+date:   2022-03-06 14:24:32 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-03-06 11:11:08
+Son Güncelleme: 2022-03-06 17:24:32
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg" width="200" alt="Asperox Sarı Güç Sprey 1 lt market fiyatları" />
 
@@ -22,9 +22,17 @@ Marka: Asperox
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td>Onur Market</td>
+              <td>15,99 TL</td>
+              <td><a target="_blank" href="https://www.onurmarket.com/-asperox-sari-guc-1-lt-sprey--68235">satın al</a></td>
+            </tr><tr>
               <td>CarrefourSA</td>
               <td>16,90 TL</td>
               <td><a target="_blank" href="https://www.carrefoursa.com/asperox-sari-guc-1-lt-p-30285107">satın al</a></td>
+            </tr><tr>
+              <td>İste Gelsin</td>
+              <td>16,90 TL</td>
+              <td><a target="_blank" href="https://www.istegelsin.com/urun/asperox-sari-guc-sprey-1-l_PRS21-AD">satın al</a></td>
             </tr><tr>
               <td>Hakmar</td>
               <td>16,95 TL</td>
@@ -46,10 +54,6 @@ Marka: Asperox
               <td>19,90 TL</td>
               <td><a target="_blank" href="https://www.a101.com.tr/market/asperox-sari-guc-ultra-yag-cozucu-1-l/">satın al</a></td>
             </tr><tr>
-              <td>Onur Market</td>
-              <td></td>
-              <td><a target="_blank" href="https://www.onurmarket.com/product/asperox-sari-guc-1-lt-sprey/b30900fa-67df-4291-b1ec-bf06304889fc">satın al</a></td>
-            </tr><tr>
               <td>Şok</td>
               <td>19,90 TL</td>
               <td><a target="_blank" href="https://www.sokmarket.com.tr/sari-guc-1-lt-p-29102/">satın al</a></td>
@@ -61,9 +65,5 @@ Marka: Asperox
               <td>Happy Center</td>
               <td>19,95 TL</td>
               <td><a target="_blank" href="https://www.happycenter.com.tr/asperox-sari-guc-1lt-sprey12">satın al</a></td>
-            </tr><tr>
-              <td>İste Gelsin</td>
-              <td></td>
-              <td><a target="_blank" href="https://www.istegelsin.com/urun/asperox-sari-guc-sprey-1-l_PRS21-AD">satın al</a></td>
             </tr>
 </table>

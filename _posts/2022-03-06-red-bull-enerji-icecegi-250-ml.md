@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Red Bull Enerji İçeceği 250 ml"
-date:   2022-03-06 8:17:42 +0300
+date:   2022-03-06 14:35:03 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg
 categories: icecekler
 tags: icecekler
 ---
 
-Son Güncelleme: 2022-03-06 11:17:42
+Son Güncelleme: 2022-03-06 17:35:03
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg" width="200" alt="Red Bull Enerji İçeceği 250 ml market fiyatları" />
 
@@ -34,13 +34,13 @@ Marka: Red Bull
               <td>11,95 TL</td>
               <td><a target="_blank" href="https://www.a101.com.tr/market/red-bull-enerji-icecegi-250-ml/">satın al</a></td>
             </tr><tr>
-              <td>Onur Market</td>
-              <td></td>
-              <td><a target="_blank" href="https://www.onurmarket.com/product/red-bull-250-ml-sekersiz/caa93f1b-c13a-43c5-be5f-4734b49e1c83">satın al</a></td>
-            </tr><tr>
               <td>Happy Center</td>
               <td>11,95 TL</td>
               <td><a target="_blank" href="https://www.happycenter.com.tr/Red_Bull_250_Ml_Bule">satın al</a></td>
+            </tr><tr>
+              <td>Show Market</td>
+              <td></td>
+              <td><a target="_blank" href="https://www.showsanal.com/product/red-bull-enerji-icecegi-250-ml/76d6e1db-900f-45bc-8305-a84f5354eebd">satın al</a></td>
             </tr><tr>
               <td>CarrefourSA</td>
               <td>11,95 TL</td>
@@ -58,6 +58,14 @@ Marka: Red Bull
               <td>11,95 TL</td>
               <td><a target="_blank" href="https://www.mopas.com.tr/red-bull-sekeriz-250-ml/p/495457">satın al</a></td>
             </tr><tr>
+              <td>Kim</td>
+              <td>13,79 TL</td>
+              <td><a target="_blank" href="https://www.kimgeldi.com/red-bull-250-ml-sekersiz">satın al</a></td>
+            </tr><tr>
+              <td>İste Gelsin</td>
+              <td></td>
+              <td><a target="_blank" href="https://www.istegelsin.com/">satın al</a></td>
+            </tr><tr>
               <td>Macro Center</td>
               <td>11,95 TL</td>
               <td><a target="_blank" href="https://www.macrocenter.com.tr/red-bull-enerji-icecegi-250-ml-p-7bbfce">satın al</a></td>
@@ -65,18 +73,6 @@ Marka: Red Bull
               <td>Market Paketi</td>
               <td>12,90 TL</td>
               <td><a target="_blank" href="https://www.marketpaketi.com.tr/red-bull-enerji-icecegi-white-edition-250-ml-p-552763">satın al</a></td>
-            </tr><tr>
-              <td>Kim</td>
-              <td>13,79 TL</td>
-              <td><a target="_blank" href="https://www.kimgeldi.com/red-bull-250-ml-sekersiz">satın al</a></td>
-            </tr><tr>
-              <td>Show Market</td>
-              <td>13,99 TL</td>
-              <td><a target="_blank" href="https://www.showsanal.com/product/red-bull-enerji-icecegi-250-ml/76d6e1db-900f-45bc-8305-a84f5354eebd">satın al</a></td>
-            </tr><tr>
-              <td>İste Gelsin</td>
-              <td></td>
-              <td><a target="_blank" href="https://www.istegelsin.com/">satın al</a></td>
             </tr><tr>
               <td>Avansas</td>
               <td>14,06 TL</td>
