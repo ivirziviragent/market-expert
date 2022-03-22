@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Sütaş Tam Yağlı Beyaz Peynir 500 gr"
+date:   2022-03-22 15:19:48 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/sutas-tam-yagli-beyaz-peynir-500-gr-4d75.jpg
+categories: sut-kahvaltilik
+tags: sut-kahvaltilik
+---
+
+Son Güncelleme: 2022-03-22 18:19:48
+
+<img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-tam-yagli-beyaz-peynir-500-gr-4d75.jpg" width="200" alt="Sütaş Tam Yağlı Beyaz Peynir 500 gr market fiyatları" />
+
+Kategori: Süt, Kahvaltılık
+<br />
+Marka: Sütaş
+
+<table border="1" style="padding: 5px;width:80%;">
+  <tr>
+    <td style="padding: 5px;"><strong>Perakendeci</strong></td>
+    <td><strong>Fiyat</strong></td>
+    <td><strong>İşlem</strong></td>
+  </tr>
+  <tr>
+              <td title="Çağrı Market">Çağrı Market</td>
+              <td>23,45 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sutas-tam-yagli-beyaz-peynir-500-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Happy Center">Happy Center</td>
+              <td>23,45 TL</td>
+              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Sutas_Tam_Yagli_Beyaz_Peynir_500_Gr">satın al</a></td>
+            </tr><tr>
+              <td title="Şok">Şok</td>
+              <td>25,20 TL</td>
+              <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/tam-yagli-beyaz-peynir-500-gr-p-3639/">satın al</a></td>
+            </tr><tr>
+              <td title="İste Gelsin">İste Gelsin</td>
+              <td>-</td>
+              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/">satın al</a></td>
+            </tr><tr>
+              <td title="Kalafatlar">Kalafatlar</td>
+              <td>13,95 TL</td>
+              <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/sutas-tam-yagli-beyaz-peynir-250-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Showmar">Showmar</td>
+              <td>23,15 TL</td>
+              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/sutas-b-peynir-500gr-pvc">satın al</a></td>
+            </tr><tr>
+              <td title="Yunus Market">Yunus Market</td>
+              <td>23,45 TL</td>
+              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/sutas-tam-yagli-beyaz-peynir-500-gr/be622581-7b4c-4e90-b33f-8896705ceb12">satın al</a></td>
+            </tr><tr>
+              <td title="Mopaş">Mopaş</td>
+              <td>27,99 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/sutas-tam-yagli-beyaz-peynir-500-gr/p/47790">satın al</a></td>
+            </tr><tr>
+              <td title="Market Paketi">Market Paketi</td>
+              <td>31,90 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/sutas-tam-yagli-beyaz-peynir-500-gr-p-1021">satın al</a></td>
+            </tr>
+</table>
