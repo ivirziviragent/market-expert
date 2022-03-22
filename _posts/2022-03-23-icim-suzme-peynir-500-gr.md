@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Süzme Peynir 500 gr"
-date:   2022-03-22 23:12:03 +0300
+date:   2022-03-22 23:12:57 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-suzme-peynir-500-gr-bc-473.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-23 2:12:03
+Son Güncelleme: 2022-03-23 2:12:57
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-suzme-peynir-500-gr-bc-473.jpg" width="200" alt="İçim Süzme Peynir 500 gr market fiyatları" />
 
@@ -25,10 +25,6 @@ Marka: İçim
               <td title="Çağrı Market">Çağrı Market</td>
               <td>20,75 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/icim-suzme-peynir-500-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Yunus Market">Yunus Market</td>
-              <td>20,95 TL</td>
-              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/icim-suzme-peynir-500-gr/3fb1d34f-e572-4792-896d-05bd79b5cdc6">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">Mopaş</td>
               <td>21,99 TL</td>
@@ -65,5 +61,9 @@ Marka: İçim
               <td title="Market Paketi">Market Paketi</td>
               <td>26,45 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/icim-suzme-beyaz-peynir-500-gr-p-543417">satın al</a></td>
+            </tr><tr>
+              <td title="Yunus Market">Yunus Market</td>
+              <td>-</td>
+              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/icim-suzme-peynir-500-gr/3fb1d34f-e572-4792-896d-05bd79b5cdc6">satın al</a></td>
             </tr>
 </table>

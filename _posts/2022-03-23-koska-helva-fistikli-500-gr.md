@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Fıstıklı 500 gr"
-date:   2022-03-22 23:17:16 +0300
+date:   2022-03-22 23:18:07 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-500-gr-f131.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-23 2:17:16
+Son Güncelleme: 2022-03-23 2:18:07
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-500-gr-f131.jpg" width="200" alt="Koska Helva Fıstıklı 500 gr market fiyatları" />
 
@@ -25,6 +25,10 @@ Marka: Koska
               <td title="CarrefourSA">CarrefourSA</td>
               <td>42,95 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/koska-fistikli-helva-paket-500-g-p-30090806">satın al</a></td>
+            </tr><tr>
+              <td title="Yunus Market">Yunus Market</td>
+              <td>44,90 TL</td>
+              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/koska-helva-fistikli-500-gr/e7b915c5-0166-47cc-bbcc-226f5ccddd3c">satın al</a></td>
             </tr><tr>
               <td title="Kalafatlar">Kalafatlar</td>
               <td>45,45 TL</td>
@@ -57,9 +61,5 @@ Marka: Koska
               <td title="Kim">Kim</td>
               <td>53,89 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/koska-helva-500-gr-fistikli">satın al</a></td>
-            </tr><tr>
-              <td title="Yunus Market">Yunus Market</td>
-              <td>-</td>
-              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/koska-helva-fistikli-500-gr/e7b915c5-0166-47cc-bbcc-226f5ccddd3c">satın al</a></td>
             </tr>
 </table>
