@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Doğuş Karadeniz Çayı 1000 G"
+date:   2022-03-22 22:31:21 +0300
+image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg
+categories: cay-kahve
+tags: cay-kahve
+---
+
+Son Güncelleme: 2022-03-23 1:31:21
+
+<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg" width="200" alt="Doğuş Karadeniz Çayı 1000 G market fiyatları" />
+
+Kategori: Çay, Kahve
+<br />
+Marka: Doğuş
+
+<table border="1" style="padding: 5px;width:80%;">
+  <tr>
+    <td style="padding: 5px;"><strong>Perakendeci</strong></td>
+    <td><strong>Fiyat</strong></td>
+    <td><strong>İşlem</strong></td>
+  </tr>
+  <tr>
+              <td title="Çağrı Market">Çağrı Market</td>
+              <td>39,75 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/dogus-karadeniz-cayi-1000-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Showmar">Showmar</td>
+              <td>41,80 TL</td>
+              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/dogus-cay-karadeniz-1000gr">satın al</a></td>
+            </tr><tr>
+              <td title="Mopaş">Mopaş</td>
+              <td>41,95 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/dogus-filiz-cay-siyah-1000-gr/p/77416">satın al</a></td>
+            </tr><tr>
+              <td title="Migros">Migros</td>
+              <td>45,90 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/dogus-karadeniz-cayi-1000-g-p-2f947e">satın al</a></td>
+            </tr><tr>
+              <td title="Macro Center">Macro Center</td>
+              <td>45,90 TL</td>
+              <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/dogus-karadeniz-cayi-1000-g-p-2f947e">satın al</a></td>
+            </tr>
+</table>

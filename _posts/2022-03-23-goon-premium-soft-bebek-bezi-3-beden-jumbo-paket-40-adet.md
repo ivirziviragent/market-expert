@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Goon Premium Soft Bebek Bezi 3 Beden Jumbo Paket 40 Adet"
-date:   2022-03-22 21:15:13 +0300
-image: undefined
+date:   2022-03-22 23:32:47 +0300
+image: https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/4902011855920_3.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-03-23 0:15:13
+Son Güncelleme: 2022-03-23 2:32:47
 
-<img src="undefined" width="200" alt="Goon Premium Soft Bebek Bezi 3 Beden Jumbo Paket 40 Adet market fiyatları" />
+<img src="https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/4902011855920_3.jpg" width="200" alt="Goon Premium Soft Bebek Bezi 3 Beden Jumbo Paket 40 Adet market fiyatları" />
 
 Kategori: Bebek
 <br />
@@ -21,5 +21,21 @@ Marka: Goon
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Hepsiburada/Metropol Mağazası">METROPOL - HB</td>
+              <td>65,00 TL</td>
+              <td><a title="Hepsiburada/Metropol Mağazası" target="_blank" href="https://www.hepsiburada.com/goon-premium-soft-bebek-bezi-3-beden-jumbo-paket-40-adet-p-HBV00000AW482?magaza=Metropol">satın al</a></td>
+            </tr><tr>
+              <td title="E-Bebek">E-Bebek</td>
+              <td>79,99 TL</td>
+              <td><a title="E-Bebek" target="_blank" href="https://www.e-bebek.com/goon-bebek-bezi-premium-soft-3-beden-jumbo-paket-40-adet-7-12-kg-p-gon-5920/">satın al</a></td>
+            </tr><tr>
+              <td title="Hepsiburada/ebebek Mağazası">ebebek - HB</td>
+              <td>79,99 TL</td>
+              <td><a title="Hepsiburada/ebebek Mağazası" target="_blank" href="https://www.hepsiburada.com/goon-premium-soft-bebek-bezi-3-beden-jumbo-paket-40-adet-p-HBV00000AW482?magaza=ebebek">satın al</a></td>
+            </tr><tr>
+              <td title="Hepsiburada/Ekmelgross Mağazası">EKMELGROSS - HB</td>
+              <td>119,90 TL</td>
+              <td><a title="Hepsiburada/Ekmelgross Mağazası" target="_blank" href="https://www.hepsiburada.com/goon-premium-soft-bebek-bezi-3-beden-jumbo-paket-40-adet-p-HBV00000AW482?magaza=Ekmelgross">satın al</a></td>
+            </tr>
 </table>

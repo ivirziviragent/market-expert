@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Prima Bebek Bezi 2 Beden Süper Fırsat Paketi 124 Adet"
-date:   2022-03-22 21:15:13 +0300
-image: undefined
+date:   2022-03-22 23:31:29 +0300
+image: https://productimages.hepsiburada.net/s/19/550/9832025456690.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-03-23 0:15:13
+Son Güncelleme: 2022-03-23 2:31:29
 
-<img src="undefined" width="200" alt="Prima Bebek Bezi 2 Beden Süper Fırsat Paketi 124 Adet market fiyatları" />
+<img src="https://productimages.hepsiburada.net/s/19/550/9832025456690.jpg" width="200" alt="Prima Bebek Bezi 2 Beden Süper Fırsat Paketi 124 Adet market fiyatları" />
 
 Kategori: Bebek
 <br />
@@ -21,5 +21,9 @@ Marka: Prima
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Hepsiburada/Metic Mağazası">METİC - HB</td>
+              <td>289,80 TL</td>
+              <td><a title="Hepsiburada/Metic Mağazası" target="_blank" href="https://www.hepsiburada.com/prima-bebek-bezi-yeni-bebek-2-beden-mini-super-firsat-paketi-124-adet-p-HBV000004U967?magaza=Metic">satın al</a></td>
+            </tr>
 </table>
