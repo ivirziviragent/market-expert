@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Kebir Köy Tipi Yoğurt 1 kg"
-date:   2022-03-22 22:50:06 +0300
-image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/hce/h14/8801526513694/319327_0_521Wx521H
+date:   2022-03-23 6:16:25 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/kebir-koy-tipi-yogurt-1-kg-6a98-d.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-23 1:50:06
+Son Güncelleme: 2022-03-23 9:16:25
 
-<img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/hce/h14/8801526513694/319327_0_521Wx521H" width="200" alt="Kebir Köy Tipi Yoğurt 1 kg market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/kebir-koy-tipi-yogurt-1-kg-6a98-d.jpg" width="200" alt="Kebir Köy Tipi Yoğurt 1 kg market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -22,6 +22,10 @@ Marka: Kebir
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Çağrı Market">Çağrı Market</td>
+              <td>14,75 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/kebir-koy-tipi-yogurt-1-kg">satın al</a></td>
+            </tr><tr>
               <td title="Mopaş">Mopaş</td>
               <td>15,99 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/kebir-yogurt-1-kg/p/319327">satın al</a></td>

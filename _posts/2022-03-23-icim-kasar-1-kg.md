@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Kaşar 1 kg"
-date:   2022-03-22 23:08:43 +0300
+date:   2022-03-23 6:47:58 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-kasar-kg-6804.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-23 2:08:43
+Son Güncelleme: 2022-03-23 9:47:58
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-kasar-kg-6804.jpg" width="200" alt="İçim Kaşar 1 kg market fiyatları" />
 
@@ -30,13 +30,13 @@ Marka: İçim
               <td>74,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/icim-kasar-kg">satın al</a></td>
             </tr><tr>
+              <td title="Yunus Market">Yunus Market</td>
+              <td>78,90 TL</td>
+              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/icim-kasar-1-kg/6dcd8665-2f83-4c6b-b16e-b91c4c37f66e">satın al</a></td>
+            </tr><tr>
               <td title="Kim">Kim</td>
               <td>79,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/icim-taze-kasar-blok-kg">satın al</a></td>
-            </tr><tr>
-              <td title="Showmar">Showmar</td>
-              <td>84,95 TL</td>
-              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/icim-taze-kasar-kg">satın al</a></td>
             </tr><tr>
               <td title="Show Market">Show Market</td>
               <td>94,99 TL</td>
@@ -46,8 +46,8 @@ Marka: İçim
               <td>-</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/">satın al</a></td>
             </tr><tr>
-              <td title="Yunus Market">Yunus Market</td>
-              <td>-</td>
-              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/icim-kasar-1-kg/6dcd8665-2f83-4c6b-b16e-b91c4c37f66e">satın al</a></td>
+              <td title="Showmar">Showmar</td>
+              <td>84,95 TL</td>
+              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/icim-taze-kasar-kg">satın al</a></td>
             </tr>
 </table>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Süzme Peynir 500 gr"
-date:   2022-03-22 23:12:57 +0300
+date:   2022-03-23 6:51:31 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-suzme-peynir-500-gr-bc-473.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-23 2:12:57
+Son Güncelleme: 2022-03-23 9:51:31
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-suzme-peynir-500-gr-bc-473.jpg" width="200" alt="İçim Süzme Peynir 500 gr market fiyatları" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Tiryaki Çayı 1000 gr"
-date:   2022-03-22 22:30:03 +0300
+date:   2022-03-23 6:00:18 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-1000-gr-0103.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-03-23 1:30:03
+Son Güncelleme: 2022-03-23 9:00:18
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-1000-gr-0103.jpg" width="200" alt="Çaykur Tiryaki Çayı 1000 gr market fiyatları" />
 
@@ -22,14 +22,6 @@ Marka: Çaykur
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Çağrı Market">Çağrı Market</td>
-              <td>39,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/caykur-tiryaki-cayi-1000-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Migros">Migros</td>
-              <td>-</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/caykur-tiryaki-cayi-1000-g-p-2f7993">satın al</a></td>
-            </tr><tr>
               <td title="CarrefourSA">CarrefourSA</td>
               <td>39,15 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/caykur-tiryaki-cayi-1000-g-p-30097422">satın al</a></td>
@@ -37,6 +29,14 @@ Marka: Çaykur
               <td title="Kalafatlar">Kalafatlar</td>
               <td>39,45 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/caykur-tiryaki-cayi-1-kg">satın al</a></td>
+            </tr><tr>
+              <td title="Çağrı Market">Çağrı Market</td>
+              <td>39,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/caykur-tiryaki-cayi-1000-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Migros">Migros</td>
+              <td>39,95 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/caykur-tiryaki-cayi-1000-g-p-2f7993">satın al</a></td>
             </tr><tr>
               <td title="Avansas">Avansas</td>
               <td>42,22 TL</td>
