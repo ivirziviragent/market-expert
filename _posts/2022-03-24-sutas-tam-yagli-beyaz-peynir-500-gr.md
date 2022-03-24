@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Tam Yağlı Beyaz Peynir 500 gr"
-date:   2022-03-24 8:57:03 +0300
+date:   2022-03-24 9:15:28 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-tam-yagli-beyaz-peynir-500-gr-4d75.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-24 11:57:03
+Son Güncelleme: 2022-03-24 12:15:28
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-tam-yagli-beyaz-peynir-500-gr-4d75.jpg" width="200" alt="Sütaş Tam Yağlı Beyaz Peynir 500 gr market fiyatları" />
 
@@ -34,10 +34,6 @@ Marka: Sütaş
               <td>23,45 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sutas-tam-yagli-beyaz-peynir-500-gr">satın al</a></td>
             </tr><tr>
-              <td title="Yunus Market">Yunus Market</td>
-              <td>23,45 TL</td>
-              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/sutas-tam-yagli-beyaz-peynir-500-gr/be622581-7b4c-4e90-b33f-8896705ceb12">satın al</a></td>
-            </tr><tr>
               <td title="Şok">Şok</td>
               <td>25,20 TL</td>
               <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/tam-yagli-beyaz-peynir-500-gr-p-3639/">satın al</a></td>
@@ -57,5 +53,9 @@ Marka: Sütaş
               <td title="Market Paketi">Market Paketi</td>
               <td>31,90 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/sutas-tam-yagli-beyaz-peynir-500-gr-p-1021">satın al</a></td>
+            </tr><tr>
+              <td title="Yunus Market">Yunus Market</td>
+              <td>-</td>
+              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/sutas-tam-yagli-beyaz-peynir-500-gr/be622581-7b4c-4e90-b33f-8896705ceb12">satın al</a></td>
             </tr>
 </table>
