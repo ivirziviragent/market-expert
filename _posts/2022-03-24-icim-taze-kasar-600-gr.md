@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Taze Kaşar 600 gr"
-date:   2022-03-24 9:18:12 +0300
+date:   2022-03-24 20:53:45 +0300
 image: https://www.kimgeldi.com//images/thumbs/0018159_icim-taze-kasar-peyniri-600-gr_510.jpeg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-24 12:18:12
+Son Güncelleme: 2022-03-24 23:53:45
 
 <img src="https://www.kimgeldi.com//images/thumbs/0018159_icim-taze-kasar-peyniri-600-gr_510.jpeg" width="200" alt="İçim Taze Kaşar 600 gr market fiyatları" />
 
@@ -26,17 +26,17 @@ Marka: İçim
               <td>39,99 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/icim-kasar-600-gr/p/751626">satın al</a></td>
             </tr><tr>
-              <td title="Kalafatlar">Kalafatlar</td>
-              <td>42,90 TL</td>
-              <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/ulker-icim-kasar-600-gr-k-ulker-3264">satın al</a></td>
+              <td title="Kim">Kim</td>
+              <td>42,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/icim-taze-kasar-peyniri-600-gr">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CarrefourSA</td>
               <td>44,85 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/icim-kasar-peyniri-600-g-p-30220678">satın al</a></td>
             </tr><tr>
-              <td title="Kim">Kim</td>
-              <td>45,15 TL</td>
-              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/icim-taze-kasar-peyniri-600-gr">satın al</a></td>
+              <td title="Kalafatlar">Kalafatlar</td>
+              <td>45,90 TL</td>
+              <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/ulker-icim-kasar-600-gr-k-ulker-3264">satın al</a></td>
             </tr><tr>
               <td title="Happy Center">Happy Center</td>
               <td>47,95 TL</td>

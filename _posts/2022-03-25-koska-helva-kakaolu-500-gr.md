@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Kakaolu 500 gr"
-date:   2022-03-24 9:26:00 +0300
+date:   2022-03-24 21:00:29 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-kakaolu-500-gr-b950.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-24 12:26:00
+Son Güncelleme: 2022-03-25 0:00:29
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-kakaolu-500-gr-b950.jpg" width="200" alt="Koska Helva Kakaolu 500 gr market fiyatları" />
 
@@ -58,6 +58,10 @@ Marka: Koska
               <td>32,50 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/koska-kakaolu-helva-500-gr_KSK14-AD">satın al</a></td>
             </tr><tr>
+              <td title="Kim">Kim</td>
+              <td>32,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/koska-helva-500-gr-kakaolu">satın al</a></td>
+            </tr><tr>
               <td title="Showmar">Showmar</td>
               <td>33,50 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/koska-helva-kakaolu-500gr">satın al</a></td>
@@ -65,9 +69,5 @@ Marka: Koska
               <td title="Market Paketi">Market Paketi</td>
               <td>34,90 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/koska-tahin-helvasi-kakaolu-500-gr-p-547666">satın al</a></td>
-            </tr><tr>
-              <td title="Kim">Kim</td>
-              <td>36,29 TL</td>
-              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/koska-helva-500-gr-kakaolu">satın al</a></td>
             </tr>
 </table>

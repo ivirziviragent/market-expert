@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Muratbey Kaşar Peynir 600 gr"
-date:   2022-03-24 9:13:41 +0300
+date:   2022-03-24 20:50:25 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/muratbey-kasar-peynir-600-gr-d8b1.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-24 12:13:41
+Son Güncelleme: 2022-03-24 23:50:25
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/muratbey-kasar-peynir-600-gr-d8b1.jpg" width="200" alt="Muratbey Kaşar Peynir 600 gr market fiyatları" />
 
@@ -23,7 +23,7 @@ Marka: Murat Bey
   </tr>
   <tr>
               <td title="Kim">Kim</td>
-              <td>52,49 TL</td>
+              <td>49,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/muratbey-taze-kasar-600-gr">satın al</a></td>
             </tr><tr>
               <td title="Çağrı Market">Çağrı Market</td>

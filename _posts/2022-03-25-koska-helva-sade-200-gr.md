@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Sade 200 gr"
-date:   2022-03-24 9:28:50 +0300
+date:   2022-03-24 21:02:50 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-200-gr-a9f6.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-24 12:28:50
+Son Güncelleme: 2022-03-25 0:02:50
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-200-gr-a9f6.jpg" width="200" alt="Koska Helva Sade 200 gr market fiyatları" />
 
@@ -34,17 +34,17 @@ Marka: Koska
               <td>12,50 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/koska-sade-helva-200-gr">satın al</a></td>
             </tr><tr>
-              <td title="Mopaş">Mopaş</td>
-              <td>12,99 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/koska-sade-helva-200-gr/p/93095">satın al</a></td>
-            </tr><tr>
               <td title="Çağrı Market">Çağrı Market</td>
               <td>13,45 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-sade-200-gr">satın al</a></td>
             </tr><tr>
               <td title="Happy Center">Happy Center</td>
-              <td>13,45 TL</td>
+              <td>-</td>
               <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Koska_200_Gr_Helva_Sade">satın al</a></td>
+            </tr><tr>
+              <td title="Mopaş">Mopaş</td>
+              <td>12,99 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/koska-sade-helva-200-gr/p/93095">satın al</a></td>
             </tr><tr>
               <td title="Showmar">Showmar</td>
               <td>13,65 TL</td>
@@ -54,12 +54,12 @@ Marka: Koska
               <td>13,79 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/koska-sade-helva-paket-200-g-p-6c0859">satın al</a></td>
             </tr><tr>
+              <td title="Kim">Kim</td>
+              <td>13,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/koska-helva-200-gr-sade">satın al</a></td>
+            </tr><tr>
               <td title="İste Gelsin">İste Gelsin</td>
               <td>14,25 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/koska-sade-helva-200-gr_KSK8-AD">satın al</a></td>
-            </tr><tr>
-              <td title="Kim">Kim</td>
-              <td>15,39 TL</td>
-              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/koska-helva-200-gr-sade">satın al</a></td>
             </tr>
 </table>
