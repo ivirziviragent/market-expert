@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Yudum Ayçiçek Yağı 1 Lt"
-date:   2022-03-24 6:23:43 +0300
+date:   2022-03-24 8:47:59 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-03-24 9:23:43
+Son Güncelleme: 2022-03-24 11:47:59
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg" width="200" alt="Yudum Ayçiçek Yağı 1 Lt market fiyatları" />
 
@@ -43,7 +43,7 @@ Marka: Yudum
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/yudum-aycicek-yagi-1-lt">satın al</a></td>
             </tr><tr>
               <td title="Happy Center">Happy Center</td>
-              <td>-</td>
+              <td>49,95 TL</td>
               <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Yudum_Y_aycicek_Yagi_1_Lt">satın al</a></td>
             </tr><tr>
               <td title="Show Market">Show Market</td>

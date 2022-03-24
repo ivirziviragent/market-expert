@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Red Bull Enerji İçeceği 250 ml"
-date:   2022-03-24 6:20:31 +0300
+date:   2022-03-24 8:43:40 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg
 categories: icecekler
 tags: icecekler
 ---
 
-Son Güncelleme: 2022-03-24 9:20:31
+Son Güncelleme: 2022-03-24 11:43:40
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg" width="200" alt="Red Bull Enerji İçeceği 250 ml market fiyatları" />
 
@@ -35,7 +35,7 @@ Marka: Red Bull
               <td><a title="A101" target="_blank" href="https://www.a101.com.tr/market/red-bull-enerji-icecegi-250-ml/">satın al</a></td>
             </tr><tr>
               <td title="Happy Center">Happy Center</td>
-              <td>-</td>
+              <td>11,95 TL</td>
               <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Red_Bull_250_Ml_Bule">satın al</a></td>
             </tr><tr>
               <td title="Show Market">Show Market</td>

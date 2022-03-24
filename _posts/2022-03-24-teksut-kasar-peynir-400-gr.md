@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Teksüt Kaşar Peynir 400 gr"
-date:   2022-03-24 6:31:34 +0300
+date:   2022-03-24 8:58:04 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-400-gr-352d.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-24 9:31:34
+Son Güncelleme: 2022-03-24 11:58:04
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-400-gr-352d.jpg" width="200" alt="Teksüt Kaşar Peynir 400 gr market fiyatları" />
 
@@ -22,13 +22,13 @@ Marka: Teksüt
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Happy Center">Happy Center</td>
+              <td>30,33 TL</td>
+              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Teksut_Kasar_Peynir_400_Gr">satın al</a></td>
+            </tr><tr>
               <td title="Çağrı Market">Çağrı Market</td>
               <td>32,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/teksut-kasar-peynir-400-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">Happy Center</td>
-              <td>-</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Teksut_Kasar_Peynir_400_Gr">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">Mopaş</td>
               <td>33,99 TL</td>

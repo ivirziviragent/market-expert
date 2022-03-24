@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Taze Kaşar 400 Gr"
-date:   2022-03-24 6:33:25 +0300
+date:   2022-03-24 9:00:24 +0300
 image: https://www.kimgeldi.com//images/thumbs/0013957_icim-taze-kasar-peyniri-400-gr-_510.jpeg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-24 9:33:25
+Son Güncelleme: 2022-03-24 12:00:24
 
 <img src="https://www.kimgeldi.com//images/thumbs/0013957_icim-taze-kasar-peyniri-400-gr-_510.jpeg" width="200" alt="İçim Taze Kaşar 400 Gr market fiyatları" />
 
@@ -22,10 +22,6 @@ Marka: İçim
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Happy Center">Happy Center</td>
-              <td>-</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Icim_Kasar_Peynir__500_Gr_">satın al</a></td>
-            </tr><tr>
               <td title="Macro Center">Macro Center</td>
               <td>30,64 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/icim-kasar-400-g-p-9a2959">satın al</a></td>
@@ -45,6 +41,10 @@ Marka: İçim
               <td title="Kim">Kim</td>
               <td>34,65 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/icim-taze-kasar-peyniri-400-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Happy Center">Happy Center</td>
+              <td>34,95 TL</td>
+              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Icim_Kasar_Peynir__500_Gr_">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CarrefourSA</td>
               <td>36,95 TL</td>
