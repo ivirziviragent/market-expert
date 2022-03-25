@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Sleepy Ecologic Bebek Bezi 1 Numara 64'lü Yenidoğan"
-date:   2022-03-25 6:55:25 +0300
-image: https://productimages.hepsiburada.net/s/190/550/110000157459206.jpg
+date:   2022-03-25 13:47:21 +0300
+image: undefined
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-03-25 9:55:25
+Son Güncelleme: 2022-03-25 16:47:21
 
-<img src="https://productimages.hepsiburada.net/s/190/550/110000157459206.jpg" width="200" alt="Sleepy Ecologic Bebek Bezi 1 Numara 64'lü Yenidoğan market fiyatları" />
+<img src="undefined" width="200" alt="Sleepy Ecologic Bebek Bezi 1 Numara 64'lü Yenidoğan market fiyatları" />
 
 Kategori: Bebek
 <br />
@@ -21,9 +21,5 @@ Marka: Sleepy
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Hepsiburada/Sleepy Mağazası">SLEEPY - HB</td>
-              <td>160,00 TL</td>
-              <td><a title="Hepsiburada/Sleepy Mağazası" target="_blank" href="https://www.hepsiburada.com/sleepy-ecologic-bebek-bezi-1-numara-64-lu-yenidogan-islak-bebek-bakim-havlusu-p-HBCV00001Q31HO?magaza=Sleepy">satın al</a></td>
-            </tr>
+  
 </table>
