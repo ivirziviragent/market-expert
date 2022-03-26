@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Süzme Peynir 500 gr"
-date:   2022-03-25 22:32:05 +0300
+date:   2022-03-26 6:28:55 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-suzme-peynir-500-gr-d746.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-26 1:32:05
+Son Güncelleme: 2022-03-26 9:28:55
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-suzme-peynir-500-gr-d746.jpg" width="200" alt="Sütaş Süzme Peynir 500 gr market fiyatları" />
 
@@ -31,7 +31,7 @@ Marka: Sütaş
               <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/sutas-suzme-peynir-form-500-gr">satın al</a></td>
             </tr><tr>
               <td title="Kim">Kim</td>
-              <td>-</td>
+              <td>23,10 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/sutas-suzme-peynir-500-gr">satın al</a></td>
             </tr><tr>
               <td title="İste Gelsin">İste Gelsin</td>
