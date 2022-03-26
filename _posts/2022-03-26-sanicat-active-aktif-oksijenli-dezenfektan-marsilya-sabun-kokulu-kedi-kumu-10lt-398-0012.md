@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sanicat Active Aktif Oksijenli Dezenfektan Marsilya Sabun Kokulu Kedi Kumu 10lt 398-0012"
-date:   2022-03-26 7:00:02 +0300
+date:   2022-03-26 13:55:38 +0300
 image: https://cdn.dsmcdn.com/ty364/product/media/images/20220317/12/71390451/10258947/1/1_org_zoom.jpg
 categories: evcil-hayvan-urunleri
 tags: evcil-hayvan-urunleri
 ---
 
-Son Güncelleme: 2022-03-26 10:00:02
+Son Güncelleme: 2022-03-26 16:55:38
 
 <img src="https://cdn.dsmcdn.com/ty364/product/media/images/20220317/12/71390451/10258947/1/1_org_zoom.jpg" width="200" alt="Sanicat Active Aktif Oksijenli Dezenfektan Marsilya Sabun Kokulu Kedi Kumu 10lt 398-0012 market fiyatları" />
 
@@ -26,13 +26,13 @@ Marka: Sanicat
               <td>137,00 TL</td>
               <td><a title="GittiGidiyor/Dosbilisim Mağazası" target="_blank" href="https://www.gittigidiyor.com/kedi/kedi-kumu/sanicat-active-marsilya-sabunu-kokulu-10-lt_spp_797317?id=769158878">satın al</a></td>
             </tr><tr>
-              <td title="Trendyol/Petartı Mağazası">Petartı - TY</td>
-              <td>138 TL</td>
-              <td><a title="Trendyol/Petartı Mağazası" target="_blank" href="https://www.trendyol.com/sanicat/active-aktif-oksijenli-dezenfektan-marsilya-sabun-kokulu-kedi-kumu-10lt-p-925381">satın al</a></td>
-            </tr><tr>
               <td title="GittiGidiyor/minik dostlar pet Mağazası">minik dostlar pet - GG</td>
               <td>139,99 TL</td>
               <td><a title="GittiGidiyor/minik dostlar pet Mağazası" target="_blank" href="https://www.gittigidiyor.com/kedi/kedi-kumu/sanicat-active-marsilya-sabunu-kokulu-10-lt_spp_797317?id=521257812">satın al</a></td>
+            </tr><tr>
+              <td title="Trendyol/Petartı Mağazası">Petartı - TY</td>
+              <td>140 TL</td>
+              <td><a title="Trendyol/Petartı Mağazası" target="_blank" href="https://www.trendyol.com/sanicat/active-aktif-oksijenli-dezenfektan-marsilya-sabun-kokulu-kedi-kumu-10lt-p-925381">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/Pood Petshop Mağazası">Pood Petshop - HB</td>
               <td>145,00 TL</td>

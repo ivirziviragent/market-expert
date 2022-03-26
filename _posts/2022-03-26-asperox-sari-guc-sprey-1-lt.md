@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Asperox Sarı Güç Sprey 1 lt"
-date:   2022-03-26 6:13:50 +0300
+date:   2022-03-26 13:09:25 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-03-26 9:13:50
+Son Güncelleme: 2022-03-26 16:09:25
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg" width="200" alt="Asperox Sarı Güç Sprey 1 lt market fiyatları" />
 
@@ -22,6 +22,10 @@ Marka: Asperox
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Şok">Şok</td>
+              <td>15,90 TL</td>
+              <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/sari-guc-1-lt-p-29102/">satın al</a></td>
+            </tr><tr>
               <td title="Onur Market">Onur Market</td>
               <td>15,99 TL</td>
               <td><a title="Onur Market" target="_blank" href="https://www.onurmarket.com/-asperox-sari-guc-1-lt-sprey--68235">satın al</a></td>
@@ -37,10 +41,6 @@ Marka: Asperox
               <td title="İste Gelsin">İste Gelsin</td>
               <td>16,90 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/asperox-sari-guc-sprey-1-l_PRS21-AD">satın al</a></td>
-            </tr><tr>
-              <td title="Şok">Şok</td>
-              <td>19,90 TL</td>
-              <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/sari-guc-1-lt-p-29102/">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">Mopaş</td>
               <td>19,90 TL</td>

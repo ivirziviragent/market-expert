@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Molfix Pure&Soft Yenidoğan 46 lı Eko Paket"
-date:   2022-03-26 6:25:40 +0300
+date:   2022-03-26 13:21:09 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/molfix-puresoft-yenidogan-46-li-eko-pake-82d5.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-03-26 9:25:40
+Son Güncelleme: 2022-03-26 16:21:09
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/molfix-puresoft-yenidogan-46-li-eko-pake-82d5.jpg" width="200" alt="Molfix Pure&Soft Yenidoğan 46 lı Eko Paket market fiyatları" />
 
