@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Red Bull Enerji İçeceği 250 ml"
-date:   2022-03-27 15:48:46 +0300
+date:   2022-03-27 19:51:23 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg
 categories: icecekler
 tags: icecekler
 ---
 
-Son Güncelleme: 2022-03-27 18:48:46
+Son Güncelleme: 2022-03-27 22:51:23
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg" width="200" alt="Red Bull Enerji İçeceği 250 ml market fiyatları" />
 
@@ -38,10 +38,6 @@ Marka: Red Bull
               <td>-</td>
               <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Red_Bull_250_Ml_Bule">satın al</a></td>
             </tr><tr>
-              <td title="Show Market">Show Market</td>
-              <td>-</td>
-              <td><a title="Show Market" target="_blank" href="https://www.showsanal.com/product/red-bull-enerji-icecegi-250-ml/76d6e1db-900f-45bc-8305-a84f5354eebd">satın al</a></td>
-            </tr><tr>
               <td title="CarrefourSA">CarrefourSA</td>
               <td>11,95 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/red-bull-enerji-icecegi-250-ml-p-30097269">satın al</a></td>
@@ -61,6 +57,10 @@ Marka: Red Bull
               <td title="Kim">Kim</td>
               <td>13,79 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/red-bull-250-ml-sekersiz">satın al</a></td>
+            </tr><tr>
+              <td title="Show Market">Show Market</td>
+              <td>13,99 TL</td>
+              <td><a title="Show Market" target="_blank" href="https://www.showsanal.com/product/red-bull-enerji-icecegi-250-ml/76d6e1db-900f-45bc-8305-a84f5354eebd">satın al</a></td>
             </tr><tr>
               <td title="İste Gelsin">İste Gelsin</td>
               <td>-</td>
