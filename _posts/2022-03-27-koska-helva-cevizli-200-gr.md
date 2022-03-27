@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Cevizli 200 gr"
-date:   2022-03-27 6:53:24 +0300
+date:   2022-03-27 13:43:27 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-cevizli-200-gr-8288.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-27 9:53:24
+Son Güncelleme: 2022-03-27 16:43:27
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-cevizli-200-gr-8288.jpg" width="200" alt="Koska Helva Cevizli 200 gr market fiyatları" />
 

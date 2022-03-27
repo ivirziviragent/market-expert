@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Kamelya Çayı 500 gr"
-date:   2022-03-27 6:14:01 +0300
+date:   2022-03-27 13:14:10 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-500-gr-9a74.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-03-27 9:14:01
+Son Güncelleme: 2022-03-27 16:14:10
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-500-gr-9a74.jpg" width="200" alt="Çaykur Kamelya Çayı 500 gr market fiyatları" />
 
@@ -22,21 +22,13 @@ Marka: Çaykur
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Çağrı Market">Çağrı Market</td>
-              <td>25,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/caykur-kamelya-cayi-500-gr">satın al</a></td>
-            </tr><tr>
               <td title="Migros">Migros</td>
-              <td>-</td>
+              <td>22,95 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/caykur-kamelya-cay-500-g-p-2f7988">satın al</a></td>
             </tr><tr>
               <td title="A101">A101</td>
               <td>22,95 TL</td>
               <td><a title="A101" target="_blank" href="https://www.a101.com.tr/market/caykur-cay-kamelya-500-g/">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">Happy Center</td>
-              <td>-</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Caykur_500_Gr_Cay_Kamelya">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CarrefourSA</td>
               <td>23,25 TL</td>
@@ -45,6 +37,14 @@ Marka: Çaykur
               <td title="İste Gelsin">İste Gelsin</td>
               <td>23,28 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/caykur-kamelya-500-gr_CAY27-AD">satın al</a></td>
+            </tr><tr>
+              <td title="Çağrı Market">Çağrı Market</td>
+              <td>25,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/caykur-kamelya-cayi-500-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Happy Center">Happy Center</td>
+              <td>-</td>
+              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Caykur_500_Gr_Cay_Kamelya">satın al</a></td>
             </tr><tr>
               <td title="Hakmar">Hakmar</td>
               <td>24,10 TL</td>

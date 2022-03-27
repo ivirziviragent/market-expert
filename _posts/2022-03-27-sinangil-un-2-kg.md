@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sinangil Un 2 kg"
-date:   2022-03-27 6:09:26 +0300
+date:   2022-03-27 13:09:40 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sinangil-un-2-kg-1be4e-.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-03-27 9:09:26
+Son Güncelleme: 2022-03-27 16:09:40
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sinangil-un-2-kg-1be4e-.jpg" width="200" alt="Sinangil Un 2 kg market fiyatları" />
 

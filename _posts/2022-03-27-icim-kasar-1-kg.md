@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Kaşar 1 kg"
-date:   2022-03-27 6:42:28 +0300
+date:   2022-03-27 13:32:34 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-kasar-kg-6804.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-27 9:42:28
+Son Güncelleme: 2022-03-27 16:32:34
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-kasar-kg-6804.jpg" width="200" alt="İçim Kaşar 1 kg market fiyatları" />
 

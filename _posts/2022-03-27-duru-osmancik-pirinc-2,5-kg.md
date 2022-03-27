@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Duru Osmancık Pirinç 2,5 kg"
-date:   2022-03-27 6:32:38 +0300
+date:   2022-03-27 13:22:38 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/duru-osmancik-pirinc-25-kg-d2f8.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-03-27 9:32:38
+Son Güncelleme: 2022-03-27 16:22:38
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/duru-osmancik-pirinc-25-kg-d2f8.jpg" width="200" alt="Duru Osmancık Pirinç 2,5 kg market fiyatları" />
 
@@ -30,6 +30,10 @@ Marka: Duru Bakliyat
               <td>-</td>
               <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Duru_2500_Gr_Bkl_Pirinc_Osmancik_">satın al</a></td>
             </tr><tr>
+              <td title="Show Market">Show Market</td>
+              <td>39,99 TL</td>
+              <td><a title="Show Market" target="_blank" href="https://www.showsanal.com/product/duru-pirinc-osmancik-2500-gr/8ef7f515-9189-451c-82c7-b23cb1130398">satın al</a></td>
+            </tr><tr>
               <td title="Kalafatlar">Kalafatlar</td>
               <td>46,90 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/duru-osmancik-pilavlik-pirinc-2-5-kg">satın al</a></td>
@@ -37,9 +41,5 @@ Marka: Duru Bakliyat
               <td title="Market Paketi">Market Paketi</td>
               <td>62,90 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/duru-bakliyat-osmancik-pilavlik-pirinc-25-kg-p-549399">satın al</a></td>
-            </tr><tr>
-              <td title="Show Market">Show Market</td>
-              <td>-</td>
-              <td><a title="Show Market" target="_blank" href="https://www.showsanal.com/product/duru-pirinc-osmancik-2500-gr/8ef7f515-9189-451c-82c7-b23cb1130398">satın al</a></td>
             </tr>
 </table>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Sade Helva kg"
-date:   2022-03-27 6:51:11 +0300
+date:   2022-03-27 13:41:25 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-sade-helva-kg-5c38.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-27 9:51:11
+Son Güncelleme: 2022-03-27 16:41:25
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-sade-helva-kg-5c38.jpg" width="200" alt="Koska Sade Helva kg market fiyatları" />
 
