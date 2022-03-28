@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Uni Baby Islak Havlu Yenidoğan 3x40'lı"
-date:   2022-03-28 7:35:57 +0300
+date:   2022-03-28 13:18:55 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/uni-baby-islak-havlu-yenidogan-3x40li-058047.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-03-28 10:35:57
+Son Güncelleme: 2022-03-28 16:18:55
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/uni-baby-islak-havlu-yenidogan-3x40li-058047.jpg" width="200" alt="Uni Baby Islak Havlu Yenidoğan 3x40'lı market fiyatları" />
 
@@ -25,11 +25,11 @@ Marka: Uni
   </tr>
   <tr>
               <td title="Mopaş">MOPAŞ</td>
-              <td>33,99</td>
+              <td>33,99 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/uni-baby-havlu-oyna-ogren-3x52li/p/856892">satın al</a></td>
             </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>49,95</td>
+              <td>49,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/uni-baby-islak-havlu-yenidogan-3x40li-20569">satın al</a></td>
             </tr>
 </table>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çotanak Fındık Yağı Teneke 3 lt"
-date:   2022-03-28 7:32:06 +0300
+date:   2022-03-28 13:14:53 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/cotanak-findik-yagi-teneke-3-lt-5262.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-03-28 10:32:06
+Son Güncelleme: 2022-03-28 16:14:53
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/cotanak-findik-yagi-teneke-3-lt-5262.jpg" width="200" alt="Çotanak Fındık Yağı Teneke 3 lt market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Çotanak
   </tr>
   <tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>199,95</td>
+              <td>199,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/cotanak-findik-yagi-teneke-3-lt">satın al</a></td>
             </tr>
 </table>

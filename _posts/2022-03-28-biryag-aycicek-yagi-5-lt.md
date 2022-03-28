@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Biryağ Ayçiçek Yağı 5 Lt"
-date:   2022-03-28 7:32:26 +0300
+date:   2022-03-28 13:15:12 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/biryag-aycicek-yagi-5-lt-2483.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-03-28 10:32:26
+Son Güncelleme: 2022-03-28 16:15:12
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/biryag-aycicek-yagi-5-lt-2483.jpg" width="200" alt="Biryağ Ayçiçek Yağı 5 Lt market fiyatları" />
 
@@ -25,11 +25,11 @@ Marka: Biryağ
   </tr>
   <tr>
               <td title="A101">A101</td>
-              <td>165,00</td>
+              <td>165,00 TL</td>
               <td><a title="A101" target="_blank" href="https://www.a101.com.tr/market/biryag-aycicek-yagi-pet-5-l/">satın al</a></td>
             </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>189,95</td>
+              <td>189,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/biryag-aycicek-yagi-5-lt">satın al</a></td>
             </tr>
 </table>

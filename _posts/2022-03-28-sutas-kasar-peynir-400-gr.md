@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Kaşar Peynir 400 gr"
-date:   2022-03-28 7:44:01 +0300
+date:   2022-03-28 13:27:08 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-400-gr-464e.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-28 10:44:01
+Son Güncelleme: 2022-03-28 16:27:08
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-400-gr-464e.jpg" width="200" alt="Sütaş Kaşar Peynir 400 gr market fiyatları" />
 
@@ -25,27 +25,27 @@ Marka: Sütaş
   </tr>
   <tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>30,75</td>
+              <td>30,75 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sutas-kasar-peynir-400-gr">satın al</a></td>
             </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
-              <td>33,50</td>
+              <td>33,50 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/sutas-kasar-peyniri-400-gr">satın al</a></td>
             </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
-              <td>33,50</td>
+              <td>33,50 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/sutas-kasar-peyniri-400-gr">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
-              <td>35,35</td>
+              <td>35,35 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/sutas-taze-kasar-400-gr">satın al</a></td>
             </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
-              <td>38,99</td>
+              <td>38,99 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/sutas-kasar-peynir-400-gr-p-1043">satın al</a></td>
             </tr><tr>
               <td title="Şok">ŞOK</td>
-              <td>39,25</td>
+              <td>39,25 TL</td>
               <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/kasar-peyniri-500-gr-p-3662/">satın al</a></td>
             </tr>
 </table>

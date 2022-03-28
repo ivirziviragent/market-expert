@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Papia Tuvalet Kağıdı 32'li"
-date:   2022-03-28 7:26:46 +0300
+date:   2022-03-28 13:09:33 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/papia-tuvalet-kagidi-32li-9cc8ab.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-03-28 10:26:46
+Son Güncelleme: 2022-03-28 16:09:33
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/papia-tuvalet-kagidi-32li-9cc8ab.jpg" width="200" alt="Papia Tuvalet Kağıdı 32'li market fiyatları" />
 
@@ -25,19 +25,19 @@ Marka: Papia
   </tr>
   <tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>119,95</td>
+              <td>119,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/papia-tuvalet-kagidi-32li">satın al</a></td>
             </tr><tr>
               <td title="Avansas">AVANSAS</td>
-              <td>126,70</td>
+              <td>126,70 TL</td>
               <td><a title="Avansas" target="_blank" href="https://www.avansas.com/papia-tuvalet-kagidi-3-katli-32-li-paket-p-56614">satın al</a></td>
             </tr><tr>
               <td title="Migros">MIGROS</td>
-              <td>131,50</td>
+              <td>131,50 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/papia-tuvalet-kagidi-32li-3-katli-p-1d953b8">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
-              <td>131,50</td>
+              <td>131,50 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/papia-tuvalet-kagidi-32-li-b-side-p-30090226">satın al</a></td>
             </tr>
 </table>

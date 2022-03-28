@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Mis Uht Süt Yağlı 1 Lt"
-date:   2022-03-28 7:21:11 +0300
+date:   2022-03-28 13:03:55 +0300
 image: https://cdnd-tr.ceptesok.com/product/1000x1000/97884_uht-sut-yagli-1-lt.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-28 10:21:11
+Son Güncelleme: 2022-03-28 16:03:55
 
 <img src="https://cdnd-tr.ceptesok.com/product/1000x1000/97884_uht-sut-yagli-1-lt.jpg" width="200" alt="Mis Uht Süt Yağlı 1 Lt market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Mis
   </tr>
   <tr>
               <td title="Şok">ŞOK</td>
-              <td>7,25</td>
+              <td>7,25 TL</td>
               <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/uht-sut-yagli-1-lt-p-3582/">satın al</a></td>
             </tr>
 </table>

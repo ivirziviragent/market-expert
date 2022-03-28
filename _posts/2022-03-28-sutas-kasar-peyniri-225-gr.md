@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Kaşar Peyniri 225 gr"
-date:   2022-03-28 7:44:42 +0300
+date:   2022-03-28 13:27:49 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peyniri-225-gr-5ff8.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-28 10:44:42
+Son Güncelleme: 2022-03-28 16:27:49
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peyniri-225-gr-5ff8.jpg" width="200" alt="Sütaş Kaşar Peyniri 225 gr market fiyatları" />
 
@@ -25,15 +25,15 @@ Marka: Sütaş
   </tr>
   <tr>
               <td title="Kim">KIM</td>
-              <td>21,50</td>
+              <td>21,50 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/sutas-taze--kasar-225-gr">satın al</a></td>
             </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>22,25</td>
+              <td>22,25 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sutas-kasar-peyniri-225-gr">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
-              <td>20,99</td>
+              <td>20,99 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/sutas-kasar-225-gr/p/31009">satın al</a></td>
             </tr>
 </table>

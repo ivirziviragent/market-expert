@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Önlem Botanica Jumbo Yenidoğan 50 li"
-date:   2022-03-28 7:38:58 +0300
+date:   2022-03-28 13:21:56 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/onlem-botanica-jumbo-yenidogan-50-li-c53a3f.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-03-28 10:38:58
+Son Güncelleme: 2022-03-28 16:21:56
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/onlem-botanica-jumbo-yenidogan-50-li-c53a3f.jpg" width="200" alt="Önlem Botanica Jumbo Yenidoğan 50 li market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Önlem
   </tr>
   <tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>46,95</td>
+              <td>46,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/onlem-botanica-jumbo-yenidogan-50-li">satın al</a></td>
             </tr>
 </table>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Süzme Peynir 250 gr"
-date:   2022-03-28 7:42:52 +0300
+date:   2022-03-28 13:25:58 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-suzme-peynir-250-gr-9235.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-28 10:42:52
+Son Güncelleme: 2022-03-28 16:25:58
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-suzme-peynir-250-gr-9235.jpg" width="200" alt="Sütaş Süzme Peynir 250 gr market fiyatları" />
 
@@ -25,35 +25,35 @@ Marka: Sütaş
   </tr>
   <tr>
               <td title="CarrefourSA">CARREFOURSA</td>
-              <td>13,90</td>
+              <td>13,90 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/sutas-suzme-peynir-250-g-p-30085088">satın al</a></td>
             </tr><tr>
               <td title="Migros">MIGROS</td>
-              <td>13,98</td>
+              <td>13,98 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/sutas-suzme-peynir-250-g-p-98d9b5">satın al</a></td>
             </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>14,15</td>
+              <td>14,15 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sutas-suzme-peynir-250-gr">satın al</a></td>
             </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
-              <td>12,75</td>
+              <td>12,75 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/sutas-suzme-peynir-250-gr">satın al</a></td>
             </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
-              <td>12,75</td>
+              <td>12,75 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/sutas-suzme-peynir-250-gr">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
-              <td>13,50</td>
+              <td>13,50 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/sutas-suzme-peynir-250-gr/p/105292">satın al</a></td>
             </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
-              <td>13,98</td>
+              <td>13,98 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/sutas-suzme-peynir-250-g-p-98d9b5">satın al</a></td>
             </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
-              <td>15,99</td>
+              <td>15,99 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/sutas-suzme-peynir-250-gr-p-1723">satın al</a></td>
             </tr>
 </table>

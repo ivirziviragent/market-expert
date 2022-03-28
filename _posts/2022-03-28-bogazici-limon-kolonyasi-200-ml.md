@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Boğaziçi Limon Kolonyası 200 ml"
-date:   2022-03-28 7:25:21 +0300
+date:   2022-03-28 13:08:08 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/bogazici-limon-kolonyasi--200-ml-ee1f.jpg
 categories: kisisel-bakim-kozmetik
 tags: kisisel-bakim-kozmetik
 ---
 
-Son Güncelleme: 2022-03-28 10:25:21
+Son Güncelleme: 2022-03-28 16:08:08
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/bogazici-limon-kolonyasi--200-ml-ee1f.jpg" width="200" alt="Boğaziçi Limon Kolonyası 200 ml market fiyatları" />
 
@@ -25,15 +25,15 @@ Marka: Boğaziçi
   </tr>
   <tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>17,95</td>
+              <td>17,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/bogazici-limon-kolonyasi--200-ml">satın al</a></td>
             </tr><tr>
               <td title="Migros">MIGROS</td>
-              <td>19,95</td>
+              <td>19,95 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/bogazici-limon-kolonyasi-pet-200-ml-p-209f53c">satın al</a></td>
             </tr><tr>
               <td title="Show Market">SHOW MARKET</td>
-              <td>19,99</td>
+              <td>19,99 TL</td>
               <td><a title="Show Market" target="_blank" href="https://www.showsanal.com/product/bogazici-kolonya-pet-sise-200-ml/adf3eea9-8cc8-4587-b8f8-6c7407c41fe7">satın al</a></td>
             </tr>
 </table>

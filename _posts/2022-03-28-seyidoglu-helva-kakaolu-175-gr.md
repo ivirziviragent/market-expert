@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Kakaolu 175 gr"
-date:   2022-03-28 7:52:18 +0300
+date:   2022-03-28 13:35:31 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-kakaolu-175-gr-76b6.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-28 10:52:18
+Son Güncelleme: 2022-03-28 16:35:31
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-kakaolu-175-gr-76b6.jpg" width="200" alt="Seyidoğlu Helva Kakaolu 175 gr market fiyatları" />
 
@@ -25,15 +25,15 @@ Marka: Seyidoğlu
   </tr>
   <tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>9,95</td>
+              <td>9,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/seyidoglu-helva-kakaolu-175-gr">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
-              <td>9,99</td>
+              <td>9,99 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/seyidoglu-kakaolu-helva-175-gr/p/201982">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
-              <td>10,99</td>
+              <td>10,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/seyidoglu-helva-175-gr-kakaolu">satın al</a></td>
             </tr>
 </table>

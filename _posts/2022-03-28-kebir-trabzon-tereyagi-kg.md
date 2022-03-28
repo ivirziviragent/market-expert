@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Kebir Trabzon Tereyağı kg"
-date:   2022-03-28 7:26:12 +0300
+date:   2022-03-28 13:08:59 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/kebir-trabzon-tereyagi-kg-4e9b.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-28 10:26:12
+Son Güncelleme: 2022-03-28 16:08:59
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/kebir-trabzon-tereyagi-kg-4e9b.jpg" width="200" alt="Kebir Trabzon Tereyağı kg market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Kebir
   </tr>
   <tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>79,95</td>
+              <td>79,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/kebir-trabzon-tereyagi-kg">satın al</a></td>
             </tr>
 </table>

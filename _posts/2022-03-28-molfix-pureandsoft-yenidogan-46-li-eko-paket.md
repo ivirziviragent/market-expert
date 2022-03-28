@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Molfix Pure&Soft Yenidoğan 46 lı Eko Paket"
-date:   2022-03-28 7:38:49 +0300
+date:   2022-03-28 13:21:46 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/molfix-puresoft-yenidogan-46-li-eko-pake-82d5.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-03-28 10:38:49
+Son Güncelleme: 2022-03-28 16:21:46
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/molfix-puresoft-yenidogan-46-li-eko-pake-82d5.jpg" width="200" alt="Molfix Pure&Soft Yenidoğan 46 lı Eko Paket market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Molfix
   </tr>
   <tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>74,95</td>
+              <td>74,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/molfix-puresoft-yenidogan-46-li-eko-paket-15234">satın al</a></td>
             </tr>
 </table>

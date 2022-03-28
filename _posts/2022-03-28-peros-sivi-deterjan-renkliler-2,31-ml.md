@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Peros Sıvı Deterjan Renkliler 2,31 ml"
-date:   2022-03-28 7:32:00 +0300
+date:   2022-03-28 13:14:47 +0300
 image: undefined
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-03-28 10:32:00
+Son Güncelleme: 2022-03-28 16:14:47
 
 <img src="undefined" width="200" alt="Peros Sıvı Deterjan Renkliler 2,31 ml market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Peros
   </tr>
   <tr>
               <td title="CarrefourSA">CARREFOURSA</td>
-              <td>44,90</td>
+              <td>44,90 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/peros-sivi-deterjan-renkliler-2-31-ml-p-30255203">satın al</a></td>
             </tr>
 </table>
