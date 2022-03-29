@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Sinangil Un 2 kg"
-date:   2022-03-29 6:00:19 +0300
-image: undefined
+date:   2022-03-29 8:07:15 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/sinangil-un-2-kg-1be4e-.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-03-29 9:00:19
+Son Güncelleme: 2022-03-29 11:07:15
 
-<img src="undefined" width="200" alt="Sinangil Un 2 kg market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/sinangil-un-2-kg-1be4e-.jpg" width="200" alt="Sinangil Un 2 kg market fiyatları" />
 
 Kategori: Gıda, Şekerleme
 <br />
@@ -23,5 +23,13 @@ Marka: Sinangil
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>22,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sinangil-un-2-kg">satın al</a></td>
+            </tr><tr>
+              <td title="CarrefourSA">CARREFOURSA</td>
+              <td>24,90 TL</td>
+              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/sinangil-un-2-kg-p-30093531">satın al</a></td>
+            </tr>
 </table>

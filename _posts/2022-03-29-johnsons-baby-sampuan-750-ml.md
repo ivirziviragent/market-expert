@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Johnson's Baby Şampuan 750 ml"
-date:   2022-03-29 6:00:19 +0300
-image: undefined
+date:   2022-03-29 8:04:06 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/johnsons-baby-sampuan-750-ml-78f6.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-03-29 9:00:19
+Son Güncelleme: 2022-03-29 11:04:06
 
-<img src="undefined" width="200" alt="Johnson's Baby Şampuan 750 ml market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/johnsons-baby-sampuan-750-ml-78f6.jpg" width="200" alt="Johnson's Baby Şampuan 750 ml market fiyatları" />
 
 Kategori: Bebek
 <br />
@@ -23,5 +23,25 @@ Marka: JBABY
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Migros">MIGROS</td>
+              <td>29,52 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/johnsons-bebek-sampuani-750-ml-p-1e22da1">satın al</a></td>
+            </tr><tr>
+              <td title="Happy Center">HAPPY CENTER</td>
+              <td>29,95 TL</td>
+              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Jb_Sampuan_800_Ml">satın al</a></td>
+            </tr><tr>
+              <td title="Onur Market">ONUR MARKET</td>
+              <td>34,99 TL</td>
+              <td><a title="Onur Market" target="_blank" href="https://www.onurmarket.com/-johnsons-sampuan-750ml--8427">satın al</a></td>
+            </tr><tr>
+              <td title="Getir">GETIR</td>
+              <td>36,90 TL</td>
+              <td><a title="Getir" target="_blank" href="https://getir.com/urun/johnson-s-baby-sampuan-137UovsCdG/">satın al</a></td>
+            </tr><tr>
+              <td title="CarrefourSA">CARREFOURSA</td>
+              <td>36,90 TL</td>
+              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/johnson-s-baby-sampuan-750-ml-p-30051172">satın al</a></td>
+            </tr>
 </table>
