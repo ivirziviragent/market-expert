@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sleepy Jumbo Mini 42'li 2 Beden"
-date:   2022-03-29 8:49:13 +0300
+date:   2022-03-29 14:07:45 +0300
 image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h50/hf2/8850374885406/704630_0_521Wx521H
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-03-29 11:49:13
+Son Güncelleme: 2022-03-29 17:07:45
 
 <img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h50/hf2/8850374885406/704630_0_521Wx521H" width="200" alt="Sleepy Jumbo Mini 42'li 2 Beden market fiyatları" />
 

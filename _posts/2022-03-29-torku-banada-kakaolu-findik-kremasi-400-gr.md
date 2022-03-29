@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Torku Banada Kakaolu Fındık Kreması 400 gr"
-date:   2022-03-29 8:45:06 +0300
+date:   2022-03-29 13:47:08 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-400--a315.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-29 11:45:06
+Son Güncelleme: 2022-03-29 16:47:08
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-400--a315.jpg" width="200" alt="Torku Banada Kakaolu Fındık Kreması 400 gr market fiyatları" />
 
@@ -31,10 +31,6 @@ Marka: Torku
               <td title="Showmar">SHOWMAR</td>
               <td>21,90 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/torku-banada-400gr-cam">satın al</a></td>
-            </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>21,90 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/torku-banada-400-gr/p/102553">satın al</a></td>
             </tr><tr>
               <td title="Bizim Toptan">BIZIM TOPTAN</td>
               <td>21,95 TL</td>
