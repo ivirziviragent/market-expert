@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Taze Kaşar 600 gr"
-date:   2022-03-30 6:36:55 +0300
+date:   2022-03-30 13:33:41 +0300
 image: https://www.kimgeldi.com//images/thumbs/0018159_icim-taze-kasar-peyniri-600-gr_510.jpeg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-30 9:36:55
+Son Güncelleme: 2022-03-30 16:33:41
 
 <img src="https://www.kimgeldi.com//images/thumbs/0018159_icim-taze-kasar-peyniri-600-gr_510.jpeg" width="200" alt="İçim Taze Kaşar 600 gr market fiyatları" />
 
@@ -31,10 +31,6 @@ Marka: İçim
               <td title="Mopaş">MOPAŞ</td>
               <td>39,99 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/icim-kasar-600-gr/p/751626">satın al</a></td>
-            </tr><tr>
-              <td title="CarrefourSA">CARREFOURSA</td>
-              <td>44,85 TL</td>
-              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/icim-kasar-peyniri-600-g-p-30220678">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
               <td>45,15 TL</td>

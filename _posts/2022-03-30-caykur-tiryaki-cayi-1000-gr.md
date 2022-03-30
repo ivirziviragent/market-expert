@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Tiryaki Çayı 1000 gr"
-date:   2022-03-30 6:00:19 +0300
+date:   2022-03-30 13:00:07 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-1000-gr-0103.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-03-30 9:00:19
+Son Güncelleme: 2022-03-30 16:00:07
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-1000-gr-0103.jpg" width="200" alt="Çaykur Tiryaki Çayı 1000 gr market fiyatları" />
 
@@ -48,6 +48,10 @@ Marka: Çaykur
               <td>42,25 TL</td>
               <td><a title="A101" target="_blank" href="https://www.a101.com.tr/market/caykur-tiryaki-cayi-1000-gr/">satın al</a></td>
             </tr><tr>
+              <td title="ToptanTR">TOPTANTR</td>
+              <td>42,25 TL</td>
+              <td><a title="ToptanTR" target="_blank" href="https://www.toptantr.com/tr/caykur-tiryaki-cayi-1000-gr">satın al</a></td>
+            </tr><tr>
               <td title="Şok">ŞOK</td>
               <td>42,50 TL</td>
               <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/tiryaki-cayi-1000-gr-p-2431/">satın al</a></td>
@@ -63,9 +67,5 @@ Marka: Çaykur
               <td title="Mopaş">MOPAŞ</td>
               <td>42,95 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/caykur-tiryaki-1000-gr/p/29552">satın al</a></td>
-            </tr><tr>
-              <td title="ToptanTR">TOPTANTR</td>
-              <td>43,11 TL</td>
-              <td><a title="ToptanTR" target="_blank" href="https://www.toptantr.com/tr/caykur-tiryaki-cayi-1000-gr">satın al</a></td>
             </tr>
 </table>

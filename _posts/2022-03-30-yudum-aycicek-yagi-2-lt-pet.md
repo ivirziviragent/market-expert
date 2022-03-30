@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Yudum Ayçiçek Yağı 2 lt Pet"
-date:   2022-03-30 6:15:06 +0300
+date:   2022-03-30 13:11:39 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-2-lt-6bab.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-03-30 9:15:06
+Son Güncelleme: 2022-03-30 16:11:39
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-2-lt-6bab.jpg" width="200" alt="Yudum Ayçiçek Yağı 2 lt Pet market fiyatları" />
 
@@ -24,10 +24,6 @@ Marka: Yudum
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="İste Gelsin">İSTE GELSIN</td>
-              <td>64,00 TL</td>
-              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/yudum-aycicek-2-l_SVL2-AD">satın al</a></td>
-            </tr><tr>
               <td title="A101">A101</td>
               <td>74,90 TL</td>
               <td><a title="A101" target="_blank" href="https://www.a101.com.tr/market/yudum-aycicek-yagi-2-l/">satın al</a></td>
@@ -35,6 +31,10 @@ Marka: Yudum
               <td title="Migros">MIGROS</td>
               <td>83,69 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/yudum-ziyafet-aycicek-yagi-2-l-pet-p-3f668e">satın al</a></td>
+            </tr><tr>
+              <td title="İste Gelsin">İSTE GELSIN</td>
+              <td>93,90 TL</td>
+              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/yudum-aycicek-2-l_SVL2-AD">satın al</a></td>
             </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>94,95 TL</td>
