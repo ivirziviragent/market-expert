@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Prima Bebek Bezi Premium Care 2 Beden 60 Adet Ekonomik Paket"
-date:   2022-03-31 6:50:26 +0300
+date:   2022-03-31 17:44:37 +0300
 image: https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/8001841742236_3.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-03-31 9:50:26
+Son Güncelleme: 2022-03-31 20:44:37
 
 <img src="https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/8001841742236_3.jpg" width="200" alt="Prima Bebek Bezi Premium Care 2 Beden 60 Adet Ekonomik Paket market fiyatları" />
 
@@ -24,10 +24,6 @@ Marka: Prima
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>0,00 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Prima_Premium_Care_Jumbo_Mini_90_Li">satın al</a></td>
-            </tr><tr>
               <td title="Hepsiburada/Online Market Mağazası">ONLINE MARKET - HB</td>
               <td>148,70 TL</td>
               <td><a title="Hepsiburada/Online Market Mağazası" target="_blank" href="https://www.hepsiburada.com/prima-bebek-bezi-premium-care-2-beden-60-adet-ekonomik-paket-p-HBV00000RFTB7?magaza=Online%20Market">satın al</a></td>
@@ -41,7 +37,7 @@ Marka: Prima
               <td><a title="Hepsiburada/ebebek Mağazası" target="_blank" href="https://www.hepsiburada.com/prima-bebek-bezi-premium-care-2-beden-60-adet-ekonomik-paket-p-HBV00000RFTB7?magaza=ebebek">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
-              <td>179,95 TL</td>
+              <td>170,95 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/prima-premium-care-eko-2-beden-60li">satın al</a></td>
             </tr>
 </table>

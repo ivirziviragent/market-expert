@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Fıstıklı 500 gr"
-date:   2022-03-31 6:39:41 +0300
+date:   2022-03-31 17:33:46 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-500-gr-f131.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-31 9:39:41
+Son Güncelleme: 2022-03-31 20:33:46
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-500-gr-f131.jpg" width="200" alt="Koska Helva Fıstıklı 500 gr market fiyatları" />
 
@@ -40,10 +40,6 @@ Marka: Koska
               <td>49,95 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/koska-helva-fistikli-500gr">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>50,35 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Koska_500_Gr_Helva_Antep_Fistikli">satın al</a></td>
-            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>50,92 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/koska-fistikli-helva-paket-500-g-p-6c0856">satın al</a></td>
@@ -52,12 +48,12 @@ Marka: Koska
               <td>50,92 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/koska-fistikli-helva-paket-500-g-p-6c0856">satın al</a></td>
             </tr><tr>
-              <td title="İste Gelsin">İSTE GELSIN</td>
-              <td>51,75 TL</td>
-              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/koska-fistikli-helva-500-gr_KSK15-AD">satın al</a></td>
-            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>55,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-fistikli-500-gr">satın al</a></td>
+            </tr><tr>
+              <td title="İste Gelsin">İSTE GELSIN</td>
+              <td>51,75 TL</td>
+              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/koska-fistikli-helva-500-gr_KSK15-AD">satın al</a></td>
             </tr>
 </table>

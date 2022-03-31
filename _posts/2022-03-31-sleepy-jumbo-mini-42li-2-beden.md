@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sleepy Jumbo Mini 42'li 2 Beden"
-date:   2022-03-31 6:51:15 +0300
+date:   2022-03-31 17:45:28 +0300
 image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h50/hf2/8850374885406/704630_0_521Wx521H
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-03-31 9:51:15
+Son Güncelleme: 2022-03-31 20:45:28
 
 <img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h50/hf2/8850374885406/704630_0_521Wx521H" width="200" alt="Sleepy Jumbo Mini 42'li 2 Beden market fiyatları" />
 
@@ -24,10 +24,6 @@ Marka: Prima
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>0,00 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Product/?product_id=37463">satın al</a></td>
-            </tr><tr>
               <td title="Hepsiburada/DEV GROSSS Mağazası">DEV GROSSS - HB</td>
               <td>56,90 TL</td>
               <td><a title="Hepsiburada/DEV GROSSS Mağazası" target="_blank" href="https://www.hepsiburada.com/sleepy-sensitive-bebek-bezi-2-beden-mini-jumbo-paket-42-adet-p-ZYSLE060369?magaza=dev%20grosss">satın al</a></td>

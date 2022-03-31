@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Fıstıklı 200 gr"
-date:   2022-03-31 6:41:45 +0300
+date:   2022-03-31 17:35:52 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-200-gr-5a52.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-03-31 9:41:45
+Son Güncelleme: 2022-03-31 20:35:52
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-200-gr-5a52.jpg" width="200" alt="Koska Helva Fıstıklı 200 gr market fiyatları" />
 
@@ -35,10 +35,6 @@ Marka: Koska
               <td title="Mopaş">MOPAŞ</td>
               <td>18,99 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/koska-helva-fistikli-200-gr/p/93097">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>20,40 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Koska_200_Gr_Helva_Antep_Fistikli">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>20,65 TL</td>
