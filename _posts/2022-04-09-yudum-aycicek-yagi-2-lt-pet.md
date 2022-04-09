@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Yudum Ayçiçek Yağı 2 lt Pet"
-date:   2022-04-09 12:20:37 +0300
+date:   2022-04-09 13:15:31 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-2-lt-6bab.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-04-09 15:20:37
+Son Güncelleme: 2022-04-09 16:15:31
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-2-lt-6bab.jpg" width="200" alt="Yudum Ayçiçek Yağı 2 lt Pet market fiyatları" />
 

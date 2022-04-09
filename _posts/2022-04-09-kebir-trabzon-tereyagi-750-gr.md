@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Kebir Trabzon Tereyağı 750 gr"
-date:   2022-04-09 12:18:06 +0300
+date:   2022-04-09 13:12:25 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/kebir-trabzon-tereyagi-750-gr-8181.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-09 15:18:06
+Son Güncelleme: 2022-04-09 16:12:25
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/kebir-trabzon-tereyagi-750-gr-8181.jpg" width="200" alt="Kebir Trabzon Tereyağı 750 gr market fiyatları" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Eski Kaşar 350 gr"
-date:   2022-04-09 12:38:58 +0300
+date:   2022-04-09 13:37:27 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-eski-kasar-350-gr-6be9.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-09 15:38:58
+Son Güncelleme: 2022-04-09 16:37:27
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-eski-kasar-350-gr-6be9.jpg" width="200" alt="Sütaş Eski Kaşar 350 gr market fiyatları" />
 
