@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Torku Süzme Peynir 450 g"
-date:   2022-04-10 6:10:50 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/torku-suzme-peynir-450-gr-9960.jpg
+date:   2022-04-10 13:27:02 +0300
+image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-10 9:10:50
+Son Güncelleme: 2022-04-10 16:27:02
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/torku-suzme-peynir-450-gr-9960.jpg" width="200" alt="Torku Süzme Peynir 450 g market fiyatları" />
+<img src="undefined" width="200" alt="Torku Süzme Peynir 450 g market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,17 +23,5 @@ Marka: Torku
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Migros">MIGROS</td>
-              <td>21,45 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/torku-suzme-peynir-450-g-p-98e102">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>25,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/torku-suzme-peynir-450-gr">satın al</a></td>
-            </tr><tr>
-              <td title="CarrefourSA">CARREFOURSA</td>
-              <td>32,15 TL</td>
-              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/torku-suzme-peynir-450-g-p-30149074">satın al</a></td>
-            </tr>
+  
 </table>

@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "İçim Tereyağ 1000 gr"
-date:   2022-04-10 6:22:17 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/icim-tereyag-1000-gr-f90-fd.jpg
+date:   2022-04-10 14:11:55 +0300
+image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-10 9:22:17
+Son Güncelleme: 2022-04-10 17:11:55
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/icim-tereyag-1000-gr-f90-fd.jpg" width="200" alt="İçim Tereyağ 1000 gr market fiyatları" />
+<img src="undefined" width="200" alt="İçim Tereyağ 1000 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,17 +23,5 @@ Marka: İçim
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>125,00 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/icim-tereyag-1-kg/p/28426">satın al</a></td>
-            </tr><tr>
-              <td title="Migros">MIGROS</td>
-              <td>129,45 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/icim-tereyagi-1-kg-p-b74316">satın al</a></td>
-            </tr><tr>
-              <td title="CarrefourSA">CARREFOURSA</td>
-              <td>129,95 TL</td>
-              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/icim-tereyag-1000-g-p-30097370">satın al</a></td>
-            </tr>
+  
 </table>

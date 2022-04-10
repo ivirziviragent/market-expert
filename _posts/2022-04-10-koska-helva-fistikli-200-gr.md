@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Fıstıklı 200 gr"
-date:   2022-04-10 6:56:46 +0300
+date:   2022-04-10 15:47:46 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-10 9:56:46
+Son Güncelleme: 2022-04-10 18:47:46
 
 <img src="undefined" width="200" alt="Koska Helva Fıstıklı 200 gr market fiyatları" />
 

@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Doğuş Karadeniz Çayı 1000 G"
-date:   2022-04-10 6:03:31 +0300
-image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg
+date:   2022-04-10 13:07:05 +0300
+image: undefined
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-04-10 9:03:31
+Son Güncelleme: 2022-04-10 16:07:05
 
-<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg" width="200" alt="Doğuş Karadeniz Çayı 1000 G market fiyatları" />
+<img src="undefined" width="200" alt="Doğuş Karadeniz Çayı 1000 G market fiyatları" />
 
 Kategori: Çay, Kahve
 <br />
@@ -23,25 +23,5 @@ Marka: Doğuş
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Migros">MIGROS</td>
-              <td>38,95 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/dogus-karadeniz-cayi-1000-g-p-2f947e">satın al</a></td>
-            </tr><tr>
-              <td title="Macro Center">MACRO CENTER</td>
-              <td>38,95 TL</td>
-              <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/dogus-karadeniz-cayi-1000-g-p-2f947e">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>39,75 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/dogus-karadeniz-cayi-1000-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>44,95 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/dogus-filiz-cay-siyah-1000-gr/p/77416">satın al</a></td>
-            </tr><tr>
-              <td title="Showmar">SHOWMAR</td>
-              <td>49,95 TL</td>
-              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/dogus-cay-karadeniz-1000gr">satın al</a></td>
-            </tr>
+  
 </table>

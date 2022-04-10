@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Kakaolu 200 gr"
-date:   2022-04-10 7:03:53 +0300
+date:   2022-04-10 15:47:46 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-10 10:03:53
+Son Güncelleme: 2022-04-10 18:47:46
 
 <img src="undefined" width="200" alt="Koska Helva Kakaolu 200 gr market fiyatları" />
 
