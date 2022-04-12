@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Kaşar Peynir 400 gr"
-date:   2022-04-12 7:11:24 +0300
+date:   2022-04-12 13:27:30 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-400-gr-464e.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-12 10:11:24
+Son Güncelleme: 2022-04-12 16:27:30
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-400-gr-464e.jpg" width="200" alt="Sütaş Kaşar Peynir 400 gr market fiyatları" />
 
@@ -24,6 +24,10 @@ Marka: Sütaş
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>41,75 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sutas-kasar-peynir-400-gr">satın al</a></td>
+            </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>33,50 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/sutas-kasar-peyniri-400-gr">satın al</a></td>
@@ -35,18 +39,6 @@ Marka: Sütaş
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>40,99 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/sutas-kasar-peynir-400-gr-p-1043">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>41,75 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sutas-kasar-peynir-400-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Yunus Market">YUNUS MARKET</td>
-              <td>41,75 TL</td>
-              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/sutas-kasar-400-gr/df11ca87-3d2a-41c7-bd34-7c490c33df70">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>49,95 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/sutas-kasar-peynir-400-gr">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
               <td>52,49 TL</td>

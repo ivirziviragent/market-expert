@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Royal Canin Kısırlaştırılmış Sterılısed Yetişkin Kedi Maması 4 kg"
-date:   2022-04-12 7:40:22 +0300
+date:   2022-04-12 14:13:23 +0300
 image: https://productimages.hepsiburada.net/s/22/550/9943345299506.jpg
 categories: evcil-hayvan-urunleri
 tags: evcil-hayvan-urunleri
 ---
 
-Son Güncelleme: 2022-04-12 10:40:22
+Son Güncelleme: 2022-04-12 17:13:23
 
 <img src="https://productimages.hepsiburada.net/s/22/550/9943345299506.jpg" width="200" alt="Royal Canin Kısırlaştırılmış Sterılısed Yetişkin Kedi Maması 4 kg market fiyatları" />
 
@@ -33,7 +33,7 @@ Marka: Royal Canin
               <td><a title="Hepsiburada/KARAMELPETSHOP35 Mağazası" target="_blank" href="https://www.hepsiburada.com/royal-canin-fhn-sterilised-37-kisirlastirilmis-kedi-mamasi-4-kg-p-PTANNA251100066?magaza=KARAMELPETSHOP35">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/Mama Dünyası Mağazası">MAMA DÜNYASI - HB</td>
-              <td>418,49 TL</td>
+              <td>427,79 TL</td>
               <td><a title="Hepsiburada/Mama Dünyası Mağazası" target="_blank" href="https://www.hepsiburada.com/royal-canin-fhn-sterilised-37-kisirlastirilmis-kedi-mamasi-4-kg-p-PTANNA251100066?magaza=Mama%20D%C3%BCnyas%C4%B1">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/Ekranda Pazar Mağazası">EKRANDA PAZAR - HB</td>

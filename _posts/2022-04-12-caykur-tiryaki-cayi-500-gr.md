@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Tiryaki Çayı 500 gr"
-date:   2022-04-12 6:44:51 +0300
+date:   2022-04-12 13:01:28 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-500-gr-17ef.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-04-12 9:44:51
+Son Güncelleme: 2022-04-12 16:01:28
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-500-gr-17ef.jpg" width="200" alt="Çaykur Tiryaki Çayı 500 gr market fiyatları" />
 
