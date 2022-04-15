@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Sade 500 gr"
-date:   2022-04-15 6:38:59 +0300
+date:   2022-04-15 13:58:31 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-500-gr-18f2.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-15 9:38:59
+Son Güncelleme: 2022-04-15 16:58:31
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-500-gr-18f2.jpg" width="200" alt="Koska Helva Sade 500 gr market fiyatları" />
 
@@ -35,6 +35,10 @@ Marka: Koska
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>27,50 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/koska-sade-helva-500-g-paket-p-30090805">satın al</a></td>
+            </tr><tr>
+              <td title="Bizim Toptan">BIZIM TOPTAN</td>
+              <td>29,50 TL</td>
+              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/koska-helva-sade-500-g">satın al</a></td>
             </tr><tr>
               <td title="Şok">ŞOK</td>
               <td>31,75 TL</td>

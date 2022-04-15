@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Biryağ Ayçiçek Yağı 1 Lt"
-date:   2022-04-15 6:16:40 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/biryag-aycicek-yagi-1-lt-e2af.jpg
+date:   2022-04-15 13:19:05 +0300
+image: https://ayb.akinoncdn.com/products/2019/01/22/5674/89778d85-4025-4b8c-b84f-dac80dd8a3ee_size780x780_quality60_cropCenter.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-04-15 9:16:40
+Son Güncelleme: 2022-04-15 16:19:05
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/biryag-aycicek-yagi-1-lt-e2af.jpg" width="200" alt="Biryağ Ayçiçek Yağı 1 Lt market fiyatları" />
+<img src="https://ayb.akinoncdn.com/products/2019/01/22/5674/89778d85-4025-4b8c-b84f-dac80dd8a3ee_size780x780_quality60_cropCenter.jpg" width="200" alt="Biryağ Ayçiçek Yağı 1 Lt market fiyatları" />
 
 Kategori: Gıda, Şekerleme
 <br />
@@ -24,10 +24,6 @@ Marka: Biryağ
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>43,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/biryag-aycicek-yagi-1-lt">satın al</a></td>
-            </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>43,95 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/biryag-aycicek-1-l/p/1796">satın al</a></td>
