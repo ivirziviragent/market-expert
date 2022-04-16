@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Kakaolu 500 gr"
-date:   2022-04-16 6:34:41 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-kakaolu-500-gr-821b.jpg
+date:   2022-04-16 13:28:14 +0300
+image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-16 9:34:41
+Son Güncelleme: 2022-04-16 16:28:14
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-kakaolu-500-gr-821b.jpg" width="200" alt="Seyidoğlu Helva Kakaolu 500 gr market fiyatları" />
+<img src="undefined" width="200" alt="Seyidoğlu Helva Kakaolu 500 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,25 +23,5 @@ Marka: Seyidoğlu
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>32,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/seyidoglu-helva-kakaolu-500-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Kim">KIM</td>
-              <td>36,29 TL</td>
-              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/seyidoglu-helva-500-gr-kakaolu">satın al</a></td>
-            </tr><tr>
-              <td title="Hakmar">HAKMAR</td>
-              <td>24,95 TL</td>
-              <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-kahvaltilik-seyidoglu-kakaolu-ve-sade-tahin-helvasi-500-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Showmar">SHOWMAR</td>
-              <td>28,65 TL</td>
-              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/seyidoglu-helva-500gr-kakaolu">satın al</a></td>
-            </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>29,99 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/seyidoglu-kakaolu-helva-500-gr/p/106205">satın al</a></td>
-            </tr>
+  
 </table>
