@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goo.n Premium Soft Bebek Bezi 1 Beden Premium Bant 50'li"
-date:   2022-04-17 6:51:50 +0300
+date:   2022-04-17 13:53:39 +0300
 image: https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/4902011856613_3.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-04-17 9:51:50
+Son Güncelleme: 2022-04-17 16:53:39
 
 <img src="https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/4902011856613_3.jpg" width="200" alt="Goo.n Premium Soft Bebek Bezi 1 Beden Premium Bant 50'li market fiyatları" />
 
@@ -32,12 +32,12 @@ Marka: Goon
               <td>71,99 TL</td>
               <td><a title="E-Bebek" target="_blank" href="https://www.e-bebek.com/goon-bebek-bezi-premium-soft-1-beden-jumbo-yenidogan-paket-50-adet-2-5kg-p-gon-6613/">satın al</a></td>
             </tr><tr>
-              <td title="Hepsiburada/Farmaucuz Mağazası">FARMAUCUZ - HB</td>
-              <td>99,00 TL</td>
-              <td><a title="Hepsiburada/Farmaucuz Mağazası" target="_blank" href="https://www.hepsiburada.com/goon-premium-soft-bebek-bezi-1-beden-50-li-p-HBCV00000XFEOU?magaza=FARMAUCUZ">satın al</a></td>
-            </tr><tr>
               <td title="Hepsiburada/Ekmelgross Mağazası">EKMELGROSS - HB</td>
               <td>119,90 TL</td>
               <td><a title="Hepsiburada/Ekmelgross Mağazası" target="_blank" href="https://www.hepsiburada.com/goon-premium-soft-bebek-bezi-1-beden-50-li-p-HBCV00000XFEOU?magaza=Ekmelgross">satın al</a></td>
+            </tr><tr>
+              <td title="Hepsiburada/Farmaucuz Mağazası">FARMAUCUZ - HB</td>
+              <td>149,90 TL</td>
+              <td><a title="Hepsiburada/Farmaucuz Mağazası" target="_blank" href="https://www.hepsiburada.com/goon-premium-soft-bebek-bezi-1-beden-50-li-p-HBCV00000XFEOU?magaza=FARMAUCUZ">satın al</a></td>
             </tr>
 </table>

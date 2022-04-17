@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Prima Bebek Bezi Premium Care 2 Beden 60 Adet Ekonomik Paket"
-date:   2022-04-17 6:53:33 +0300
+date:   2022-04-17 13:55:24 +0300
 image: https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/8001841742236_3.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-04-17 9:53:33
+Son Güncelleme: 2022-04-17 16:55:24
 
 <img src="https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/8001841742236_3.jpg" width="200" alt="Prima Bebek Bezi Premium Care 2 Beden 60 Adet Ekonomik Paket market fiyatları" />
 
