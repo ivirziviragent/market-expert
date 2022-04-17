@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sinangil Un 2 kg"
-date:   2022-04-16 21:14:21 +0300
+date:   2022-04-17 6:10:13 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sinangil-un-2-kg-1be4e-.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-04-17 0:14:21
+Son Güncelleme: 2022-04-17 9:10:13
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sinangil-un-2-kg-1be4e-.jpg" width="200" alt="Sinangil Un 2 kg market fiyatları" />
 
@@ -36,13 +36,13 @@ Marka: Sinangil
               <td>29,95 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/sinangil-un-2-kg-p-4c8c37">satın al</a></td>
             </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>29,95 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/sinangil-un-2-kg/p/60069">satın al</a></td>
-            </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>29,95 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/sinangil-un-2-kg-p-4c8c37">satın al</a></td>
+            </tr><tr>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>31,15 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/sinangil-un-2-kg/p/60069">satın al</a></td>
             </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>33,90 TL</td>

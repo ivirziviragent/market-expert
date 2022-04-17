@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çotanak Fındık Yağı Teneke 2 lt"
-date:   2022-04-16 21:21:15 +0300
+date:   2022-04-17 6:16:46 +0300
 image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2e/hfd/8895581552670/127642_0_521Wx521H
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-04-17 0:21:15
+Son Güncelleme: 2022-04-17 9:16:46
 
 <img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2e/hfd/8895581552670/127642_0_521Wx521H" width="200" alt="Çotanak Fındık Yağı Teneke 2 lt market fiyatları" />
 
@@ -37,7 +37,7 @@ Marka: Çotanak
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/cotanak-findik-yagi-2-lt-p-6277">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
-              <td>169,95 TL</td>
+              <td>176,75 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/cotanak-findik-yagi-2-l/p/127642">satın al</a></td>
             </tr>
 </table>

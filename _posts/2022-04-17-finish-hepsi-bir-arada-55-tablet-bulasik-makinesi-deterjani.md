@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Finish Hepsi Bir Arada 55 Tablet Bulaşık Makinesi Deterjanı"
-date:   2022-04-16 21:20:44 +0300
+date:   2022-04-17 6:16:17 +0300
 image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h1b/ha8/8887022190622/449773_0_521Wx521H
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-04-17 0:20:44
+Son Güncelleme: 2022-04-17 9:16:17
 
 <img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h1b/ha8/8887022190622/449773_0_521Wx521H" width="200" alt="Finish Hepsi Bir Arada 55 Tablet Bulaşık Makinesi Deterjanı market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Finish
   </tr>
   <tr>
               <td title="Mopaş">MOPAŞ</td>
-              <td>93,60 TL</td>
+              <td>89,96 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/finish-tablet-hba-55li/p/449773">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>

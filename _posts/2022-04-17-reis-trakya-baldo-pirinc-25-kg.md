@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Reis Trakya Baldo Pirinç 2.5 kg"
-date:   2022-04-16 22:27:34 +0300
+date:   2022-04-17 7:04:56 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-2.5-kg-f392.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-04-17 1:27:34
+Son Güncelleme: 2022-04-17 10:04:56
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-2.5-kg-f392.jpg" width="200" alt="Reis Trakya Baldo Pirinç 2.5 kg market fiyatları" />
 
@@ -29,7 +29,7 @@ Marka: Reis
               <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/reis-baldo-pirinc-2-5-kg">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
-              <td>52,95 TL</td>
+              <td>55,05 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/hunkar-osmancik-pirinc-25-kg/p/105696">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>

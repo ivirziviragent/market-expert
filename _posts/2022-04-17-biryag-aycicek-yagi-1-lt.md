@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Biryağ Ayçiçek Yağı 1 Lt"
-date:   2022-04-16 21:22:18 +0300
+date:   2022-04-17 6:17:47 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/biryag-aycicek-yagi-1-lt-e2af.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-04-17 0:22:18
+Son Güncelleme: 2022-04-17 9:17:47
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/biryag-aycicek-yagi-1-lt-e2af.jpg" width="200" alt="Biryağ Ayçiçek Yağı 1 Lt market fiyatları" />
 
@@ -28,13 +28,13 @@ Marka: Biryağ
               <td>43,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/biryag-aycicek-yagi-1-lt">satın al</a></td>
             </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>43,95 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/biryag-aycicek-1-l/p/1796">satın al</a></td>
-            </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>45,25 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/biryag-aycicek-yagi-1-lt-p-30072273">satın al</a></td>
+            </tr><tr>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>45,70 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/biryag-aycicek-1-l/p/1796">satın al</a></td>
             </tr><tr>
               <td title="Happy Center">HAPPY CENTER</td>
               <td>52,45 TL</td>
