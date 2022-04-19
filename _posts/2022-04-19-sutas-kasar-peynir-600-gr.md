@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Kaşar Peynir 600 gr"
-date:   2022-04-19 6:30:34 +0300
+date:   2022-04-19 13:30:32 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-600-gr-9fb4.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-19 9:30:34
+Son Güncelleme: 2022-04-19 16:30:32
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-600-gr-9fb4.jpg" width="200" alt="Sütaş Kaşar Peynir 600 gr market fiyatları" />
 

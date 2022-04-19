@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Fıstıklı 200 gr"
-date:   2022-04-19 6:45:21 +0300
+date:   2022-04-19 13:45:23 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-200-gr-5a52.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-19 9:45:21
+Son Güncelleme: 2022-04-19 16:45:23
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-200-gr-5a52.jpg" width="200" alt="Koska Helva Fıstıklı 200 gr market fiyatları" />
 
@@ -36,10 +36,6 @@ Marka: Koska
               <td>20,80 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/koska-fistikli-helva-paket-200-g-p-6c085b">satın al</a></td>
             </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>21,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-fistikli-200-gr">satın al</a></td>
-            </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>20,80 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/koska-fistikli-helva-paket-200-g-p-6c085b">satın al</a></td>
@@ -48,6 +44,10 @@ Marka: Koska
               <td>20,95 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/koska-fistikli-helva-200-gr">satın al</a></td>
             </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>21,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-fistikli-200-gr">satın al</a></td>
+            </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>21,99 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/koska-helva-fistikli-200-gr/p/93097">satın al</a></td>
@@ -55,5 +55,9 @@ Marka: Koska
               <td title="Kim">KIM</td>
               <td>23,09 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/koska-helva-200-gr-fistikli">satın al</a></td>
+            </tr><tr>
+              <td title="Happy Center">HAPPY CENTER</td>
+              <td>24,10 TL</td>
+              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Koska_200_Gr_Helva_Antep_Fistikli">satın al</a></td>
             </tr>
 </table>

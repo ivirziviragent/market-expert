@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Muratbey Kaşar Peynir 600 gr"
-date:   2022-04-19 6:31:53 +0300
+date:   2022-04-19 13:31:56 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/muratbey-kasar-peynir-500-gr-2-9e4a.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-19 9:31:53
+Son Güncelleme: 2022-04-19 16:31:56
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/muratbey-kasar-peynir-500-gr-2-9e4a.jpg" width="200" alt="Muratbey Kaşar Peynir 600 gr market fiyatları" />
 
@@ -24,6 +24,10 @@ Marka: Murat Bey
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Showmar">SHOWMAR</td>
+              <td>59,95 TL</td>
+              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/muratbey-t-kasar-600gr">satın al</a></td>
+            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>63,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/muratbey-kasar-peynir-600-gr">satın al</a></td>
@@ -32,9 +36,9 @@ Marka: Murat Bey
               <td>72,47 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/muratbey-taze-kasar-peyniri-600-g-p-9a3f62">satın al</a></td>
             </tr><tr>
-              <td title="Showmar">SHOWMAR</td>
-              <td>59,95 TL</td>
-              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/muratbey-t-kasar-600gr">satın al</a></td>
+              <td title="Kim">KIM</td>
+              <td>62,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/muratbey-taze-kasar-600-gr">satın al</a></td>
             </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>71,45 TL</td>
