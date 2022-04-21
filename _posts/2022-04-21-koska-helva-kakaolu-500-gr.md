@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Kakaolu 500 gr"
-date:   2022-04-21 6:42:21 +0300
+date:   2022-04-21 13:43:17 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-kakaolu-500-gr-b950.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-21 9:42:21
+Son Güncelleme: 2022-04-21 16:43:17
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-kakaolu-500-gr-b950.jpg" width="200" alt="Koska Helva Kakaolu 500 gr market fiyatları" />
 
@@ -55,10 +55,6 @@ Marka: Koska
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>34,90 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/koska-tahin-helvasi-kakaolu-500-gr-p-547666">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>36,70 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Koska_500_Gr_Helva_Kakaolu">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
               <td>38,49 TL</td>
