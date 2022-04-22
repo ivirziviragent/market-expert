@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Evony Cerrahi Maske Siyah 50 li"
-date:   2022-04-22 8:54:25 +0300
+date:   2022-04-22 13:21:35 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/evony-cerrahi-maske-siyah-50-li-624-6c.jpg
 categories: saglik-urunleri
 tags: saglik-urunleri
 ---
 
-Son Güncelleme: 2022-04-22 11:54:25
+Son Güncelleme: 2022-04-22 16:21:35
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/evony-cerrahi-maske-siyah-50-li-624-6c.jpg" width="200" alt="Evony Cerrahi Maske Siyah 50 li market fiyatları" />
 
@@ -32,12 +32,12 @@ Marka: Evony
               <td>19,95 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/evony-cerrahi-maske-siyah-50li/p/858965">satın al</a></td>
             </tr><tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>26,90 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/evony-cerrahi-maske-yumusak-lastikli-50-adet-3-katli-p-550983">satın al</a></td>
+            </tr><tr>
               <td title="Onur Market">ONUR MARKET</td>
               <td>29,99 TL</td>
               <td><a title="Onur Market" target="_blank" href="https://www.onurmarket.com/-evony-cerrahi-maske-cocuk-kids-50-li--69105">satın al</a></td>
-            </tr><tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>36,90 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/evony-cerrahi-maske-yumusak-lastikli-50-adet-3-katli-p-550983">satın al</a></td>
             </tr>
 </table>

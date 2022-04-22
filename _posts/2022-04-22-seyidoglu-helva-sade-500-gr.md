@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Sade 500 gr"
-date:   2022-04-22 9:10:46 +0300
+date:   2022-04-22 13:37:58 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-sade-500-gr-b4bb.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-22 12:10:46
+Son Güncelleme: 2022-04-22 16:37:58
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-sade-500-gr-b4bb.jpg" width="200" alt="Seyidoğlu Helva Sade 500 gr market fiyatları" />
 
@@ -31,10 +31,6 @@ Marka: Seyidoğlu
               <td title="Kim">KIM</td>
               <td>32,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/seyidoglu-helva-500-gr-sade">satın al</a></td>
-            </tr><tr>
-              <td title="Hakmar">HAKMAR</td>
-              <td>24,95 TL</td>
-              <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-kahvaltilik-seyidoglu-kakaolu-ve-sade-tahin-helvasi-500-gr">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>28,65 TL</td>

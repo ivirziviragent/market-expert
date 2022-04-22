@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Tadım Kabuklu Yer Fıstığı 250 G"
-date:   2022-04-22 8:57:33 +0300
+date:   2022-04-22 13:24:44 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/tadim-kavrulmus-kabuklu-yer-fistigi-25-f75-b6.jpg
 categories: atistirmalik
 tags: atistirmalik
 ---
 
-Son Güncelleme: 2022-04-22 11:57:33
+Son Güncelleme: 2022-04-22 16:24:44
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/tadim-kavrulmus-kabuklu-yer-fistigi-25-f75-b6.jpg" width="200" alt="Tadım Kabuklu Yer Fıstığı 250 G market fiyatları" />
 
@@ -35,9 +35,5 @@ Marka: Tadım
               <td title="Mopaş">MOPAŞ</td>
               <td>20,80 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/tadim-kabuklu-fistik-250-gr/p/367174">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>21,00 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Tadim_250_Gr_Kabuklu_Yer_Fistigi">satın al</a></td>
             </tr>
 </table>

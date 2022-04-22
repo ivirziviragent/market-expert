@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çotanak Fındık Yağı Teneke 2 lt"
-date:   2022-04-22 8:50:10 +0300
+date:   2022-04-22 13:17:20 +0300
 image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2e/hfd/8895581552670/127642_0_521Wx521H
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-04-22 11:50:10
+Son Güncelleme: 2022-04-22 16:17:20
 
 <img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2e/hfd/8895581552670/127642_0_521Wx521H" width="200" alt="Çotanak Fındık Yağı Teneke 2 lt market fiyatları" />
 
@@ -31,10 +31,6 @@ Marka: Çotanak
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>111,15 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/cotanak-findik-yagi-2-lt-p-30032060">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>155,95 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Cotanak_Y_findik_Yagi_2_Lt_Pet">satın al</a></td>
             </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>165,99 TL</td>

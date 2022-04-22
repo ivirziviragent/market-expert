@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Dardanel Ton 2x150 gr"
-date:   2022-04-22 10:02:03 +0300
+date:   2022-04-22 14:12:06 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-2x150-gr-810b.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-04-22 13:02:03
+Son Güncelleme: 2022-04-22 17:12:06
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-2x150-gr-810b.jpg" width="200" alt="Dardanel Ton 2x150 gr market fiyatları" />
 
@@ -28,13 +28,13 @@ Marka: Dardanel
               <td>33,90 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/dardanel-ekonomik-ton-2x150-g-p-89b738">satın al</a></td>
             </tr><tr>
-              <td title="Bizim Toptan">BIZIM TOPTAN</td>
-              <td>45,90 TL</td>
-              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/dardanel-ekonomik-ton-baligi-2x150-gr">satın al</a></td>
-            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>52,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/dardanel-ton-2x150-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Bizim Toptan">BIZIM TOPTAN</td>
+              <td>45,90 TL</td>
+              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/dardanel-ekonomik-ton-baligi-2x150-gr">satın al</a></td>
             </tr><tr>
               <td title="Avansas">AVANSAS</td>
               <td>53,26 TL</td>
@@ -43,10 +43,6 @@ Marka: Dardanel
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>53,52 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/dardanel-ton-2x150-g-p-30097066">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>56,85 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Dardanel_160_Gr_X_2_Ton_Balik">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>63,45 TL</td>
