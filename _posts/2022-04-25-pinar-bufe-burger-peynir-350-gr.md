@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Pınar Büfe Burger Peynir 350 gr"
-date:   2022-04-25 6:52:24 +0300
+date:   2022-04-25 13:51:34 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/pinar-bufe-burger-peynir-350-gr--706b-.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-04-25 9:52:24
+Son Güncelleme: 2022-04-25 16:51:34
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/pinar-bufe-burger-peynir-350-gr--706b-.jpg" width="200" alt="Pınar Büfe Burger Peynir 350 gr market fiyatları" />
 

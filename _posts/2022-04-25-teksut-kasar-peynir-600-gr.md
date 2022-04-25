@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Teksüt Kaşar Peynir 600 gr"
-date:   2022-04-25 6:35:09 +0300
+date:   2022-04-25 13:34:22 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-600-gr-692b.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-25 9:35:09
+Son Güncelleme: 2022-04-25 16:34:22
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-600-gr-692b.jpg" width="200" alt="Teksüt Kaşar Peynir 600 gr market fiyatları" />
 

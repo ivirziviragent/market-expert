@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Zeki Osmancık Pirinç 2.5 kg"
-date:   2022-04-25 7:09:53 +0300
+date:   2022-04-25 14:09:16 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/zeki-osmancik-pirinc-2.5-kg-8b-611.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-04-25 10:09:53
+Son Güncelleme: 2022-04-25 17:09:16
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/zeki-osmancik-pirinc-2.5-kg-8b-611.jpg" width="200" alt="Zeki Osmancık Pirinç 2.5 kg market fiyatları" />
 
