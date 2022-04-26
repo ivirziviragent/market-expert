@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Reis Trakya Baldo Pirinç 1 kg"
-date:   2022-04-26 7:25:55 +0300
+date:   2022-04-26 14:07:52 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-1-kg-473f.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-04-26 10:25:55
+Son Güncelleme: 2022-04-26 17:07:52
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-1-kg-473f.jpg" width="200" alt="Reis Trakya Baldo Pirinç 1 kg market fiyatları" />
 
@@ -37,7 +37,7 @@ Marka: Reis
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/reis-trakya-baldo-1000-gr">satın al</a></td>
             </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>26,95 TL</td>
+              <td>27,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/reis-trakya-baldo-pirinc-1-kg">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
@@ -51,9 +51,5 @@ Marka: Reis
               <td title="Mopaş">MOPAŞ</td>
               <td>36,35 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/reis-trakya-baldo-pirinc-1-kg/p/61395">satın al</a></td>
-            </tr><tr>
-              <td title="ToptanTR">TOPTANTR</td>
-              <td>251,88 TL</td>
-              <td><a title="ToptanTR" target="_blank" href="https://www.toptantr.com/tr/reis-trakya-baldo-pirinc">satın al</a></td>
             </tr>
 </table>

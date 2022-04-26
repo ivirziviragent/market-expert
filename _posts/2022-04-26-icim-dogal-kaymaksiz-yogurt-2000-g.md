@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Doğal Kaymaksız Yoğurt 2000 g"
-date:   2022-04-26 6:36:40 +0300
+date:   2022-04-26 13:18:45 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-dogal-yogurt-2-kg-fa2-bb.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-26 9:36:40
+Son Güncelleme: 2022-04-26 16:18:45
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-dogal-yogurt-2-kg-fa2-bb.jpg" width="200" alt="İçim Doğal Kaymaksız Yoğurt 2000 g market fiyatları" />
 
@@ -35,6 +35,10 @@ Marka: İçim
               <td title="Mopaş">MOPAŞ</td>
               <td>31,99 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/icim-dogal-yogurt-2000-gr/p/670365">satın al</a></td>
+            </tr><tr>
+              <td title="Kim">KIM</td>
+              <td>32,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/icim-yogurt-2000-gr-dogal-kaymaksiz">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>33,55 TL</td>
