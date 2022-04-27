@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Evony Cerrahi Maske Siyah 50 li"
-date:   2022-04-27 6:27:19 +0300
+date:   2022-04-27 13:42:37 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/evony-cerrahi-maske-siyah-50-li-624-6c.jpg
 categories: saglik-urunleri
 tags: saglik-urunleri
 ---
 
-Son Güncelleme: 2022-04-27 9:27:19
+Son Güncelleme: 2022-04-27 16:42:37
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/evony-cerrahi-maske-siyah-50-li-624-6c.jpg" width="200" alt="Evony Cerrahi Maske Siyah 50 li market fiyatları" />
 
@@ -24,6 +24,10 @@ Marka: Evony
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Migros">MIGROS</td>
+              <td>19,95 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/evony-3-katli-cerrahi-siyah-maske-50li-p-1e22e6b">satın al</a></td>
+            </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>19,95 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/evony-cerrahi-maske-siyah-50li/p/858965">satın al</a></td>

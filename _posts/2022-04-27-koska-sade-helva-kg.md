@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Sade Helva kg"
-date:   2022-04-27 6:55:22 +0300
+date:   2022-04-27 14:06:35 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-sade-helva-kg-5c38.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-27 9:55:22
+Son Güncelleme: 2022-04-27 17:06:35
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-sade-helva-kg-5c38.jpg" width="200" alt="Koska Sade Helva kg market fiyatları" />
 
@@ -39,9 +39,5 @@ Marka: Koska
               <td title="Showmar">SHOWMAR</td>
               <td>71,95 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/koska-helva-sade-kg">satın al</a></td>
-            </tr><tr>
-              <td title="Macro Center">MACRO CENTER</td>
-              <td>95,62 TL</td>
-              <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/koska-fistikli-blok-helva-kg-p-6c0892">satın al</a></td>
             </tr>
 </table>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Fıstıklı 500 gr"
-date:   2022-04-27 6:54:25 +0300
+date:   2022-04-27 14:05:31 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-500-gr-f131.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-27 9:54:25
+Son Güncelleme: 2022-04-27 17:05:31
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-500-gr-f131.jpg" width="200" alt="Koska Helva Fıstıklı 500 gr market fiyatları" />
 
@@ -44,10 +44,6 @@ Marka: Koska
               <td>50,92 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/koska-fistikli-helva-paket-500-g-p-6c0856">satın al</a></td>
             </tr><tr>
-              <td title="Macro Center">MACRO CENTER</td>
-              <td>50,92 TL</td>
-              <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/koska-fistikli-helva-paket-500-g-p-6c0856">satın al</a></td>
-            </tr><tr>
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>51,75 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/koska-fistikli-helva-500-gr_KSK15-AD">satın al</a></td>
@@ -59,9 +55,5 @@ Marka: Koska
               <td title="Kim">KIM</td>
               <td>54,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/koska-helva-500-gr-fistikli">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>57,70 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Koska_500_Gr_Helva_Antep_Fistikli">satın al</a></td>
             </tr>
 </table>

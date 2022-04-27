@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Tiryaki Çayı 500 gr"
-date:   2022-04-27 6:01:49 +0300
+date:   2022-04-27 13:05:34 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-500-gr-17ef.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-04-27 9:01:49
+Son Güncelleme: 2022-04-27 16:05:34
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-500-gr-17ef.jpg" width="200" alt="Çaykur Tiryaki Çayı 500 gr market fiyatları" />
 
@@ -24,6 +24,10 @@ Marka: Çaykur
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Migros">MIGROS</td>
+              <td>23,84 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/caykur-tiryaki-500-g-p-2f7994">satın al</a></td>
+            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>23,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/caykur-tiryaki-cayi-500-gr">satın al</a></td>

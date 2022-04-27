@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Doğuş Karadeniz Çayı 1000 G"
-date:   2022-04-27 6:03:14 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/dogus-karadeniz-cayi-1000-gr-9999.jpg
+date:   2022-04-27 13:06:29 +0300
+image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-04-27 9:03:14
+Son Güncelleme: 2022-04-27 16:06:29
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/dogus-karadeniz-cayi-1000-gr-9999.jpg" width="200" alt="Doğuş Karadeniz Çayı 1000 G market fiyatları" />
+<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg" width="200" alt="Doğuş Karadeniz Çayı 1000 G market fiyatları" />
 
 Kategori: Çay, Kahve
 <br />
@@ -24,6 +24,10 @@ Marka: Doğuş
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Migros">MIGROS</td>
+              <td>39,25 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/dogus-karadeniz-cayi-1000-g-p-2f947e">satın al</a></td>
+            </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>39,25 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/dogus-karadeniz-cayi-1000-g-p-2f947e">satın al</a></td>
