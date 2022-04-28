@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sleepy Natural Jumbo Midi 34'lü"
-date:   2022-04-28 7:08:00 +0300
+date:   2022-04-28 14:02:28 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sleepy-jumbo-midi-34lu-912a-6.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-04-28 10:08:00
+Son Güncelleme: 2022-04-28 17:02:28
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sleepy-jumbo-midi-34lu-912a-6.jpg" width="200" alt="Sleepy Natural Jumbo Midi 34'lü market fiyatları" />
 
@@ -31,10 +31,6 @@ Marka: Sleepy
               <td title="ToptanTR">TOPTANTR</td>
               <td>47,32 TL</td>
               <td><a title="ToptanTR" target="_blank" href="https://www.toptantr.com/tr/sleepy-natural-jumbo-34lu-midi-4-9kg-no3">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>52,68 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Sleepy_Sensitive_Jumbo_Midi">satın al</a></td>
             </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>56,50 TL</td>

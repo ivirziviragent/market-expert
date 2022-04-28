@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Red Bull Enerji İçeceği 250 ml"
-date:   2022-04-28 6:24:14 +0300
+date:   2022-04-28 13:22:03 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg
 categories: icecekler
 tags: icecekler
 ---
 
-Son Güncelleme: 2022-04-28 9:24:14
+Son Güncelleme: 2022-04-28 16:22:03
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg" width="200" alt="Red Bull Enerji İçeceği 250 ml market fiyatları" />
 
@@ -47,10 +47,6 @@ Marka: Red Bull
               <td title="Mopaş">MOPAŞ</td>
               <td>11,95 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/red-bull-sekeriz-250-ml/p/495457">satın al</a></td>
-            </tr><tr>
-              <td title="Show Market">SHOW MARKET</td>
-              <td>13,99 TL</td>
-              <td><a title="Show Market" target="_blank" href="https://www.showsanal.com/product/red-bull-enerji-icecegi-250-ml/76d6e1db-900f-45bc-8305-a84f5354eebd">satın al</a></td>
             </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>11,95 TL</td>

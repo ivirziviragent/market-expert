@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Taze Kaşar 400 Gr"
-date:   2022-04-28 6:36:53 +0300
+date:   2022-04-28 13:34:37 +0300
 image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h65/hef/8939144577054/104912_0_521Wx521H
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-28 9:36:53
+Son Güncelleme: 2022-04-28 16:34:37
 
 <img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h65/hef/8939144577054/104912_0_521Wx521H" width="200" alt="İçim Taze Kaşar 400 Gr market fiyatları" />
 
@@ -47,9 +47,5 @@ Marka: İçim
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>43,95 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/icim-kasar-peyniri-400-g-p-30220414">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>49,05 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Icim_Kasar_Peynir__500_Gr_">satın al</a></td>
             </tr>
 </table>
