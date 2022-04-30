@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Cevizli 200 gr"
-date:   2022-04-30 6:45:26 +0300
+date:   2022-04-30 13:45:00 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-cevizli-200-gr-8288.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-30 9:45:26
+Son Güncelleme: 2022-04-30 16:45:00
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-cevizli-200-gr-8288.jpg" width="200" alt="Koska Helva Cevizli 200 gr market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Koska
   </tr>
   <tr>
               <td title="Showmar">SHOWMAR</td>
-              <td>13,50 TL</td>
+              <td>16,30 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/koska-helva-cevizli-200gr">satın al</a></td>
             </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>

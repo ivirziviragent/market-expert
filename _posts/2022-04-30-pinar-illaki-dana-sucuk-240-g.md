@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Pınar İllaki Dana Sucuk 240 G"
-date:   2022-04-30 6:09:26 +0300
+date:   2022-04-30 13:09:06 +0300
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/14209433/14209433-7957ed-1650x1650.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-30 9:09:26
+Son Güncelleme: 2022-04-30 16:09:06
 
 <img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/14209433/14209433-7957ed-1650x1650.jpg" width="200" alt="Pınar İllaki Dana Sucuk 240 G market fiyatları" />
 

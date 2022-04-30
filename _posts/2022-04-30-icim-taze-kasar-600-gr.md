@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Taze Kaşar 600 gr"
-date:   2022-04-30 6:35:01 +0300
+date:   2022-04-30 13:35:01 +0300
 image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h9f/hde/8939149557790/751626_0_521Wx521H
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-04-30 9:35:01
+Son Güncelleme: 2022-04-30 16:35:01
 
 <img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h9f/hde/8939149557790/751626_0_521Wx521H" width="200" alt="İçim Taze Kaşar 600 gr market fiyatları" />
 
