@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Yudum Ayçiçek Yağı 1 Lt"
-date:   2022-05-01 6:27:17 +0300
+date:   2022-05-01 13:28:04 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-05-01 9:27:17
+Son Güncelleme: 2022-05-01 16:28:04
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg" width="200" alt="Yudum Ayçiçek Yağı 1 Lt market fiyatları" />
 
@@ -52,10 +52,6 @@ Marka: Yudum
               <td>50,90 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/yudum-aycicek-yagi-1-l/p/1840">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>52,45 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Yudum_Y_aycicek_Yagi_1_Lt">satın al</a></td>
-            </tr><tr>
               <td title="Avansas">AVANSAS</td>
               <td>53,65 TL</td>
               <td><a title="Avansas" target="_blank" href="https://www.avansas.com/yudum-aycicek-yagi-1-lt-p-90930">satın al</a></td>
@@ -63,5 +59,9 @@ Marka: Yudum
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>56,50 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/yudum-aycicek-yagi-1-lt-p-30040683">satın al</a></td>
+            </tr><tr>
+              <td title="Show Market">SHOW MARKET</td>
+              <td>56,99 TL</td>
+              <td><a title="Show Market" target="_blank" href="https://www.showsanal.com/product/yudum-yag-aycicek-1-lt/8ca4c857-d986-456d-8b01-1090c5143145">satın al</a></td>
             </tr>
 </table>

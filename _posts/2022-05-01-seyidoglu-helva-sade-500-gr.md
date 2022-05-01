@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Sade 500 gr"
-date:   2022-05-01 6:38:47 +0300
-image: https://www.kimgeldi.com//images/thumbs/0019326_seyidoglu-helva-sade-500-gr-_510.jpeg
+date:   2022-05-01 13:39:39 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-sade-500-gr-b4bb.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-01 9:38:47
+Son Güncelleme: 2022-05-01 16:39:39
 
-<img src="https://www.kimgeldi.com//images/thumbs/0019326_seyidoglu-helva-sade-500-gr-_510.jpeg" width="200" alt="Seyidoğlu Helva Sade 500 gr market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-sade-500-gr-b4bb.jpg" width="200" alt="Seyidoğlu Helva Sade 500 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -24,6 +24,10 @@ Marka: Seyidoğlu
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>32,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/seyidoglu-helva-sade-500-gr">satın al</a></td>
+            </tr><tr>
               <td title="Kim">KIM</td>
               <td>36,29 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/seyidoglu-helva-500-gr-sade">satın al</a></td>
