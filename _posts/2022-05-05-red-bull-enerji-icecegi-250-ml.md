@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Red Bull Enerji İçeceği 250 ml"
-date:   2022-05-05 6:22:53 +0300
+date:   2022-05-05 13:23:46 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg
 categories: icecekler
 tags: icecekler
 ---
 
-Son Güncelleme: 2022-05-05 9:22:53
+Son Güncelleme: 2022-05-05 16:23:46
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg" width="200" alt="Red Bull Enerji İçeceği 250 ml market fiyatları" />
 
@@ -59,10 +59,6 @@ Marka: Red Bull
               <td title="Kim">KIM</td>
               <td>13,79 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/red-bull-250-ml-sekersiz">satın al</a></td>
-            </tr><tr>
-              <td title="Show Market">SHOW MARKET</td>
-              <td>13,99 TL</td>
-              <td><a title="Show Market" target="_blank" href="https://www.showsanal.com/product/red-bull-enerji-icecegi-250-ml/76d6e1db-900f-45bc-8305-a84f5354eebd">satın al</a></td>
             </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>14,45 TL</td>

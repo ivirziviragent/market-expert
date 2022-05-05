@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sanicat Active Aktif Oksijenli Dezenfektan Marsilya Sabun Kokulu Kedi Kumu 10lt 398-0012"
-date:   2022-05-05 7:17:12 +0300
+date:   2022-05-05 14:00:21 +0300
 image: https://cdn.dsmcdn.com/ty416/product/media/images/20220502/22/101053534/10258947/1/1_org_zoom.jpg
 categories: evcil-hayvan-urunleri
 tags: evcil-hayvan-urunleri
 ---
 
-Son Güncelleme: 2022-05-05 10:17:12
+Son Güncelleme: 2022-05-05 17:00:21
 
 <img src="https://cdn.dsmcdn.com/ty416/product/media/images/20220502/22/101053534/10258947/1/1_org_zoom.jpg" width="200" alt="Sanicat Active Aktif Oksijenli Dezenfektan Marsilya Sabun Kokulu Kedi Kumu 10lt 398-0012 market fiyatları" />
 
@@ -25,12 +25,8 @@ Marka: Sanicat
   </tr>
   <tr>
               <td title="Trendyol/Petartı Mağazası">PETARTI - TY</td>
-              <td>145 TL</td>
+              <td>159 TL</td>
               <td><a title="Trendyol/Petartı Mağazası" target="_blank" href="https://www.trendyol.com/sanicat/active-aktif-oksijenli-dezenfektan-marsilya-sabun-kokulu-kedi-kumu-10lt-p-925381">satın al</a></td>
-            </tr><tr>
-              <td title="N11/ISIKPETSHOP Mağazası">ISIKPETSHOP - N11</td>
-              <td>160,00 TL</td>
-              <td><a title="N11/ISIKPETSHOP Mağazası" target="_blank" href="https://www.n11.com/urun/sanicat-active-oksijenli-dezanfektan-ince-taneli-topaklasan-bentonit-kedi-kumu-10-l-529104">satın al</a></td>
             </tr><tr>
               <td title="GittiGidiyor/minik dostlar pet Mağazası">MINIK DOSTLAR PET - GG</td>
               <td>164,99 TL</td>
