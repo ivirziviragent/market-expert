@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Kaşar 1 kg"
-date:   2022-05-06 6:33:19 +0300
+date:   2022-05-06 13:33:59 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-kasar-kg-6804.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-06 9:33:19
+Son Güncelleme: 2022-05-06 16:33:59
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-kasar-kg-6804.jpg" width="200" alt="İçim Kaşar 1 kg market fiyatları" />
 
@@ -24,10 +24,6 @@ Marka: İçim
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>98,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/icim-kasar-kg">satın al</a></td>
-            </tr><tr>
               <td title="Kim">KIM</td>
               <td>89,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/icim-taze-kasar-blok-kg">satın al</a></td>
@@ -36,8 +32,16 @@ Marka: İçim
               <td>94,95 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/icim-taze-kasar-kg">satın al</a></td>
             </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>98,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/icim-kasar-kg">satın al</a></td>
+            </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>98,95 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/icim-kasar-peyniri-1-kg-p-30098209">satın al</a></td>
+            </tr><tr>
+              <td title="Show Market">SHOW MARKET</td>
+              <td>124,99 TL</td>
+              <td><a title="Show Market" target="_blank" href="https://www.showsanal.com/product/icim-peynir-kasar-taze-kg/8642af44-966f-44b3-b23e-4535cb8642f4">satın al</a></td>
             </tr>
 </table>
