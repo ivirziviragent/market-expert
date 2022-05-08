@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Teksüt Kaşar 1 kg"
-date:   2022-05-08 7:55:51 +0300
-image: undefined
+date:   2022-05-08 13:48:47 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-kg-0df096.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-08 10:55:51
+Son Güncelleme: 2022-05-08 16:48:47
 
-<img src="undefined" width="200" alt="Teksüt Kaşar 1 kg market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-kg-0df096.jpg" width="200" alt="Teksüt Kaşar 1 kg market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,5 +23,9 @@ Marka: Teksüt
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>79,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/teksut-kasar-kg">satın al</a></td>
+            </tr>
 </table>

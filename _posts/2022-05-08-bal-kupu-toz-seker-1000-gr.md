@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Bal Küpü Toz Şeker 1000 gr"
-date:   2022-05-08 9:09:20 +0300
-image: undefined
+date:   2022-05-08 14:07:45 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/bal-kupu-toz-seker-1000-gr-90c4.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-05-08 12:09:20
+Son Güncelleme: 2022-05-08 17:07:45
 
-<img src="undefined" width="200" alt="Bal Küpü Toz Şeker 1000 gr market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/bal-kupu-toz-seker-1000-gr-90c4.jpg" width="200" alt="Bal Küpü Toz Şeker 1000 gr market fiyatları" />
 
 Kategori: Gıda, Şekerleme
 <br />

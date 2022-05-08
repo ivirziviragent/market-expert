@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Muratbey Piknik Kaşar Peynir 400 gr"
-date:   2022-05-08 7:56:31 +0300
-image: undefined
+date:   2022-05-08 13:48:57 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/muratbey-piknik-kasar-peynir-400-gr-ebae.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-08 10:56:31
+Son Güncelleme: 2022-05-08 16:48:57
 
-<img src="undefined" width="200" alt="Muratbey Piknik Kaşar Peynir 400 gr market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/muratbey-piknik-kasar-peynir-400-gr-ebae.jpg" width="200" alt="Muratbey Piknik Kaşar Peynir 400 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,5 +23,9 @@ Marka: Murat Bey
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>51,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/muratbey-piknik-kasar-peynir-400-gr">satın al</a></td>
+            </tr>
 </table>

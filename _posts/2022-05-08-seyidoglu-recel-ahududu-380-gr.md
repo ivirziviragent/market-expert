@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Seyidoğlu Reçel Ahududu 380 gr"
-date:   2022-05-08 10:13:28 +0300
-image: undefined
+date:   2022-05-08 14:30:01 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-recel-ahududu-380-gr-44b82b.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-08 13:13:28
+Son Güncelleme: 2022-05-08 17:30:01
 
-<img src="undefined" width="200" alt="Seyidoğlu Reçel Ahududu 380 gr market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-recel-ahududu-380-gr-44b82b.jpg" width="200" alt="Seyidoğlu Reçel Ahududu 380 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,5 +23,17 @@ Marka: Seyidoğlu
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Showmar">SHOWMAR</td>
+              <td>21,95 TL</td>
+              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/seyidoglu-recel-385gr-ahududu">satın al</a></td>
+            </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>27,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/seyidoglu-recel-ahududu-380-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Kim">KIM</td>
+              <td>28,35 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/seyidoglu-recel-380-gr-ahududu">satın al</a></td>
+            </tr>
 </table>

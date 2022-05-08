@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Kebir Trabzon Tereyağı 750 gr"
-date:   2022-05-08 6:30:41 +0300
-image: undefined
+date:   2022-05-08 13:26:04 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/kebir-trabzon-tereyagi-750-gr-8181.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-08 9:30:41
+Son Güncelleme: 2022-05-08 16:26:04
 
-<img src="undefined" width="200" alt="Kebir Trabzon Tereyağı 750 gr market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/kebir-trabzon-tereyagi-750-gr-8181.jpg" width="200" alt="Kebir Trabzon Tereyağı 750 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,5 +23,17 @@ Marka: Kebir
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Onur Market">ONUR MARKET</td>
+              <td>72,99 TL</td>
+              <td><a title="Onur Market" target="_blank" href="https://www.onurmarket.com/-kebir-tereyag-gurme-tuzsuz-750-gr--75526">satın al</a></td>
+            </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>89,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/kebir-trabzon-tereyagi-750gr?">satın al</a></td>
+            </tr><tr>
+              <td title="Kim">KIM</td>
+              <td>89,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/kebir-gurme-tereyagi-750-gr">satın al</a></td>
+            </tr>
 </table>

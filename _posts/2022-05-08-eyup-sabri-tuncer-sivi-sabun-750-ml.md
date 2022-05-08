@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Eyüp Sabri Tuncer Sıvı Sabun 750 ml"
-date:   2022-05-08 7:14:46 +0300
-image: undefined
+date:   2022-05-08 13:38:20 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/eyup-sabri-tuncer-sivi-sabun-750-ml-46ea.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-05-08 10:14:46
+Son Güncelleme: 2022-05-08 16:38:20
 
-<img src="undefined" width="200" alt="Eyüp Sabri Tuncer Sıvı Sabun 750 ml market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/eyup-sabri-tuncer-sivi-sabun-750-ml-46ea.jpg" width="200" alt="Eyüp Sabri Tuncer Sıvı Sabun 750 ml market fiyatları" />
 
 Kategori: Deterjan, Temizlik
 <br />
@@ -23,5 +23,21 @@ Marka: Eyüp Sabri Tuncer
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>21,55 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/eyup-sabri-tuncer-sivi-sabun-750-ml">satın al</a></td>
+            </tr><tr>
+              <td title="Hakmar">HAKMAR</td>
+              <td>22,95 TL</td>
+              <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/kisisel-bakim-eyup-sabri-tuncer-dogal-zeytinyagli-sivi-sabun-750-ml">satın al</a></td>
+            </tr><tr>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>31,99 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/eyup-sabri-tuncer-zeytinyagli-sivi-sabun-750-ml/p/772581">satın al</a></td>
+            </tr><tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>33,90 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/eyup-sabri-tuncer-dogal-zeytinyagli-sivi-sabun-750-ml-p-539648">satın al</a></td>
+            </tr>
 </table>

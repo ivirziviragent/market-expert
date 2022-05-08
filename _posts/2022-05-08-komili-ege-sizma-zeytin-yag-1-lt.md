@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Komili Ege Sızma Zeytin Yağ 1 lt"
-date:   2022-05-08 6:45:22 +0300
-image: undefined
+date:   2022-05-08 13:30:02 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/komili-sizma-zeytinyagi-1-lt-bb4f5f.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-05-08 9:45:22
+Son Güncelleme: 2022-05-08 16:30:02
 
-<img src="undefined" width="200" alt="Komili Ege Sızma Zeytin Yağ 1 lt market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/komili-sizma-zeytinyagi-1-lt-bb4f5f.jpg" width="200" alt="Komili Ege Sızma Zeytin Yağ 1 lt market fiyatları" />
 
 Kategori: Gıda, Şekerleme
 <br />
@@ -23,5 +23,25 @@ Marka: Komili
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>79,90 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/komili-sizma-zeytinyagi-1-lt">satın al</a></td>
+            </tr><tr>
+              <td title="Onur Market">ONUR MARKET</td>
+              <td>79,99 TL</td>
+              <td><a title="Onur Market" target="_blank" href="https://www.onurmarket.com/-komili-sizma-1-lt-pet--7589">satın al</a></td>
+            </tr><tr>
+              <td title="Kim">KIM</td>
+              <td>82,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/komili-z-yagi-sizma-1-lt">satın al</a></td>
+            </tr><tr>
+              <td title="Migros">MIGROS</td>
+              <td>88,90 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/komili-naturel-sizma-zeytinyagi-yumusak-lezzet-1-l-p-3f1231">satın al</a></td>
+            </tr><tr>
+              <td title="İste Gelsin">İSTE GELSIN</td>
+              <td>92,95 TL</td>
+              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/komili-sizma-zeytinyagi-1-l_BNG2-AD">satın al</a></td>
+            </tr>
 </table>
