@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Royal Canin Fhn Sterilised 37 Kısırlaştırılmış Kedi Maması 15 kg"
-date:   2022-05-09 6:58:34 +0300
+date:   2022-05-09 13:57:17 +0300
 image: https://productimages.hepsiburada.net/s/22/550/9943345430578.jpg
 categories: evcil-hayvan-urunleri
 tags: evcil-hayvan-urunleri
 ---
 
-Son Güncelleme: 2022-05-09 9:58:34
+Son Güncelleme: 2022-05-09 16:57:17
 
 <img src="https://productimages.hepsiburada.net/s/22/550/9943345430578.jpg" width="200" alt="Royal Canin Fhn Sterilised 37 Kısırlaştırılmış Kedi Maması 15 kg market fiyatları" />
 
@@ -41,15 +41,15 @@ Marka: Royal Canin
               <td><a title="N11/deepseapet Mağazası" target="_blank" href="https://www.n11.com/urun/royal-canin-sterilised-37-kisirlastirilmis-yetiskin-kedi-mamasi-15-kg-1129722?magaza=deepseapet">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/petidi Mağazası">PETIDI - HB</td>
-              <td>1099,99 TL</td>
+              <td>989,99 TL</td>
               <td><a title="Hepsiburada/petidi Mağazası" target="_blank" href="https://www.hepsiburada.com/royal-canin-fhn-sterilised-37-kisirlastirilmis-kedi-mamasi-15-kg-p-PTANNA251100063A?magaza=petidi">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/özlempet Mağazası">ÖZLEMPET - HB</td>
-              <td>1100,00 TL</td>
+              <td>990,00 TL</td>
               <td><a title="Hepsiburada/özlempet Mağazası" target="_blank" href="https://www.hepsiburada.com/royal-canin-fhn-sterilised-37-kisirlastirilmis-kedi-mamasi-15-kg-p-PTANNA251100063A?magaza=%C3%B6zlempet">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/Evcilbesinleri Mağazası">EVCILBESINLERI - HB</td>
-              <td>1143,30 TL</td>
+              <td>1045,00 TL</td>
               <td><a title="Hepsiburada/Evcilbesinleri Mağazası" target="_blank" href="https://www.hepsiburada.com/royal-canin-fhn-sterilised-37-kisirlastirilmis-kedi-mamasi-15-kg-p-PTANNA251100063A?magaza=Evcilbesinleri">satın al</a></td>
             </tr>
 </table>

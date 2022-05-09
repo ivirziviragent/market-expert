@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Johnson's Baby Şampuan 750 ml"
-date:   2022-05-09 6:07:05 +0300
+date:   2022-05-09 13:06:36 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/johnsons-baby-sampuan-750-ml-78f6.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-05-09 9:07:05
+Son Güncelleme: 2022-05-09 16:06:36
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/johnsons-baby-sampuan-750-ml-78f6.jpg" width="200" alt="Johnson's Baby Şampuan 750 ml market fiyatları" />
 
@@ -24,10 +24,6 @@ Marka: JBABY
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="CarrefourSA">CARREFOURSA</td>
-              <td>23,63 TL</td>
-              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/johnson-s-baby-sampuan-750-ml-p-30051172">satın al</a></td>
-            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>28,70 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/johnsons-bebek-sampuani-750-ml-p-1e22da1">satın al</a></td>
@@ -36,12 +32,12 @@ Marka: JBABY
               <td>31,99 TL</td>
               <td><a title="Onur Market" target="_blank" href="https://www.onurmarket.com/-johnsons-sampuan-750ml--8427">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>33,50 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Jb_Sampuan_800_Ml">satın al</a></td>
-            </tr><tr>
               <td title="Getir">GETIR</td>
               <td>33,77 TL</td>
               <td><a title="Getir" target="_blank" href="https://getir.com/urun/johnson-s-baby-sampuan-137UovsCdG/">satın al</a></td>
+            </tr><tr>
+              <td title="CarrefourSA">CARREFOURSA</td>
+              <td>23,63 TL</td>
+              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/johnson-s-baby-sampuan-750-ml-p-30051172">satın al</a></td>
             </tr>
 </table>

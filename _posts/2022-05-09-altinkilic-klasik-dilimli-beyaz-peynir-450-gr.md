@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Altınkılıç Klasik Dilimli Beyaz Peynir 450 gr"
-date:   2022-05-09 7:17:39 +0300
+date:   2022-05-09 14:16:00 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-dilimli-beyaz-peynir-5-436e.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-09 10:17:39
+Son Güncelleme: 2022-05-09 17:16:00
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-dilimli-beyaz-peynir-5-436e.jpg" width="200" alt="Altınkılıç Klasik Dilimli Beyaz Peynir 450 gr market fiyatları" />
 

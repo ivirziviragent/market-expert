@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Teksüt Kaşar Peynir 600 gr"
-date:   2022-05-09 6:32:36 +0300
+date:   2022-05-09 13:31:33 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-600-gr-692b.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-09 9:32:36
+Son Güncelleme: 2022-05-09 16:31:33
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-600-gr-692b.jpg" width="200" alt="Teksüt Kaşar Peynir 600 gr market fiyatları" />
 
@@ -28,9 +28,9 @@ Marka: Teksüt
               <td>49,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/teksut-kasar-peynir-600-gr">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>52,45 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/teksut-kasar-peyniri-600-gr">satın al</a></td>
+              <td title="Migros">MIGROS</td>
+              <td>67,90 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/teksut-kasar-peyniri-600-g-p-9a24a6">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>56,99 TL</td>
@@ -39,10 +39,6 @@ Marka: Teksüt
               <td title="Kim">KIM</td>
               <td>57,75 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/teksut-tost-peyniri-600-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Migros">MIGROS</td>
-              <td>67,90 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/teksut-kasar-peyniri-600-g-p-9a24a6">satın al</a></td>
             </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>67,90 TL</td>

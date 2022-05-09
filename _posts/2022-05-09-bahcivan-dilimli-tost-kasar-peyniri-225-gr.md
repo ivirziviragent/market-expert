@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Bahçıvan Dilimli Tost Kaşar Peyniri 225 gr"
-date:   2022-05-09 6:48:08 +0300
+date:   2022-05-09 13:46:49 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/bahcivan-dilimli-tost-kasar-peyniri-225--69a2.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-09 9:48:08
+Son Güncelleme: 2022-05-09 16:46:49
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/bahcivan-dilimli-tost-kasar-peyniri-225--69a2.jpg" width="200" alt="Bahçıvan Dilimli Tost Kaşar Peyniri 225 gr market fiyatları" />
 
