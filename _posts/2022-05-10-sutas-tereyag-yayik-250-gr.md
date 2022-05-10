@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Tereyağ Yayık 250 gr"
-date:   2022-05-10 6:19:12 +0300
+date:   2022-05-10 13:19:09 +0300
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/12010211/12010211-d8c7c1-1650x1650.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-10 9:19:12
+Son Güncelleme: 2022-05-10 16:19:09
 
 <img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/12010211/12010211-d8c7c1-1650x1650.jpg" width="200" alt="Sütaş Tereyağ Yayık 250 gr market fiyatları" />
 
@@ -31,5 +31,9 @@ Marka: Sütaş
               <td title="Mopaş">MOPAŞ</td>
               <td>34,99 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/sutas-yayik-tereyag-250-gr/p/46506">satın al</a></td>
+            </tr><tr>
+              <td title="Kim">KIM</td>
+              <td>38,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/sutas-tereyag-yayik-250-gr">satın al</a></td>
             </tr>
 </table>
