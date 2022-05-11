@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Fairy Platinum Plus Ultra 60 lı"
-date:   2022-05-11 7:12:51 +0300
+date:   2022-05-11 14:26:50 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-05-11 10:12:51
+Son Güncelleme: 2022-05-11 17:26:50
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg" width="200" alt="Fairy Platinum Plus Ultra 60 lı market fiyatları" />
 
@@ -32,9 +32,9 @@ Marka: Fairy
               <td>144,90 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/fairy-platinum-plus-kapsul-60-adet-p-544422">satın al</a></td>
             </tr><tr>
-              <td title="Hepsiburada/G-Market Mağazası">G-MARKET - HB</td>
-              <td>149,00 TL</td>
-              <td><a title="Hepsiburada/G-Market Mağazası" target="_blank" href="https://www.hepsiburada.com/fairy-platinum-plus-bulasik-makinesi-deterjani-tableti-kapsulu-60-yikama-p-HBV00000H3RLE?magaza=G-Market">satın al</a></td>
+              <td title="ToptanTR">TOPTANTR</td>
+              <td>145,95 TL</td>
+              <td><a title="ToptanTR" target="_blank" href="https://www.toptantr.com/tr/p-fairy-platinum-plus-60-yikama-bulasik-makinesi-deterjani-kapsulu">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>150,11 TL</td>
@@ -63,5 +63,9 @@ Marka: Fairy
               <td title="Mopaş">MOPAŞ</td>
               <td>173,65 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/fairy-platinum-plus-bulasik-makinesi-deterjani-kapsulu-60li/p/772558">satın al</a></td>
+            </tr><tr>
+              <td title="Hepsiburada/G-Market Mağazası">G-MARKET - HB</td>
+              <td>179,00 TL</td>
+              <td><a title="Hepsiburada/G-Market Mağazası" target="_blank" href="https://www.hepsiburada.com/fairy-platinum-plus-bulasik-makinesi-deterjani-tableti-kapsulu-60-yikama-p-HBV00000H3RLE?magaza=G-Market">satın al</a></td>
             </tr>
 </table>

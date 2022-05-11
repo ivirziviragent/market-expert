@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Torku Banada Kakaolu Fındık Kreması 700 gr"
-date:   2022-05-11 6:49:23 +0300
+date:   2022-05-11 14:02:42 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-700--d7d2.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-11 9:49:23
+Son Güncelleme: 2022-05-11 17:02:42
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-700--d7d2.jpg" width="200" alt="Torku Banada Kakaolu Fındık Kreması 700 gr market fiyatları" />
 
@@ -32,13 +32,13 @@ Marka: Torku
               <td>39,95 TL</td>
               <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-kahvaltilik-atistirmalik-torku-banada-findik-kremasi-700gr">satın al</a></td>
             </tr><tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>39,99 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/torku-banada-kakaolu-findik-kremasi-700-gr-p-215535">satın al</a></td>
-            </tr><tr>
               <td title="Bizim Toptan">BIZIM TOPTAN</td>
               <td>41,90 TL</td>
               <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/torku-banada-kakaolu-findik-kremasi-700-g">satın al</a></td>
+            </tr><tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>41,99 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/torku-banada-kakaolu-findik-kremasi-700-gr-p-215535">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>44,95 TL</td>
