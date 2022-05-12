@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Süzme Peynir 500 gr"
-date:   2022-05-12 13:10:59 +0300
+date:   2022-05-12 13:54:19 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-suzme-peynir-500-gr-bc-473.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-12 16:10:59
+Son Güncelleme: 2022-05-12 16:54:19
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-suzme-peynir-500-gr-bc-473.jpg" width="200" alt="İçim Süzme Peynir 500 gr market fiyatları" />
 
@@ -39,10 +39,6 @@ Marka: İçim
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>28,75 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/icim-suzme-peynir-500-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Yunus Market">YUNUS MARKET</td>
-              <td>29,95 TL</td>
-              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/icim-suzme-peynir-500-gr/3fb1d34f-e572-4792-896d-05bd79b5cdc6">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>29,95 TL</td>

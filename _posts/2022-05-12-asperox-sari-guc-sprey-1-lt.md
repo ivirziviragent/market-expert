@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Asperox Sarı Güç Sprey 1 lt"
-date:   2022-05-12 12:40:54 +0300
+date:   2022-05-12 13:15:46 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-05-12 15:40:54
+Son Güncelleme: 2022-05-12 16:15:46
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg" width="200" alt="Asperox Sarı Güç Sprey 1 lt market fiyatları" />
 
@@ -24,13 +24,25 @@ Marka: Asperox
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Şok">ŞOK</td>
+              <td>17,90 TL</td>
+              <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/sari-guc-1-lt-p-29102/">satın al</a></td>
+            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>17,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/asperox-sari-guc-sprey-1-lt-18038">satın al</a></td>
             </tr><tr>
+              <td title="Hakmar">HAKMAR</td>
+              <td>17,95 TL</td>
+              <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/temizlik-asperox-sari-guc-cok-amacli-ultra-yag-cozucu-1-lt">satın al</a></td>
+            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>18,21 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/asperox-sari-guc-sprey-1-l-p-1d4f3c4">satın al</a></td>
+            </tr><tr>
+              <td title="İste Gelsin">İSTE GELSIN</td>
+              <td>18,21 TL</td>
+              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/asperox-sari-guc-sprey-1-l_PRS21-AD">satın al</a></td>
             </tr><tr>
               <td title="Onur Market">ONUR MARKET</td>
               <td>18,29 TL</td>
@@ -43,14 +55,6 @@ Marka: Asperox
               <td title="Kim">KIM</td>
               <td>20,15 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/asperox-sari-guc-1000-ml">satın al</a></td>
-            </tr><tr>
-              <td title="Hakmar">HAKMAR</td>
-              <td>17,95 TL</td>
-              <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/temizlik-asperox-sari-guc-cok-amacli-ultra-yag-cozucu-1-lt">satın al</a></td>
-            </tr><tr>
-              <td title="İste Gelsin">İSTE GELSIN</td>
-              <td>18,21 TL</td>
-              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/asperox-sari-guc-sprey-1-l_PRS21-AD">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>20,80 TL</td>
