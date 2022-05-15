@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Cevizli 175 gr"
-date:   2022-05-15 6:37:57 +0300
+date:   2022-05-15 13:54:59 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-cevizli-175-gr--d839-.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-15 9:37:57
+Son Güncelleme: 2022-05-15 16:54:59
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-cevizli-175-gr--d839-.jpg" width="200" alt="Seyidoğlu Helva Cevizli 175 gr market fiyatları" />
 
@@ -24,17 +24,13 @@ Marka: Seyidoğlu
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Showmar">SHOWMAR</td>
-              <td>10,40 TL</td>
-              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/seyidoglu-helva-175gr-cevizli">satın al</a></td>
-            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>12,45 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/seyidoglu-helva-cevizli-175-gr">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>13,60 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Seyidoglu_175_Gr_Cevizli_Helva">satın al</a></td>
+              <td title="Showmar">SHOWMAR</td>
+              <td>10,40 TL</td>
+              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/seyidoglu-helva-175gr-cevizli">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>22,99 TL</td>
