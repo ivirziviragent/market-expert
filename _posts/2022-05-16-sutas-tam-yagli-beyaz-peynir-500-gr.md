@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Tam Yağlı Beyaz Peynir 500 gr"
-date:   2022-05-16 6:32:46 +0300
+date:   2022-05-16 13:32:38 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-tam-yagli-beyaz-peynir-500-gr-4d75.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-16 9:32:46
+Son Güncelleme: 2022-05-16 16:32:38
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-tam-yagli-beyaz-peynir-500-gr-4d75.jpg" width="200" alt="Sütaş Tam Yağlı Beyaz Peynir 500 gr market fiyatları" />
 
@@ -32,9 +32,13 @@ Marka: Sütaş
               <td>34,45 TL</td>
               <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/tam-yagli-beyaz-peynir-500-gr-p-3639/">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>39,95 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Sutas_Tam_Yagli_Beyaz_Peynir_500_Gr">satın al</a></td>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>43,99 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/sutas-tam-yagli-beyaz-peynir-500-gr/p/47790">satın al</a></td>
+            </tr><tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>54,90 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/sutas-tam-yagli-beyaz-peynir-500-gr-p-1021">satın al</a></td>
             </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>17,75 TL</td>
@@ -43,13 +47,5 @@ Marka: Sütaş
               <td title="Showmar">SHOWMAR</td>
               <td>31,95 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/sutas-b-peynir-500gr-pvc">satın al</a></td>
-            </tr><tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>42,90 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/sutas-tam-yagli-beyaz-peynir-500-gr-p-1021">satın al</a></td>
-            </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>43,99 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/sutas-tam-yagli-beyaz-peynir-500-gr/p/47790">satın al</a></td>
             </tr>
 </table>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Pınar Büfe Burger Peynir 350 gr"
-date:   2022-05-16 6:47:46 +0300
+date:   2022-05-16 13:47:59 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/pinar-bufe-burger-peynir-350-gr--706b-.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-05-16 9:47:46
+Son Güncelleme: 2022-05-16 16:47:59
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/pinar-bufe-burger-peynir-350-gr--706b-.jpg" width="200" alt="Pınar Büfe Burger Peynir 350 gr market fiyatları" />
 
@@ -36,10 +36,6 @@ Marka: Pınar
               <td>64,95 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/pinar-burger-dilimli-350gr">satın al</a></td>
             </tr><tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>66,99 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/pinar-burger-dilimli-peynir-350-gr-p-6594">satın al</a></td>
-            </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>67,95 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/pinar-burger-dilimli-peynir-350-gr">satın al</a></td>
@@ -55,5 +51,9 @@ Marka: Pınar
               <td title="Mopaş">MOPAŞ</td>
               <td>79,99 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/pinar-burger-dilimli-kasar-350-gr/p/641">satın al</a></td>
+            </tr><tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>80,99 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/pinar-burger-dilimli-peynir-350-gr-p-6594">satın al</a></td>
             </tr>
 </table>

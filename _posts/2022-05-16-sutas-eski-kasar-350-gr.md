@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Eski Kaşar 350 gr"
-date:   2022-05-16 6:30:41 +0300
+date:   2022-05-16 13:30:34 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-eski-kasar-350-gr-6be9.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-16 9:30:41
+Son Güncelleme: 2022-05-16 16:30:34
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-eski-kasar-350-gr-6be9.jpg" width="200" alt="Sütaş Eski Kaşar 350 gr market fiyatları" />
 
@@ -45,7 +45,7 @@ Marka: Sütaş
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/sutas-eski-kasar-350-gr/p/732">satın al</a></td>
             </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
-              <td>89,99 TL</td>
+              <td>116,90 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/sutas-eski-kasar-peyniri-350-gr-p-548527">satın al</a></td>
             </tr>
 </table>
