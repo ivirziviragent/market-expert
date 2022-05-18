@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Duru Osmancık Pirinç 1 kg"
-date:   2022-05-18 6:36:27 +0300
+date:   2022-05-18 6:33:20 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/duru-osmancik-pirinc-1-kg-7cad.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-05-18 9:36:27
+Son Güncelleme: 2022-05-18 9:33:20
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/duru-osmancik-pirinc-1-kg-7cad.jpg" width="200" alt="Duru Osmancık Pirinç 1 kg market fiyatları" />
 
@@ -39,10 +39,6 @@ Marka: Duru Bakliyat
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>23,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/duru-osmancik-pirinc-1-kg">satın al</a></td>
-            </tr><tr>
-              <td title="Show Market">SHOW MARKET</td>
-              <td>25,99 TL</td>
-              <td><a title="Show Market" target="_blank" href="https://www.showsanal.com/product/duru-pirinc-osmancik-1000-gr/8450e88b-02fd-4109-87d8-9ad40c9baa32">satın al</a></td>
             </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>26,75 TL</td>

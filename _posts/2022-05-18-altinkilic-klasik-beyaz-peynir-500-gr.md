@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Altınkılıç Klasik Beyaz Peynir 500 gr"
-date:   2022-05-18 8:16:11 +0300
+date:   2022-05-18 8:35:05 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-beyaz-peynir-500-gr-d8-571.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-18 11:16:11
+Son Güncelleme: 2022-05-18 11:35:05
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-beyaz-peynir-500-gr-d8-571.jpg" width="200" alt="Altınkılıç Klasik Beyaz Peynir 500 gr market fiyatları" />
 
@@ -43,5 +43,9 @@ Marka: Altınkılıç Peynir
               <td title="Kim">KIM</td>
               <td>59,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/altinkilic-kls-inek-500gr-peynir">satın al</a></td>
+            </tr><tr>
+              <td title="Show Market">SHOW MARKET</td>
+              <td>76,99 TL</td>
+              <td><a title="Show Market" target="_blank" href="https://www.showsanal.com/product/altinkilic-peynir-klasik-ezine-500-gr/5fe34379-c06c-444e-aff8-1a353712c690">satın al</a></td>
             </tr>
 </table>
