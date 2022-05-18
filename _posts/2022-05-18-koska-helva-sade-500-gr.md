@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Sade 500 gr"
-date:   2022-05-18 7:24:59 +0300
+date:   2022-05-18 13:40:29 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-500-gr-18f2.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-18 10:24:59
+Son Güncelleme: 2022-05-18 16:40:29
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-500-gr-18f2.jpg" width="200" alt="Koska Helva Sade 500 gr market fiyatları" />
 
@@ -24,14 +24,6 @@ Marka: Koska
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Şok">ŞOK</td>
-              <td>29,90 TL</td>
-              <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/tahin-helvasi-sade-500-gr-p-2506/">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>38,80 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Koska_500_Gr_Helva_Sade">satın al</a></td>
-            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>39,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-sade-500-gr">satın al</a></td>
@@ -39,6 +31,10 @@ Marka: Koska
               <td title="Migros">MIGROS</td>
               <td>41,95 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/koska-sade-helva-paket-500-g-p-6c0854">satın al</a></td>
+            </tr><tr>
+              <td title="Şok">ŞOK</td>
+              <td>29,90 TL</td>
+              <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/tahin-helvasi-sade-500-gr-p-2506/">satın al</a></td>
             </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>35,90 TL</td>
@@ -51,6 +47,10 @@ Marka: Koska
               <td title="Showmar">SHOWMAR</td>
               <td>39,95 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/koska-helva-sade-500gr">satın al</a></td>
+            </tr><tr>
+              <td title="CarrefourSA">CARREFOURSA</td>
+              <td>41,95 TL</td>
+              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/koska-sade-helva-500-g-paket-p-30090805">satın al</a></td>
             </tr><tr>
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>41,95 TL</td>

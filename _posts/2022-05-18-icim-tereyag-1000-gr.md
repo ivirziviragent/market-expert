@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Tereyağ 1000 gr"
-date:   2022-05-18 6:25:34 +0300
+date:   2022-05-18 13:18:45 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-tereyag-1000-gr-f90-fd.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-18 9:25:34
+Son Güncelleme: 2022-05-18 16:18:45
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-tereyag-1000-gr-f90-fd.jpg" width="200" alt="İçim Tereyağ 1000 gr market fiyatları" />
 
@@ -24,6 +24,10 @@ Marka: İçim
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="CarrefourSA">CARREFOURSA</td>
+              <td>129,95 TL</td>
+              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/icim-tereyag-1000-g-p-30097370">satın al</a></td>
+            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>168,00 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/icim-tereyagi-1-kg-p-b74316">satın al</a></td>

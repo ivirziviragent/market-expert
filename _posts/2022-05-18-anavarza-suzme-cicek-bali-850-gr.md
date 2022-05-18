@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Anavarza Süzme Çiçek Balı 850 gr"
-date:   2022-05-18 8:32:46 +0300
+date:   2022-05-18 14:15:22 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/anavarza-suzme-cicek-bali-850-gr-c91-4b.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-18 11:32:46
+Son Güncelleme: 2022-05-18 17:15:22
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/anavarza-suzme-cicek-bali-850-gr-c91-4b.jpg" width="200" alt="Anavarza Süzme Çiçek Balı 850 gr market fiyatları" />
 
@@ -24,13 +24,9 @@ Marka: Anavarza
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Migros">MIGROS</td>
-              <td>71,91 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/anavarza-suzme-cicek-bali-850-g-p-6be21b">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>85,90 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/anavarza-suzme-cicek-bali-850-gr">satın al</a></td>
+              <td title="CarrefourSA">CARREFOURSA</td>
+              <td>68,72 TL</td>
+              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/anavarza-cicek-bali-850-g-p-30195605">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>69,95 TL</td>
@@ -40,6 +36,10 @@ Marka: Anavarza
               <td>70,99 TL</td>
               <td><a title="Trendyol/Migros Kargo Operasyonu" target="_blank" href="https://www.trendyol.com/anavarza/suzme-cicek-bali-850-gr-p-31640770">satın al</a></td>
             </tr><tr>
+              <td title="Migros">MIGROS</td>
+              <td>71,91 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/anavarza-suzme-cicek-bali-850-g-p-6be21b">satın al</a></td>
+            </tr><tr>
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>71,91 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/anavarza-cicek-bali-850-gr_SEG12-AD">satın al</a></td>
@@ -48,12 +48,16 @@ Marka: Anavarza
               <td>71,91 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/anavarza-suzme-cicek-bali-850-g-p-6be21b">satın al</a></td>
             </tr><tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>79,99 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/anavarza-kavanoz-suzme-cicek-bal-850-gr-p-540564">satın al</a></td>
-            </tr><tr>
               <td title="Kim">KIM</td>
               <td>83,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/anavarza-cicek-bali-850-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>85,90 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/anavarza-suzme-cicek-bali-850-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>89,90 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/anavarza-kavanoz-suzme-cicek-bal-850-gr-p-540564">satın al</a></td>
             </tr>
 </table>

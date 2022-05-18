@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Fairy Platinum Plus Ultra 60 lı"
-date:   2022-05-18 8:30:14 +0300
+date:   2022-05-18 14:12:49 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-05-18 11:30:14
+Son Güncelleme: 2022-05-18 17:12:49
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg" width="200" alt="Fairy Platinum Plus Ultra 60 lı market fiyatları" />
 
@@ -24,10 +24,6 @@ Marka: Fairy
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>169,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/fairy-platinum-plus-ultra-60-li-24035">satın al</a></td>
-            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>125,38 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/fairy-platinum-plus-tablet-60li-931-g-p-1d8b9a0">satın al</a></td>
@@ -56,6 +52,10 @@ Marka: Fairy
               <td>159,99 TL</td>
               <td><a title="Onur Market" target="_blank" href="https://www.onurmarket.com/-fairy-plt.plus-bul.-mak.kapsul-60li--60806">satın al</a></td>
             </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>169,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/fairy-platinum-plus-ultra-60-li-24035">satın al</a></td>
+            </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>173,65 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/fairy-platinum-plus-bulasik-makinesi-deterjani-kapsulu-60li/p/772558">satın al</a></td>
@@ -63,5 +63,9 @@ Marka: Fairy
               <td title="Hepsiburada/G-Market Mağazası">G-MARKET - HB</td>
               <td>179,00 TL</td>
               <td><a title="Hepsiburada/G-Market Mağazası" target="_blank" href="https://www.hepsiburada.com/fairy-platinum-plus-bulasik-makinesi-deterjani-tableti-kapsulu-60-yikama-p-HBV00000H3RLE?magaza=G-Market">satın al</a></td>
+            </tr><tr>
+              <td title="CarrefourSA">CARREFOURSA</td>
+              <td>204,90 TL</td>
+              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/fairy-platinum-plus-ultra-60-kapsul-p-30383114">satın al</a></td>
             </tr>
 </table>

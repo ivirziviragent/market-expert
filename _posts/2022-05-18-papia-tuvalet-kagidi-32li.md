@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Papia Tuvalet Kağıdı 32'li"
-date:   2022-05-18 6:14:31 +0300
+date:   2022-05-18 13:10:42 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/papia-tuvalet-kagidi-32li-9cc8ab.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-05-18 9:14:31
+Son Güncelleme: 2022-05-18 16:10:42
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/papia-tuvalet-kagidi-32li-9cc8ab.jpg" width="200" alt="Papia Tuvalet Kağıdı 32'li market fiyatları" />
 
@@ -35,5 +35,9 @@ Marka: Papia
               <td title="Avansas">AVANSAS</td>
               <td>126,65 TL</td>
               <td><a title="Avansas" target="_blank" href="https://www.avansas.com/papia-tuvalet-kagidi-3-katli-32-li-paket-p-56614">satın al</a></td>
+            </tr><tr>
+              <td title="CarrefourSA">CARREFOURSA</td>
+              <td>165,25 TL</td>
+              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/papia-tuvalet-kagidi-32-li-b-side-p-30090226">satın al</a></td>
             </tr>
 </table>

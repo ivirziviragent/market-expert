@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Bal Küpü Küp Şeker 1000 gr"
-date:   2022-05-18 8:05:59 +0300
+date:   2022-05-18 13:51:48 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/bal-kupu-kup-seker-1000-gr-50c8.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-05-18 11:05:59
+Son Güncelleme: 2022-05-18 16:51:48
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/bal-kupu-kup-seker-1000-gr-50c8.jpg" width="200" alt="Bal Küpü Küp Şeker 1000 gr market fiyatları" />
 
@@ -37,7 +37,7 @@ Marka: Balküpü
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/bal-kupu-kup-seker-1000-g-p-30100002">satın al</a></td>
             </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
-              <td>24,50 TL</td>
+              <td>28,00 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/balkupu-1000-gr-kup-seker-360-adet-p-538056">satın al</a></td>
             </tr>
 </table>

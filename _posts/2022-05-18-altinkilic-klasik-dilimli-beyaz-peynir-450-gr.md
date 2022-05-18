@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Altınkılıç Klasik Dilimli Beyaz Peynir 450 gr"
-date:   2022-05-18 8:35:40 +0300
+date:   2022-05-18 14:18:16 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-dilimli-beyaz-peynir-5-436e.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-18 11:35:40
+Son Güncelleme: 2022-05-18 17:18:16
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-dilimli-beyaz-peynir-5-436e.jpg" width="200" alt="Altınkılıç Klasik Dilimli Beyaz Peynir 450 gr market fiyatları" />
 
@@ -36,16 +36,20 @@ Marka: Altınkılıç Peynir
               <td>56,06 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/altinkilic-3-dilim-tam-yagli-olgun-inek-peyniri-450-g-p-98e100">satın al</a></td>
             </tr><tr>
-              <td title="İste Gelsin">İSTE GELSIN</td>
-              <td>56,45 TL</td>
-              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/altinkilic-klasik-beyaz-peynir-450-g-3-dilim_AKL9-AD">satın al</a></td>
-            </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>56,06 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/altinkilic-3-dilim-tam-yagli-olgun-inek-peyniri-450-g-p-98e100">satın al</a></td>
             </tr><tr>
+              <td title="İste Gelsin">İSTE GELSIN</td>
+              <td>56,45 TL</td>
+              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/altinkilic-klasik-beyaz-peynir-450-g-3-dilim_AKL9-AD">satın al</a></td>
+            </tr><tr>
               <td title="Kim">KIM</td>
               <td>59,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/altinkilic-kls-inek-peynir-450gr-dilimli">satın al</a></td>
+            </tr><tr>
+              <td title="CarrefourSA">CARREFOURSA</td>
+              <td>89,90 TL</td>
+              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/altinkilic-klasik-inek-peyniri-3-dilim-450-g--p-30274640">satın al</a></td>
             </tr>
 </table>
