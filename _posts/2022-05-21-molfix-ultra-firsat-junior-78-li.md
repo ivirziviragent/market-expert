@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Molfix Ultra Fırsat Junior 78 li"
-date:   2022-05-21 7:21:22 +0300
+date:   2022-05-21 14:05:10 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/molfix-ultra-firsat-junior-78-li--b6c8-.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-05-21 10:21:22
+Son Güncelleme: 2022-05-21 17:05:10
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/molfix-ultra-firsat-junior-78-li--b6c8-.jpg" width="200" alt="Molfix Ultra Fırsat Junior 78 li market fiyatları" />
 

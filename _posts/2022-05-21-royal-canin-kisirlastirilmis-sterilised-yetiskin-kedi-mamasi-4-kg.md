@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Royal Canin Kısırlaştırılmış Sterılısed Yetişkin Kedi Maması 4 kg"
-date:   2022-05-21 7:15:15 +0300
+date:   2022-05-21 13:59:05 +0300
 image: https://productimages.hepsiburada.net/s/22/550/9943345299506.jpg
 categories: evcil-hayvan-urunleri
 tags: evcil-hayvan-urunleri
 ---
 
-Son Güncelleme: 2022-05-21 10:15:15
+Son Güncelleme: 2022-05-21 16:59:05
 
 <img src="https://productimages.hepsiburada.net/s/22/550/9943345299506.jpg" width="200" alt="Royal Canin Kısırlaştırılmış Sterılısed Yetişkin Kedi Maması 4 kg market fiyatları" />
 

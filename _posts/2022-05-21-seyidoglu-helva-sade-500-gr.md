@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Sade 500 gr"
-date:   2022-05-21 6:54:46 +0300
+date:   2022-05-21 13:38:11 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-sade-500-gr-b4bb.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-21 9:54:46
+Son Güncelleme: 2022-05-21 16:38:11
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-sade-500-gr-b4bb.jpg" width="200" alt="Seyidoğlu Helva Sade 500 gr market fiyatları" />
 

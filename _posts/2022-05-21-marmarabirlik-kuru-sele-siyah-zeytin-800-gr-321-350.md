@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Marmarabirlik Kuru Sele Siyah Zeytin 800 gr (321-350)"
-date:   2022-05-21 7:05:05 +0300
+date:   2022-05-21 13:48:56 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/marmarabirlik-kuru-sele-siyah-zeytin-8-fe-8c1.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-21 10:05:05
+Son Güncelleme: 2022-05-21 16:48:56
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/marmarabirlik-kuru-sele-siyah-zeytin-8-fe-8c1.jpg" width="200" alt="Marmarabirlik Kuru Sele Siyah Zeytin 800 gr (321-350) market fiyatları" />
 

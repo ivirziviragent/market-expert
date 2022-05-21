@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Anavarza Süzme Çiçek Balı 850 gr"
-date:   2022-05-21 7:33:01 +0300
+date:   2022-05-21 14:16:49 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/anavarza-suzme-cicek-bali-850-gr-c91-4b.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-21 10:33:01
+Son Güncelleme: 2022-05-21 17:16:49
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/anavarza-suzme-cicek-bali-850-gr-c91-4b.jpg" width="200" alt="Anavarza Süzme Çiçek Balı 850 gr market fiyatları" />
 

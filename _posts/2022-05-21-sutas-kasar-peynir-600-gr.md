@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Kaşar Peynir 600 gr"
-date:   2022-05-21 6:31:11 +0300
+date:   2022-05-21 13:31:33 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-600-gr-9fb4.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-21 9:31:11
+Son Güncelleme: 2022-05-21 16:31:33
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-600-gr-9fb4.jpg" width="200" alt="Sütaş Kaşar Peynir 600 gr market fiyatları" />
 
@@ -24,6 +24,10 @@ Marka: Sütaş
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>74,50 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sutas-kasar-peynir-600-gr">satın al</a></td>
+            </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>59,50 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/sutas-kasar-peyniri-600-gr">satın al</a></td>
@@ -35,14 +39,6 @@ Marka: Sütaş
               <td title="Showmar">SHOWMAR</td>
               <td>66,50 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/sutas-t-kasar-600-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>74,50 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sutas-kasar-peynir-600-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>74,50 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/sutas-kasar-peynir-600-gr">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>78,20 TL</td>
