@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Bal Küpü Toz Şeker 1000 gr"
-date:   2022-05-22 6:00:18 +0300
-image: undefined
+date:   2022-05-22 10:20:43 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/bal-kupu-toz-seker-1000-gr-90c4.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-05-22 9:00:18
+Son Güncelleme: 2022-05-22 13:20:43
 
-<img src="undefined" width="200" alt="Bal Küpü Toz Şeker 1000 gr market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/bal-kupu-toz-seker-1000-gr-90c4.jpg" width="200" alt="Bal Küpü Toz Şeker 1000 gr market fiyatları" />
 
 Kategori: Gıda, Şekerleme
 <br />
@@ -23,5 +23,13 @@ Marka: Balküpü
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Happy Center">HAPPY CENTER</td>
+              <td>20,95 TL</td>
+              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Balkupu_1000_Gr_Seker_Toz">satın al</a></td>
+            </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>21,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/bal-kupu-toz-seker-1000-gr">satın al</a></td>
+            </tr>
 </table>

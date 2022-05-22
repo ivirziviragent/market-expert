@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "İçim Tam Yağlı Beyaz Peynir 1000 gr"
-date:   2022-05-22 6:00:17 +0300
-image: undefined
+date:   2022-05-22 10:15:54 +0300
+image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10016000/10016000-65057c-1650x1650.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-22 9:00:17
+Son Güncelleme: 2022-05-22 13:15:54
 
-<img src="undefined" width="200" alt="İçim Tam Yağlı Beyaz Peynir 1000 gr market fiyatları" />
+<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10016000/10016000-65057c-1650x1650.jpg" width="200" alt="İçim Tam Yağlı Beyaz Peynir 1000 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,5 +23,17 @@ Marka: İçim
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Migros">MIGROS</td>
+              <td>63,95 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/icim-tam-yagli-beyaz-peynir-1000-g-p-98d500">satın al</a></td>
+            </tr><tr>
+              <td title="Şok">ŞOK</td>
+              <td>63,95 TL</td>
+              <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/tam-yagli-beyaz-peynir-1000-gr-p-3640/">satın al</a></td>
+            </tr><tr>
+              <td title="Macro Center">MACRO CENTER</td>
+              <td>63,95 TL</td>
+              <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/icim-tam-yagli-beyaz-peynir-1000-g-p-98d500">satın al</a></td>
+            </tr>
 </table>
