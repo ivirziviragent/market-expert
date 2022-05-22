@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Fairy Platinum Plus Ultra 60 lı"
-date:   2022-05-22 10:42:32 +0300
+date:   2022-05-22 14:12:25 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-05-22 13:42:32
+Son Güncelleme: 2022-05-22 17:12:25
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg" width="200" alt="Fairy Platinum Plus Ultra 60 lı market fiyatları" />
 
@@ -24,6 +24,10 @@ Marka: Fairy
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Yunus Market">YUNUS MARKET</td>
+              <td>96,92 TL</td>
+              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/fairy-tablet-platinum-plus-60-li/c5972604-126f-4013-860b-16b7bba40ec9">satın al</a></td>
+            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>125,38 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/fairy-platinum-plus-tablet-60li-931-g-p-1d8b9a0">satın al</a></td>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Tam Yağlı Beyaz Peynir 1000 gr"
-date:   2022-05-22 10:15:54 +0300
+date:   2022-05-22 13:46:19 +0300
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10016000/10016000-65057c-1650x1650.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-22 13:15:54
+Son Güncelleme: 2022-05-22 16:46:19
 
 <img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10016000/10016000-65057c-1650x1650.jpg" width="200" alt="İçim Tam Yağlı Beyaz Peynir 1000 gr market fiyatları" />
 
