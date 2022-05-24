@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x150 gr"
-date:   2022-05-24 6:20:19 +0300
+date:   2022-05-24 13:19:46 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/haci-sakir-kalip-sabun-dogal-4x150gr-00784-.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-05-24 9:20:19
+Son Güncelleme: 2022-05-24 16:19:46
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/haci-sakir-kalip-sabun-dogal-4x150gr-00784-.jpg" width="200" alt="Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x150 gr market fiyatları" />
 
@@ -27,10 +27,6 @@ Marka: Hacı Şakir
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>29,65 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/haci-sakir-dogal-saf-geleneksel-beyaz-sabun-4x150-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>32,85 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/H_sakir_Sab_4x175gr_Beyaz_Dogal">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>42,55 TL</td>
