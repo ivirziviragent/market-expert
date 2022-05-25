@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Aroma Vişne Nektarı Cam 1 lt"
-date:   2022-05-25 7:27:59 +0300
+date:   2022-05-25 14:34:03 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/aroma-visne-nektari-cam-1-lt-3-4ec1.jpg
 categories: icecekler
 tags: icecekler
 ---
 
-Son Güncelleme: 2022-05-25 10:27:59
+Son Güncelleme: 2022-05-25 17:34:03
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/aroma-visne-nektari-cam-1-lt-3-4ec1.jpg" width="200" alt="Aroma Vişne Nektarı Cam 1 lt market fiyatları" />
 

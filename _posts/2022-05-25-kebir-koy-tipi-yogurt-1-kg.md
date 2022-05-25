@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Kebir Köy Tipi Yoğurt 1 kg"
-date:   2022-05-25 6:34:46 +0300
+date:   2022-05-25 13:18:46 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/kebir-koy-tipi-yogurt-1-kg-6a98-d.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-25 9:34:46
+Son Güncelleme: 2022-05-25 16:18:46
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/kebir-koy-tipi-yogurt-1-kg-6a98-d.jpg" width="200" alt="Kebir Köy Tipi Yoğurt 1 kg market fiyatları" />
 

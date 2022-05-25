@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Torku Süzme Peynir 450 g"
-date:   2022-05-25 6:24:38 +0300
+date:   2022-05-25 13:08:34 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/torku-suzme-peynir-450-gr-9960.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-25 9:24:38
+Son Güncelleme: 2022-05-25 16:08:34
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/torku-suzme-peynir-450-gr-9960.jpg" width="200" alt="Torku Süzme Peynir 450 g market fiyatları" />
 

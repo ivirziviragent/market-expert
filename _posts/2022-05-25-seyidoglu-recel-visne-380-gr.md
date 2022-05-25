@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Reçel Vişne 380 gr"
-date:   2022-05-25 7:30:22 +0300
+date:   2022-05-25 14:36:27 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-recel-visne-380-gr--aa3a-.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-25 10:30:22
+Son Güncelleme: 2022-05-25 17:36:27
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-recel-visne-380-gr--aa3a-.jpg" width="200" alt="Seyidoğlu Reçel Vişne 380 gr market fiyatları" />
 
@@ -24,13 +24,13 @@ Marka: Seyidoğlu
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Showmar">SHOWMAR</td>
-              <td>16,65 TL</td>
-              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/seyidoglu-recel-385gr-visne">satın al</a></td>
-            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>18,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/seyidoglu-recel-visne-380-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Showmar">SHOWMAR</td>
+              <td>18,95 TL</td>
+              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/seyidoglu-recel-385gr-visne">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
               <td>19,95 TL</td>
