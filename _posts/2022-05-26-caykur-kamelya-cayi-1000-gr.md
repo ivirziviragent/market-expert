@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Kamelya Çayı 1000 gr"
-date:   2022-05-26 13:16:08 +0300
+date:   2022-05-26 20:04:12 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-1000-gr-f72f.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-05-26 16:16:08
+Son Güncelleme: 2022-05-26 23:04:12
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-1000-gr-f72f.jpg" width="200" alt="Çaykur Kamelya Çayı 1000 gr market fiyatları" />
 
@@ -31,10 +31,6 @@ Marka: Çaykur
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>75,75 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/caykur-kamelya-cayi-1000-gr">satın al</a></td>
-            </tr><tr>
-              <td title="CarrefourSA">CARREFOURSA</td>
-              <td>64,50 TL</td>
-              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/caykur-kamelya-cayi-1-kg-p-30098954">satın al</a></td>
             </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>64,50 TL</td>

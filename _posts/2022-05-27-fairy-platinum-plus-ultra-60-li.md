@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Fairy Platinum Plus Ultra 60 lı"
-date:   2022-05-26 14:18:24 +0300
+date:   2022-05-26 21:06:14 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-05-26 17:18:24
+Son Güncelleme: 2022-05-27 0:06:14
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg" width="200" alt="Fairy Platinum Plus Ultra 60 lı market fiyatları" />
 
@@ -28,21 +28,13 @@ Marka: Fairy
               <td>134,90 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/fairy-kapsul-platinum-plus-60li">satın al</a></td>
             </tr><tr>
+              <td title="ToptanTR">TOPTANTR</td>
+              <td>144,49 TL</td>
+              <td><a title="ToptanTR" target="_blank" href="https://www.toptantr.com/tr/p-fairy-platinum-plus-60-yikama-bulasik-makinesi-deterjani-kapsulu">satın al</a></td>
+            </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>144,90 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/fairy-platinum-plus-kapsul-60-adet-p-544422">satın al</a></td>
-            </tr><tr>
-              <td title="ToptanTR">TOPTANTR</td>
-              <td>145,95 TL</td>
-              <td><a title="ToptanTR" target="_blank" href="https://www.toptantr.com/tr/p-fairy-platinum-plus-60-yikama-bulasik-makinesi-deterjani-kapsulu">satın al</a></td>
-            </tr><tr>
-              <td title="Migros">MIGROS</td>
-              <td>156,73 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/fairy-platinum-plus-tablet-60li-931-g-p-1d8b9a0">satın al</a></td>
-            </tr><tr>
-              <td title="Macro Center">MACRO CENTER</td>
-              <td>156,73 TL</td>
-              <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/fairy-platinum-plus-tablet-60li-931-g-p-1d8b9a0">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>157,50 TL</td>
@@ -67,5 +59,13 @@ Marka: Fairy
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>204,90 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/fairy-platinum-plus-ultra-60-kapsul-p-30383114">satın al</a></td>
+            </tr><tr>
+              <td title="Migros">MIGROS</td>
+              <td>206,50 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/fairy-platinum-plus-tablet-60li-931-g-p-1d8b9a0">satın al</a></td>
+            </tr><tr>
+              <td title="Macro Center">MACRO CENTER</td>
+              <td>206,50 TL</td>
+              <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/fairy-platinum-plus-tablet-60li-931-g-p-1d8b9a0">satın al</a></td>
             </tr>
 </table>

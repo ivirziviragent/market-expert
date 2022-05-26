@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Yudum Ayçiçek Yağı 1 Lt"
-date:   2022-05-26 13:27:54 +0300
+date:   2022-05-26 20:15:58 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-05-26 16:27:54
+Son Güncelleme: 2022-05-26 23:15:58
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg" width="200" alt="Yudum Ayçiçek Yağı 1 Lt market fiyatları" />
 
@@ -59,5 +59,9 @@ Marka: Yudum
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>56,50 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/yudum-aycicek-yagi-1-lt-p-30040683">satın al</a></td>
+            </tr><tr>
+              <td title="Show Market">SHOW MARKET</td>
+              <td>56,99 TL</td>
+              <td><a title="Show Market" target="_blank" href="https://www.showsanal.com/product/yudum-yag-aycicek-1-lt/8ca4c857-d986-456d-8b01-1090c5143145">satın al</a></td>
             </tr>
 </table>

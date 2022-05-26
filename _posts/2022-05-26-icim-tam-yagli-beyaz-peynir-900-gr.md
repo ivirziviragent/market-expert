@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Tam Yağlı Beyaz Peynir 900 gr"
-date:   2022-05-26 13:49:49 +0300
+date:   2022-05-26 20:37:37 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-tam-yagli-beyaz-peynir-900-gr-7-7633.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-26 16:49:49
+Son Güncelleme: 2022-05-26 23:37:37
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-tam-yagli-beyaz-peynir-900-gr-7-7633.jpg" width="200" alt="İçim Tam Yağlı Beyaz Peynir 900 gr market fiyatları" />
 
@@ -36,13 +36,13 @@ Marka: İçim
               <td>69,95 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/icim-b-peynir-900gr-pvc">satın al</a></td>
             </tr><tr>
-              <td title="Kim">KIM</td>
-              <td>69,99 TL</td>
-              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/icim-beyaz-peynir-900-gr">satın al</a></td>
-            </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>71,90 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/icim-beyaz-peynir-900-gr-p-543436">satın al</a></td>
+            </tr><tr>
+              <td title="Kim">KIM</td>
+              <td>76,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/icim-beyaz-peynir-900-gr">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>81,90 TL</td>
