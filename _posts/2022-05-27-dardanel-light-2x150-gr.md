@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Dardanel Light 2X150 gr"
-date:   2022-05-26 21:04:26 +0300
+date:   2022-05-27 7:25:13 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-9868.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-05-27 0:04:26
+Son Güncelleme: 2022-05-27 10:25:13
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-9868.jpg" width="200" alt="Dardanel Light 2X150 gr market fiyatları" />
 
@@ -24,25 +24,29 @@ Marka: Dardanel
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Migros">MIGROS</td>
-              <td>52,33 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/dardanel-light-ton-baligi-2x150-g-p-89e024">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>64,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/dardanel-ton-light-2x150-gr">satın al</a></td>
-            </tr><tr>
               <td title="Bizim Toptan">BIZIM TOPTAN</td>
               <td>50,00 TL</td>
               <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/dardanel-light-ton-baligi-2x150-g">satın al</a></td>
+            </tr><tr>
+              <td title="Migros">MIGROS</td>
+              <td>52,33 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/dardanel-light-ton-baligi-2x150-g-p-89e024">satın al</a></td>
             </tr><tr>
               <td title="Trendyol/Migros Kargo Operasyonu">MIGROS KARGO OPERASYONU - TY</td>
               <td>52,33 TL</td>
               <td><a title="Trendyol/Migros Kargo Operasyonu" target="_blank" href="https://www.trendyol.com/dardanel/light-ton-baligi-2x150-gr-p-49237752">satın al</a></td>
             </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>64,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/dardanel-ton-light-2x150-gr">satın al</a></td>
+            </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>65,41 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/dardanel-light-ton-baligi-2x150-g-p-89e024">satın al</a></td>
+            </tr><tr>
+              <td title="Happy Center">HAPPY CENTER</td>
+              <td>68,65 TL</td>
+              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Dardanel_160_Gr_X_2_Ton_Light_Balik">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>68,70 TL</td>
