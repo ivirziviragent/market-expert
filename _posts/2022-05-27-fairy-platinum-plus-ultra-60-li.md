@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Fairy Platinum Plus Ultra 60 lı"
-date:   2022-05-27 7:26:52 +0300
+date:   2022-05-27 14:13:47 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-05-27 10:26:52
+Son Güncelleme: 2022-05-27 17:13:47
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg" width="200" alt="Fairy Platinum Plus Ultra 60 lı market fiyatları" />
 
@@ -28,13 +28,13 @@ Marka: Fairy
               <td>134,90 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/fairy-kapsul-platinum-plus-60li">satın al</a></td>
             </tr><tr>
-              <td title="ToptanTR">TOPTANTR</td>
-              <td>144,49 TL</td>
-              <td><a title="ToptanTR" target="_blank" href="https://www.toptantr.com/tr/p-fairy-platinum-plus-60-yikama-bulasik-makinesi-deterjani-kapsulu">satın al</a></td>
-            </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>144,90 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/fairy-platinum-plus-kapsul-60-adet-p-544422">satın al</a></td>
+            </tr><tr>
+              <td title="ToptanTR">TOPTANTR</td>
+              <td>145,95 TL</td>
+              <td><a title="ToptanTR" target="_blank" href="https://www.toptantr.com/tr/p-fairy-platinum-plus-60-yikama-bulasik-makinesi-deterjani-kapsulu">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>153,68 TL</td>
