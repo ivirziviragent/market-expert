@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Kaşar 1 kg"
-date:   2022-05-28 6:50:17 +0300
+date:   2022-05-28 13:33:54 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-kasar-kg-6804.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-05-28 9:50:17
+Son Güncelleme: 2022-05-28 16:33:54
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-kasar-kg-6804.jpg" width="200" alt="İçim Kaşar 1 kg market fiyatları" />
 
@@ -39,9 +39,5 @@ Marka: İçim
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>132,95 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/icim-kasar-peyniri-1-kg-p-30098209">satın al</a></td>
-            </tr><tr>
-              <td title="Yunus Market">YUNUS MARKET</td>
-              <td>129,95 TL</td>
-              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/icim-kasar-1-kg/6dcd8665-2f83-4c6b-b16e-b91c4c37f66e">satın al</a></td>
             </tr>
 </table>

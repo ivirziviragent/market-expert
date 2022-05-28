@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Yudum Ayçiçek Yağı 1 Lt"
-date:   2022-05-28 6:42:16 +0300
+date:   2022-05-28 13:25:40 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-05-28 9:42:16
+Son Güncelleme: 2022-05-28 16:25:40
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg" width="200" alt="Yudum Ayçiçek Yağı 1 Lt market fiyatları" />
 
@@ -51,10 +51,6 @@ Marka: Yudum
               <td title="Mopaş">MOPAŞ</td>
               <td>51,40 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/yudum-aycicek-yagi-1-l/p/1840">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>52,45 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Yudum_Y_aycicek_Yagi_1_Lt">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
               <td>54,99 TL</td>
