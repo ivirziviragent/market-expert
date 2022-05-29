@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Evony 3 Katlı Cerrahi Maske 50 li"
-date:   2022-05-29 6:20:59 +0300
+date:   2022-05-29 13:21:30 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/evony-cerrahi-maske-50-li-2e33.jpg
 categories: saglik-urunleri
 tags: saglik-urunleri
 ---
 
-Son Güncelleme: 2022-05-29 9:20:59
+Son Güncelleme: 2022-05-29 16:21:30
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/evony-cerrahi-maske-50-li-2e33.jpg" width="200" alt="Evony 3 Katlı Cerrahi Maske 50 li market fiyatları" />
 
@@ -31,6 +31,10 @@ Marka: Evony
               <td title="Migros">MIGROS</td>
               <td>19,95 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/evony-3-katli-cerrahi-maske-50li-p-1e22e39">satın al</a></td>
+            </tr><tr>
+              <td title="CarrefourSA">CARREFOURSA</td>
+              <td>19,90 TL</td>
+              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/evony-50-li-telli-3-katli-cerrahi-maske-p-30300198">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>19,95 TL</td>
