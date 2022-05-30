@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Çaykur Kamelya Çayı 500 gr"
-date:   2022-05-30 6:16:06 +0300
-image: https://www.cagri.com/undefined
+date:   2022-05-30 13:15:49 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-500-gr-9a74.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-05-30 9:16:06
+Son Güncelleme: 2022-05-30 16:15:49
 
-<img src="https://www.cagri.com/undefined" width="200" alt="Çaykur Kamelya Çayı 500 gr market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-500-gr-9a74.jpg" width="200" alt="Çaykur Kamelya Çayı 500 gr market fiyatları" />
 
 Kategori: Çay, Kahve
 <br />
@@ -27,6 +27,10 @@ Marka: Çaykur
               <td title="Migros">MIGROS</td>
               <td>37,90 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/caykur-kamelya-cay-500-g-p-2f7988">satın al</a></td>
+            </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>37,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/caykur-kamelya-cayi-500-gr">satın al</a></td>
             </tr><tr>
               <td title="Hakmar">HAKMAR</td>
               <td>32,95 TL</td>

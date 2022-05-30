@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Domestos Dağ Esintisi 750 ml"
-date:   2022-05-30 6:13:28 +0300
-image: https://www.cagri.com/undefined
+date:   2022-05-30 13:13:10 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/domestos-dag-esintisi-750-ml-f7984f.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-05-30 9:13:28
+Son Güncelleme: 2022-05-30 16:13:10
 
-<img src="https://www.cagri.com/undefined" width="200" alt="Domestos Dağ Esintisi 750 ml market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/domestos-dag-esintisi-750-ml-f7984f.jpg" width="200" alt="Domestos Dağ Esintisi 750 ml market fiyatları" />
 
 Kategori: Deterjan, Temizlik
 <br />
@@ -24,6 +24,10 @@ Marka: Domestos
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>11,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/domestos-dag-esintisi-810-gr">satın al</a></td>
+            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>13,70 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/domestos-camasir-suyu-dag-esintisi-750-ml-p-1d25103">satın al</a></td>
@@ -51,9 +55,5 @@ Marka: Domestos
               <td title="Kim">KIM</td>
               <td>15,39 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/domestos-750-ml-dag-esintisi">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>25,70 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Domestos_Dag_810_Gr__Kar_Beyazi_810_Gr">satın al</a></td>
             </tr>
 </table>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Red Bull Enerji İçeceği 250 ml"
-date:   2022-05-30 6:23:15 +0300
+date:   2022-05-30 13:22:53 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg
 categories: icecekler
 tags: icecekler
 ---
 
-Son Güncelleme: 2022-05-30 9:23:15
+Son Güncelleme: 2022-05-30 16:22:53
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg" width="200" alt="Red Bull Enerji İçeceği 250 ml market fiyatları" />
 
@@ -28,6 +28,10 @@ Marka: Red Bull
               <td>11,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/red-bull-enerji-icecegi-250-ml">satın al</a></td>
             </tr><tr>
+              <td title="Migros">MIGROS</td>
+              <td>14,95 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/red-bull-enerji-icecegi-250-ml-p-7bbfce">satın al</a></td>
+            </tr><tr>
               <td title="Hakmar">HAKMAR</td>
               <td>11,95 TL</td>
               <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-red-bull-enerji-icecegi-250-ml">satın al</a></td>
@@ -40,17 +44,9 @@ Marka: Red Bull
               <td>13,79 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/red-bull-250-ml-sekersiz">satın al</a></td>
             </tr><tr>
-              <td title="Migros">MIGROS</td>
-              <td>14,95 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/red-bull-enerji-icecegi-250-ml-p-7bbfce">satın al</a></td>
-            </tr><tr>
               <td title="Avansas">AVANSAS</td>
               <td>14,87 TL</td>
               <td><a title="Avansas" target="_blank" href="https://www.avansas.com/red-bull-enerji-icecegi-kutu-250-ml-p-79402">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>15,70 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Red_Bull_250_Ml_Bule">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>14,95 TL</td>

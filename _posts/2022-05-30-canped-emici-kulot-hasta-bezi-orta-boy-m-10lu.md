@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Canped Emici Külot Hasta Bezi Orta Boy M 10'lu"
-date:   2022-05-30 7:01:00 +0300
+date:   2022-05-30 14:01:02 +0300
 image: https://img.istegelsin.com/medium/ec478b077c7f4736bf069eadd3ed84c4.jpg
 categories: saglik-and-medikal-urunleri
 tags: saglik-and-medikal-urunleri
 ---
 
-Son Güncelleme: 2022-05-30 10:01:00
+Son Güncelleme: 2022-05-30 17:01:02
 
 <img src="https://img.istegelsin.com/medium/ec478b077c7f4736bf069eadd3ed84c4.jpg" width="200" alt="Canped Emici Külot Hasta Bezi Orta Boy M 10'lu market fiyatları" />
 
@@ -57,7 +57,7 @@ Marka: Canped
               <td><a title="N11/kozi-tic" target="_blank" href="https://www.n11.com/urun/canped-emici-kulot-hasta-bezi-orta-boy-m-10lu-2500585?magaza=kozi-tic">satın al</a></td>
             </tr><tr>
               <td title="Trendyol/Migros Kargo Operasyonu">MIGROS KARGO OPERASYONU - TY</td>
-              <td>89,90 TL</td>
+              <td>90 TL</td>
               <td><a title="Trendyol/Migros Kargo Operasyonu" target="_blank" href="https://www.trendyol.com/canped/emici-kulot-orta-10-lu-p-7156880">satın al</a></td>
             </tr>
 </table>
