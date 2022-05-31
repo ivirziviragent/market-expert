@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Canped Emici Külot Hasta Bezi Medium 30 Adet"
-date:   2022-05-31 7:03:07 +0300
+date:   2022-05-31 14:18:43 +0300
 image: https://productimages.hepsiburada.net/s/51/550/11064887803954.jpg
 categories: saglik-and-medikal-urunleri
 tags: saglik-and-medikal-urunleri
 ---
 
-Son Güncelleme: 2022-05-31 10:03:07
+Son Güncelleme: 2022-05-31 17:18:43
 
 <img src="https://productimages.hepsiburada.net/s/51/550/11064887803954.jpg" width="200" alt="Canped Emici Külot Hasta Bezi Medium 30 Adet market fiyatları" />
 
@@ -24,16 +24,16 @@ Marka: Canped
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Trendyol/Arvenzo Mağazası">ARVENZO - TY</td>
-              <td>192,90 TL</td>
-              <td><a title="Trendyol/Arvenzo Mağazası" target="_blank" href="https://www.trendyol.com/canped/emici-kulot-hasta-bezi-orta-30-adet-p-4688725?boutiqueId=601783&merchantId=509825">satın al</a></td>
-            </tr><tr>
               <td title="Hepsiburada/hesaplieczanem Mağazası">HESAPLIECZANEM - HB</td>
               <td>194,90 TL</td>
               <td><a title="Hepsiburada/hesaplieczanem Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-orta-medium-boy-hasta-bezi-30-adet-p-hbv00000elndn">satın al</a></td>
             </tr><tr>
+              <td title="Trendyol/Arvenzo Mağazası">ARVENZO - TY</td>
+              <td>194,90 TL</td>
+              <td><a title="Trendyol/Arvenzo Mağazası" target="_blank" href="https://www.trendyol.com/canped/emici-kulot-hasta-bezi-orta-30-adet-p-4688725?boutiqueId=601783&merchantId=509825">satın al</a></td>
+            </tr><tr>
               <td title="Hepsiburada/öncesağlık Mağazası">ÖNCESAĞLIK - HB</td>
-              <td>195,00 TL</td>
+              <td>217,95 TL</td>
               <td><a title="Hepsiburada/öncesağlık Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-medium-30-adet-p-HBV000014YZKE?magaza=%C3%B6ncesa%C4%9Fl%C4%B1k">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/enindirimlisicom Mağazası">ENINDIRIMLISICOM - HB</td>

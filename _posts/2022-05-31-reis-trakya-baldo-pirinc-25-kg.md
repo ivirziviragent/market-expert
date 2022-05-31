@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Reis Trakya Baldo Pirinç 2.5 kg"
-date:   2022-05-31 7:06:43 +0300
+date:   2022-05-31 14:22:28 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-2.5-kg-f392.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-05-31 10:06:43
+Son Güncelleme: 2022-05-31 17:22:28
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-2.5-kg-f392.jpg" width="200" alt="Reis Trakya Baldo Pirinç 2.5 kg market fiyatları" />
 
@@ -36,12 +36,12 @@ Marka: Reis
               <td>70,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/reis-trakya-baldo-pirinc-2-5-kg">satın al</a></td>
             </tr><tr>
-              <td title="İste Gelsin">İSTE GELSIN</td>
-              <td>73,50 TL</td>
-              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/reis-trakya-baldo-pirinc-25-kg_RIS40-AD">satın al</a></td>
-            </tr><tr>
               <td title="Kim">KIM</td>
               <td>74,55 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/reis-pirinc-trakya-baldo-2500-gr">satın al</a></td>
+            </tr><tr>
+              <td title="İste Gelsin">İSTE GELSIN</td>
+              <td>81,50 TL</td>
+              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/reis-trakya-baldo-pirinc-25-kg_RIS40-AD">satın al</a></td>
             </tr>
 </table>
