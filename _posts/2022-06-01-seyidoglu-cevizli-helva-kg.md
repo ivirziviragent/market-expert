@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Cevizli Helva kg"
-date:   2022-06-01 6:37:58 +0300
+date:   2022-06-01 13:36:04 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-cevizli-helva-kg-fe96.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-01 9:37:58
+Son Güncelleme: 2022-06-01 16:36:04
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-cevizli-helva-kg-fe96.jpg" width="200" alt="Seyidoğlu Cevizli Helva kg market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Seyidoğlu
   </tr>
   <tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>47,95 TL</td>
+              <td>65,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/seyidoglu-cevizli-helva-kg">satın al</a></td>
             </tr>
 </table>

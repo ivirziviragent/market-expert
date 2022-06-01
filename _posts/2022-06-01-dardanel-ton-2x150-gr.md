@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Dardanel Ton 2x150 gr"
-date:   2022-06-01 7:11:47 +0300
+date:   2022-06-01 14:09:06 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-2x150-gr-810b.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-06-01 10:11:47
+Son Güncelleme: 2022-06-01 17:09:06
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-2x150-gr-810b.jpg" width="200" alt="Dardanel Ton 2x150 gr market fiyatları" />
 
@@ -36,6 +36,10 @@ Marka: Dardanel
               <td>53,26 TL</td>
               <td><a title="Avansas" target="_blank" href="https://www.avansas.com/dardanel-ton-baligi-2-x-150-gr-p-82037">satın al</a></td>
             </tr><tr>
+              <td title="CarrefourSA">CARREFOURSA</td>
+              <td>53,52 TL</td>
+              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/dardanel-ton-2x150-g-p-30097066">satın al</a></td>
+            </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>63,45 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/dardanel-ton-150grx2">satın al</a></td>
@@ -44,6 +48,10 @@ Marka: Dardanel
               <td>66,95 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/dardanel-ton-baligi-2x150-gr_DRD55-AD">satın al</a></td>
             </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>74,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/dardanel-ton-2x150-gr">satın al</a></td>
+            </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>66,95 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/dardanel-aycicek-yagli-ton-baligi-2x150-g-p-8a20e8">satın al</a></td>
@@ -51,13 +59,5 @@ Marka: Dardanel
               <td title="Mopaş">MOPAŞ</td>
               <td>68,20 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/dardanel-ton-2x150-gr/p/834735">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>70,30 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Dardanel_160_Gr_X_2_Ton_Balik">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>74,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/dardanel-ton-2x150-gr">satın al</a></td>
             </tr>
 </table>

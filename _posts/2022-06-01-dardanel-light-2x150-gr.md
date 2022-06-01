@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Dardanel Light 2X150 gr"
-date:   2022-06-01 7:14:10 +0300
+date:   2022-06-01 14:11:27 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-9868.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-06-01 10:14:10
+Son Güncelleme: 2022-06-01 17:11:27
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-9868.jpg" width="200" alt="Dardanel Light 2X150 gr market fiyatları" />
 
@@ -39,10 +39,6 @@ Marka: Dardanel
               <td title="Macro Center">MACRO CENTER</td>
               <td>65,41 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/dardanel-light-ton-baligi-2x150-g-p-89e024">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>68,65 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Dardanel_160_Gr_X_2_Ton_Light_Balik">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>68,70 TL</td>
