@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Çotanak Fındık Yağı Teneke 2 lt"
-date:   2022-06-03 6:22:22 +0300
-image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/04160025/cotanak-findik-yagi-2-l-teneke-b12381-1650x1650.jpg
+date:   2022-06-03 13:16:46 +0300
+image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2e/hfd/8895581552670/127642_0_521Wx521H
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-06-03 9:22:22
+Son Güncelleme: 2022-06-03 16:16:46
 
-<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/04160025/cotanak-findik-yagi-2-l-teneke-b12381-1650x1650.jpg" width="200" alt="Çotanak Fındık Yağı Teneke 2 lt market fiyatları" />
+<img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2e/hfd/8895581552670/127642_0_521Wx521H" width="200" alt="Çotanak Fındık Yağı Teneke 2 lt market fiyatları" />
 
 Kategori: Gıda, Şekerleme
 <br />
@@ -36,8 +36,8 @@ Marka: Çotanak
               <td>165,99 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/cotanak-findik-yagi-2-lt-p-6277">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>202,60 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Cotanak_Y_findik_Yagi_2_Lt_Pet">satın al</a></td>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>178,45 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/cotanak-findik-yagi-2-l/p/127642">satın al</a></td>
             </tr>
 </table>
