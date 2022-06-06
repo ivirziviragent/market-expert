@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Dardanel Light 2X150 gr"
-date:   2022-06-06 7:12:25 +0300
+date:   2022-06-06 14:34:22 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-9868.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-06-06 10:12:25
+Son Güncelleme: 2022-06-06 17:34:22
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-9868.jpg" width="200" alt="Dardanel Light 2X150 gr market fiyatları" />
 
@@ -24,10 +24,6 @@ Marka: Dardanel
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Trendyol/Migros Kargo Operasyonu">MIGROS KARGO OPERASYONU - TY</td>
-              <td>49,71 TL</td>
-              <td><a title="Trendyol/Migros Kargo Operasyonu" target="_blank" href="https://www.trendyol.com/dardanel/light-ton-baligi-2x150-gr-p-49237752">satın al</a></td>
-            </tr><tr>
               <td title="Bizim Toptan">BIZIM TOPTAN</td>
               <td>50,00 TL</td>
               <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/dardanel-light-ton-baligi-2x150-g">satın al</a></td>
@@ -36,13 +32,13 @@ Marka: Dardanel
               <td>52,33 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/dardanel-light-ton-baligi-2x150-g-p-89e024">satın al</a></td>
             </tr><tr>
+              <td title="Trendyol/Migros Kargo Operasyonu">MIGROS KARGO OPERASYONU - TY</td>
+              <td>52,33 TL</td>
+              <td><a title="Trendyol/Migros Kargo Operasyonu" target="_blank" href="https://www.trendyol.com/dardanel/light-ton-baligi-2x150-gr-p-49237752">satın al</a></td>
+            </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>65,41 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/dardanel-light-ton-baligi-2x150-g-p-89e024">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>68,65 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Dardanel_160_Gr_X_2_Ton_Light_Balik">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>74,90 TL</td>

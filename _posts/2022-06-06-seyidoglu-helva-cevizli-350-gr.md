@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Cevizli 350 gr"
-date:   2022-06-06 6:39:30 +0300
+date:   2022-06-06 14:01:20 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-cevizli-350-gr--78dd4.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-06 9:39:30
+Son Güncelleme: 2022-06-06 17:01:20
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-cevizli-350-gr--78dd4.jpg" width="200" alt="Seyidoğlu Helva Cevizli 350 gr market fiyatları" />
 
@@ -28,9 +28,13 @@ Marka: Seyidoğlu
               <td>20,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/seyidoglu-helva-cevizli-350-gr-20311">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>26,20 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Seyidoglu_350_Gr_Cevizli_Helva">satın al</a></td>
+              <td title="Hakmar">HAKMAR</td>
+              <td>19,95 TL</td>
+              <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-kahvaltilik-seyidoglu-cevizli-ve-bademli-yaz-helvasi-350-gr-vakumlu-paket">satın al</a></td>
+            </tr><tr>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>24,15 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/seyidoglu-helva-cevizli-350-gr/p/638637">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
               <td>26,39 TL</td>
@@ -39,9 +43,5 @@ Marka: Seyidoğlu
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>31,00 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/seyidoglu-cevizli-helva-350-gr_SEY10-AD">satın al</a></td>
-            </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>24,15 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/seyidoglu-helva-cevizli-350-gr/p/638637">satın al</a></td>
             </tr>
 </table>

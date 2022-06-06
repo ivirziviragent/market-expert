@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Canped Emici Külot Hasta Bezi Medium 30 Adet"
-date:   2022-06-06 7:02:16 +0300
+date:   2022-06-06 14:23:52 +0300
 image: https://productimages.hepsiburada.net/s/51/550/11064887803954.jpg
 categories: saglik-and-medikal-urunleri
 tags: saglik-and-medikal-urunleri
 ---
 
-Son Güncelleme: 2022-06-06 10:02:16
+Son Güncelleme: 2022-06-06 17:23:52
 
 <img src="https://productimages.hepsiburada.net/s/51/550/11064887803954.jpg" width="200" alt="Canped Emici Külot Hasta Bezi Medium 30 Adet market fiyatları" />
 
@@ -48,13 +48,13 @@ Marka: Canped
               <td>249,90 TL</td>
               <td><a title="Hepsiburada/CanPazar Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-medium-30-adet-p-HBV000014YZKE?magaza=CanPazar">satın al</a></td>
             </tr><tr>
-              <td title="Hepsiburada/Atalay Group Mağazası">ATALAY GROUP - HB</td>
-              <td>285,00 TL</td>
-              <td><a title="Hepsiburada/Atalay Group Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-large-30-adet-p-HBV000014YXKA?magaza=ATALAY%20GROUP">satın al</a></td>
-            </tr><tr>
               <td title="Hepsiburada/Bezevim Mağazası">BEZEVİM - HB</td>
               <td>289,50 TL</td>
               <td><a title="Hepsiburada/Bezevim Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-large-30-adet-p-HBV000014YXKA?magaza=BEZEV%C4%B0M">satın al</a></td>
+            </tr><tr>
+              <td title="Hepsiburada/Atalay Group Mağazası">ATALAY GROUP - HB</td>
+              <td>289,50 TL</td>
+              <td><a title="Hepsiburada/Atalay Group Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-large-30-adet-p-HBV000014YXKA?magaza=ATALAY%20GROUP">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/MAVİLİM BEBEK Mağazası">MAVİLİMBEBEK - HB</td>
               <td>315,00 TL</td>

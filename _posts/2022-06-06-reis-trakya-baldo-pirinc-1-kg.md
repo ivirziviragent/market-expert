@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Reis Trakya Baldo Pirinç 1 kg"
-date:   2022-06-06 7:06:23 +0300
+date:   2022-06-06 14:27:56 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-1-kg-473f.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-06-06 10:06:23
+Son Güncelleme: 2022-06-06 17:27:56
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-1-kg-473f.jpg" width="200" alt="Reis Trakya Baldo Pirinç 1 kg market fiyatları" />
 
@@ -32,13 +32,13 @@ Marka: Reis
               <td>29,90 TL</td>
               <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/reis-trakya-baldo-pirinc-1-kg">satın al</a></td>
             </tr><tr>
+              <td title="Avansas">AVANSAS</td>
+              <td>32,59 TL</td>
+              <td><a title="Avansas" target="_blank" href="https://www.avansas.com/reis-baldo-pirinc-1-kg-p-88291">satın al</a></td>
+            </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>32,85 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/reis-trakya-baldo-1000-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Avansas">AVANSAS</td>
-              <td>33,73 TL</td>
-              <td><a title="Avansas" target="_blank" href="https://www.avansas.com/reis-baldo-pirinc-1-kg-p-88291">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>33,90 TL</td>
