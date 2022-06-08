@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sanicat Active Aktif Oksijenli Dezenfektan Marsilya Sabun Kokulu Kedi Kumu 10lt 398-0012"
-date:   2022-06-08 7:02:56 +0300
+date:   2022-06-08 14:06:01 +0300
 image: https://cdn.dsmcdn.com/ty416/product/media/images/20220502/22/101053534/10258947/1/1_org_zoom.jpg
 categories: evcil-hayvan-urunleri
 tags: evcil-hayvan-urunleri
 ---
 
-Son Güncelleme: 2022-06-08 10:02:56
+Son Güncelleme: 2022-06-08 17:06:01
 
 <img src="https://cdn.dsmcdn.com/ty416/product/media/images/20220502/22/101053534/10258947/1/1_org_zoom.jpg" width="200" alt="Sanicat Active Aktif Oksijenli Dezenfektan Marsilya Sabun Kokulu Kedi Kumu 10lt 398-0012 market fiyatları" />
 
@@ -33,7 +33,7 @@ Marka: Sanicat
               <td><a title="Hepsiburada/Pood Petshop Mağazası" target="_blank" href="https://www.hepsiburada.com/sanicat-active-topaklasan-marsilya-sabunu-kokulu-kedi-kumu-10-lt-p-PTANNA245803667?magaza=Pood%20Petshop">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/KARAMELPETSHOP35 Mağazası">KARAMELPETSHOP35 - HB</td>
-              <td>241,53 TL</td>
+              <td>249,00 TL</td>
               <td><a title="Hepsiburada/KARAMELPETSHOP35 Mağazası" target="_blank" href="https://www.hepsiburada.com/sanicat-active-topaklasan-marsilya-sabunu-kokulu-kedi-kumu-10-lt-p-PTANNA245803667?magaza=SEVG%C4%B0PET">satın al</a></td>
             </tr>
 </table>

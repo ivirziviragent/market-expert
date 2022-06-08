@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sinangil Un 2 kg"
-date:   2022-06-08 6:11:08 +0300
+date:   2022-06-08 13:11:29 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sinangil-un-2-kg-1be4e-.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-06-08 9:11:08
+Son Güncelleme: 2022-06-08 16:11:29
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sinangil-un-2-kg-1be4e-.jpg" width="200" alt="Sinangil Un 2 kg market fiyatları" />
 
@@ -39,10 +39,6 @@ Marka: Sinangil
               <td title="Macro Center">MACRO CENTER</td>
               <td>29,95 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/sinangil-un-2-kg-p-4c8c37">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>31,45 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Sinangil_2000_Gr_Un">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>31,45 TL</td>
