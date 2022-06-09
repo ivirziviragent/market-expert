@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Fairy Platinum Plus Ultra 60 lı"
-date:   2022-06-09 7:15:50 +0300
+date:   2022-06-09 14:26:46 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-06-09 10:15:50
+Son Güncelleme: 2022-06-09 17:26:46
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg" width="200" alt="Fairy Platinum Plus Ultra 60 lı market fiyatları" />
 
@@ -36,13 +36,13 @@ Marka: Fairy
               <td>157,50 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/fairy-platinum-plus-60li">satın al</a></td>
             </tr><tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>159,90 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/fairy-platinum-plus-kapsul-60-adet-p-544422">satın al</a></td>
-            </tr><tr>
               <td title="Onur Market">ONUR MARKET</td>
               <td>159,99 TL</td>
               <td><a title="Onur Market" target="_blank" href="https://www.onurmarket.com/-fairy-plt.plus-bul.-mak.kapsul-60li--60806">satın al</a></td>
+            </tr><tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>161,99 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/fairy-platinum-plus-kapsul-60-adet-p-544422">satın al</a></td>
             </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>169,95 TL</td>

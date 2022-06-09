@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Red Bull Enerji İçeceği 250 ml"
-date:   2022-06-09 6:23:47 +0300
+date:   2022-06-09 13:23:09 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg
 categories: icecekler
 tags: icecekler
 ---
 
-Son Güncelleme: 2022-06-09 9:23:47
+Son Güncelleme: 2022-06-09 16:23:09
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg" width="200" alt="Red Bull Enerji İçeceği 250 ml market fiyatları" />
 
@@ -40,6 +40,10 @@ Marka: Red Bull
               <td>12,82 TL</td>
               <td><a title="Avansas" target="_blank" href="https://www.avansas.com/red-bull-enerji-icecegi-kutu-250-ml-p-79402">satın al</a></td>
             </tr><tr>
+              <td title="CarrefourSA">CARREFOURSA</td>
+              <td>12,95 TL</td>
+              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/red-bull-enerji-icecegi-250-ml-p-30097269">satın al</a></td>
+            </tr><tr>
               <td title="Şok">ŞOK</td>
               <td>14,95 TL</td>
               <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/enerji-icecegi-250-ml-p-2138/">satın al</a></td>
@@ -47,14 +51,6 @@ Marka: Red Bull
               <td title="Hakmar">HAKMAR</td>
               <td>14,95 TL</td>
               <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-red-bull-enerji-icecegi-250-ml">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>15,70 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Red_Bull_250_Ml_Bule">satın al</a></td>
-            </tr><tr>
-              <td title="CarrefourSA">CARREFOURSA</td>
-              <td>12,95 TL</td>
-              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/red-bull-enerji-icecegi-250-ml-p-30097269">satın al</a></td>
             </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>14,95 TL</td>

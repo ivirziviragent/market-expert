@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Tam Yağlı Beyaz Peynir 500 gr"
-date:   2022-06-09 6:34:14 +0300
+date:   2022-06-09 13:44:58 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-tam-yagli-beyaz-peynir-500-gr-5-4a03.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-09 9:34:14
+Son Güncelleme: 2022-06-09 16:44:58
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-tam-yagli-beyaz-peynir-500-gr-5-4a03.jpg" width="200" alt="Sütaş Tam Yağlı Beyaz Peynir 500 gr market fiyatları" />
 
@@ -24,21 +24,17 @@ Marka: Sütaş
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>38,75 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sutas-tam-yagli-beyaz-peynir-500-gr">satın al</a></td>
-            </tr><tr>
               <td title="Şok">ŞOK</td>
               <td>42,25 TL</td>
               <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/tam-yagli-beyaz-peynir-500-gr-p-3639/">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>46,15 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Sutas_Tam_Yagli_Beyaz_Peynir_500_Gr">satın al</a></td>
-            </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>21,75 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/sutas-tam-yagli-beyaz-peynir-250-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Yunus Market">YUNUS MARKET</td>
+              <td>38,75 TL</td>
+              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/sutas-tam-yagli-beyaz-peynir-500-gr/be622581-7b4c-4e90-b33f-8896705ceb12">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>38,75 TL</td>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Pınar Büfe Burger Peynir 350 gr"
-date:   2022-06-09 6:49:49 +0300
+date:   2022-06-09 14:00:35 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/pinar-bufe-burger-peynir-350-gr--706b-.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-06-09 9:49:49
+Son Güncelleme: 2022-06-09 17:00:35
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/pinar-bufe-burger-peynir-350-gr--706b-.jpg" width="200" alt="Pınar Büfe Burger Peynir 350 gr market fiyatları" />
 
@@ -35,10 +35,6 @@ Marka: Pınar
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>80,99 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/pinar-burger-dilimli-peynir-350-gr-p-6594">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>81,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/pinar-bufe-burger-peynir-350-gr">satın al</a></td>
             </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>82,90 TL</td>
