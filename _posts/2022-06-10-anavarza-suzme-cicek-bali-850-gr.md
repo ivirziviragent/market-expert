@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Anavarza Süzme Çiçek Balı 850 gr"
-date:   2022-06-10 7:40:33 +0300
+date:   2022-06-10 14:53:40 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/anavarza-suzme-cicek-bali-850-gr-c91-4b.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-10 10:40:33
+Son Güncelleme: 2022-06-10 17:53:40
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/anavarza-suzme-cicek-bali-850-gr-c91-4b.jpg" width="200" alt="Anavarza Süzme Çiçek Balı 850 gr market fiyatları" />
 
@@ -52,12 +52,12 @@ Marka: Anavarza
               <td>85,90 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/anavarza-suzme-cicek-bali-850-g-p-6be21b">satın al</a></td>
             </tr><tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>89,90 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/anavarza-kavanoz-suzme-cicek-bal-850-gr-p-540564">satın al</a></td>
-            </tr><tr>
               <td title="Kim">KIM</td>
               <td>94,59 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/anavarza-cicek-bali-850-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>96,99 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/anavarza-kavanoz-suzme-cicek-bal-850-gr-p-540564">satın al</a></td>
             </tr>
 </table>

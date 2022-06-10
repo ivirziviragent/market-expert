@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Reis Trakya Baldo Pirinç 1 kg"
-date:   2022-06-10 7:28:18 +0300
+date:   2022-06-10 14:17:45 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-1-kg-473f.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-06-10 10:28:18
+Son Güncelleme: 2022-06-10 17:17:45
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-1-kg-473f.jpg" width="200" alt="Reis Trakya Baldo Pirinç 1 kg market fiyatları" />
 
@@ -24,17 +24,9 @@ Marka: Reis
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Bizim Toptan">BIZIM TOPTAN</td>
-              <td>29,90 TL</td>
-              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/reis-trakya-baldo-pirinc-1-kg">satın al</a></td>
-            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>29,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/reis-trakya-baldo-pirinc-1-kg">satın al</a></td>
-            </tr><tr>
-              <td title="Avansas">AVANSAS</td>
-              <td>32,59 TL</td>
-              <td><a title="Avansas" target="_blank" href="https://www.avansas.com/reis-baldo-pirinc-1-kg-p-88291">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>33,90 TL</td>
@@ -51,6 +43,10 @@ Marka: Reis
               <td title="Mopaş">MOPAŞ</td>
               <td>40,90 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/reis-trakya-baldo-pirinc-1-kg/p/61395">satın al</a></td>
+            </tr><tr>
+              <td title="Bizim Toptan">BIZIM TOPTAN</td>
+              <td>29,90 TL</td>
+              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/reis-trakya-baldo-pirinc-1-kg">satın al</a></td>
             </tr><tr>
               <td title="ToptanTR">TOPTANTR</td>
               <td>358,80 TL</td>

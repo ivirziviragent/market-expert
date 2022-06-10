@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Royal Canin Fhn Sterilised 37 Kısırlaştırılmış Kedi Maması 15 kg"
-date:   2022-06-10 7:21:24 +0300
+date:   2022-06-10 13:59:50 +0300
 image: https://productimages.hepsiburada.net/s/22/550/9943345430578.jpg
 categories: evcil-hayvan-urunleri
 tags: evcil-hayvan-urunleri
 ---
 
-Son Güncelleme: 2022-06-10 10:21:24
+Son Güncelleme: 2022-06-10 16:59:50
 
 <img src="https://productimages.hepsiburada.net/s/22/550/9943345430578.jpg" width="200" alt="Royal Canin Fhn Sterilised 37 Kısırlaştırılmış Kedi Maması 15 kg market fiyatları" />
 
@@ -27,10 +27,6 @@ Marka: Royal Canin
               <td title="N11/SudePetMarket Mağazası">SUDEPETMARKET - N11</td>
               <td>1,349,99 TL</td>
               <td><a title="N11/SudePetMarket Mağazası" target="_blank" href="https://www.n11.com/urun/royal-canin-sterilised-37-kisirlastirilmis-yetiskin-kedi-mamasi-15-kg-1129722?magaza=sudepetmarket">satın al</a></td>
-            </tr><tr>
-              <td title="N11/Patidelisi Mağazası">PATIDELISI - N11</td>
-              <td>1,425,00 TL</td>
-              <td><a title="N11/Patidelisi Mağazası" target="_blank" href="https://www.n11.com/urun/royal-canin-sterilised-37-kisirlastirilmis-yetiskin-kedi-mamasi-15-kg-1129722?magaza=patidelisi">satın al</a></td>
             </tr><tr>
               <td title="N11/AKSUVETERİNERLİK Mağazası">AKSUVETERİNERLİK - N11</td>
               <td>1,425,00 TL</td>
