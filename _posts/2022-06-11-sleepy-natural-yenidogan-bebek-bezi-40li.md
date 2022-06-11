@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sleepy Natural Yenidoğan Bebek Bezi 40'lı"
-date:   2022-06-11 6:22:15 +0300
+date:   2022-06-11 13:21:35 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sleepy-sensitive-yenidogan-bebek-bezi-40-01cb.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-06-11 9:22:15
+Son Güncelleme: 2022-06-11 16:21:35
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sleepy-sensitive-yenidogan-bebek-bezi-40-01cb.jpg" width="200" alt="Sleepy Natural Yenidoğan Bebek Bezi 40'lı market fiyatları" />
 
