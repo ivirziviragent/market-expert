@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Komili Riviera Zeytinyağ 1 lt"
-date:   2022-06-13 6:58:38 +0300
+date:   2022-06-13 13:52:35 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/komili-yemeklik-riviera-zeytinyag-1-lt-26debe.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-06-13 9:58:38
+Son Güncelleme: 2022-06-13 16:52:35
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/komili-yemeklik-riviera-zeytinyag-1-lt-26debe.jpg" width="200" alt="Komili Riviera Zeytinyağ 1 lt market fiyatları" />
 
@@ -36,6 +36,10 @@ Marka: Komili
               <td>69,90 TL</td>
               <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/komili-riviera-zeytinyagi-1-l">satın al</a></td>
             </tr><tr>
+              <td title="Migros">MIGROS</td>
+              <td>89,90 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/komili-riviera-zeytinyagi-1-l-p-3f0a49">satın al</a></td>
+            </tr><tr>
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>82,50 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/komili-riviera-zeytinyagi-1-l_BNG4-AD">satın al</a></td>
@@ -51,14 +55,6 @@ Marka: Komili
               <td title="Kim">KIM</td>
               <td>84,69 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/komili-z-yagi-riviera-1-lt">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>87,05 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Komili_Y_zeytinyagi_Riviera_1_Lt">satın al</a></td>
-            </tr><tr>
-              <td title="Migros">MIGROS</td>
-              <td>89,90 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/komili-riviera-zeytinyagi-1-l-p-3f0a49">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>91,90 TL</td>

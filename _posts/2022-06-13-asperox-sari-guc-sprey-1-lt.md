@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Asperox Sarı Güç Sprey 1 lt"
-date:   2022-06-13 6:13:14 +0300
+date:   2022-06-13 13:11:44 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-06-13 9:13:14
+Son Güncelleme: 2022-06-13 16:11:44
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg" width="200" alt="Asperox Sarı Güç Sprey 1 lt market fiyatları" />
 
@@ -28,10 +28,6 @@ Marka: Asperox
               <td>17,50 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/asperox-sari-guc-sprey-1-l-p-1d4f3c4">satın al</a></td>
             </tr><tr>
-              <td title="CarrefourSA">CARREFOURSA</td>
-              <td>17,50 TL</td>
-              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/asperox-sari-guc-1-lt-p-30285107">satın al</a></td>
-            </tr><tr>
               <td title="Şok">ŞOK</td>
               <td>17,90 TL</td>
               <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/sari-guc-1-lt-p-29102/">satın al</a></td>
@@ -48,13 +44,13 @@ Marka: Asperox
               <td>19,99 TL</td>
               <td><a title="Onur Market" target="_blank" href="https://www.onurmarket.com/-asperox-sari-guc-1-lt-sprey--68235">satın al</a></td>
             </tr><tr>
+              <td title="CarrefourSA">CARREFOURSA</td>
+              <td>17,50 TL</td>
+              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/asperox-sari-guc-1-lt-p-30285107">satın al</a></td>
+            </tr><tr>
               <td title="Kim">KIM</td>
               <td>20,15 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/asperox-sari-guc-1000-ml">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>20,95 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/asperox-sari-guc-1lt-sprey12">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>21,00 TL</td>

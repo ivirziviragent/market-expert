@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Altınkılıç Klasik Beyaz Peynir 500 gr"
-date:   2022-06-13 7:28:45 +0300
+date:   2022-06-13 14:24:37 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-beyaz-peynir-500-gr-d8-571.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-13 10:28:45
+Son Güncelleme: 2022-06-13 17:24:37
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-beyaz-peynir-500-gr-d8-571.jpg" width="200" alt="Altınkılıç Klasik Beyaz Peynir 500 gr market fiyatları" />
 
@@ -39,10 +39,6 @@ Marka: Altınkılıç Peynir
               <td title="Macro Center">MACRO CENTER</td>
               <td>64,90 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/altinkilic-ezine-klasik-peynir-500-g-p-98e101">satın al</a></td>
-            </tr><tr>
-              <td title="Show Market">SHOW MARKET</td>
-              <td>76,99 TL</td>
-              <td><a title="Show Market" target="_blank" href="https://www.showsanal.com/product/altinkilic-peynir-klasik-ezine-500-gr/5fe34379-c06c-444e-aff8-1a353712c690">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>89,90 TL</td>
