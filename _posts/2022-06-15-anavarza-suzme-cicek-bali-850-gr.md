@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Anavarza Süzme Çiçek Balı 850 gr"
-date:   2022-06-15 7:36:48 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/anavarza-suzme-cicek-bali-850-gr-c91-4b.jpg
+date:   2022-06-15 14:28:02 +0300
+image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07070235/07070235-783fe3-1650x1650.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-15 10:36:48
+Son Güncelleme: 2022-06-15 17:28:02
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/anavarza-suzme-cicek-bali-850-gr-c91-4b.jpg" width="200" alt="Anavarza Süzme Çiçek Balı 850 gr market fiyatları" />
+<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07070235/07070235-783fe3-1650x1650.jpg" width="200" alt="Anavarza Süzme Çiçek Balı 850 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -24,10 +24,6 @@ Marka: Anavarza
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>85,90 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/anavarza-suzme-cicek-bali-850-gr">satın al</a></td>
-            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>85,90 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/anavarza-suzme-cicek-bali-850-g-p-6be21b">satın al</a></td>

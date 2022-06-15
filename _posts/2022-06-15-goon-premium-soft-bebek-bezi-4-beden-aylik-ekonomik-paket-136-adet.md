@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goon Premium Soft Bebek Bezi 4 Beden Aylık Ekonomik Paket 136 Adet"
-date:   2022-06-15 7:16:44 +0300
+date:   2022-06-15 14:07:13 +0300
 image: https://productimages.hepsiburada.net/s/37/550/10573466173490.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-06-15 10:16:44
+Son Güncelleme: 2022-06-15 17:07:13
 
 <img src="https://productimages.hepsiburada.net/s/37/550/10573466173490.jpg" width="200" alt="Goon Premium Soft Bebek Bezi 4 Beden Aylık Ekonomik Paket 136 Adet market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Goon
   </tr>
   <tr>
               <td title="Hepsiburada/ARVENZO Mağazası">ARVENZO - HB</td>
-              <td>293,28 TL</td>
+              <td>292,28 TL</td>
               <td><a title="Hepsiburada/ARVENZO Mağazası" target="_blank" href="https://www.hepsiburada.com/goon-premium-soft-bebek-bezi-4-beden-4-paket-136-adet-p-HBCV00001U430Y?magaza=arvenzo">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/Metropol Mağazası">METROPOL - HB</td>

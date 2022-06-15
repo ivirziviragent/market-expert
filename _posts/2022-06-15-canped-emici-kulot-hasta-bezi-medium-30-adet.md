@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Canped Emici Külot Hasta Bezi Medium 30 Adet"
-date:   2022-06-15 7:20:59 +0300
+date:   2022-06-15 14:11:32 +0300
 image: https://productimages.hepsiburada.net/s/51/550/11064887803954.jpg
 categories: saglik-and-medikal-urunleri
 tags: saglik-and-medikal-urunleri
 ---
 
-Son Güncelleme: 2022-06-15 10:20:59
+Son Güncelleme: 2022-06-15 17:11:32
 
 <img src="https://productimages.hepsiburada.net/s/51/550/11064887803954.jpg" width="200" alt="Canped Emici Külot Hasta Bezi Medium 30 Adet market fiyatları" />
 
@@ -25,11 +25,11 @@ Marka: Canped
   </tr>
   <tr>
               <td title="Hepsiburada/hesaplieczanem Mağazası">HESAPLIECZANEM - HB</td>
-              <td>185,90 TL</td>
+              <td>189,00 TL</td>
               <td><a title="Hepsiburada/hesaplieczanem Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-orta-medium-boy-hasta-bezi-30-adet-p-hbv00000elndn">satın al</a></td>
             </tr><tr>
               <td title="Trendyol/Arvenzo Mağazası">ARVENZO - TY</td>
-              <td>188 TL</td>
+              <td>189,90 TL</td>
               <td><a title="Trendyol/Arvenzo Mağazası" target="_blank" href="https://www.trendyol.com/canped/emici-kulot-hasta-bezi-orta-30-adet-p-4688725?boutiqueId=601783&merchantId=509825">satın al</a></td>
             </tr><tr>
               <td title="Trendyol/Barış Yatırım Mağazası">BARIŞ YATIRIM - TY</td>
@@ -40,13 +40,13 @@ Marka: Canped
               <td>225,00 TL</td>
               <td><a title="Hepsiburada/öncesağlık Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-medium-30-adet-p-HBV000014YZKE?magaza=%C3%B6ncesa%C4%9Fl%C4%B1k">satın al</a></td>
             </tr><tr>
+              <td title="Hepsiburada/CanPazar Mağazası">CANPAZAR - HB</td>
+              <td>225,00 TL</td>
+              <td><a title="Hepsiburada/CanPazar Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-medium-30-adet-p-HBV000014YZKE?magaza=CanPazar">satın al</a></td>
+            </tr><tr>
               <td title="Hepsiburada/enindirimlisicom Mağazası">ENINDIRIMLISICOM - HB</td>
               <td>233,95 TL</td>
               <td><a title="Hepsiburada/enindirimlisicom Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-medium-30-adet-p-HBV000014YZKE?magaza=enindirimlisicom">satın al</a></td>
-            </tr><tr>
-              <td title="Hepsiburada/CanPazar Mağazası">CANPAZAR - HB</td>
-              <td>249,90 TL</td>
-              <td><a title="Hepsiburada/CanPazar Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-medium-30-adet-p-HBV000014YZKE?magaza=CanPazar">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/Bezevim Mağazası">BEZEVİM - HB</td>
               <td>285,00 TL</td>
