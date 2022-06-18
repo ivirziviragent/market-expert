@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goon Premium Soft Bebek Bezi 4 Beden Jumbo Paket 34 Adet"
-date:   2022-06-18 7:20:01 +0300
+date:   2022-06-18 15:41:04 +0300
 image: https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/4902011855937_3.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-06-18 10:20:01
+Son Güncelleme: 2022-06-18 18:41:04
 
 <img src="https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/4902011855937_3.jpg" width="200" alt="Goon Premium Soft Bebek Bezi 4 Beden Jumbo Paket 34 Adet market fiyatları" />
 
@@ -45,7 +45,7 @@ Marka: Goon
               <td><a title="Trendyol/Özhan Market Mağazası" target="_blank" href="https://www.trendyol.com/goo-n/goon-premium-soft-bebek-bezi-4-beden-34-adet-p-227197478">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/Metropol Mağazası">METROPOL - HB</td>
-              <td>102,30 TL</td>
+              <td>93,71 TL</td>
               <td><a title="Hepsiburada/Metropol Mağazası" target="_blank" href="https://www.hepsiburada.com/goon-premium-soft-bebek-bezi-4-beden-jumbo-paket-34-adet-p-HBV00000AW484?magaza=Metropol">satın al</a></td>
             </tr>
 </table>

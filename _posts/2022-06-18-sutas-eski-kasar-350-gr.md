@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Sütaş Eski Kaşar 350 gr"
-date:   2022-06-18 6:45:26 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/sutas-eski-kasar-350-gr-6be9.jpg
+date:   2022-06-18 14:41:35 +0300
+image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10102405/sutas-eski-kasar-350-gr-f71436-1650x1650.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-18 9:45:26
+Son Güncelleme: 2022-06-18 17:41:35
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-eski-kasar-350-gr-6be9.jpg" width="200" alt="Sütaş Eski Kaşar 350 gr market fiyatları" />
+<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10102405/sutas-eski-kasar-350-gr-f71436-1650x1650.jpg" width="200" alt="Sütaş Eski Kaşar 350 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -35,10 +35,6 @@ Marka: Sütaş
               <td title="Showmar">SHOWMAR</td>
               <td>79,50 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/sutas-eski-kasar-350gr">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>84,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sutas-eski-kasar-350-gr">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>92,40 TL</td>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Eyüp Sabri Tuncer Sıvı Sabun 750 ml"
-date:   2022-06-18 6:32:49 +0300
+date:   2022-06-18 14:08:03 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/eyup-sabri-tuncer-sivi-sabun-750-ml-46ea.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-06-18 9:32:49
+Son Güncelleme: 2022-06-18 17:08:03
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/eyup-sabri-tuncer-sivi-sabun-750-ml-46ea.jpg" width="200" alt="Eyüp Sabri Tuncer Sıvı Sabun 750 ml market fiyatları" />
 
@@ -27,10 +27,6 @@ Marka: Eyüp Sabri Tuncer
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>22,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/eyup-sabri-tuncer-sivi-sabun-750-ml">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>22,95 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/E_sabri_Tuncer_Sivi_Sab_750_Ml_Dogal_Z_yagli">satın al</a></td>
             </tr><tr>
               <td title="Hakmar">HAKMAR</td>
               <td>22,95 TL</td>
