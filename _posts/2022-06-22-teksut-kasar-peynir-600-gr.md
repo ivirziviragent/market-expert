@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Teksüt Kaşar Peynir 600 gr"
-date:   2022-06-22 6:00:33 +0300
+date:   2022-06-22 13:00:20 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-22 9:00:33
+Son Güncelleme: 2022-06-22 16:00:20
 
 <img src="undefined" width="200" alt="Teksüt Kaşar Peynir 600 gr market fiyatları" />
 

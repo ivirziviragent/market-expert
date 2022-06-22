@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Yudum Ayçiçek Yağı 1 Lt"
-date:   2022-06-22 6:00:32 +0300
+date:   2022-06-22 13:00:19 +0300
 image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-06-22 9:00:32
+Son Güncelleme: 2022-06-22 16:00:19
 
 <img src="undefined" width="200" alt="Yudum Ayçiçek Yağı 1 Lt market fiyatları" />
 

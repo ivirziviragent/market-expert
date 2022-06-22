@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Reçel Ahududu 380 gr"
-date:   2022-06-22 6:00:40 +0300
+date:   2022-06-22 13:00:27 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-22 9:00:40
+Son Güncelleme: 2022-06-22 16:00:27
 
 <img src="undefined" width="200" alt="Seyidoğlu Reçel Ahududu 380 gr market fiyatları" />
 

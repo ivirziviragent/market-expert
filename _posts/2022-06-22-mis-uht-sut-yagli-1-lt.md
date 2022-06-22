@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Mis Uht Süt Yağlı 1 Lt"
-date:   2022-06-22 6:00:28 +0300
+date:   2022-06-22 13:00:15 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-22 9:00:28
+Son Güncelleme: 2022-06-22 16:00:15
 
 <img src="undefined" width="200" alt="Mis Uht Süt Yağlı 1 Lt market fiyatları" />
 

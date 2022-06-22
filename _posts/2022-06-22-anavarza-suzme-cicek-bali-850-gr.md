@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Anavarza Süzme Çiçek Balı 850 gr"
-date:   2022-06-22 6:00:40 +0300
+date:   2022-06-22 13:00:28 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-22 9:00:40
+Son Güncelleme: 2022-06-22 16:00:28
 
 <img src="undefined" width="200" alt="Anavarza Süzme Çiçek Balı 850 gr market fiyatları" />
 

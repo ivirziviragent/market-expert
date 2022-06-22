@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Kamelya Çayı 1000 gr"
-date:   2022-06-22 6:00:30 +0300
+date:   2022-06-22 13:00:17 +0300
 image: undefined
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-06-22 9:00:30
+Son Güncelleme: 2022-06-22 16:00:17
 
 <img src="undefined" width="200" alt="Çaykur Kamelya Çayı 1000 gr market fiyatları" />
 

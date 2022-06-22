@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Elseve Saç Kremi Dream Long 360 ml"
-date:   2022-06-22 6:00:29 +0300
+date:   2022-06-22 13:00:15 +0300
 image: undefined
 categories: sac-bakim-urunleri
 tags: sac-bakim-urunleri
 ---
 
-Son Güncelleme: 2022-06-22 9:00:29
+Son Güncelleme: 2022-06-22 16:00:15
 
 <img src="undefined" width="200" alt="Elseve Saç Kremi Dream Long 360 ml market fiyatları" />
 

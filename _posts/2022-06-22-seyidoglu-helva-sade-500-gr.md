@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Sade 500 gr"
-date:   2022-06-22 6:00:34 +0300
+date:   2022-06-22 13:00:21 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-22 9:00:34
+Son Güncelleme: 2022-06-22 16:00:21
 
 <img src="undefined" width="200" alt="Seyidoğlu Helva Sade 500 gr market fiyatları" />
 

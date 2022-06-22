@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Bal Küpü Toz Şeker 1000 gr"
-date:   2022-06-22 6:00:37 +0300
+date:   2022-06-22 13:00:24 +0300
 image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-06-22 9:00:37
+Son Güncelleme: 2022-06-22 16:00:24
 
 <img src="undefined" width="200" alt="Bal Küpü Toz Şeker 1000 gr market fiyatları" />
 

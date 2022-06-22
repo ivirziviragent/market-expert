@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çotanak Fındık Yağı Teneke 2 lt"
-date:   2022-06-22 6:00:30 +0300
+date:   2022-06-22 13:00:17 +0300
 image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-06-22 9:00:30
+Son Güncelleme: 2022-06-22 16:00:17
 
 <img src="undefined" width="200" alt="Çotanak Fındık Yağı Teneke 2 lt market fiyatları" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Bahçıvan Dilimli Tost Kaşar Peyniri 225 gr"
-date:   2022-06-22 6:00:36 +0300
+date:   2022-06-22 13:00:24 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-22 9:00:36
+Son Güncelleme: 2022-06-22 16:00:24
 
 <img src="undefined" width="200" alt="Bahçıvan Dilimli Tost Kaşar Peyniri 225 gr market fiyatları" />
 
