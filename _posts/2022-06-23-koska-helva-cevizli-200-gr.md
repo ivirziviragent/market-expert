@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Koska Helva Cevizli 200 gr"
-date:   2022-06-23 6:00:37 +0300
-image: undefined
+date:   2022-06-23 13:44:47 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-cevizli-200-gr-8288.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-23 9:00:37
+Son Güncelleme: 2022-06-23 16:44:47
 
-<img src="undefined" width="200" alt="Koska Helva Cevizli 200 gr market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-cevizli-200-gr-8288.jpg" width="200" alt="Koska Helva Cevizli 200 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,5 +23,17 @@ Marka: Koska
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>17,30 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/koska-cevizli-yaz-helvasi-200-gr/p/103276">satın al</a></td>
+            </tr><tr>
+              <td title="Showmar">SHOWMAR</td>
+              <td>18,75 TL</td>
+              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/koska-helva-cevizli-200gr">satın al</a></td>
+            </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>19,50 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-cevizli-200-gr">satın al</a></td>
+            </tr>
 </table>

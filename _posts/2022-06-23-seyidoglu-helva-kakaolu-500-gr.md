@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Kakaolu 500 gr"
-date:   2022-06-23 6:00:35 +0300
-image: undefined
+date:   2022-06-23 13:36:09 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-kakaolu-500-gr-821b.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-23 9:00:35
+Son Güncelleme: 2022-06-23 16:36:09
 
-<img src="undefined" width="200" alt="Seyidoğlu Helva Kakaolu 500 gr market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-kakaolu-500-gr-821b.jpg" width="200" alt="Seyidoğlu Helva Kakaolu 500 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,5 +23,17 @@ Marka: Seyidoğlu
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>32,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/seyidoglu-helva-kakaolu-500-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Kim">KIM</td>
+              <td>36,29 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/seyidoglu-helva-500-gr-kakaolu">satın al</a></td>
+            </tr><tr>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>31,50 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/seyidoglu-kakaolu-helva-500-gr/p/106205">satın al</a></td>
+            </tr>
 </table>

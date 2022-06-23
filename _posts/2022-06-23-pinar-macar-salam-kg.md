@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Pınar Macar Salam kg"
-date:   2022-06-23 6:00:39 +0300
-image: undefined
+date:   2022-06-23 14:01:56 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/pinar-fistikli-macar-salam-kg-293d.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-06-23 9:00:39
+Son Güncelleme: 2022-06-23 17:01:56
 
-<img src="undefined" width="200" alt="Pınar Macar Salam kg market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/pinar-fistikli-macar-salam-kg-293d.jpg" width="200" alt="Pınar Macar Salam kg market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,5 +23,21 @@ Marka: Pınar
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Showmar">SHOWMAR</td>
+              <td>249,95 TL</td>
+              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/pinar-salam-macar-kg">satın al</a></td>
+            </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>264,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/pinar-fistikli-macar-salam-kg">satın al</a></td>
+            </tr><tr>
+              <td title="Migros">MIGROS</td>
+              <td>278,90 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/pinar-solen-macar-salam-kg-p-d7268e">satın al</a></td>
+            </tr><tr>
+              <td title="Macro Center">MACRO CENTER</td>
+              <td>278,90 TL</td>
+              <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/pinar-solen-macar-salam-kg-p-d7268e">satın al</a></td>
+            </tr>
 </table>

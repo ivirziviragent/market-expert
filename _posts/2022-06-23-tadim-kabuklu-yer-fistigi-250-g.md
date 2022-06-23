@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Tadım Kabuklu Yer Fıstığı 250 G"
-date:   2022-06-23 6:00:32 +0300
-image: undefined
+date:   2022-06-23 13:23:58 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/tadim-kavrulmus-kabuklu-yer-fistigi-25-f75-b6.jpg
 categories: atistirmalik
 tags: atistirmalik
 ---
 
-Son Güncelleme: 2022-06-23 9:00:32
+Son Güncelleme: 2022-06-23 16:23:58
 
-<img src="undefined" width="200" alt="Tadım Kabuklu Yer Fıstığı 250 G market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/tadim-kavrulmus-kabuklu-yer-fistigi-25-f75-b6.jpg" width="200" alt="Tadım Kabuklu Yer Fıstığı 250 G market fiyatları" />
 
 Kategori: Atıştırmalık
 <br />
@@ -23,5 +23,17 @@ Marka: Tadım
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  
+  <tr>
+              <td title="Migros">MIGROS</td>
+              <td>21,90 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/tadim-kabuklu-yer-fistigi-250-g-p-7b8e81">satın al</a></td>
+            </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>22,00 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/tadim-kavrulmus-kabuklu-yer-fistigi-250-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>23,10 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/tadim-kabuklu-fistik-250-gr/p/367174">satın al</a></td>
+            </tr>
 </table>
