@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Fairy Platinum Plus Ultra 60 lı"
-date:   2022-06-24 7:27:15 +0300
+date:   2022-06-24 14:15:59 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-06-24 10:27:15
+Son Güncelleme: 2022-06-24 17:15:59
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg" width="200" alt="Fairy Platinum Plus Ultra 60 lı market fiyatları" />
 
@@ -31,10 +31,6 @@ Marka: Fairy
               <td title="ToptanTR">TOPTANTR</td>
               <td>143,03 TL</td>
               <td><a title="ToptanTR" target="_blank" href="https://www.toptantr.com/tr/p-fairy-platinum-plus-60-yikama-bulasik-makinesi-deterjani-kapsulu">satın al</a></td>
-            </tr><tr>
-              <td title="Yunus Market">YUNUS MARKET</td>
-              <td>152,90 TL</td>
-              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/fairy-tablet-platinum-plus-60-li/c5972604-126f-4013-860b-16b7bba40ec9">satın al</a></td>
             </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>159,92 TL</td>
