@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Zeki Osmancık Pirinç 1 kg"
-date:   2022-06-30 7:08:49 +0300
+date:   2022-06-30 14:27:53 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/zeki-osmancik-pirinc-1-kg-2-c3a7.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-06-30 10:08:49
+Son Güncelleme: 2022-06-30 17:27:53
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/zeki-osmancik-pirinc-1-kg-2-c3a7.jpg" width="200" alt="Zeki Osmancık Pirinç 1 kg market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Zeki Bakliyat
   </tr>
   <tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>18,95 TL</td>
+              <td>25,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/zeki-osmancik-pirinc-1-kg">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>

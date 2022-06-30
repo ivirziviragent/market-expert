@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goon Premium Soft Bebek Bezi 4 Beden Jumbo Paket 34 Adet"
-date:   2022-06-30 7:00:06 +0300
+date:   2022-06-30 14:17:53 +0300
 image: https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/4902011855937_3.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-06-30 10:00:06
+Son Güncelleme: 2022-06-30 17:17:53
 
 <img src="https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/4902011855937_3.jpg" width="200" alt="Goon Premium Soft Bebek Bezi 4 Beden Jumbo Paket 34 Adet market fiyatları" />
 
@@ -25,11 +25,11 @@ Marka: Goon
   </tr>
   <tr>
               <td title="Hepsiburada/Ekmelgross Mağazası">EKMELGROSS - HB</td>
-              <td>74,43 TL</td>
+              <td>73,00 TL</td>
               <td><a title="Hepsiburada/Ekmelgross Mağazası" target="_blank" href="https://www.hepsiburada.com/goon-premium-soft-bebek-bezi-4-beden-jumbo-paket-34-adet-p-HBV00000AW484?magaza=Ekmelgross">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/ARVENZO Mağazası">ARVENZO - HB</td>
-              <td>74,43 TL</td>
+              <td>73,00 TL</td>
               <td><a title="Hepsiburada/ARVENZO Mağazası" target="_blank" href="https://www.hepsiburada.com/goon-premium-soft-bebek-bezi-4-beden-jumbo-paket-34-adet-p-HBV00000AW484?magaza=arvenzo">satın al</a></td>
             </tr><tr>
               <td title="E-Bebek">E-BEBEK</td>
