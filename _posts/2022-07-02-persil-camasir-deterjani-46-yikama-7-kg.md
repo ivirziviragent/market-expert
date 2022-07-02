@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Persil Çamaşır Deterjanı 46 Yıkama 7 Kg"
-date:   2022-07-02 6:04:39 +0300
-image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/30121523/30121523-699049-1650x1650.jpg
+date:   2022-07-02 13:00:08 +0300
+image: undefined
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-07-02 9:04:39
+Son Güncelleme: 2022-07-02 16:00:08
 
-<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/30121523/30121523-699049-1650x1650.jpg" width="200" alt="Persil Çamaşır Deterjanı 46 Yıkama 7 Kg market fiyatları" />
+<img src="undefined" width="200" alt="Persil Çamaşır Deterjanı 46 Yıkama 7 Kg market fiyatları" />
 
 Kategori: Deterjan, Temizlik
 <br />
@@ -23,9 +23,5 @@ Marka: Persil
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Migros">MIGROS</td>
-              <td>63,97 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/persil-camasir-deterjani-gulun-buyusu-46-yikama-7-kg-p-1cb9e33">satın al</a></td>
-            </tr>
+  
 </table>

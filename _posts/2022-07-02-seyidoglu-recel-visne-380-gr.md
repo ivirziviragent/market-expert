@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Seyidoğlu Reçel Vişne 380 gr"
-date:   2022-07-02 7:17:15 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-recel-visne-380-gr--aa3a-.jpg
+date:   2022-07-02 13:00:19 +0300
+image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-02 10:17:15
+Son Güncelleme: 2022-07-02 16:00:19
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-recel-visne-380-gr--aa3a-.jpg" width="200" alt="Seyidoğlu Reçel Vişne 380 gr market fiyatları" />
+<img src="undefined" width="200" alt="Seyidoğlu Reçel Vişne 380 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,25 +23,5 @@ Marka: Seyidoğlu
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>18,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/seyidoglu-recel-visne-380-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Showmar">SHOWMAR</td>
-              <td>18,95 TL</td>
-              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/seyidoglu-recel-385gr-visne">satın al</a></td>
-            </tr><tr>
-              <td title="Kim">KIM</td>
-              <td>18,99 TL</td>
-              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/seyidoglu-recel-380-gr-visne">satın al</a></td>
-            </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>21,00 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/seyidoglu-visne-receli-380-gr/p/202048">satın al</a></td>
-            </tr><tr>
-              <td title="İste Gelsin">İSTE GELSIN</td>
-              <td>25,75 TL</td>
-              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/seyidoglu-visne-receli-380-gr_SEY1-AD">satın al</a></td>
-            </tr>
+  
 </table>

@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Teksüt Kaşar Peynir 600 gr"
-date:   2022-07-02 6:32:44 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-600-gr-692b.jpg
+date:   2022-07-02 13:00:13 +0300
+image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-02 9:32:44
+Son Güncelleme: 2022-07-02 16:00:13
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-600-gr-692b.jpg" width="200" alt="Teksüt Kaşar Peynir 600 gr market fiyatları" />
+<img src="undefined" width="200" alt="Teksüt Kaşar Peynir 600 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,29 +23,5 @@ Marka: Teksüt
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>69,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/teksut-kasar-peynir-600-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Kim">KIM</td>
-              <td>69,99 TL</td>
-              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/teksut-tost-peyniri-600-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>76,65 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/teksut-kasar-600-gr/p/797353">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>85,55 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/teksut-kasar-peyniri-600-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Migros">MIGROS</td>
-              <td>87,95 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/teksut-kasar-peyniri-600-g-p-9a24a6">satın al</a></td>
-            </tr><tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>89,99 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/teksut-kasar-600-gr-p-241">satın al</a></td>
-            </tr>
+  
 </table>

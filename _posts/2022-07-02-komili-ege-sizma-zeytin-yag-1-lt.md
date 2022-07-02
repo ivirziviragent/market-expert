@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Komili Ege Sızma Zeytin Yağ 1 lt"
-date:   2022-07-02 6:14:39 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/komili-sizma-zeytinyagi-1-lt-bb4f5f.jpg
+date:   2022-07-02 13:00:09 +0300
+image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-02 9:14:39
+Son Güncelleme: 2022-07-02 16:00:09
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/komili-sizma-zeytinyagi-1-lt-bb4f5f.jpg" width="200" alt="Komili Ege Sızma Zeytin Yağ 1 lt market fiyatları" />
+<img src="undefined" width="200" alt="Komili Ege Sızma Zeytin Yağ 1 lt market fiyatları" />
 
 Kategori: Gıda, Şekerleme
 <br />
@@ -23,29 +23,5 @@ Marka: Komili
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Onur Market">ONUR MARKET</td>
-              <td>63,99 TL</td>
-              <td><a title="Onur Market" target="_blank" href="https://www.onurmarket.com/-komili-sizma-1-lt-pet--7589">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>84,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/komili-sizma-zeytinyagi-1-lt">satın al</a></td>
-            </tr><tr>
-              <td title="Kim">KIM</td>
-              <td>84,99 TL</td>
-              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/komili-z-yagi-sizma-1-lt">satın al</a></td>
-            </tr><tr>
-              <td title="Migros">MIGROS</td>
-              <td>98,90 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/komili-naturel-sizma-zeytinyagi-yumusak-lezzet-1-l-p-3f1231">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>99,45 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Komili_Y_zeytinyagi_Sizma_1_Lt">satın al</a></td>
-            </tr><tr>
-              <td title="İste Gelsin">İSTE GELSIN</td>
-              <td>99,00 TL</td>
-              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/komili-sizma-zeytinyagi-1-l_BNG2-AD">satın al</a></td>
-            </tr>
+  
 </table>

@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Bal Küpü Küp Şeker 1000 gr"
-date:   2022-07-02 6:52:23 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/bal-kupu-kup-seker-1000-gr-50c8.jpg
+date:   2022-07-02 13:00:17 +0300
+image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-02 9:52:23
+Son Güncelleme: 2022-07-02 16:00:17
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/bal-kupu-kup-seker-1000-gr-50c8.jpg" width="200" alt="Bal Küpü Küp Şeker 1000 gr market fiyatları" />
+<img src="undefined" width="200" alt="Bal Küpü Küp Şeker 1000 gr market fiyatları" />
 
 Kategori: Gıda, Şekerleme
 <br />
@@ -23,21 +23,5 @@ Marka: Balküpü
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="CarrefourSA">CARREFOURSA</td>
-              <td>23,50 TL</td>
-              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/bal-kupu-kup-seker-1000-g-p-30100002">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>23,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/bal-kupu-kup-seker-1000-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Kim">KIM</td>
-              <td>24,99 TL</td>
-              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/balkupu-kesme-seker-1000-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>38,45 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/balkupu-1000-gr-kup-seker-360-adet-p-538056">satın al</a></td>
-            </tr>
+  
 </table>

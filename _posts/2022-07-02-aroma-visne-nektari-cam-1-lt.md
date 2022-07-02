@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Aroma Vişne Nektarı Cam 1 lt"
-date:   2022-07-02 7:14:49 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/aroma-visne-nektari-cam-1-lt-3-4ec1.jpg
+date:   2022-07-02 13:00:19 +0300
+image: undefined
 categories: icecekler
 tags: icecekler
 ---
 
-Son Güncelleme: 2022-07-02 10:14:49
+Son Güncelleme: 2022-07-02 16:00:19
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/aroma-visne-nektari-cam-1-lt-3-4ec1.jpg" width="200" alt="Aroma Vişne Nektarı Cam 1 lt market fiyatları" />
+<img src="undefined" width="200" alt="Aroma Vişne Nektarı Cam 1 lt market fiyatları" />
 
 Kategori: İçecekler
 <br />
@@ -23,9 +23,5 @@ Marka: Aroma
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>16,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/aroma-visne-nektari-cam-1-lt">satın al</a></td>
-            </tr>
+  
 </table>

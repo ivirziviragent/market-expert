@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Maylo Tuvalet Kağıdı 3 Katlı 32'li"
-date:   2022-07-02 6:22:36 +0300
-image: https://cdnsta.avansas.com/mnresize/900/-/urun/77713/maylo-tuvalet-kagidi-3-katli-32li-zoom-1.jpg
+date:   2022-07-02 13:00:11 +0300
+image: undefined
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-07-02 9:22:36
+Son Güncelleme: 2022-07-02 16:00:11
 
-<img src="https://cdnsta.avansas.com/mnresize/900/-/urun/77713/maylo-tuvalet-kagidi-3-katli-32li-zoom-1.jpg" width="200" alt="Maylo Tuvalet Kağıdı 3 Katlı 32'li market fiyatları" />
+<img src="undefined" width="200" alt="Maylo Tuvalet Kağıdı 3 Katlı 32'li market fiyatları" />
 
 Kategori: Deterjan, Temizlik
 <br />

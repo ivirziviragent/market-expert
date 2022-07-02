@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Reis Trakya Baldo Pirinç 2.5 kg"
-date:   2022-07-02 7:07:42 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-2.5-kg-f392.jpg
+date:   2022-07-02 13:00:18 +0300
+image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-02 10:07:42
+Son Güncelleme: 2022-07-02 16:00:18
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-2.5-kg-f392.jpg" width="200" alt="Reis Trakya Baldo Pirinç 2.5 kg market fiyatları" />
+<img src="undefined" width="200" alt="Reis Trakya Baldo Pirinç 2.5 kg market fiyatları" />
 
 Kategori: Gıda, Şekerleme
 <br />
@@ -23,25 +23,5 @@ Marka: Reis
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Bizim Toptan">BIZIM TOPTAN</td>
-              <td>37,36 TL</td>
-              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/reis-baldo-pirinc-2-5-kg">satın al</a></td>
-            </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>73,45 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/hunkar-osmancik-pirinc-25-kg/p/105696">satın al</a></td>
-            </tr><tr>
-              <td title="İste Gelsin">İSTE GELSIN</td>
-              <td>81,50 TL</td>
-              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/reis-trakya-baldo-pirinc-25-kg_RIS40-AD">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>82,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/reis-trakya-baldo-pirinc-2-5-kg">satın al</a></td>
-            </tr><tr>
-              <td title="Kim">KIM</td>
-              <td>82,99 TL</td>
-              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/reis-pirinc-trakya-baldo-2500-gr">satın al</a></td>
-            </tr>
+  
 </table>

@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Çotanak Fındık Yağı Teneke 2 lt"
-date:   2022-07-02 6:17:23 +0300
-image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2e/hfd/8895581552670/127642_0_521Wx521H
+date:   2022-07-02 13:00:10 +0300
+image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-02 9:17:23
+Son Güncelleme: 2022-07-02 16:00:10
 
-<img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2e/hfd/8895581552670/127642_0_521Wx521H" width="200" alt="Çotanak Fındık Yağı Teneke 2 lt market fiyatları" />
+<img src="undefined" width="200" alt="Çotanak Fındık Yağı Teneke 2 lt market fiyatları" />
 
 Kategori: Gıda, Şekerleme
 <br />
@@ -23,25 +23,5 @@ Marka: Çotanak
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Migros">MIGROS</td>
-              <td>76,00 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/cotanak-findik-yagi-2-l-teneke-p-3f7a19">satın al</a></td>
-            </tr><tr>
-              <td title="CarrefourSA">CARREFOURSA</td>
-              <td>111,15 TL</td>
-              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/cotanak-findik-yagi-2-lt-p-30032060">satın al</a></td>
-            </tr><tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>165,99 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/cotanak-findik-yagi-2-lt-p-6277">satın al</a></td>
-            </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>178,45 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/cotanak-findik-yagi-2-l/p/127642">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>206,45 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Cotanak_Y_findik_Yagi_2_Lt_Pet">satın al</a></td>
-            </tr>
+  
 </table>

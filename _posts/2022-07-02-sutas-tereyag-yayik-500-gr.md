@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Sütaş Tereyağ Yayık 500 gr"
-date:   2022-07-02 6:20:27 +0300
-image: https://www.kimgeldi.com/undefined
+date:   2022-07-02 13:00:10 +0300
+image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-02 9:20:27
+Son Güncelleme: 2022-07-02 16:00:10
 
-<img src="https://www.kimgeldi.com/undefined" width="200" alt="Sütaş Tereyağ Yayık 500 gr market fiyatları" />
+<img src="undefined" width="200" alt="Sütaş Tereyağ Yayık 500 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,13 +23,5 @@ Marka: Sütaş
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Şok">ŞOK</td>
-              <td>72,90 TL</td>
-              <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/geleneksel-tereyag-500-gr-p-3601/">satın al</a></td>
-            </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>84,00 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/sutas-yayik-tereyag-500-gr/p/824">satın al</a></td>
-            </tr>
+  
 </table>

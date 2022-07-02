@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Kebir Köy Tipi Yoğurt 1 kg"
-date:   2022-07-02 6:19:20 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/kebir-koy-tipi-yogurt-1-kg-6a98-d.jpg
+date:   2022-07-02 13:00:10 +0300
+image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-02 9:19:20
+Son Güncelleme: 2022-07-02 16:00:10
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/kebir-koy-tipi-yogurt-1-kg-6a98-d.jpg" width="200" alt="Kebir Köy Tipi Yoğurt 1 kg market fiyatları" />
+<img src="undefined" width="200" alt="Kebir Köy Tipi Yoğurt 1 kg market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,13 +23,5 @@ Marka: Kebir
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>23,60 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/kebir-yogurt-1-kg/p/319327">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>24,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/kebir-koy-tipi-yogurt-1-kg">satın al</a></td>
-            </tr>
+  
 </table>
