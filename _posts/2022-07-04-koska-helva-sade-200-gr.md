@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Sade 200 gr"
-date:   2022-07-04 6:44:13 +0300
+date:   2022-07-04 13:44:02 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-200-gr-a9f6.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-04 9:44:13
+Son Güncelleme: 2022-07-04 16:44:02
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-200-gr-a9f6.jpg" width="200" alt="Koska Helva Sade 200 gr market fiyatları" />
 
@@ -28,6 +28,10 @@ Marka: Koska
               <td>19,45 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/koska-sade-helva-paket-200-g-p-6c0859">satın al</a></td>
             </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>21,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-sade-200-gr">satın al</a></td>
+            </tr><tr>
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>19,45 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/koska-sade-helva-200-gr_KSK8-AD">satın al</a></td>
@@ -47,14 +51,6 @@ Marka: Koska
               <td title="Kim">KIM</td>
               <td>20,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/koska-helva-200-gr-sade">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>21,35 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Koska_200_Gr_Helva_Sade">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>21,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-sade-200-gr">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>22,00 TL</td>

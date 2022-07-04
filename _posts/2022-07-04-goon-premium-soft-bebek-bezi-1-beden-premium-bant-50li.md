@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goo.n Premium Soft Bebek Bezi 1 Beden Premium Bant 50'li"
-date:   2022-07-04 6:52:41 +0300
+date:   2022-07-04 13:52:35 +0300
 image: https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/4902011856613_3.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-07-04 9:52:41
+Son Güncelleme: 2022-07-04 16:52:35
 
 <img src="https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/4902011856613_3.jpg" width="200" alt="Goo.n Premium Soft Bebek Bezi 1 Beden Premium Bant 50'li market fiyatları" />
 
@@ -37,7 +37,7 @@ Marka: Goon
               <td><a title="Hepsiburada/Metropol Mağazası" target="_blank" href="https://www.hepsiburada.com/goo-n-premium-soft-bebek-bezi-1-beden-premium-bant-50-li-p-HBCV00000ZRTKQ?magaza=Metropol">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/Ekmelgross Mağazası">EKMELGROSS - HB</td>
-              <td>119,90 TL</td>
+              <td>129,90 TL</td>
               <td><a title="Hepsiburada/Ekmelgross Mağazası" target="_blank" href="https://www.hepsiburada.com/goon-premium-soft-bebek-bezi-1-beden-50-li-p-HBCV00000XFEOU?magaza=Ekmelgross">satın al</a></td>
             </tr>
 </table>
