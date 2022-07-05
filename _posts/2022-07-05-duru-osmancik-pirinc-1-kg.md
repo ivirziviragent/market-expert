@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Duru Osmancık Pirinç 1 kg"
-date:   2022-07-05 6:25:55 +0300
+date:   2022-07-05 13:25:27 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/duru-osmancik-pirinc-1-kg-7cad.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-05 9:25:55
+Son Güncelleme: 2022-07-05 16:25:27
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/duru-osmancik-pirinc-1-kg-7cad.jpg" width="200" alt="Duru Osmancık Pirinç 1 kg market fiyatları" />
 
@@ -24,6 +24,10 @@ Marka: Duru Bakliyat
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>26,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/duru-osmancik-pirinc-1-kg">satın al</a></td>
+            </tr><tr>
               <td title="Bizim Toptan">BIZIM TOPTAN</td>
               <td>17,73 TL</td>
               <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/duru-osmancik-pirinc-1-kg">satın al</a></td>
@@ -32,20 +36,8 @@ Marka: Duru Bakliyat
               <td>26,75 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/duru-bakliyat-osmancik-pilavlik-pirinc-1-kg-p-549396">satın al</a></td>
             </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>26,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/duru-osmancik-pirinc-1-kg">satın al</a></td>
-            </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>27,90 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/duru-osmancik-pilavlik-pirinc-1-kg">satın al</a></td>
-            </tr><tr>
-              <td title="Show Market">SHOW MARKET</td>
-              <td>29,99 TL</td>
-              <td><a title="Show Market" target="_blank" href="https://www.showsanal.com/product/duru-pirinc-osmancik-1000-gr/8450e88b-02fd-4109-87d8-9ad40c9baa32">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>30,95 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Duru_1000_Gr_Bkl_Pirinc_Osmancik">satın al</a></td>
             </tr>
 </table>
