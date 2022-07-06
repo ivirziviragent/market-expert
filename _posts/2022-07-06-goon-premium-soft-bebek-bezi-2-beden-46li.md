@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goon Premium Soft Bebek Bezi 2 Beden 46'lı"
-date:   2022-07-06 6:59:29 +0300
+date:   2022-07-06 13:59:50 +0300
 image: https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/4902011856620_3.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-07-06 9:59:29
+Son Güncelleme: 2022-07-06 16:59:50
 
 <img src="https://cdn.e-bebek.com/mnresize/1600/1600/y.ebebek/prod/productImage/4902011856620_3.jpg" width="200" alt="Goon Premium Soft Bebek Bezi 2 Beden 46'lı market fiyatları" />
 
