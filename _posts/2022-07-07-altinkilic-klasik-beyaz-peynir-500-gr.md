@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Altınkılıç Klasik Beyaz Peynir 500 gr"
-date:   2022-07-07 7:23:41 +0300
+date:   2022-07-07 14:24:19 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-beyaz-peynir-500-gr-d8-571.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-07 10:23:41
+Son Güncelleme: 2022-07-07 17:24:19
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-beyaz-peynir-500-gr-d8-571.jpg" width="200" alt="Altınkılıç Klasik Beyaz Peynir 500 gr market fiyatları" />
 
@@ -24,17 +24,21 @@ Marka: Altınkılıç Peynir
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>64,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/altinkilic-klasik-beyaz-peynir-500-gr-19562">satın al</a></td>
-            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>54,95 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/altinkilic-tam-yagli-olgunlastirilmis-inek-peyniri-500-g-p-98e101">satın al</a></td>
             </tr><tr>
+              <td title="İste Gelsin">İSTE GELSIN</td>
+              <td>64,90 TL</td>
+              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/altinkilic-klasik-beyaz-peynir-500-g_AKL14-AD">satın al</a></td>
+            </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>64,90 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/altinkilic-ezine-klasik-peynir-500-g-p-98e101">satın al</a></td>
+            </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>64,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/altinkilic-klasik-beyaz-peynir-500-gr-19562">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
               <td>64,99 TL</td>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Altınkılıç Klasik Dilimli Beyaz Peynir 450 gr"
-date:   2022-07-07 7:24:23 +0300
+date:   2022-07-07 14:24:59 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-dilimli-beyaz-peynir-5-436e.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-07 10:24:23
+Son Güncelleme: 2022-07-07 17:24:59
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-dilimli-beyaz-peynir-5-436e.jpg" width="200" alt="Altınkılıç Klasik Dilimli Beyaz Peynir 450 gr market fiyatları" />
 
@@ -24,17 +24,21 @@ Marka: Altınkılıç Peynir
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>64,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/altinkilic-klasik-dilimli-beyaz-peynir-450-gr-19563">satın al</a></td>
-            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>54,95 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/altinkilic-3-dilim-tam-yagli-olgun-inek-peyniri-450-g-p-98e100">satın al</a></td>
             </tr><tr>
+              <td title="İste Gelsin">İSTE GELSIN</td>
+              <td>64,90 TL</td>
+              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/altinkilic-klasik-beyaz-peynir-450-g-3-dilim_AKL9-AD">satın al</a></td>
+            </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>64,90 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/altinkilic-3-dilim-tam-yagli-olgun-inek-peyniri-450-g-p-98e100">satın al</a></td>
+            </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>64,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/altinkilic-klasik-dilimli-beyaz-peynir-450-gr-19563">satın al</a></td>
             </tr><tr>
               <td title="Onur Market">ONUR MARKET</td>
               <td>64,99 TL</td>

@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Canped Emici Külot Hasta Bezi Orta Boy M 10'lu"
-date:   2022-07-07 7:04:56 +0300
-image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/hc0/h8c/8924564095006/125146_0_521Wx521H
+date:   2022-07-07 14:05:52 +0300
+image: https://img.istegelsin.com/medium/ec478b077c7f4736bf069eadd3ed84c4.jpg
 categories: saglik-and-medikal-urunleri
 tags: saglik-and-medikal-urunleri
 ---
 
-Son Güncelleme: 2022-07-07 10:04:56
+Son Güncelleme: 2022-07-07 17:05:52
 
-<img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/hc0/h8c/8924564095006/125146_0_521Wx521H" width="200" alt="Canped Emici Külot Hasta Bezi Orta Boy M 10'lu market fiyatları" />
+<img src="https://img.istegelsin.com/medium/ec478b077c7f4736bf069eadd3ed84c4.jpg" width="200" alt="Canped Emici Külot Hasta Bezi Orta Boy M 10'lu market fiyatları" />
 
 Kategori: Sağlık & Medikal Ürünleri
 <br />
@@ -27,6 +27,10 @@ Marka: Canped
               <td title="Bizim Toptan">BIZIM TOPTAN</td>
               <td>67,95 TL</td>
               <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/canped-hasta-bezi-emici-kulot-med-10lu">satın al</a></td>
+            </tr><tr>
+              <td title="İste Gelsin">İSTE GELSIN</td>
+              <td>74,90 TL</td>
+              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/canped-orta-boy-10lu-emici-kulot-_BTT28913-AD">satın al</a></td>
             </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>74,95 TL</td>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Canped Emici Külot Hasta Bezi Medium 30 Adet"
-date:   2022-07-07 7:06:05 +0300
+date:   2022-07-07 14:07:01 +0300
 image: https://productimages.hepsiburada.net/s/51/550/11064887803954.jpg
 categories: saglik-and-medikal-urunleri
 tags: saglik-and-medikal-urunleri
 ---
 
-Son Güncelleme: 2022-07-07 10:06:05
+Son Güncelleme: 2022-07-07 17:07:01
 
 <img src="https://productimages.hepsiburada.net/s/51/550/11064887803954.jpg" width="200" alt="Canped Emici Külot Hasta Bezi Medium 30 Adet market fiyatları" />
 
@@ -36,17 +36,17 @@ Marka: Canped
               <td>232,99 TL</td>
               <td><a title="Trendyol/Barış Yatırım Mağazası" target="_blank" href="https://www.trendyol.com/canped/emici-kulot-30lu-medium-p-40924783">satın al</a></td>
             </tr><tr>
-              <td title="Trendyol/Arvenzo Mağazası">ARVENZO - TY</td>
-              <td>235 TL</td>
-              <td><a title="Trendyol/Arvenzo Mağazası" target="_blank" href="https://www.trendyol.com/canped/emici-kulot-hasta-bezi-orta-30-adet-p-4688725?boutiqueId=601783&merchantId=509825">satın al</a></td>
-            </tr><tr>
               <td title="Hepsiburada/enindirimlisicom Mağazası">ENINDIRIMLISICOM - HB</td>
-              <td>244,99 TL</td>
+              <td>234,90 TL</td>
               <td><a title="Hepsiburada/enindirimlisicom Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-medium-30-adet-p-HBV000014YZKE?magaza=enindirimlisicom">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/CanPazar Mağazası">CANPAZAR - HB</td>
-              <td>244,99 TL</td>
+              <td>234,90 TL</td>
               <td><a title="Hepsiburada/CanPazar Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-medium-30-adet-p-HBV000014YZKE?magaza=CanPazar">satın al</a></td>
+            </tr><tr>
+              <td title="Trendyol/Arvenzo Mağazası">ARVENZO - TY</td>
+              <td>235 TL</td>
+              <td><a title="Trendyol/Arvenzo Mağazası" target="_blank" href="https://www.trendyol.com/canped/emici-kulot-hasta-bezi-orta-30-adet-p-4688725?boutiqueId=601783&merchantId=509825">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/Bezevim Mağazası">BEZEVİM - HB</td>
               <td>265,00 TL</td>
