@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Doğuş Karadeniz Siyah Filiz Çayı 1000 G"
-date:   2022-07-11 6:03:32 +0300
+date:   2022-07-11 13:03:47 +0300
 image: https://ayb.akinoncdn.com/products/2019/11/26/1907/d9f2d265-52ff-46a1-8058-ce6ce1ef0b53_size780x780_quality60_cropCenter.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-07-11 9:03:32
+Son Güncelleme: 2022-07-11 16:03:47
 
 <img src="https://ayb.akinoncdn.com/products/2019/11/26/1907/d9f2d265-52ff-46a1-8058-ce6ce1ef0b53_size780x780_quality60_cropCenter.jpg" width="200" alt="Doğuş Karadeniz Siyah Filiz Çayı 1000 G market fiyatları" />
 
