@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Boğaziçi Limon Kolonyası 200 ml"
-date:   2022-07-12 6:12:03 +0300
+date:   2022-07-12 13:09:49 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/bogazici-limon-kolonyasi--200-ml-ee1f.jpg
 categories: kisisel-bakim-kozmetik
 tags: kisisel-bakim-kozmetik
 ---
 
-Son Güncelleme: 2022-07-12 9:12:03
+Son Güncelleme: 2022-07-12 16:09:49
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/bogazici-limon-kolonyasi--200-ml-ee1f.jpg" width="200" alt="Boğaziçi Limon Kolonyası 200 ml market fiyatları" />
 
