@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sleepy Ecologic Bebek Bezi 1 Numara 64'lü Yenidoğan"
-date:   2022-07-14 7:36:32 +0300
+date:   2022-07-14 14:28:50 +0300
 image: https://productimages.hepsiburada.net/s/190/550/110000157459209.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-07-14 10:36:32
+Son Güncelleme: 2022-07-14 17:28:50
 
 <img src="https://productimages.hepsiburada.net/s/190/550/110000157459209.jpg" width="200" alt="Sleepy Ecologic Bebek Bezi 1 Numara 64'lü Yenidoğan market fiyatları" />
 

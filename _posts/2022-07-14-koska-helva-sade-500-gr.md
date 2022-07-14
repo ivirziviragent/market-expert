@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Sade 500 gr"
-date:   2022-07-14 7:09:05 +0300
+date:   2022-07-14 13:59:29 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-500-gr-18f2.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-14 10:09:05
+Son Güncelleme: 2022-07-14 16:59:29
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-500-gr-18f2.jpg" width="200" alt="Koska Helva Sade 500 gr market fiyatları" />
 

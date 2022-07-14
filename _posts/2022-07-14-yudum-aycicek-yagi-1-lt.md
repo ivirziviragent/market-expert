@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Yudum Ayçiçek Yağı 1 Lt"
-date:   2022-07-14 6:47:34 +0300
+date:   2022-07-14 13:38:02 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-14 9:47:34
+Son Güncelleme: 2022-07-14 16:38:02
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg" width="200" alt="Yudum Ayçiçek Yağı 1 Lt market fiyatları" />
 
@@ -28,17 +28,13 @@ Marka: Yudum
               <td>39,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/yudum-aycicek-yagi-1-lt">satın al</a></td>
             </tr><tr>
-              <td title="Bizim Toptan">BIZIM TOPTAN</td>
-              <td>42,90 TL</td>
-              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/yudum-aycicek-yagi-1-l">satın al</a></td>
-            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>48,50 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/yudum-aycicek-yagi-1-l-p-3eb841">satın al</a></td>
             </tr><tr>
-              <td title="Yunus Market">YUNUS MARKET</td>
-              <td>45,90 TL</td>
-              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/yudum-aycicek-yagi-1-lt/df319727-6cc0-4111-bc67-11fe6700f340">satın al</a></td>
+              <td title="Bizim Toptan">BIZIM TOPTAN</td>
+              <td>42,90 TL</td>
+              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/yudum-aycicek-yagi-1-l">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>51,40 TL</td>
@@ -47,10 +43,6 @@ Marka: Yudum
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>52,99 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/yudum-aycicek-yagi-1-lt-p-953">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>53,45 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Yudum_Y_aycicek_Yagi_1_Lt">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
               <td>53,99 TL</td>

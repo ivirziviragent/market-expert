@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sinangil Güzel Kabaran Un 2 kg"
-date:   2022-07-14 8:13:25 +0300
+date:   2022-07-14 14:59:20 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sinangil-guzel-kabaran-un-2-kg-c7-f09.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-14 11:13:25
+Son Güncelleme: 2022-07-14 17:59:20
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sinangil-guzel-kabaran-un-2-kg-c7-f09.jpg" width="200" alt="Sinangil Güzel Kabaran Un 2 kg market fiyatları" />
 

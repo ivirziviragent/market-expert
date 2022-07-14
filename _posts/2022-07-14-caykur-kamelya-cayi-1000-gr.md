@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Kamelya Çayı 1000 gr"
-date:   2022-07-14 6:23:11 +0300
+date:   2022-07-14 13:21:25 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-1000-gr-f72f.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-07-14 9:23:11
+Son Güncelleme: 2022-07-14 16:21:25
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-1000-gr-f72f.jpg" width="200" alt="Çaykur Kamelya Çayı 1000 gr market fiyatları" />
 
@@ -43,10 +43,6 @@ Marka: Çaykur
               <td title="Macro Center">MACRO CENTER</td>
               <td>64,50 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/caykur-kamelya-cay-1000-g-p-2f7989">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>68,35 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Caykur_1000_Gr_Cay_Kamelya">satın al</a></td>
             </tr><tr>
               <td title="ToptanTR">TOPTANTR</td>
               <td>71,25 TL</td>

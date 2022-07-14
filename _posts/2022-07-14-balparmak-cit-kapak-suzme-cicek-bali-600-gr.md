@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Balparmak Çıt Kapak Süzme Çiçek Balı 600 gr"
-date:   2022-07-14 8:23:47 +0300
+date:   2022-07-14 15:11:13 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/balparmak-cit-kapak-suzme-cicek-bali-600-7822.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-14 11:23:47
+Son Güncelleme: 2022-07-14 18:11:13
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/balparmak-cit-kapak-suzme-cicek-bali-600-7822.jpg" width="200" alt="Balparmak Çıt Kapak Süzme Çiçek Balı 600 gr market fiyatları" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Canped Emici Külot Hasta Bezi Medium 30 Adet"
-date:   2022-07-14 7:58:58 +0300
+date:   2022-07-14 14:45:01 +0300
 image: https://productimages.hepsiburada.net/s/51/550/11064887803954.jpg
 categories: saglik-and-medikal-urunleri
 tags: saglik-and-medikal-urunleri
 ---
 
-Son Güncelleme: 2022-07-14 10:58:58
+Son Güncelleme: 2022-07-14 17:45:01
 
 <img src="https://productimages.hepsiburada.net/s/51/550/11064887803954.jpg" width="200" alt="Canped Emici Külot Hasta Bezi Medium 30 Adet market fiyatları" />
 
@@ -24,17 +24,17 @@ Marka: Canped
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Hepsiburada/öncesağlık Mağazası">ÖNCESAĞLIK - HB</td>
-              <td>225,00 TL</td>
-              <td><a title="Hepsiburada/öncesağlık Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-medium-30-adet-p-HBV000014YZKE?magaza=%C3%B6ncesa%C4%9Fl%C4%B1k">satın al</a></td>
-            </tr><tr>
               <td title="Hepsiburada/enindirimlisicom Mağazası">ENINDIRIMLISICOM - HB</td>
-              <td>225,00 TL</td>
+              <td>224,99 TL</td>
               <td><a title="Hepsiburada/enindirimlisicom Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-medium-30-adet-p-HBV000014YZKE?magaza=enindirimlisicom">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/CanPazar Mağazası">CANPAZAR - HB</td>
-              <td>225,00 TL</td>
+              <td>224,99 TL</td>
               <td><a title="Hepsiburada/CanPazar Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-medium-30-adet-p-HBV000014YZKE?magaza=CanPazar">satın al</a></td>
+            </tr><tr>
+              <td title="Hepsiburada/öncesağlık Mağazası">ÖNCESAĞLIK - HB</td>
+              <td>225,00 TL</td>
+              <td><a title="Hepsiburada/öncesağlık Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-medium-30-adet-p-HBV000014YZKE?magaza=%C3%B6ncesa%C4%9Fl%C4%B1k">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/hesaplieczanem Mağazası">HESAPLIECZANEM - HB</td>
               <td>230,00 TL</td>

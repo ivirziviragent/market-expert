@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Pınar Macar Salam kg"
-date:   2022-07-14 8:01:04 +0300
+date:   2022-07-14 14:47:10 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/pinar-fistikli-macar-salam-kg-293d.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-14 11:01:04
+Son Güncelleme: 2022-07-14 17:47:10
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/pinar-fistikli-macar-salam-kg-293d.jpg" width="200" alt="Pınar Macar Salam kg market fiyatları" />
 
