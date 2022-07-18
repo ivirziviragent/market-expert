@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Kakaolu 175 gr"
-date:   2022-07-18 6:00:45 +0300
+date:   2022-07-18 13:00:42 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-18 9:00:45
+Son Güncelleme: 2022-07-18 16:00:42
 
 <img src="undefined" width="200" alt="Seyidoğlu Helva Kakaolu 175 gr market fiyatları" />
 

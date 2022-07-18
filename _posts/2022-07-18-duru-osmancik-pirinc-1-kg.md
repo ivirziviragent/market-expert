@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Duru Osmancık Pirinç 1 kg"
-date:   2022-07-18 6:00:39 +0300
+date:   2022-07-18 13:00:39 +0300
 image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-18 9:00:39
+Son Güncelleme: 2022-07-18 16:00:39
 
 <img src="undefined" width="200" alt="Duru Osmancık Pirinç 1 kg market fiyatları" />
 

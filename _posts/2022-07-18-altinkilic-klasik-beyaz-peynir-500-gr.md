@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Altınkılıç Klasik Beyaz Peynir 500 gr"
-date:   2022-07-18 6:01:08 +0300
+date:   2022-07-18 13:00:48 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-18 9:01:08
+Son Güncelleme: 2022-07-18 16:00:48
 
 <img src="undefined" width="200" alt="Altınkılıç Klasik Beyaz Peynir 500 gr market fiyatları" />
 

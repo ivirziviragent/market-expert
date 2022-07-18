@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Red Bull Enerji İçeceği 250 ml"
-date:   2022-07-18 6:00:38 +0300
+date:   2022-07-18 13:00:39 +0300
 image: undefined
 categories: icecekler
 tags: icecekler
 ---
 
-Son Güncelleme: 2022-07-18 9:00:38
+Son Güncelleme: 2022-07-18 16:00:39
 
 <img src="undefined" width="200" alt="Red Bull Enerji İçeceği 250 ml market fiyatları" />
 

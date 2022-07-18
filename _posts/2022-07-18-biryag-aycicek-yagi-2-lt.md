@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Biryağ Ayçiçek Yağı 2 Lt"
-date:   2022-07-18 6:00:35 +0300
+date:   2022-07-18 13:00:38 +0300
 image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-18 9:00:35
+Son Güncelleme: 2022-07-18 16:00:38
 
 <img src="undefined" width="200" alt="Biryağ Ayçiçek Yağı 2 Lt market fiyatları" />
 

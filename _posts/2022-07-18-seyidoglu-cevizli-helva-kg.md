@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Cevizli Helva kg"
-date:   2022-07-18 6:00:45 +0300
+date:   2022-07-18 13:00:41 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-18 9:00:45
+Son Güncelleme: 2022-07-18 16:00:41
 
 <img src="undefined" width="200" alt="Seyidoğlu Cevizli Helva kg market fiyatları" />
 

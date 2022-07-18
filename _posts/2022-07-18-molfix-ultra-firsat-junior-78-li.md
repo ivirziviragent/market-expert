@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Molfix Ultra Fırsat Junior 78 li"
-date:   2022-07-18 6:01:00 +0300
+date:   2022-07-18 13:00:46 +0300
 image: undefined
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-07-18 9:01:00
+Son Güncelleme: 2022-07-18 16:00:46
 
 <img src="undefined" width="200" alt="Molfix Ultra Fırsat Junior 78 li market fiyatları" />
 

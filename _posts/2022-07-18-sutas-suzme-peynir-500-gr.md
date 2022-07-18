@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Süzme Peynir 500 gr"
-date:   2022-07-18 6:00:40 +0300
+date:   2022-07-18 13:00:40 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-18 9:00:40
+Son Güncelleme: 2022-07-18 16:00:40
 
 <img src="undefined" width="200" alt="Sütaş Süzme Peynir 500 gr market fiyatları" />
 
