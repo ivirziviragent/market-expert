@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x150 gr"
-date:   2022-07-21 6:00:33 +0300
+date:   2022-07-21 13:00:17 +0300
 image: undefined
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-07-21 9:00:33
+Son Güncelleme: 2022-07-21 16:00:17
 
 <img src="undefined" width="200" alt="Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x150 gr market fiyatları" />
 

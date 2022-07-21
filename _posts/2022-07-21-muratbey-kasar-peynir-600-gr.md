@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Muratbey Kaşar Peynir 600 gr"
-date:   2022-07-21 6:00:35 +0300
+date:   2022-07-21 13:00:19 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-21 9:00:35
+Son Güncelleme: 2022-07-21 16:00:19
 
 <img src="undefined" width="200" alt="Muratbey Kaşar Peynir 600 gr market fiyatları" />
 

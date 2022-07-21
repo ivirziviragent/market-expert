@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Kebir Trabzon Tereyağı 750 gr"
-date:   2022-07-21 6:00:31 +0300
+date:   2022-07-21 13:00:15 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-21 9:00:31
+Son Güncelleme: 2022-07-21 16:00:15
 
 <img src="undefined" width="200" alt="Kebir Trabzon Tereyağı 750 gr market fiyatları" />
 

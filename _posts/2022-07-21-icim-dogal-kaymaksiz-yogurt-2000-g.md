@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Doğal Kaymaksız Yoğurt 2000 g"
-date:   2022-07-21 6:00:33 +0300
+date:   2022-07-21 13:00:17 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-21 9:00:33
+Son Güncelleme: 2022-07-21 16:00:17
 
 <img src="undefined" width="200" alt="İçim Doğal Kaymaksız Yoğurt 2000 g market fiyatları" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Fairy Platinum Plus Ultra 60 lı"
-date:   2022-07-21 6:00:41 +0300
+date:   2022-07-21 13:00:26 +0300
 image: undefined
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-07-21 9:00:41
+Son Güncelleme: 2022-07-21 16:00:26
 
 <img src="undefined" width="200" alt="Fairy Platinum Plus Ultra 60 lı market fiyatları" />
 

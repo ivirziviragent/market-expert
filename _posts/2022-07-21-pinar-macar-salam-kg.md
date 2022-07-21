@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Pınar Macar Salam kg"
-date:   2022-07-21 6:00:40 +0300
+date:   2022-07-21 13:00:24 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-21 9:00:40
+Son Güncelleme: 2022-07-21 16:00:24
 
 <img src="undefined" width="200" alt="Pınar Macar Salam kg market fiyatları" />
 

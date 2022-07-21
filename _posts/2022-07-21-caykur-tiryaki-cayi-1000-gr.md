@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Tiryaki Çayı 1000 gr"
-date:   2022-07-21 6:00:28 +0300
+date:   2022-07-21 13:00:12 +0300
 image: undefined
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-07-21 9:00:28
+Son Güncelleme: 2022-07-21 16:00:12
 
 <img src="undefined" width="200" alt="Çaykur Tiryaki Çayı 1000 gr market fiyatları" />
 

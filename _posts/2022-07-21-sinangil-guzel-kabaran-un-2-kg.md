@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sinangil Güzel Kabaran Un 2 kg"
-date:   2022-07-21 6:00:41 +0300
+date:   2022-07-21 13:00:25 +0300
 image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-21 9:00:41
+Son Güncelleme: 2022-07-21 16:00:25
 
 <img src="undefined" width="200" alt="Sinangil Güzel Kabaran Un 2 kg market fiyatları" />
 
