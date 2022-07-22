@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sinangil Un 2 kg"
-date:   2022-07-22 6:00:28 +0300
+date:   2022-07-22 13:00:08 +0300
 image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-22 9:00:28
+Son Güncelleme: 2022-07-22 16:00:08
 
 <img src="undefined" width="200" alt="Sinangil Un 2 kg market fiyatları" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Yudum Ayçiçek Yağı 2 lt Pet"
-date:   2022-07-22 6:00:28 +0300
+date:   2022-07-22 13:00:09 +0300
 image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-22 9:00:28
+Son Güncelleme: 2022-07-22 16:00:09
 
 <img src="undefined" width="200" alt="Yudum Ayçiçek Yağı 2 lt Pet market fiyatları" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Zeki Osmancık Pirinç 2.5 kg"
-date:   2022-07-22 6:00:37 +0300
+date:   2022-07-22 13:00:17 +0300
 image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-22 9:00:37
+Son Güncelleme: 2022-07-22 16:00:17
 
 <img src="undefined" width="200" alt="Zeki Osmancık Pirinç 2.5 kg market fiyatları" />
 

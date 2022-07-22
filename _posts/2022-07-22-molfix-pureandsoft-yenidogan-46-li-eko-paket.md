@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Molfix Pure&Soft Yenidoğan 46 lı Eko Paket"
-date:   2022-07-22 6:00:30 +0300
+date:   2022-07-22 13:00:10 +0300
 image: undefined
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-07-22 9:00:30
+Son Güncelleme: 2022-07-22 16:00:10
 
 <img src="undefined" width="200" alt="Molfix Pure&Soft Yenidoğan 46 lı Eko Paket market fiyatları" />
 
