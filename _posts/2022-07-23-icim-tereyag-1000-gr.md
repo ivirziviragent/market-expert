@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Tereyağ 1000 gr"
-date:   2022-07-23 6:00:29 +0300
+date:   2022-07-23 13:00:15 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-23 9:00:29
+Son Güncelleme: 2022-07-23 16:00:15
 
 <img src="undefined" width="200" alt="İçim Tereyağ 1000 gr market fiyatları" />
 

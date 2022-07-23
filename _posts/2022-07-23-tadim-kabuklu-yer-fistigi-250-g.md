@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Tadım Kabuklu Yer Fıstığı 250 G"
-date:   2022-07-23 6:00:30 +0300
+date:   2022-07-23 13:00:16 +0300
 image: undefined
 categories: atistirmalik
 tags: atistirmalik
 ---
 
-Son Güncelleme: 2022-07-23 9:00:30
+Son Güncelleme: 2022-07-23 16:00:16
 
 <img src="undefined" width="200" alt="Tadım Kabuklu Yer Fıstığı 250 G market fiyatları" />
 

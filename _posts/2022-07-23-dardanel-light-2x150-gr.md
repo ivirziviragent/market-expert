@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Dardanel Light 2X150 gr"
-date:   2022-07-23 6:00:38 +0300
+date:   2022-07-23 13:00:23 +0300
 image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-23 9:00:38
+Son Güncelleme: 2022-07-23 16:00:23
 
 <img src="undefined" width="200" alt="Dardanel Light 2X150 gr market fiyatları" />
 

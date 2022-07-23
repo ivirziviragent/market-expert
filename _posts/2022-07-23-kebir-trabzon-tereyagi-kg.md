@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Kebir Trabzon Tereyağı kg"
-date:   2022-07-23 6:00:28 +0300
+date:   2022-07-23 13:00:13 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-23 9:00:28
+Son Güncelleme: 2022-07-23 16:00:13
 
 <img src="undefined" width="200" alt="Kebir Trabzon Tereyağı kg market fiyatları" />
 

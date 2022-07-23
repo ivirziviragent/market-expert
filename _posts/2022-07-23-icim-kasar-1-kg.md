@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Kaşar 1 kg"
-date:   2022-07-23 6:00:32 +0300
+date:   2022-07-23 13:00:18 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-23 9:00:32
+Son Güncelleme: 2022-07-23 16:00:18
 
 <img src="undefined" width="200" alt="İçim Kaşar 1 kg market fiyatları" />
 
