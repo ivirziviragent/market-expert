@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Tereyağ Yayık 500 gr"
-date:   2022-07-24 6:00:30 +0300
+date:   2022-07-24 13:00:18 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-24 9:00:30
+Son Güncelleme: 2022-07-24 16:00:18
 
 <img src="undefined" width="200" alt="Sütaş Tereyağ Yayık 500 gr market fiyatları" />
 

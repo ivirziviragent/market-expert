@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Balparmak Süzme Çiçek Balı 850 g"
-date:   2022-07-24 6:00:27 +0300
+date:   2022-07-24 13:00:13 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-24 9:00:27
+Son Güncelleme: 2022-07-24 16:00:13
 
 <img src="undefined" width="200" alt="Balparmak Süzme Çiçek Balı 850 g market fiyatları" />
 

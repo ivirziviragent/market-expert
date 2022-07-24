@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Dardanel Ton 2x150 gr"
-date:   2022-07-24 6:00:38 +0300
+date:   2022-07-24 13:00:46 +0300
 image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-24 9:00:38
+Son Güncelleme: 2022-07-24 16:00:46
 
 <img src="undefined" width="200" alt="Dardanel Ton 2x150 gr market fiyatları" />
 

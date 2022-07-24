@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Taze Kaşar 600 gr"
-date:   2022-07-24 6:00:33 +0300
+date:   2022-07-24 13:00:26 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-24 9:00:33
+Son Güncelleme: 2022-07-24 16:00:26
 
 <img src="undefined" width="200" alt="İçim Taze Kaşar 600 gr market fiyatları" />
 

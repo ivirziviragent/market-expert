@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Torku Süzme Peynir 450 g"
-date:   2022-07-24 6:00:28 +0300
+date:   2022-07-24 13:00:14 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-24 9:00:28
+Son Güncelleme: 2022-07-24 16:00:14
 
 <img src="undefined" width="200" alt="Torku Süzme Peynir 450 g market fiyatları" />
 
