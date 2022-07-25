@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Torku Banada Kakaolu Fındık Kreması 700 gr"
-date:   2022-07-25 6:00:35 +0300
+date:   2022-07-25 13:00:18 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-25 9:00:35
+Son Güncelleme: 2022-07-25 16:00:18
 
 <img src="undefined" width="200" alt="Torku Banada Kakaolu Fındık Kreması 700 gr market fiyatları" />
 

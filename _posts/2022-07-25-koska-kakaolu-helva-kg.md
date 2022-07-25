@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Kakaolu Helva kg"
-date:   2022-07-25 6:00:33 +0300
+date:   2022-07-25 13:00:16 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-25 9:00:33
+Son Güncelleme: 2022-07-25 16:00:16
 
 <img src="undefined" width="200" alt="Koska Kakaolu Helva kg market fiyatları" />
 

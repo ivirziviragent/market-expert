@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Pınar Büfe Burger Peynir 350 gr"
-date:   2022-07-25 6:00:35 +0300
+date:   2022-07-25 13:00:17 +0300
 image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-25 9:00:35
+Son Güncelleme: 2022-07-25 16:00:17
 
 <img src="undefined" width="200" alt="Pınar Büfe Burger Peynir 350 gr market fiyatları" />
 

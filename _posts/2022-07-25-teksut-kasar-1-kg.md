@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Teksüt Kaşar 1 kg"
-date:   2022-07-25 6:00:32 +0300
+date:   2022-07-25 13:00:14 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-25 9:00:32
+Son Güncelleme: 2022-07-25 16:00:14
 
 <img src="undefined" width="200" alt="Teksüt Kaşar 1 kg market fiyatları" />
 

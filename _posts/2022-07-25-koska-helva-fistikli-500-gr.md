@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Fıstıklı 500 gr"
-date:   2022-07-25 6:00:34 +0300
+date:   2022-07-25 13:00:16 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-25 9:00:34
+Son Güncelleme: 2022-07-25 16:00:16
 
 <img src="undefined" width="200" alt="Koska Helva Fıstıklı 500 gr market fiyatları" />
 

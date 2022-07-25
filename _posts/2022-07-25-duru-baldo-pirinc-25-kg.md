@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Duru Baldo Pirinç 2.5 kg"
-date:   2022-07-25 6:00:30 +0300
+date:   2022-07-25 13:00:13 +0300
 image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-25 9:00:30
+Son Güncelleme: 2022-07-25 16:00:13
 
 <img src="undefined" width="200" alt="Duru Baldo Pirinç 2.5 kg market fiyatları" />
 
