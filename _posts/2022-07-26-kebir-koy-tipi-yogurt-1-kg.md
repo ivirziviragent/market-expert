@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Kebir Köy Tipi Yoğurt 1 kg"
-date:   2022-07-26 6:00:28 +0300
+date:   2022-07-26 13:00:12 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-26 9:00:28
+Son Güncelleme: 2022-07-26 16:00:12
 
 <img src="undefined" width="200" alt="Kebir Köy Tipi Yoğurt 1 kg market fiyatları" />
 

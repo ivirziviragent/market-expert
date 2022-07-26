@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Pınar İllaki Dana Sucuk 240 G"
-date:   2022-07-26 6:00:27 +0300
+date:   2022-07-26 13:00:10 +0300
 image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-07-26 9:00:27
+Son Güncelleme: 2022-07-26 16:00:10
 
 <img src="undefined" width="200" alt="Pınar İllaki Dana Sucuk 240 G market fiyatları" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Bal Küpü Küp Şeker 1000 gr"
-date:   2022-07-26 6:00:35 +0300
+date:   2022-07-26 13:00:18 +0300
 image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-07-26 9:00:35
+Son Güncelleme: 2022-07-26 16:00:18
 
 <img src="undefined" width="200" alt="Bal Küpü Küp Şeker 1000 gr market fiyatları" />
 
