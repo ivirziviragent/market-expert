@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Asperox Sarı Güç Sprey 1 lt"
-date:   2022-08-01 6:10:58 +0300
+date:   2022-08-01 13:12:41 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-08-01 9:10:58
+Son Güncelleme: 2022-08-01 16:12:41
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/asperox-sari-guc-sprey-1-lt-fbb6.jpg" width="200" alt="Asperox Sarı Güç Sprey 1 lt market fiyatları" />
 
@@ -36,14 +36,6 @@ Marka: Asperox
               <td>19,99 TL</td>
               <td><a title="Onur Market" target="_blank" href="https://www.onurmarket.com/-asperox-sari-guc-1-lt-sprey--68235">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>21,35 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/asperox-sari-guc-1lt-sprey12">satın al</a></td>
-            </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>23,05 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/asperox-sari-guc-sprey-1000-ml/p/859687">satın al</a></td>
-            </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>23,75 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/asperox-sari-guc-1-lt-p-30285107">satın al</a></td>
@@ -60,8 +52,8 @@ Marka: Asperox
               <td>23,75 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/asperox-sari-guc-sprey-1-l_PRS21-AD">satın al</a></td>
             </tr><tr>
-              <td title="Hakmar">HAKMAR</td>
-              <td>23,75 TL</td>
-              <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/temizlik-asperox-sari-guc-cok-amacli-ultra-yag-cozucu-1-lt">satın al</a></td>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>23,05 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/asperox-sari-guc-sprey-1000-ml/p/859687">satın al</a></td>
             </tr>
 </table>
