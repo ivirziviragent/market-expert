@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Dardanel Light 2X150 gr"
-date:   2022-08-02 7:10:14 +0300
+date:   2022-08-02 14:27:52 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-9868.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-08-02 10:10:14
+Son Güncelleme: 2022-08-02 17:27:52
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-9868.jpg" width="200" alt="Dardanel Light 2X150 gr market fiyatları" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Raid 45 Gece Sistem 35 ml"
-date:   2022-08-02 7:16:09 +0300
+date:   2022-08-02 14:33:59 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/raid-45-gece-sistem-35-ml-09-6d0.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-08-02 10:16:09
+Son Güncelleme: 2022-08-02 17:33:59
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/raid-45-gece-sistem-35-ml-09-6d0.jpg" width="200" alt="Raid 45 Gece Sistem 35 ml market fiyatları" />
 
@@ -31,6 +31,10 @@ Marka: Raid
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>61,90 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/raid-45-gece-sistem-35-ml_RAD9-AD">satın al</a></td>
+            </tr><tr>
+              <td title="Kim">KIM</td>
+              <td>61,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/raid-electro-likit-45-gece-makina-sistem">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/G-Market Mağazası">G-MARKET - HB</td>
               <td>74,90 TL</td>
