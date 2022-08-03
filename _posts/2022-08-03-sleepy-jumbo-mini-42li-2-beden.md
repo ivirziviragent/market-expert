@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sleepy Jumbo Mini 42'li 2 Beden"
-date:   2022-08-03 6:53:32 +0300
+date:   2022-08-03 13:57:09 +0300
 image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2d/h38/8944375005214/704630_0_521Wx521H
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-08-03 9:53:32
+Son Güncelleme: 2022-08-03 16:57:09
 
 <img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2d/h38/8944375005214/704630_0_521Wx521H" width="200" alt="Sleepy Jumbo Mini 42'li 2 Beden market fiyatları" />
 
@@ -31,10 +31,6 @@ Marka: Prima
               <td title="Hepsiburada/ebebek Mağazası">EBEBEK - HB</td>
               <td>69,99 TL</td>
               <td><a title="Hepsiburada/ebebek Mağazası" target="_blank" href="https://www.hepsiburada.com/sleepy-sensitive-bebek-bezi-2-beden-mini-jumbo-paket-42-adet-p-ZYSLE060369?magaza=ebebek">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>74,85 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Product/?product_id=37463">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/Online Market Mağazası">ONLINE MARKET - HB</td>
               <td>74,90 TL</td>

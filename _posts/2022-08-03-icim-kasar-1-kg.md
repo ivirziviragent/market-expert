@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Kaşar 1 kg"
-date:   2022-08-03 6:33:13 +0300
+date:   2022-08-03 13:36:57 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-kasar-kg-6804.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-08-03 9:33:13
+Son Güncelleme: 2022-08-03 16:36:57
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-kasar-kg-6804.jpg" width="200" alt="İçim Kaşar 1 kg market fiyatları" />
 
@@ -35,10 +35,6 @@ Marka: İçim
               <td title="Kim">KIM</td>
               <td>134,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/icim-taze-kasar-blok-kg">satın al</a></td>
-            </tr><tr>
-              <td title="Yunus Market">YUNUS MARKET</td>
-              <td>129,95 TL</td>
-              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/icim-kasar-1-kg/6dcd8665-2f83-4c6b-b16e-b91c4c37f66e">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>139,90 TL</td>
