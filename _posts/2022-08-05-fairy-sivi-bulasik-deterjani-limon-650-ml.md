@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Fairy Sıvı Bulaşık Deterjanı Limon 650 Ml"
-date:   2022-08-05 6:04:35 +0300
+date:   2022-08-05 13:04:23 +0300
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/30619668/30619668_urundetay-a7cd2c-1650x1650.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-08-05 9:04:35
+Son Güncelleme: 2022-08-05 16:04:23
 
 <img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/30619668/30619668_urundetay-a7cd2c-1650x1650.jpg" width="200" alt="Fairy Sıvı Bulaşık Deterjanı Limon 650 Ml market fiyatları" />
 
@@ -37,7 +37,7 @@ Marka: Fairy
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/fairy-650-ml-sivi-bulasik-deterjani-limon-p-30020460">satın al</a></td>
             </tr><tr>
               <td title="Hakmar">HAKMAR</td>
-              <td>19,50 TL</td>
+              <td>20,95 TL</td>
               <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/temizlik-fairy-sivi-bulasik-deterjani-limon-kokulu-650-ml-1">satın al</a></td>
             </tr>
 </table>

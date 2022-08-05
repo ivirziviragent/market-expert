@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Red Bull Enerji İçeceği 250 ml"
-date:   2022-08-05 6:21:59 +0300
+date:   2022-08-05 13:22:17 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg
 categories: icecekler
 tags: icecekler
 ---
 
-Son Güncelleme: 2022-08-05 9:21:59
+Son Güncelleme: 2022-08-05 16:22:17
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg" width="200" alt="Red Bull Enerji İçeceği 250 ml market fiyatları" />
 
@@ -32,6 +32,10 @@ Marka: Red Bull
               <td>14,75 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/red-bull-enerji-icecegi-250-ml">satın al</a></td>
             </tr><tr>
+              <td title="CarrefourSA">CARREFOURSA</td>
+              <td>12,95 TL</td>
+              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/red-bull-enerji-icecegi-250-ml-p-30097269">satın al</a></td>
+            </tr><tr>
               <td title="Şok">ŞOK</td>
               <td>14,95 TL</td>
               <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/enerji-icecegi-250-ml-p-2138/">satın al</a></td>
@@ -47,14 +51,6 @@ Marka: Red Bull
               <td title="Mopaş">MOPAŞ</td>
               <td>15,70 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/red-bull-sekeriz-250-ml/p/495457">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>16,00 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Red_Bull_250_Ml_Bule">satın al</a></td>
-            </tr><tr>
-              <td title="CarrefourSA">CARREFOURSA</td>
-              <td>12,95 TL</td>
-              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/red-bull-enerji-icecegi-250-ml-p-30097269">satın al</a></td>
             </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>17,90 TL</td>
