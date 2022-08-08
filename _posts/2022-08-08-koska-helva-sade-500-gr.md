@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Sade 500 gr"
-date:   2022-08-08 6:41:04 +0300
+date:   2022-08-08 13:40:50 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-500-gr-18f2.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-08-08 9:41:04
+Son Güncelleme: 2022-08-08 16:40:50
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-500-gr-18f2.jpg" width="200" alt="Koska Helva Sade 500 gr market fiyatları" />
 
@@ -52,16 +52,12 @@ Marka: Koska
               <td>46,25 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/koska-sade-helva-500-gr_KSK13-AD">satın al</a></td>
             </tr><tr>
-              <td title="Macro Center">MACRO CENTER</td>
-              <td>46,25 TL</td>
-              <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/koska-sade-helva-paket-500-g-p-6c0854">satın al</a></td>
-            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>46,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-sade-500-gr">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>48,10 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Koska_500_Gr_Helva_Sade">satın al</a></td>
+              <td title="Macro Center">MACRO CENTER</td>
+              <td>46,25 TL</td>
+              <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/koska-sade-helva-paket-500-g-p-6c0854">satın al</a></td>
             </tr>
 </table>

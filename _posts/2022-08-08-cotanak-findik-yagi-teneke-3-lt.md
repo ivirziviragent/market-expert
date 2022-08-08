@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çotanak Fındık Yağı Teneke 3 lt"
-date:   2022-08-08 6:16:55 +0300
+date:   2022-08-08 13:16:51 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/cotanak-findik-yagi-teneke-3-lt-5262.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-08-08 9:16:55
+Son Güncelleme: 2022-08-08 16:16:51
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/cotanak-findik-yagi-teneke-3-lt-5262.jpg" width="200" alt="Çotanak Fındık Yağı Teneke 3 lt market fiyatları" />
 

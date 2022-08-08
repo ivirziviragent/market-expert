@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Kebir Trabzon Tereyağı 750 gr"
-date:   2022-08-08 6:10:12 +0300
+date:   2022-08-08 13:09:58 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/kebir-trabzon-tereyagi-750-gr-8181.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-08-08 9:10:12
+Son Güncelleme: 2022-08-08 16:09:58
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/kebir-trabzon-tereyagi-750-gr-8181.jpg" width="200" alt="Kebir Trabzon Tereyağı 750 gr market fiyatları" />
 
@@ -31,10 +31,6 @@ Marka: Kebir
               <td title="Onur Market">ONUR MARKET</td>
               <td>114,90 TL</td>
               <td><a title="Onur Market" target="_blank" href="https://www.onurmarket.com/-kebir-tereyag-gurme-tuzsuz-750-gr--75526">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>117,65 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Product/?product_id=15738">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
               <td>119,99 TL</td>

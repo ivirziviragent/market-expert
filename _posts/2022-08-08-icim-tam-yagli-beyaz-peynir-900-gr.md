@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Tam Yağlı Beyaz Peynir 900 gr"
-date:   2022-08-08 6:47:11 +0300
+date:   2022-08-08 13:47:07 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-tam-yagli-beyaz-peynir-900-gr-7-7633.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-08-08 9:47:11
+Son Güncelleme: 2022-08-08 16:47:07
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-tam-yagli-beyaz-peynir-900-gr-7-7633.jpg" width="200" alt="İçim Tam Yağlı Beyaz Peynir 900 gr market fiyatları" />
 
@@ -27,10 +27,6 @@ Marka: İçim
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>67,90 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/icim-tam-yagli-beyaz-peynir-900-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>69,50 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/sutas-beyaz-peynir-tam-yagli-900-gr">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>69,95 TL</td>

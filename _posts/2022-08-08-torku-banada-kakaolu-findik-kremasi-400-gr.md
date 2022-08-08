@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Torku Banada Kakaolu Fındık Kreması 400 gr"
-date:   2022-08-08 6:50:52 +0300
+date:   2022-08-08 13:50:56 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-400--a315.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-08-08 9:50:52
+Son Güncelleme: 2022-08-08 16:50:56
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-400--a315.jpg" width="200" alt="Torku Banada Kakaolu Fındık Kreması 400 gr market fiyatları" />
 

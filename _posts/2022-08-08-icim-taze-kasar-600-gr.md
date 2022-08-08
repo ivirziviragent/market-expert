@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Taze Kaşar 600 gr"
-date:   2022-08-08 6:35:20 +0300
+date:   2022-08-08 13:35:09 +0300
 image: https://www.kimgeldi.com//images/thumbs/0018159_icim-taze-kasar-peyniri-600-gr_510.jpeg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-08-08 9:35:20
+Son Güncelleme: 2022-08-08 16:35:09
 
 <img src="https://www.kimgeldi.com//images/thumbs/0018159_icim-taze-kasar-peyniri-600-gr_510.jpeg" width="200" alt="İçim Taze Kaşar 600 gr market fiyatları" />
 
@@ -28,13 +28,13 @@ Marka: İçim
               <td>69,95 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/icim-kasar-peyniri-600-g-p-30220678">satın al</a></td>
             </tr><tr>
-              <td title="Kalafatlar">KALAFATLAR</td>
-              <td>72,95 TL</td>
-              <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/ulker-icim-kasar-600-gr-k-ulker-3264">satın al</a></td>
-            </tr><tr>
               <td title="Kim">KIM</td>
               <td>73,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/icim-taze-kasar-peyniri-600-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Kalafatlar">KALAFATLAR</td>
+              <td>72,95 TL</td>
+              <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/ulker-icim-kasar-600-gr-k-ulker-3264">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>78,15 TL</td>
@@ -43,10 +43,6 @@ Marka: İçim
               <td title="Showmar">SHOWMAR</td>
               <td>79,95 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/icim-t-kasar-600gr">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>82,30 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/icim-kasar-peynir-600-gr">satın al</a></td>
             </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>89,75 TL</td>
