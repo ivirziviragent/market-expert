@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Kaşar Peyniri 1 kg"
-date:   2022-08-10 6:31:04 +0300
+date:   2022-08-10 13:34:46 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peyniri-kg-a9c4.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-08-10 9:31:04
+Son Güncelleme: 2022-08-10 16:34:46
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peyniri-kg-a9c4.jpg" width="200" alt="Sütaş Kaşar Peyniri 1 kg market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Sütaş
   </tr>
   <tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>119,95 TL</td>
+              <td>139,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sutas-kasar-peyniri-kg">satın al</a></td>
             </tr>
 </table>

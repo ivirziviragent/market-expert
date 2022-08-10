@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Yudum Ayçiçek Yağı 2 lt Pet"
-date:   2022-08-10 6:12:54 +0300
+date:   2022-08-10 13:15:38 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-2-lt-6bab.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-08-10 9:12:54
+Son Güncelleme: 2022-08-10 16:15:38
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-2-lt-6bab.jpg" width="200" alt="Yudum Ayçiçek Yağı 2 lt Pet market fiyatları" />
 
@@ -39,9 +39,5 @@ Marka: Yudum
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>92,50 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/yudum-aycicek-2-l_SVL2-AD">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>99,45 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Yudum_Y_aycicek_Yagi_2_Lt">satın al</a></td>
             </tr>
 </table>
