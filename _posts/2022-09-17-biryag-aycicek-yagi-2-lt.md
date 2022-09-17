@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Biryağ Ayçiçek Yağı 2 Lt"
-date:   2022-09-17 13:37:17 +0300
+date:   2022-09-17 13:47:41 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/biryag-aycicek-yagi-2-lt-b92f.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-09-17 16:37:17
+Son Güncelleme: 2022-09-17 16:47:41
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/biryag-aycicek-yagi-2-lt-b92f.jpg" width="200" alt="Biryağ Ayçiçek Yağı 2 Lt market fiyatları" />
 

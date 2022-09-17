@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goon Premium Soft Bebek Bezi 4 Beden Jumbo Paket 34 Adet"
-date:   2022-09-17 14:26:13 +0300
+date:   2022-09-17 14:39:19 +0300
 image: https://productimages.hepsiburada.net/s/174/550/110000137941866.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-09-17 17:26:13
+Son Güncelleme: 2022-09-17 17:39:19
 
 <img src="https://productimages.hepsiburada.net/s/174/550/110000137941866.jpg" width="200" alt="Goon Premium Soft Bebek Bezi 4 Beden Jumbo Paket 34 Adet market fiyatları" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Tiryaki Çayı 1000 gr"
-date:   2022-09-17 6:00:34 +0300
+date:   2022-09-17 13:25:24 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-1000-gr-0103.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-09-17 9:00:34
+Son Güncelleme: 2022-09-17 16:25:24
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-1000-gr-0103.jpg" width="200" alt="Çaykur Tiryaki Çayı 1000 gr market fiyatları" />
 
@@ -33,7 +33,7 @@ Marka: Çaykur
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/caykur-tiryaki-cayi-1000-g-p-2f7993">satın al</a></td>
             </tr><tr>
               <td title="Şok">ŞOK</td>
-              <td>72,00 TL</td>
+              <td>71,00 TL</td>
               <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/tiryaki-cayi-1000-gr-p-2431/">satın al</a></td>
             </tr><tr>
               <td title="Hakmar">HAKMAR</td>

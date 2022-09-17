@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Reçel Ahududu 380 gr"
-date:   2022-09-17 14:50:26 +0300
+date:   2022-09-17 15:02:02 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-recel-ahududu-380-gr-44b82b.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-09-17 17:50:26
+Son Güncelleme: 2022-09-17 18:02:02
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-recel-ahududu-380-gr-44b82b.jpg" width="200" alt="Seyidoğlu Reçel Ahududu 380 gr market fiyatları" />
 

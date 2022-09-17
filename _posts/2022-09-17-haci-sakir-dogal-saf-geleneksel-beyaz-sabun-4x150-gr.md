@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x150 gr"
-date:   2022-09-17 13:40:25 +0300
+date:   2022-09-17 13:50:58 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/haci-sakir-kalip-sabun-dogal-4x150gr-00784-.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-09-17 16:40:25
+Son Güncelleme: 2022-09-17 16:50:58
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/haci-sakir-kalip-sabun-dogal-4x150gr-00784-.jpg" width="200" alt="Hacı Şakir Doğal Saf Geleneksel Beyaz Sabun 4x150 gr market fiyatları" />
 
