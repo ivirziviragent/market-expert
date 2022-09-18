@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Kamelya Çayı 1000 gr"
-date:   2022-09-18 6:16:10 +0300
+date:   2022-09-18 13:16:21 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-1000-gr-f72f.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-09-18 9:16:10
+Son Güncelleme: 2022-09-18 16:16:21
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-1000-gr-f72f.jpg" width="200" alt="Çaykur Kamelya Çayı 1000 gr market fiyatları" />
 
@@ -32,13 +32,13 @@ Marka: Çaykur
               <td>75,50 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/caykur-kamelya-cay-1000-g-p-2f7989">satın al</a></td>
             </tr><tr>
-              <td title="CarrefourSA">CARREFOURSA</td>
-              <td>71,90 TL</td>
-              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/caykur-kamelya-cayi-1-kg-p-30098954">satın al</a></td>
-            </tr><tr>
               <td title="Onur Market">ONUR MARKET</td>
               <td>72,90 TL</td>
               <td><a title="Onur Market" target="_blank" href="https://www.onurmarket.com/-caykur-kamelya-1000-gr--3948">satın al</a></td>
+            </tr><tr>
+              <td title="CarrefourSA">CARREFOURSA</td>
+              <td>71,90 TL</td>
+              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/caykur-kamelya-cayi-1-kg-p-30098954">satın al</a></td>
             </tr><tr>
               <td title="ToptanTR">TOPTANTR</td>
               <td>73,45 TL</td>
@@ -47,9 +47,5 @@ Marka: Çaykur
               <td title="Macro Center">MACRO CENTER</td>
               <td>75,50 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/caykur-kamelya-cay-1000-g-p-2f7989">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>77,55 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Caykur_1000_Gr_Cay_Kamelya">satın al</a></td>
             </tr>
 </table>
