@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goon Premium Soft Bebek Bezi 3 Beden Jumbo Paket 40 Adet"
-date:   2022-09-19 14:44:50 +0300
+date:   2022-09-19 16:52:29 +0300
 image: https://productimages.hepsiburada.net/s/174/550/110000137941872.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-09-19 17:44:50
+Son Güncelleme: 2022-09-19 19:52:29
 
 <img src="https://productimages.hepsiburada.net/s/174/550/110000137941872.jpg" width="200" alt="Goon Premium Soft Bebek Bezi 3 Beden Jumbo Paket 40 Adet market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Goon
   </tr>
   <tr>
               <td title="Hepsiburada/Metropol Mağazası">METROPOL - HB</td>
-              <td>76,50 TL</td>
+              <td>96,78 TL</td>
               <td><a title="Hepsiburada/Metropol Mağazası" target="_blank" href="https://www.hepsiburada.com/goon-premium-soft-bebek-bezi-3-beden-jumbo-paket-40-adet-p-HBV00000AW482?magaza=Metropol">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/ebebek Mağazası">EBEBEK - HB</td>
