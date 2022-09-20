@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Komili Riviera Zeytinyağ 1 lt"
-date:   2022-09-20 14:05:02 +0300
+date:   2022-09-20 17:37:09 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/komili-yemeklik-riviera-zeytinyag-1-lt-26debe.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-09-20 17:05:02
+Son Güncelleme: 2022-09-20 20:37:09
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/komili-yemeklik-riviera-zeytinyag-1-lt-26debe.jpg" width="200" alt="Komili Riviera Zeytinyağ 1 lt market fiyatları" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Fıstıklı 500 gr"
-date:   2022-09-20 13:54:56 +0300
+date:   2022-09-20 17:29:21 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-500-gr-f131.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-09-20 16:54:56
+Son Güncelleme: 2022-09-20 20:29:21
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-500-gr-f131.jpg" width="200" alt="Koska Helva Fıstıklı 500 gr market fiyatları" />
 

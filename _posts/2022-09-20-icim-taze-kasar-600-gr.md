@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Taze Kaşar 600 gr"
-date:   2022-09-20 13:45:39 +0300
+date:   2022-09-20 6:47:08 +0300
 image: https://www.kimgeldi.com//images/thumbs/0018159_icim-taze-kasar-peyniri-600-gr_510.jpeg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-09-20 16:45:39
+Son Güncelleme: 2022-09-20 9:47:08
 
 <img src="https://www.kimgeldi.com//images/thumbs/0018159_icim-taze-kasar-peyniri-600-gr_510.jpeg" width="200" alt="İçim Taze Kaşar 600 gr market fiyatları" />
 

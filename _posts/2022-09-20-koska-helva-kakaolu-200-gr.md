@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Kakaolu 200 gr"
-date:   2022-09-20 13:58:41 +0300
+date:   2022-09-20 17:32:20 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-kakaolu-200-gr-270c.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-09-20 16:58:41
+Son Güncelleme: 2022-09-20 20:32:20
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-kakaolu-200-gr-270c.jpg" width="200" alt="Koska Helva Kakaolu 200 gr market fiyatları" />
 

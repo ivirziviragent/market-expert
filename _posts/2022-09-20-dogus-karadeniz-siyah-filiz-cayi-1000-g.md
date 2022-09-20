@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Doğuş Karadeniz Siyah Filiz Çayı 1000 G"
-date:   2022-09-20 13:04:00 +0300
+date:   2022-09-20 6:05:20 +0300
 image: https://ayb.akinoncdn.com/products/2019/11/26/1907/d9f2d265-52ff-46a1-8058-ce6ce1ef0b53_size780x780_quality60_cropCenter.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-09-20 16:04:00
+Son Güncelleme: 2022-09-20 9:05:20
 
 <img src="https://ayb.akinoncdn.com/products/2019/11/26/1907/d9f2d265-52ff-46a1-8058-ce6ce1ef0b53_size780x780_quality60_cropCenter.jpg" width="200" alt="Doğuş Karadeniz Siyah Filiz Çayı 1000 G market fiyatları" />
 
@@ -36,16 +36,12 @@ Marka: Doğuş
               <td>72,50 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/dogus-karadeniz-siyah-filiz-cay-1000-gr">satın al</a></td>
             </tr><tr>
-              <td title="Bizim Toptan">BIZIM TOPTAN</td>
-              <td>72,50 TL</td>
-              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/dogus-siyah-filiz-cay-1-kg">satın al</a></td>
-            </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>74,35 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/dogus-karadeniz-siyah-filiz-cayi-1-kg-p-6537">satın al</a></td>
             </tr><tr>
-              <td title="Yunus Market">YUNUS MARKET</td>
-              <td>79,90 TL</td>
-              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/dogus-cay-filiz-1000-gr/e5591ddc-eb69-4758-857c-3fafa8a405ad">satın al</a></td>
+              <td title="Bizim Toptan">BIZIM TOPTAN</td>
+              <td>72,50 TL</td>
+              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/dogus-siyah-filiz-cay-1-kg">satın al</a></td>
             </tr>
 </table>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "MR. Muscle Mutfak Temizleyici 750 ml"
-date:   2022-09-20 14:45:04 +0300
+date:   2022-09-20 18:05:13 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/mr.-muscle-mutfak-temizleyici-750-ml-59e602.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-09-20 17:45:04
+Son Güncelleme: 2022-09-20 21:05:13
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/mr.-muscle-mutfak-temizleyici-750-ml-59e602.jpg" width="200" alt="MR. Muscle Mutfak Temizleyici 750 ml market fiyatları" />
 
@@ -27,10 +27,6 @@ Marka: Mr. Muscle
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>38,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/mr-muscle-mutfak-temizleyici-750-ml">satın al</a></td>
-            </tr><tr>
-              <td title="Kalafatlar">KALAFATLAR</td>
-              <td>27,90 TL</td>
-              <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/mr-muscle-mutfak-portakal-750-ml">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>34,90 TL</td>

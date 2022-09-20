@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goon Premium Soft Bebek Bezi Aylık Fırsat Paketi 2 Beden 184 Adet"
-date:   2022-09-20 14:08:30 +0300
+date:   2022-09-20 17:39:55 +0300
 image: https://productimages.hepsiburada.net/s/140/550/110000092845064.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-09-20 17:08:30
+Son Güncelleme: 2022-09-20 20:39:55
 
 <img src="https://productimages.hepsiburada.net/s/140/550/110000092845064.jpg" width="200" alt="Goon Premium Soft Bebek Bezi Aylık Fırsat Paketi 2 Beden 184 Adet market fiyatları" />
 

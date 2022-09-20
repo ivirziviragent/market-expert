@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Duru Baldo Pirinç 2.5 kg"
-date:   2022-09-20 13:33:27 +0300
+date:   2022-09-20 6:34:40 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/duru-baldo-pirinc-2.5-kg-9374.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-09-20 16:33:27
+Son Güncelleme: 2022-09-20 9:34:40
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/duru-baldo-pirinc-2.5-kg-9374.jpg" width="200" alt="Duru Baldo Pirinç 2.5 kg market fiyatları" />
 
@@ -24,12 +24,16 @@ Marka: Duru Bakliyat
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>90,00 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/duru-bakliyat-baldo-pirinc-25-kg-p-549397">satın al</a></td>
+            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>94,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/duru-baldo-pirinc-2.5-kg">satın al</a></td>
             </tr><tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>90,00 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/duru-bakliyat-baldo-pirinc-25-kg-p-549397">satın al</a></td>
+              <td title="Happy Center">HAPPY CENTER</td>
+              <td>101,60 TL</td>
+              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Duru_2500_Gr_Bkl_Pirinc_Baldo">satın al</a></td>
             </tr>
 </table>
