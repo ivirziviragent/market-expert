@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Dardanel Light 2X150 gr"
-date:   2022-09-21 7:13:27 +0300
+date:   2022-09-21 14:13:16 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-9868.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-09-21 10:13:27
+Son Güncelleme: 2022-09-21 17:13:16
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-9868.jpg" width="200" alt="Dardanel Light 2X150 gr market fiyatları" />
 
@@ -40,6 +40,10 @@ Marka: Dardanel
               <td>79,90 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/dardanel-light-ton-baligi-2x150-g-p-89e024">satın al</a></td>
             </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>79,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/dardanel-ton-light-2x150-gr">satın al</a></td>
+            </tr><tr>
               <td title="Bizim Toptan">BIZIM TOPTAN</td>
               <td>79,90 TL</td>
               <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/dardanel-light-ton-baligi-2x150-g">satın al</a></td>
@@ -47,13 +51,5 @@ Marka: Dardanel
               <td title="Trendyol/Migros Kargo Operasyonu">MIGROS KARGO OPERASYONU - TY</td>
               <td>79,90 TL</td>
               <td><a title="Trendyol/Migros Kargo Operasyonu" target="_blank" href="https://www.trendyol.com/dardanel/light-ton-baligi-2x150-gr-p-49237752">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>79,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/dardanel-ton-light-2x150-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>80,20 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Dardanel_160_Gr_X_2_Ton_Light_Balik">satın al</a></td>
             </tr>
 </table>
