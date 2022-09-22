@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Cevizli 500 gr"
-date:   2022-09-22 6:38:09 +0300
+date:   2022-09-22 13:40:44 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-cevizli-500-gr-7a3a-5.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-09-22 9:38:09
+Son Güncelleme: 2022-09-22 16:40:44
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-cevizli-500-gr-7a3a-5.jpg" width="200" alt="Seyidoğlu Helva Cevizli 500 gr market fiyatları" />
 
@@ -31,10 +31,6 @@ Marka: Seyidoğlu
               <td title="Kim">KIM</td>
               <td>43,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/seyidoglu-500-gr-cevizli-yaz-helvasi">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>45,95 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Seyidoglu_500_Gr_Cevizli_Yaz_Helva_Paket">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>46,60 TL</td>
