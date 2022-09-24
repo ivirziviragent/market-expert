@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Sütaş Tereyağ Yayık 225 gr"
-date:   2022-09-24 6:22:51 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/sutas-tereyag-yayik-225-gr-16-b44.jpg
+date:   2022-09-24 13:20:55 +0300
+image: undefined
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-09-24 9:22:51
+Son Güncelleme: 2022-09-24 16:20:55
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-tereyag-yayik-225-gr-16-b44.jpg" width="200" alt="Sütaş Tereyağ Yayık 225 gr market fiyatları" />
+<img src="undefined" width="200" alt="Sütaş Tereyağ Yayık 225 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -23,13 +23,5 @@ Marka: Sütaş
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>32,50 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sutas-tereyag-yayik-250-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>32,50 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Sutas_Tereyag_250_Gr_Yayik_">satın al</a></td>
-            </tr>
+  
 </table>

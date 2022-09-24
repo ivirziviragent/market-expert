@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Red Bull Enerji İçeceği 250 ml"
-date:   2022-09-24 6:28:02 +0300
-image: https://www.cagri.com/undefined
+date:   2022-09-24 13:25:30 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg
 categories: icecekler
 tags: icecekler
 ---
 
-Son Güncelleme: 2022-09-24 9:28:02
+Son Güncelleme: 2022-09-24 16:25:30
 
-<img src="https://www.cagri.com/undefined" width="200" alt="Red Bull Enerji İçeceği 250 ml market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml--4004-.jpg" width="200" alt="Red Bull Enerji İçeceği 250 ml market fiyatları" />
 
 Kategori: İçecekler
 <br />
@@ -24,13 +24,13 @@ Marka: Red Bull
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>14,75 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/red-bull-enerji-icecegi-250-ml">satın al</a></td>
+            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>14,95 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/red-bull-enerji-icecegi-250-ml-p-7bbfce">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>16,00 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Red_Bull_250_Ml_Bule">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>12,95 TL</td>
