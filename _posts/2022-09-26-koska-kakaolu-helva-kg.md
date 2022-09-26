@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Koska Kakaolu Helva kg"
-date:   2022-09-26 6:44:35 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/koska-kakaolu-helva-kg-620d5c.jpg
+date:   2022-09-26 13:38:49 +0300
+image: https://img-bizimtoptan.mncdn.com/Content/Images/Thumbs/1776070.png
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-09-26 9:44:35
+Son Güncelleme: 2022-09-26 16:38:49
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/koska-kakaolu-helva-kg-620d5c.jpg" width="200" alt="Koska Kakaolu Helva kg market fiyatları" />
+<img src="https://img-bizimtoptan.mncdn.com/Content/Images/Thumbs/1776070.png" width="200" alt="Koska Kakaolu Helva kg market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -24,10 +24,6 @@ Marka: Koska
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>84,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-kakaolu-helva-kg">satın al</a></td>
-            </tr><tr>
               <td title="Bizim Toptan">BIZIM TOPTAN</td>
               <td>70,90 TL</td>
               <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/koska-helva-kakaolu-1-kg">satın al</a></td>

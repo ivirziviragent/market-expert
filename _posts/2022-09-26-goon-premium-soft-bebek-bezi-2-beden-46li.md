@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goon Premium Soft Bebek Bezi 2 Beden 46'lı"
-date:   2022-09-26 6:59:38 +0300
+date:   2022-09-26 13:51:17 +0300
 image: https://productimages.hepsiburada.net/s/140/550/110000092845059.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-09-26 9:59:38
+Son Güncelleme: 2022-09-26 16:51:17
 
 <img src="https://productimages.hepsiburada.net/s/140/550/110000092845059.jpg" width="200" alt="Goon Premium Soft Bebek Bezi 2 Beden 46'lı market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Goon
   </tr>
   <tr>
               <td title="Trendyol/Özhan Market Mağazası">ÖZHAN MARKET - TY</td>
-              <td>84,87 TL</td>
+              <td>84,10 TL</td>
               <td><a title="Trendyol/Özhan Market Mağazası" target="_blank" href="https://www.trendyol.com/goo-n/goon-premium-soft-bebek-bezi-2-beden-premium-bant-46-adet-p-189429285">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/Ekmelgross Mağazası">EKMELGROSS - HB</td>
