@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goon Premium Soft Bebek Bezi Aylık Fırsat Paketi 2 Beden 184 Adet"
-date:   2022-09-27 21:18:15 +0300
+date:   2022-09-28 6:52:46 +0300
 image: https://productimages.hepsiburada.net/s/140/550/110000092845064.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-09-28 0:18:15
+Son Güncelleme: 2022-09-28 9:52:46
 
 <img src="https://productimages.hepsiburada.net/s/140/550/110000092845064.jpg" width="200" alt="Goon Premium Soft Bebek Bezi Aylık Fırsat Paketi 2 Beden 184 Adet market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Goon
   </tr>
   <tr>
               <td title="Hepsiburada/Metropol Mağazası">METROPOL - HB</td>
-              <td>0,00 TL</td>
+              <td>306,90 TL</td>
               <td><a title="Hepsiburada/Metropol Mağazası" target="_blank" href="https://www.hepsiburada.com/goo-n-premium-soft-bebek-bezi-2-beden-premium-bant-184-lu-p-HBCV00000ZRTKO?magaza=Metropol">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/MAVİLİM BEBEK Mağazası">MAVİLİMBEBEK - HB</td>
