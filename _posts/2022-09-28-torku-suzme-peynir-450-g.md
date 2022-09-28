@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Torku Süzme Peynir 450 g"
-date:   2022-09-28 6:07:39 +0300
+date:   2022-09-28 13:21:22 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/torku-suzme-peynir-450-gr-9960.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-09-28 9:07:39
+Son Güncelleme: 2022-09-28 16:21:22
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/torku-suzme-peynir-450-gr-9960.jpg" width="200" alt="Torku Süzme Peynir 450 g market fiyatları" />
 
@@ -31,9 +31,5 @@ Marka: Torku
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>34,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/torku-suzme-peynir-450-gr">satın al</a></td>
-            </tr><tr>
-              <td title="CarrefourSA">CARREFOURSA</td>
-              <td>40,25 TL</td>
-              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/torku-suzme-peynir-450-g-p-30149074">satın al</a></td>
             </tr>
 </table>

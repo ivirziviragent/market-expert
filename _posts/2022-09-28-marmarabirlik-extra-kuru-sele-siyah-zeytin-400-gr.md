@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Marmarabirlik Extra Kuru Sele Siyah Zeytin 400 gr"
-date:   2022-09-28 6:46:40 +0300
+date:   2022-09-28 14:23:40 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/marmarabirlik-extra-kuru-sele-siyah-zeyt-8e47.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-09-28 9:46:40
+Son Güncelleme: 2022-09-28 17:23:40
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/marmarabirlik-extra-kuru-sele-siyah-zeyt-8e47.jpg" width="200" alt="Marmarabirlik Extra Kuru Sele Siyah Zeytin 400 gr market fiyatları" />
 
@@ -27,6 +27,10 @@ Marka: Marmara Birlik
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>34,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/marmarabirlik-extra-kuru-sele-siyah-zeytin-400gr-321/350">satın al</a></td>
+            </tr><tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>31,75 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/marmarabirlik-kuru-sele-zeytin-xs-boy-400-gr-p-547885">satın al</a></td>
             </tr><tr>
               <td title="Happy Center">HAPPY CENTER</td>
               <td>32,05 TL</td>
