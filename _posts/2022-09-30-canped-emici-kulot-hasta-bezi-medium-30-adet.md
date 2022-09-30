@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Canped Emici Külot Hasta Bezi Medium 30 Adet"
-date:   2022-09-30 7:01:24 +0300
+date:   2022-09-30 14:09:05 +0300
 image: https://productimages.hepsiburada.net/s/51/550/11064887803954.jpg
 categories: saglik-and-medikal-urunleri
 tags: saglik-and-medikal-urunleri
 ---
 
-Son Güncelleme: 2022-09-30 10:01:24
+Son Güncelleme: 2022-09-30 17:09:05
 
 <img src="https://productimages.hepsiburada.net/s/51/550/11064887803954.jpg" width="200" alt="Canped Emici Külot Hasta Bezi Medium 30 Adet market fiyatları" />
 
@@ -45,7 +45,7 @@ Marka: Canped
               <td><a title="Hepsiburada/MAVİLİM BEBEK Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-hasta-bezi-medium-30-adet-p-HBV000014YZKE?magaza=MAV%C4%B0L%C4%B0MBEBEK">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/hesaplieczanem Mağazası">HESAPLIECZANEM - HB</td>
-              <td>280,00 TL</td>
+              <td>284,90 TL</td>
               <td><a title="Hepsiburada/hesaplieczanem Mağazası" target="_blank" href="https://www.hepsiburada.com/canped-emici-kulot-orta-medium-boy-hasta-bezi-30-adet-p-hbv00000elndn">satın al</a></td>
             </tr><tr>
               <td title="Trendyol/Barış Yatırım Mağazası">BARIŞ YATIRIM - TY</td>
