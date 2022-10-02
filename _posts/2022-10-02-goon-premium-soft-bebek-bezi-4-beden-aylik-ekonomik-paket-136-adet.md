@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goon Premium Soft Bebek Bezi 4 Beden Aylık Ekonomik Paket 136 Adet"
-date:   2022-10-02 7:12:19 +0300
+date:   2022-10-02 14:00:28 +0300
 image: https://productimages.hepsiburada.net/s/37/550/10573466173490.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-10-02 10:12:19
+Son Güncelleme: 2022-10-02 17:00:28
 
 <img src="https://productimages.hepsiburada.net/s/37/550/10573466173490.jpg" width="200" alt="Goon Premium Soft Bebek Bezi 4 Beden Aylık Ekonomik Paket 136 Adet market fiyatları" />
 
