@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sleepy Jumbo Mini 42'li 2 Beden"
-date:   2022-10-03 6:54:34 +0300
+date:   2022-10-03 13:55:29 +0300
 image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2d/h38/8944375005214/704630_0_521Wx521H
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-10-03 9:54:34
+Son Güncelleme: 2022-10-03 16:55:29
 
 <img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2d/h38/8944375005214/704630_0_521Wx521H" width="200" alt="Sleepy Jumbo Mini 42'li 2 Beden market fiyatları" />
 
@@ -37,7 +37,7 @@ Marka: Prima
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/sleepy-natural-2-beden-42-li-p-30138416">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/Online Market Mağazası">ONLINE MARKET - HB</td>
-              <td>81,90 TL</td>
+              <td>79,44 TL</td>
               <td><a title="Hepsiburada/Online Market Mağazası" target="_blank" href="https://www.hepsiburada.com/sleepy-sensitive-bebek-bezi-2-beden-mini-jumbo-paket-42-adet-p-ZYSLE060369?magaza=Online%20Market">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
@@ -47,9 +47,5 @@ Marka: Prima
               <td title="Hepsiburada/Sleepy Mağazası">SLEEPY - HB</td>
               <td>87,90 TL</td>
               <td><a title="Hepsiburada/Sleepy Mağazası" target="_blank" href="https://www.hepsiburada.com/sleepy-natural-haftalik-paket-bebek-bezi-2-numara-mini-42-adet-p-HBCV000016QRJY">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>90,95 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Product/?product_id=37463">satın al</a></td>
             </tr>
 </table>
