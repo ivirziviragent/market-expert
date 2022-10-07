@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Kamelya Çayı 500 gr"
-date:   2022-10-07 6:16:52 +0300
+date:   2022-10-07 13:19:03 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-500-gr-9a74.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-10-07 9:16:52
+Son Güncelleme: 2022-10-07 16:19:03
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-500-gr-9a74.jpg" width="200" alt="Çaykur Kamelya Çayı 500 gr market fiyatları" />
 

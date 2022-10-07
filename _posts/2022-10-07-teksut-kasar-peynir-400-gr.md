@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Teksüt Kaşar Peynir 400 gr"
-date:   2022-10-07 6:34:26 +0300
+date:   2022-10-07 13:43:17 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-400-gr-352d.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-07 9:34:26
+Son Güncelleme: 2022-10-07 16:43:17
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-400-gr-352d.jpg" width="200" alt="Teksüt Kaşar Peynir 400 gr market fiyatları" />
 
@@ -28,16 +28,12 @@ Marka: Teksüt
               <td>47,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/teksut-kasar-peynir-400-gr">satın al</a></td>
             </tr><tr>
+              <td title="Kim">KIM</td>
+              <td>56,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/teksut-taze-kasar-peyniri-400-gr">satın al</a></td>
+            </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>59,85 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/teksut-kasar-400-gr/p/834340">satın al</a></td>
-            </tr><tr>
-              <td title="Kim">KIM</td>
-              <td>59,99 TL</td>
-              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/teksut-taze-kasar-peyniri-400-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>64,15 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Teksut_Kasar_Peynir_400_Gr">satın al</a></td>
             </tr>
 </table>

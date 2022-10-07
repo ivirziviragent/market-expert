@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sinangil Un 2 kg"
-date:   2022-10-07 6:12:01 +0300
+date:   2022-10-07 13:12:26 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sinangil-un-2-kg-1be4e-.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-10-07 9:12:01
+Son Güncelleme: 2022-10-07 16:12:26
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sinangil-un-2-kg-1be4e-.jpg" width="200" alt="Sinangil Un 2 kg market fiyatları" />
 
@@ -24,10 +24,6 @@ Marka: Sinangil
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Kalafatlar">KALAFATLAR</td>
-              <td>25,90 TL</td>
-              <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/sinangil-un-2-kg">satın al</a></td>
-            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>29,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sinangil-un-2-kg">satın al</a></td>
@@ -36,9 +32,9 @@ Marka: Sinangil
               <td>31,45 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/sinangil-un-2-kg/p/60069">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>32,05 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Sinangil_2000_Gr_Un">satın al</a></td>
+              <td title="Kalafatlar">KALAFATLAR</td>
+              <td>33,90 TL</td>
+              <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/sinangil-un-2-kg">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>34,90 TL</td>

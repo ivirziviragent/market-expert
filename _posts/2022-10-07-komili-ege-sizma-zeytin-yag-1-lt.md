@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Komili Ege Sızma Zeytin Yağ 1 lt"
-date:   2022-10-07 6:15:32 +0300
+date:   2022-10-07 13:17:18 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/komili-sizma-zeytinyagi-1-lt-bb4f5f.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-10-07 9:15:32
+Son Güncelleme: 2022-10-07 16:17:18
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/komili-sizma-zeytinyagi-1-lt-bb4f5f.jpg" width="200" alt="Komili Ege Sızma Zeytin Yağ 1 lt market fiyatları" />
 
@@ -39,10 +39,6 @@ Marka: Komili
               <td title="Migros">MIGROS</td>
               <td>111,90 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/komili-naturel-sizma-zeytinyagi-yumusak-lezzet-1-l-p-3f1231">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>112,30 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Komili_Y_zeytinyagi_Sizma_1_Lt">satın al</a></td>
             </tr><tr>
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>112,50 TL</td>

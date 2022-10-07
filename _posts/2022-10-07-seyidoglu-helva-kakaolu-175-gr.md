@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Kakaolu 175 gr"
-date:   2022-10-07 6:38:07 +0300
+date:   2022-10-07 13:49:12 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-kakaolu-175-gr-76b6.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-07 9:38:07
+Son Güncelleme: 2022-10-07 16:49:12
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-kakaolu-175-gr-76b6.jpg" width="200" alt="Seyidoğlu Helva Kakaolu 175 gr market fiyatları" />
 

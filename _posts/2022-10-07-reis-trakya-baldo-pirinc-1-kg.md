@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Reis Trakya Baldo Pirinç 1 kg"
-date:   2022-10-07 14:03:56 +0300
+date:   2022-10-07 20:40:41 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-1-kg-473f.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-10-07 17:03:56
+Son Güncelleme: 2022-10-07 23:40:41
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-1-kg-473f.jpg" width="200" alt="Reis Trakya Baldo Pirinç 1 kg market fiyatları" />
 
