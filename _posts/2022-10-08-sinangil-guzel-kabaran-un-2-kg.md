@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sinangil Güzel Kabaran Un 2 kg"
-date:   2022-10-08 9:33:12 +0300
+date:   2022-10-08 14:15:37 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sinangil-guzel-kabaran-un-2-kg-c7-f09.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-10-08 12:33:12
+Son Güncelleme: 2022-10-08 17:15:37
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sinangil-guzel-kabaran-un-2-kg-c7-f09.jpg" width="200" alt="Sinangil Güzel Kabaran Un 2 kg market fiyatları" />
 
@@ -35,5 +35,9 @@ Marka: Sinangil
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>36,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sinangil-guzel-kabaran-un-2-kg">satın al</a></td>
+            </tr><tr>
+              <td title="Kim">KIM</td>
+              <td>36,95 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/sinangil-guzel-kabaran-un-2-kg">satın al</a></td>
             </tr>
 </table>
