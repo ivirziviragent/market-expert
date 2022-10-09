@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Muratbey Kaşar Peynir 600 gr"
-date:   2022-10-09 6:36:22 +0300
-image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10108770/10108770-510e44-1650x1650.png
+date:   2022-10-09 13:35:22 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/muratbey-kasar-peynir-500-gr-2-9e4a.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-09 9:36:22
+Son Güncelleme: 2022-10-09 16:35:22
 
-<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10108770/10108770-510e44-1650x1650.png" width="200" alt="Muratbey Kaşar Peynir 600 gr market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/muratbey-kasar-peynir-500-gr-2-9e4a.jpg" width="200" alt="Muratbey Kaşar Peynir 600 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -24,6 +24,10 @@ Marka: Murat Bey
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>59,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/muratbey-kasar-peynir-600-gr">satın al</a></td>
+            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>72,47 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/muratbey-taze-kasar-peyniri-600-g-p-9a3f62">satın al</a></td>
