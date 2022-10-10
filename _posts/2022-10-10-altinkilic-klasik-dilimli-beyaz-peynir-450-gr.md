@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Altınkılıç Klasik Dilimli Beyaz Peynir 450 gr"
-date:   2022-10-10 7:22:52 +0300
+date:   2022-10-10 14:30:50 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-dilimli-beyaz-peynir-5-436e.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-10 10:22:52
+Son Güncelleme: 2022-10-10 17:30:50
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-dilimli-beyaz-peynir-5-436e.jpg" width="200" alt="Altınkılıç Klasik Dilimli Beyaz Peynir 450 gr market fiyatları" />
 
@@ -24,10 +24,6 @@ Marka: Altınkılıç Peynir
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Kim">KIM</td>
-              <td>74,99 TL</td>
-              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/altinkilic-kls-inek-peynir-450gr-dilimli">satın al</a></td>
-            </tr><tr>
               <td title="Onur Market">ONUR MARKET</td>
               <td>78,99 TL</td>
               <td><a title="Onur Market" target="_blank" href="https://www.onurmarket.com/-altinkilic-dilimli-ezine-klsk-pey-450-gr--25204">satın al</a></td>

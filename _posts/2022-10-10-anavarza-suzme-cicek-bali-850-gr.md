@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Anavarza Süzme Çiçek Balı 850 gr"
-date:   2022-10-10 7:20:09 +0300
+date:   2022-10-10 14:28:17 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/anavarza-suzme-cicek-bali-850-gr-c91-4b.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-10 10:20:09
+Son Güncelleme: 2022-10-10 17:28:17
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/anavarza-suzme-cicek-bali-850-gr-c91-4b.jpg" width="200" alt="Anavarza Süzme Çiçek Balı 850 gr market fiyatları" />
 
@@ -40,21 +40,17 @@ Marka: Anavarza
               <td>132,00 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/anavarza-suzme-cicek-bali-850-g-p-6be21b">satın al</a></td>
             </tr><tr>
-              <td title="Kim">KIM</td>
-              <td>138,99 TL</td>
-              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/anavarza-cicek-bali-850-gr">satın al</a></td>
-            </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>139,90 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/anavarza-cicek-bali-850-g-p-30195605">satın al</a></td>
             </tr><tr>
-              <td title="Macro Center">MACRO CENTER</td>
-              <td>139,90 TL</td>
-              <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/anavarza-suzme-cicek-bali-850-g-p-6be21b">satın al</a></td>
-            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>139,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/anavarza-suzme-cicek-bali-850-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Macro Center">MACRO CENTER</td>
+              <td>139,90 TL</td>
+              <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/anavarza-suzme-cicek-bali-850-g-p-6be21b">satın al</a></td>
             </tr><tr>
               <td title="Trendyol/Migros Kargo Operasyonu">MIGROS KARGO OPERASYONU - TY</td>
               <td>250 TL</td>
