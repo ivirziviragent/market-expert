@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Dardanel Light 2X150 gr"
-date:   2022-10-12 7:17:32 +0300
+date:   2022-10-12 14:22:42 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-9868.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-10-12 10:17:32
+Son Güncelleme: 2022-10-12 17:22:42
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-9868.jpg" width="200" alt="Dardanel Light 2X150 gr market fiyatları" />
 
@@ -28,10 +28,6 @@ Marka: Dardanel
               <td>74,90 TL</td>
               <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/dardanel-light-ton-baligi-2x150-g">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>74,95 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Dardanel_160_Gr_X_2_Ton_Light_Balik">satın al</a></td>
-            </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>79,50 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/dardanel-ton-light-150grx2">satın al</a></td>
@@ -43,6 +39,10 @@ Marka: Dardanel
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>79,90 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/dardanel-light-2x150-g-p-30012340">satın al</a></td>
+            </tr><tr>
+              <td title="Macro Center">MACRO CENTER</td>
+              <td>79,90 TL</td>
+              <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/dardanel-light-ton-baligi-2x150-g-p-89e024">satın al</a></td>
             </tr><tr>
               <td title="Trendyol/Migros Kargo Operasyonu">MIGROS KARGO OPERASYONU - TY</td>
               <td>79,90 TL</td>
