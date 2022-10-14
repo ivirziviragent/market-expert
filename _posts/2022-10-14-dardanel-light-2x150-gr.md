@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Dardanel Light 2X150 gr"
-date:   2022-10-14 8:59:25 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-9868.jpg
+date:   2022-10-14 19:11:55 +0300
+image: https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-a3-418.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-10-14 11:59:25
+Son Güncelleme: 2022-10-14 22:11:55
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-9868.jpg" width="200" alt="Dardanel Light 2X150 gr market fiyatları" />
+<img src="https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-light-2x150-gr-a3-418.jpg" width="200" alt="Dardanel Light 2X150 gr market fiyatları" />
 
 Kategori: Gıda, Şekerleme
 <br />
@@ -51,9 +51,5 @@ Marka: Dardanel
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>79,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/dardanel-ton-light-2x150-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>80,20 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Dardanel_160_Gr_X_2_Ton_Light_Balik">satın al</a></td>
             </tr>
 </table>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Sade 500 gr"
-date:   2022-10-14 6:37:06 +0300
+date:   2022-10-14 13:48:15 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-sade-500-gr-b4bb.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-14 9:37:06
+Son Güncelleme: 2022-10-14 16:48:15
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-sade-500-gr-b4bb.jpg" width="200" alt="Seyidoğlu Helva Sade 500 gr market fiyatları" />
 
@@ -24,17 +24,21 @@ Marka: Seyidoğlu
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>42,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/seyidoglu-helva-sade-500-gr">satın al</a></td>
-            </tr><tr>
               <td title="Hakmar">HAKMAR</td>
               <td>37,50 TL</td>
               <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-kahvaltilik-seyidoglu-kakaolu-ve-sade-tahin-helvasi-500-gr">satın al</a></td>
             </tr><tr>
+              <td title="Kim">KIM</td>
+              <td>41,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/seyidoglu-helva-500-gr-sade">satın al</a></td>
+            </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>42,00 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/seyidoglu-sade-helva-500-gr/p/106200">satın al</a></td>
+            </tr><tr>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>42,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/seyidoglu-helva-sade-500-gr">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>44,95 TL</td>
