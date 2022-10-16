@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Johnson's Bebek Şampuanı 200 Ml"
-date:   2022-10-16 6:10:55 +0300
+date:   2022-10-16 13:10:40 +0300
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/31600031/31600031-488cae-1650x1650.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-10-16 9:10:55
+Son Güncelleme: 2022-10-16 16:10:40
 
 <img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/31600031/31600031-488cae-1650x1650.jpg" width="200" alt="Johnson's Bebek Şampuanı 200 Ml market fiyatları" />
 
@@ -24,10 +24,6 @@ Marka: JBABY
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>15,90 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Jb_Sampuan_200_Ml_">satın al</a></td>
-            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>19,50 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/johnsons-bebek-sampuani-200-ml-p-1e22d9f">satın al</a></td>
