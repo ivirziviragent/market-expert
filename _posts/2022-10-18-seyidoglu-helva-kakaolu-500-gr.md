@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Kakaolu 500 gr"
-date:   2022-10-18 6:33:53 +0300
+date:   2022-10-18 13:39:37 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-kakaolu-500-gr-821b.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-18 9:33:53
+Son Güncelleme: 2022-10-18 16:39:37
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-kakaolu-500-gr-821b.jpg" width="200" alt="Seyidoğlu Helva Kakaolu 500 gr market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Seyidoğlu
   </tr>
   <tr>
               <td title="Hakmar">HAKMAR</td>
-              <td>37,50 TL</td>
+              <td>39,75 TL</td>
               <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-kahvaltilik-seyidoglu-kakaolu-ve-sade-tahin-helvasi-500-gr">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>

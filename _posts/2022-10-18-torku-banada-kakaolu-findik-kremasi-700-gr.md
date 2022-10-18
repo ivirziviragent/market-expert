@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Torku Banada Kakaolu Fındık Kreması 700 gr"
-date:   2022-10-18 6:50:22 +0300
+date:   2022-10-18 15:31:08 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-700--d7d2.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-18 9:50:22
+Son Güncelleme: 2022-10-18 18:31:08
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-700--d7d2.jpg" width="200" alt="Torku Banada Kakaolu Fındık Kreması 700 gr market fiyatları" />
 
@@ -48,13 +48,13 @@ Marka: Torku
               <td>58,79 TL</td>
               <td><a title="Onur Market" target="_blank" href="https://www.onurmarket.com/-torku-banada-700-gr--29627">satın al</a></td>
             </tr><tr>
-              <td title="Hakmar">HAKMAR</td>
-              <td>59,50 TL</td>
-              <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-kahvaltilik-atistirmalik-torku-banada-findik-kremasi-700gr">satın al</a></td>
-            </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>59,85 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/torku-banada-700-gr/p/566381">satın al</a></td>
+            </tr><tr>
+              <td title="Hakmar">HAKMAR</td>
+              <td>64,75 TL</td>
+              <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-kahvaltilik-atistirmalik-torku-banada-findik-kremasi-700gr">satın al</a></td>
             </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>68,95 TL</td>

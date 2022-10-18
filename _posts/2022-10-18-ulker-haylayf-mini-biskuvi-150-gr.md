@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Ülker Haylayf Mini Bisküvi 150 gr"
-date:   2022-10-18 7:35:12 +0300
+date:   2022-10-18 15:59:44 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/ulker-haylayf-mini-biskuvi-150-gr-2-2ba1.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-10-18 10:35:12
+Son Güncelleme: 2022-10-18 18:59:44
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/ulker-haylayf-mini-biskuvi-150-gr-2-2ba1.jpg" width="200" alt="Ülker Haylayf Mini Bisküvi 150 gr market fiyatları" />
 
@@ -37,7 +37,7 @@ Marka: Ülker
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/ulker-haylayf-sekerli-mini-biskuvi-150-g-p-6af883">satın al</a></td>
             </tr><tr>
               <td title="İste Gelsin">İSTE GELSIN</td>
-              <td>10,00 TL</td>
+              <td>10,90 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/ulker-haylayf-mini-biskuvi-150-gr_PAM1063-AD">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
