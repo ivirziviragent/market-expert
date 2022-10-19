@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Muratbey Kaşar Peynir kg"
-date:   2022-10-19 6:37:35 +0300
+date:   2022-10-19 13:34:58 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/muratbey-kasar-peynir-kg-d19d84.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-19 9:37:35
+Son Güncelleme: 2022-10-19 16:34:58
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/muratbey-kasar-peynir-kg-d19d84.jpg" width="200" alt="Muratbey Kaşar Peynir kg market fiyatları" />
 

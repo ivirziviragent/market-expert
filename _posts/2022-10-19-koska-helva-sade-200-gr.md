@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Sade 200 gr"
-date:   2022-10-19 8:14:10 +0300
+date:   2022-10-19 13:46:04 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-200-gr-a9f6.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-19 11:14:10
+Son Güncelleme: 2022-10-19 16:46:04
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-200-gr-a9f6.jpg" width="200" alt="Koska Helva Sade 200 gr market fiyatları" />
 
@@ -36,17 +36,13 @@ Marka: Koska
               <td>21,60 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/koska-sade-helva-200-gr_KSK8-AD">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>25,60 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Koska_200_Gr_Helva_Sade">satın al</a></td>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>25,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-sade-200-gr">satın al</a></td>
             </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>25,90 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/koska-sade-helva-200-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>25,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-sade-200-gr">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
               <td>25,99 TL</td>

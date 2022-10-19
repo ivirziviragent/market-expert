@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Kaşar Peynir 600 gr"
-date:   2022-10-19 6:33:36 +0300
+date:   2022-10-19 13:30:16 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-600-gr-d07ab8.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-19 9:33:36
+Son Güncelleme: 2022-10-19 16:30:16
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-600-gr-d07ab8.jpg" width="200" alt="Sütaş Kaşar Peynir 600 gr market fiyatları" />
 
@@ -24,17 +24,13 @@ Marka: Sütaş
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Showmar">SHOWMAR</td>
-              <td>74,50 TL</td>
-              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/sutas-t-kasar-600-gr">satın al</a></td>
-            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>87,50 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/sutas-kasar-peynir-600-gr">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>87,50 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/sutas-kasar-peynir-600-gr">satın al</a></td>
+              <td title="Showmar">SHOWMAR</td>
+              <td>74,50 TL</td>
+              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/sutas-t-kasar-600-gr">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
               <td>87,50 TL</td>
@@ -53,7 +49,7 @@ Marka: Sütaş
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/sutas-kasar-600-gr/p/825919">satın al</a></td>
             </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
-              <td>98,90 TL</td>
+              <td>109,90 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/sutas-kasar-peyniri-600-gr-p-548528">satın al</a></td>
             </tr>
 </table>

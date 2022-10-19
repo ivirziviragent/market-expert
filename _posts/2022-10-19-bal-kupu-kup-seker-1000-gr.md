@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Bal Küpü Küp Şeker 1000 gr"
-date:   2022-10-19 8:23:00 +0300
+date:   2022-10-19 13:55:00 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/bal-kupu-kup-seker-1000-gr-50c8.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-10-19 11:23:00
+Son Güncelleme: 2022-10-19 16:55:00
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/bal-kupu-kup-seker-1000-gr-50c8.jpg" width="200" alt="Bal Küpü Küp Şeker 1000 gr market fiyatları" />
 
