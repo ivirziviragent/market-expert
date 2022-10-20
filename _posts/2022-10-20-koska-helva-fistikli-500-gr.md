@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Fıstıklı 500 gr"
-date:   2022-10-20 6:44:59 +0300
+date:   2022-10-20 13:40:46 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-500-gr-f131.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-20 9:44:59
+Son Güncelleme: 2022-10-20 16:40:46
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-fistikli-500-gr-f131.jpg" width="200" alt="Koska Helva Fıstıklı 500 gr market fiyatları" />
 
@@ -33,7 +33,7 @@ Marka: Koska
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/koska-fistikli-helva-500-gr">satın al</a></td>
             </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>74,95 TL</td>
+              <td>69,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-fistikli-500-gr">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
