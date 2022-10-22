@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Baby Turco Doğadan Eko Pk Yenidoğan 64 lü"
-date:   2022-10-22 6:07:42 +0300
+date:   2022-10-22 13:06:33 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/baby-turco-dogadan-eko-pk-yenidogan-64-c-71fb.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-10-22 9:07:42
+Son Güncelleme: 2022-10-22 16:06:33
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/baby-turco-dogadan-eko-pk-yenidogan-64-c-71fb.jpg" width="200" alt="Baby Turco Doğadan Eko Pk Yenidoğan 64 lü market fiyatları" />
 
@@ -31,5 +31,9 @@ Marka: Baby Turco
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>97,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/baby-turco-dogadan-eko-pk-yenidogan-64-lu">satın al</a></td>
+            </tr><tr>
+              <td title="Yunus Market">YUNUS MARKET</td>
+              <td>99,90 TL</td>
+              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/baby-turco-dogadan-hesapli-nborn-64-lu/08d963ad-0228-4347-842b-da0f2feb8675">satın al</a></td>
             </tr>
 </table>
