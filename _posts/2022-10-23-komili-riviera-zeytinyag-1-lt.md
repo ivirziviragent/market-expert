@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Komili Riviera Zeytinyağ 1 lt"
-date:   2022-10-23 8:13:19 +0300
+date:   2022-10-23 13:59:04 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/komili-yemeklik-riviera-zeytinyag-1-lt-26debe.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-10-23 11:13:19
+Son Güncelleme: 2022-10-23 16:59:04
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/komili-yemeklik-riviera-zeytinyag-1-lt-26debe.jpg" width="200" alt="Komili Riviera Zeytinyağ 1 lt market fiyatları" />
 
@@ -44,16 +44,12 @@ Marka: Komili
               <td>102,90 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/komili-riviera-1-lt-zeytinyagi-p-30036261">satın al</a></td>
             </tr><tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>106,90 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/komili-riviera-zeytinyagi-1-lt-p-550741">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>106,95 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Komili_Y_zeytinyagi_Riviera_1_Lt">satın al</a></td>
-            </tr><tr>
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>102,90 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/komili-riviera-zeytinyagi-1-l_BNG4-AD">satın al</a></td>
+            </tr><tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>106,90 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/komili-riviera-zeytinyagi-1-lt-p-550741">satın al</a></td>
             </tr>
 </table>

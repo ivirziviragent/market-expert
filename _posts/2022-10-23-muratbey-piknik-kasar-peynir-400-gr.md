@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Muratbey Piknik Kaşar Peynir 400 gr"
-date:   2022-10-23 6:39:32 +0300
+date:   2022-10-23 13:36:30 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/muratbey-piknik-kasar-peynir-300-gr-1-61b1.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-23 9:39:32
+Son Güncelleme: 2022-10-23 16:36:30
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/muratbey-piknik-kasar-peynir-300-gr-1-61b1.jpg" width="200" alt="Muratbey Piknik Kaşar Peynir 400 gr market fiyatları" />
 
