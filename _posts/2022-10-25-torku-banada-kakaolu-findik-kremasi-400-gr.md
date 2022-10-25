@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Torku Banada Kakaolu Fındık Kreması 400 gr"
-date:   2022-10-25 7:55:12 +0300
+date:   2022-10-25 13:56:52 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-400--a315.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-25 10:55:12
+Son Güncelleme: 2022-10-25 16:56:52
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-400--a315.jpg" width="200" alt="Torku Banada Kakaolu Fındık Kreması 400 gr market fiyatları" />
 
@@ -44,12 +44,12 @@ Marka: Torku
               <td>35,75 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/torku-banada-kakaolu-findik-400-gr-p-4005">satın al</a></td>
             </tr><tr>
-              <td title="Showmar">SHOWMAR</td>
-              <td>37,50 TL</td>
-              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/torku-banada-400gr-cam">satın al</a></td>
-            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>41,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/torku-banada-kakaolu-findik-kremasi-400-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Showmar">SHOWMAR</td>
+              <td>37,50 TL</td>
+              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/torku-banada-400gr-cam">satın al</a></td>
             </tr>
 </table>

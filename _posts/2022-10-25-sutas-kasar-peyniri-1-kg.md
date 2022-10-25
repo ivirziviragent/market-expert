@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Kaşar Peyniri 1 kg"
-date:   2022-10-25 6:30:39 +0300
+date:   2022-10-25 13:33:46 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peyniri-kg-a9c4.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-25 9:30:39
+Son Güncelleme: 2022-10-25 16:33:46
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peyniri-kg-a9c4.jpg" width="200" alt="Sütaş Kaşar Peyniri 1 kg market fiyatları" />
 

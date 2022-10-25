@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Zeki Osmancık Pirinç 1 kg"
-date:   2022-10-25 8:17:35 +0300
+date:   2022-10-25 14:17:32 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/zeki-osmancik-pirinc-1-kg-2-c3a7.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-10-25 11:17:35
+Son Güncelleme: 2022-10-25 17:17:32
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/zeki-osmancik-pirinc-1-kg-2-c3a7.jpg" width="200" alt="Zeki Osmancık Pirinç 1 kg market fiyatları" />
 
