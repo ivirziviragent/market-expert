@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Pınar Büfe Burger Peynir 350 gr"
-date:   2022-10-27 6:57:47 +0300
+date:   2022-10-27 13:49:26 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/pinar-bufe-burger-peynir-350-gr--706b-.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-10-27 9:57:47
+Son Güncelleme: 2022-10-27 16:49:26
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/pinar-bufe-burger-peynir-350-gr--706b-.jpg" width="200" alt="Pınar Büfe Burger Peynir 350 gr market fiyatları" />
 
@@ -24,10 +24,6 @@ Marka: Pınar
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="İste Gelsin">İSTE GELSIN</td>
-              <td>84,95 TL</td>
-              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/pinar-burger-peynir-dilimli-350-gr_PIN48-AD">satın al</a></td>
-            </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>98,90 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/pinar-burger-dilimli-peynir-350-gr-p-6594">satın al</a></td>
@@ -51,6 +47,10 @@ Marka: Pınar
               <td title="Migros">MIGROS</td>
               <td>109,95 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/pinar-burger-dilimli-peynir-350-g-p-9d2ac4">satın al</a></td>
+            </tr><tr>
+              <td title="İste Gelsin">İSTE GELSIN</td>
+              <td>109,95 TL</td>
+              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/pinar-burger-peynir-dilimli-350-gr_PIN48-AD">satın al</a></td>
             </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>109,95 TL</td>

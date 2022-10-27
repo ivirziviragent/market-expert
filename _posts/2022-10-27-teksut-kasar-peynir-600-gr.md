@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Teksüt Kaşar Peynir 600 gr"
-date:   2022-10-27 6:39:18 +0300
+date:   2022-10-27 13:32:33 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-600-gr-692b.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-27 9:39:18
+Son Güncelleme: 2022-10-27 16:32:33
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-600-gr-692b.jpg" width="200" alt="Teksüt Kaşar Peynir 600 gr market fiyatları" />
 
@@ -24,6 +24,10 @@ Marka: Teksüt
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Kim">KIM</td>
+              <td>59,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/teksut-tost-peyniri-600-gr">satın al</a></td>
+            </tr><tr>
               <td title="Happy Center">HAPPY CENTER</td>
               <td>69,50 TL</td>
               <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/teksut-kasar-peyniri-600-gr">satın al</a></td>
