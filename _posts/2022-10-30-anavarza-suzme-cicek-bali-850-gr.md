@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Anavarza Süzme Çiçek Balı 850 gr"
-date:   2022-10-30 7:33:25 +0300
+date:   2022-10-30 14:17:14 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/anavarza-suzme-cicek-bali-850-gr-c91-4b.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-30 10:33:25
+Son Güncelleme: 2022-10-30 17:17:14
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/anavarza-suzme-cicek-bali-850-gr-c91-4b.jpg" width="200" alt="Anavarza Süzme Çiçek Balı 850 gr market fiyatları" />
 
@@ -27,10 +27,6 @@ Marka: Anavarza
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>110,90 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/anavarza-cicek-bali-850-gr_SEG12-AD">satın al</a></td>
-            </tr><tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>120,00 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/anavarza-kavanoz-suzme-cicek-bal-850-gr-p-540564">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>125,95 TL</td>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Yudum Ayçiçek Yağı 1 Lt"
-date:   2022-10-30 6:32:57 +0300
+date:   2022-10-30 13:26:56 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-10-30 9:32:57
+Son Güncelleme: 2022-10-30 16:26:56
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg" width="200" alt="Yudum Ayçiçek Yağı 1 Lt market fiyatları" />
 
@@ -36,25 +36,25 @@ Marka: Yudum
               <td>44,90 TL</td>
               <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/yudum-aycicek-yagi-1-l">satın al</a></td>
             </tr><tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>47,50 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/yudum-aycicek-yagi-1-lt-p-953">satın al</a></td>
+            </tr><tr>
               <td title="Kim">KIM</td>
               <td>48,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/yudum-aycicek-yagi-1-lt">satın al</a></td>
-            </tr><tr>
-              <td title="Kalafatlar">KALAFATLAR</td>
-              <td>49,90 TL</td>
-              <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/yudum-aycicek-yagi-1-lt">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>51,40 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/yudum-aycicek-yagi-1-l/p/1840">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>52,35 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Yudum_Y_aycicek_Yagi_1_Lt">satın al</a></td>
-            </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>56,50 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/yudum-aycicek-yagi-1-lt-p-30040683">satın al</a></td>
+            </tr><tr>
+              <td title="Kalafatlar">KALAFATLAR</td>
+              <td>49,90 TL</td>
+              <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/yudum-aycicek-yagi-1-lt">satın al</a></td>
             </tr><tr>
               <td title="Yunus Market">YUNUS MARKET</td>
               <td>149,90 TL</td>

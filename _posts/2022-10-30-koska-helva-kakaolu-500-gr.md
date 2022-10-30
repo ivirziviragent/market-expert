@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Kakaolu 500 gr"
-date:   2022-10-30 6:57:57 +0300
+date:   2022-10-30 13:43:11 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-kakaolu-500-gr-b950.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-10-30 9:57:57
+Son Güncelleme: 2022-10-30 16:43:11
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-kakaolu-500-gr-b950.jpg" width="200" alt="Koska Helva Kakaolu 500 gr market fiyatları" />
 
@@ -28,21 +28,9 @@ Marka: Koska
               <td>27,25 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/koska-helva-kakaolu-200-gr/p/93096">satın al</a></td>
             </tr><tr>
-              <td title="Şok">ŞOK</td>
-              <td>35,75 TL</td>
-              <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/tahin-helvasi-kakaolu-500-gr-p-2508/">satın al</a></td>
-            </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>39,95 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/koska-kakaolu-helva-500-gr">satın al</a></td>
-            </tr><tr>
-              <td title="İste Gelsin">İSTE GELSIN</td>
-              <td>46,25 TL</td>
-              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/koska-kakaolu-helva-500-gr_KSK14-AD">satın al</a></td>
-            </tr><tr>
-              <td title="Bizim Toptan">BIZIM TOPTAN</td>
-              <td>46,25 TL</td>
-              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/koska-helva-kakaolu-500-g">satın al</a></td>
             </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>49,95 TL</td>
@@ -51,6 +39,18 @@ Marka: Koska
               <td title="Migros">MIGROS</td>
               <td>54,95 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/koska-kakaolu-helva-paket-500-g-p-6c2f38">satın al</a></td>
+            </tr><tr>
+              <td title="Şok">ŞOK</td>
+              <td>35,75 TL</td>
+              <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/tahin-helvasi-kakaolu-500-gr-p-2508/">satın al</a></td>
+            </tr><tr>
+              <td title="İste Gelsin">İSTE GELSIN</td>
+              <td>46,25 TL</td>
+              <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/koska-kakaolu-helva-500-gr_KSK14-AD">satın al</a></td>
+            </tr><tr>
+              <td title="Bizim Toptan">BIZIM TOPTAN</td>
+              <td>46,25 TL</td>
+              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/koska-helva-kakaolu-500-g">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>54,95 TL</td>
@@ -63,10 +63,6 @@ Marka: Koska
               <td title="Showmar">SHOWMAR</td>
               <td>55,75 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/koska-helva-kakaolu-500gr">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>56,65 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Koska_500_Gr_Helva_Kakaolu">satın al</a></td>
             </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>59,00 TL</td>

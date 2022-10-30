@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Doğuş Karadeniz Çayı 1000 G"
-date:   2022-10-30 6:03:19 +0300
+date:   2022-10-30 13:02:23 +0300
 image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-10-30 9:03:19
+Son Güncelleme: 2022-10-30 16:02:23
 
 <img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg" width="200" alt="Doğuş Karadeniz Çayı 1000 G market fiyatları" />
 
@@ -31,5 +31,9 @@ Marka: Doğuş
               <td title="Macro Center">MACRO CENTER</td>
               <td>74,50 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/dogus-karadeniz-cayi-1000-g-p-2f947e">satın al</a></td>
+            </tr><tr>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>83,95 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/dogus-filiz-cay-siyah-1000-gr/p/77416">satın al</a></td>
             </tr>
 </table>
