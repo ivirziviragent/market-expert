@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Cevizli 350 gr"
-date:   2022-11-01 6:38:47 +0300
+date:   2022-11-01 13:39:58 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-cevizli-350-gr--78dd4.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-01 9:38:47
+Son Güncelleme: 2022-11-01 16:39:58
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-cevizli-350-gr--78dd4.jpg" width="200" alt="Seyidoğlu Helva Cevizli 350 gr market fiyatları" />
 
@@ -29,7 +29,7 @@ Marka: Seyidoğlu
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/seyidoglu-helva-cevizli-350-gr-20311">satın al</a></td>
             </tr><tr>
               <td title="Hakmar">HAKMAR</td>
-              <td>27,50 TL</td>
+              <td>22,90 TL</td>
               <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-kahvaltilik-seyidoglu-cevizli-ve-bademli-yaz-helvasi-350-gr-vakumlu-paket">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
