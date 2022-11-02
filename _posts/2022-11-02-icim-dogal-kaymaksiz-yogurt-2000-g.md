@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Doğal Kaymaksız Yoğurt 2000 g"
-date:   2022-11-02 6:20:09 +0300
+date:   2022-11-02 13:18:03 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-dogal-yogurt-2-kg-fa2-bb.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-02 9:20:09
+Son Güncelleme: 2022-11-02 16:18:03
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-dogal-yogurt-2-kg-fa2-bb.jpg" width="200" alt="İçim Doğal Kaymaksız Yoğurt 2000 g market fiyatları" />
 

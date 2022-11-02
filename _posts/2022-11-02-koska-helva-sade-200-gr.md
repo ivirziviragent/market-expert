@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Sade 200 gr"
-date:   2022-11-02 7:38:39 +0300
+date:   2022-11-02 14:36:21 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-200-gr-a9f6.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-02 10:38:39
+Son Güncelleme: 2022-11-02 17:36:21
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-200-gr-a9f6.jpg" width="200" alt="Koska Helva Sade 200 gr market fiyatları" />
 
@@ -28,8 +28,12 @@ Marka: Koska
               <td>23,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-sade-200-gr">satın al</a></td>
             </tr><tr>
+              <td title="Migros">MIGROS</td>
+              <td>27,00 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/koska-sade-helva-paket-200-g-p-6c0859">satın al</a></td>
+            </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
-              <td>25,90 TL</td>
+              <td>19,95 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/koska-sade-helva-200-gr">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
@@ -39,10 +43,6 @@ Marka: Koska
               <td title="Kim">KIM</td>
               <td>26,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/koska-helva-200-gr-sade">satın al</a></td>
-            </tr><tr>
-              <td title="Migros">MIGROS</td>
-              <td>27,00 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/koska-sade-helva-paket-200-g-p-6c0859">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>27,00 TL</td>
@@ -59,9 +59,5 @@ Marka: Koska
               <td title="Mopaş">MOPAŞ</td>
               <td>27,25 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/koska-sade-helva-200-gr/p/93095">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>28,80 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Koska_200_Gr_Helva_Sade">satın al</a></td>
             </tr>
 </table>
