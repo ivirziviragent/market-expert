@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Royal Canin Fhn Sterilised 37 Kısırlaştırılmış Kedi Maması 15 kg"
-date:   2022-11-04 7:01:29 +0300
+date:   2022-11-04 14:42:49 +0300
 image: https://productimages.hepsiburada.net/s/22/550/9943345430578.jpg
 categories: evcil-hayvan-urunleri
 tags: evcil-hayvan-urunleri
 ---
 
-Son Güncelleme: 2022-11-04 10:01:29
+Son Güncelleme: 2022-11-04 17:42:49
 
 <img src="https://productimages.hepsiburada.net/s/22/550/9943345430578.jpg" width="200" alt="Royal Canin Fhn Sterilised 37 Kısırlaştırılmış Kedi Maması 15 kg market fiyatları" />
 
@@ -24,13 +24,13 @@ Marka: Royal Canin
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Hepsiburada/petidi Mağazası">PETIDI - HB</td>
-              <td>1585,00 TL</td>
-              <td><a title="Hepsiburada/petidi Mağazası" target="_blank" href="https://www.hepsiburada.com/royal-canin-fhn-sterilised-37-kisirlastirilmis-kedi-mamasi-15-kg-p-PTANNA251100063A?magaza=petidi">satın al</a></td>
-            </tr><tr>
               <td title="Hepsiburada/Evcilbesinleri Mağazası">EVCILBESINLERI - HB</td>
-              <td>1624,17 TL</td>
+              <td>1571,00 TL</td>
               <td><a title="Hepsiburada/Evcilbesinleri Mağazası" target="_blank" href="https://www.hepsiburada.com/royal-canin-fhn-sterilised-37-kisirlastirilmis-kedi-mamasi-15-kg-p-PTANNA251100063A?magaza=Evcilbesinleri">satın al</a></td>
+            </tr><tr>
+              <td title="Hepsiburada/petidi Mağazası">PETIDI - HB</td>
+              <td>1571,00 TL</td>
+              <td><a title="Hepsiburada/petidi Mağazası" target="_blank" href="https://www.hepsiburada.com/royal-canin-fhn-sterilised-37-kisirlastirilmis-kedi-mamasi-15-kg-p-PTANNA251100063A?magaza=petidi">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/özlempet Mağazası">ÖZLEMPET - HB</td>
               <td>1674,00 TL</td>

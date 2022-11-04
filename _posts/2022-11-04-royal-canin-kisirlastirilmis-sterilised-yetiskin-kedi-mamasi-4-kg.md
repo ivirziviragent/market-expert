@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Royal Canin Kısırlaştırılmış Sterılısed Yetişkin Kedi Maması 4 kg"
-date:   2022-11-04 7:00:35 +0300
+date:   2022-11-04 14:41:55 +0300
 image: https://productimages.hepsiburada.net/s/22/550/9943345299506.jpg
 categories: evcil-hayvan-urunleri
 tags: evcil-hayvan-urunleri
 ---
 
-Son Güncelleme: 2022-11-04 10:00:35
+Son Güncelleme: 2022-11-04 17:41:55
 
 <img src="https://productimages.hepsiburada.net/s/22/550/9943345299506.jpg" width="200" alt="Royal Canin Kısırlaştırılmış Sterılısed Yetişkin Kedi Maması 4 kg market fiyatları" />
 
@@ -25,15 +25,15 @@ Marka: Royal Canin
   </tr>
   <tr>
               <td title="Hepsiburada/catcanis Mağazası">CATCANIS - HB</td>
-              <td>482,90 TL</td>
+              <td>474,00 TL</td>
               <td><a title="Hepsiburada/catcanis Mağazası" target="_blank" href="https://www.hepsiburada.com/royal-canin-fhn-sterilised-37-kisirlastirilmis-kedi-mamasi-4-kg-p-ptanna251100066">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/KARAMELPETSHOP35 Mağazası">KARAMELPETSHOP35 - HB</td>
-              <td>482,90 TL</td>
+              <td>474,00 TL</td>
               <td><a title="Hepsiburada/KARAMELPETSHOP35 Mağazası" target="_blank" href="https://www.hepsiburada.com/royal-canin-fhn-sterilised-37-kisirlastirilmis-kedi-mamasi-4-kg-p-PTANNA251100066?magaza=KARAMELPETSHOP35">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/Mama Dünyası Mağazası">MAMA DÜNYASI - HB</td>
-              <td>623,09 TL</td>
+              <td>519,90 TL</td>
               <td><a title="Hepsiburada/Mama Dünyası Mağazası" target="_blank" href="https://www.hepsiburada.com/royal-canin-fhn-sterilised-37-kisirlastirilmis-kedi-mamasi-4-kg-p-PTANNA251100066?magaza=Mama%20D%C3%BCnyas%C4%B1">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/vızvızpetclubb Mağazası">VIZVIZPETCLUBB - HB</td>
