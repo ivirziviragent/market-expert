@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Komili Riviera Zeytinyağ 1 lt"
-date:   2022-11-05 11:18:37 +0300
+date:   2022-11-05 14:33:57 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/komili-yemeklik-riviera-zeytinyag-1-lt-26debe.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-11-05 14:18:37
+Son Güncelleme: 2022-11-05 17:33:57
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/komili-yemeklik-riviera-zeytinyag-1-lt-26debe.jpg" width="200" alt="Komili Riviera Zeytinyağ 1 lt market fiyatları" />
 
@@ -27,10 +27,6 @@ Marka: Komili
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>77,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/komili-yemeklik-riviera-zeytinyag-1-lt">satın al</a></td>
-            </tr><tr>
-              <td title="Showmar">SHOWMAR</td>
-              <td>84,95 TL</td>
-              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/komili-riviera-1lt">satın al</a></td>
             </tr><tr>
               <td title="Bizim Toptan">BIZIM TOPTAN</td>
               <td>87,90 TL</td>

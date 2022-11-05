@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Süzme Peynir 500 gr"
-date:   2022-11-05 10:22:47 +0300
+date:   2022-11-05 13:37:37 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-suzme-peynir-500-gr-bc-473.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-05 13:22:47
+Son Güncelleme: 2022-11-05 16:37:37
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-suzme-peynir-500-gr-bc-473.jpg" width="200" alt="İçim Süzme Peynir 500 gr market fiyatları" />
 
@@ -39,10 +39,6 @@ Marka: İçim
               <td title="Mopaş">MOPAŞ</td>
               <td>44,10 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/icim-suzme-peynir-500-gr/p/494664">satın al</a></td>
-            </tr><tr>
-              <td title="Showmar">SHOWMAR</td>
-              <td>44,50 TL</td>
-              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/icim-suzme-b-peynir-500gr">satın al</a></td>
             </tr><tr>
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>44,90 TL</td>

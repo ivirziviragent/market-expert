@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Baby Turco Doğadan Eko Pk Yenidoğan 64 lü"
-date:   2022-11-05 6:06:36 +0300
+date:   2022-11-05 13:05:54 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/baby-turco-dogadan-eko-pk-yenidogan-64-c-71fb.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-11-05 9:06:36
+Son Güncelleme: 2022-11-05 16:05:54
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/baby-turco-dogadan-eko-pk-yenidogan-64-c-71fb.jpg" width="200" alt="Baby Turco Doğadan Eko Pk Yenidoğan 64 lü market fiyatları" />
 

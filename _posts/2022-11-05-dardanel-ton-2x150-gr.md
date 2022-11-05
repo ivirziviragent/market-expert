@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Dardanel Ton 2x150 gr"
-date:   2022-11-05 11:38:44 +0300
+date:   2022-11-05 14:54:05 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-2x150-gr-3c-301.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-11-05 14:38:44
+Son Güncelleme: 2022-11-05 17:54:05
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-2x150-gr-3c-301.jpg" width="200" alt="Dardanel Ton 2x150 gr market fiyatları" />
 
@@ -39,6 +39,10 @@ Marka: Dardanel
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>63,92 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/dardanel-ton-2x150-g-p-30097066">satın al</a></td>
+            </tr><tr>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>78,70 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/dardanel-ton-2x150-gr/p/834735">satın al</a></td>
             </tr><tr>
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>79,90 TL</td>
