@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Ülker Haylayf Mini Bisküvi 150 gr"
-date:   2022-11-06 10:29:30 +0300
+date:   2022-11-06 17:16:04 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/ulker-haylayf-mini-biskuvi-150-gr-2-2ba1.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-11-06 13:29:30
+Son Güncelleme: 2022-11-06 20:16:04
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/ulker-haylayf-mini-biskuvi-150-gr-2-2ba1.jpg" width="200" alt="Ülker Haylayf Mini Bisküvi 150 gr market fiyatları" />
 
@@ -28,13 +28,13 @@ Marka: Ülker
               <td>9,50 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/ulker-haylayf-mini-biskuvi-150-gr-20841">satın al</a></td>
             </tr><tr>
-              <td title="Migros">MIGROS</td>
-              <td>11,00 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/ulker-haylayf-sekerli-mini-biskuvi-150-g-p-6af883">satın al</a></td>
-            </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>9,75 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/ulker-haylayf-mini-sekerli-biskuvi-150-gr-p-553427">satın al</a></td>
+            </tr><tr>
+              <td title="Migros">MIGROS</td>
+              <td>11,00 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/ulker-haylayf-sekerli-mini-biskuvi-150-g-p-6af883">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>11,00 TL</td>
@@ -43,5 +43,9 @@ Marka: Ülker
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>11,00 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/ulker-haylayf-mini-biskuvi-150-gr_PAM1063-AD">satın al</a></td>
+            </tr><tr>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>11,55 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/ulker-haylayf-mini-biskuvi-150-gr/p/859389">satın al</a></td>
             </tr>
 </table>
