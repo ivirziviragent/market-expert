@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Fairy Platinum Plus Ultra 60 lı"
-date:   2022-11-07 10:53:23 +0300
+date:   2022-11-07 14:19:42 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-11-07 13:53:23
+Son Güncelleme: 2022-11-07 17:19:42
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg" width="200" alt="Fairy Platinum Plus Ultra 60 lı market fiyatları" />
 
@@ -55,9 +55,5 @@ Marka: Fairy
               <td title="Migros">MIGROS</td>
               <td>277,25 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/fairy-platinum-plus-tablet-60li-931-g-p-1d8b9a0">satın al</a></td>
-            </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>282,40 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/fairy-platinum-plus-bulasik-makinesi-deterjani-kapsulu-60li/p/772558">satın al</a></td>
             </tr>
 </table>

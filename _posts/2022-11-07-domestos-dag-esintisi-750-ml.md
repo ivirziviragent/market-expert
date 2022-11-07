@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Domestos Dağ Esintisi 750 ml"
-date:   2022-11-07 9:12:33 +0300
+date:   2022-11-07 13:12:26 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/domestos-camasir-suyu-dag-esintisi-750-76e7e9.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-11-07 12:12:33
+Son Güncelleme: 2022-11-07 16:12:26
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/domestos-camasir-suyu-dag-esintisi-750-76e7e9.jpg" width="200" alt="Domestos Dağ Esintisi 750 ml market fiyatları" />
 
@@ -36,10 +36,6 @@ Marka: Domestos
               <td>23,49 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/domestos-750-ml-dag-esintisi">satın al</a></td>
             </tr><tr>
-              <td title="Hakmar">HAKMAR</td>
-              <td>23,50 TL</td>
-              <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/temizlik-domestos-ultra-camasir-suyu-cesitleri-806-gr">satın al</a></td>
-            </tr><tr>
               <td title="Şok">ŞOK</td>
               <td>23,70 TL</td>
               <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/dag-esintisi-camasir-suyu-806-gr-p-2992/">satın al</a></td>
@@ -51,9 +47,5 @@ Marka: Domestos
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>24,80 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/domestos-dag-esintisi-750-ml-camasir-suyu-_UNI98-AD">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>42,75 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Domestos_Dag_810_Gr__Kar_Beyazi_810_Gr">satın al</a></td>
             </tr>
 </table>
