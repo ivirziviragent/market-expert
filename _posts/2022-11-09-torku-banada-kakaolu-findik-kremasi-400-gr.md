@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Torku Banada Kakaolu Fındık Kreması 400 gr"
-date:   2022-11-09 6:59:53 +0300
+date:   2022-11-09 14:33:18 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-400--a315.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-09 9:59:53
+Son Güncelleme: 2022-11-09 17:33:18
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-400--a315.jpg" width="200" alt="Torku Banada Kakaolu Fındık Kreması 400 gr market fiyatları" />
 
@@ -28,6 +28,10 @@ Marka: Torku
               <td>27,95 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/torku-banada-400-g-p-30084655">satın al</a></td>
             </tr><tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>29,99 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/torku-banada-kakaolu-findik-400-gr-p-4005">satın al</a></td>
+            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>34,50 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/torku-banada-kakaolu-findik-kremasi-400-g-p-6d3046">satın al</a></td>
@@ -35,10 +39,6 @@ Marka: Torku
               <td title="Bizim Toptan">BIZIM TOPTAN</td>
               <td>34,50 TL</td>
               <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/torku-banada-kakaolu-findik-kremasi-400-g">satın al</a></td>
-            </tr><tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>35,75 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/torku-banada-kakaolu-findik-400-gr-p-4005">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>37,70 TL</td>
