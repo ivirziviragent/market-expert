@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Tadım Kabuklu Yer Fıstığı 250 G"
-date:   2022-11-12 10:10:54 +0300
+date:   2022-11-12 13:24:14 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/tadim-kavrulmus-kabuklu-yer-fistigi-25-f75-b6.jpg
 categories: atistirmalik
 tags: atistirmalik
 ---
 
-Son Güncelleme: 2022-11-12 13:10:54
+Son Güncelleme: 2022-11-12 16:24:14
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/tadim-kavrulmus-kabuklu-yer-fistigi-25-f75-b6.jpg" width="200" alt="Tadım Kabuklu Yer Fıstığı 250 G market fiyatları" />
 

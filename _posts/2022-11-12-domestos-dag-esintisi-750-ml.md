@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Domestos Dağ Esintisi 750 ml"
-date:   2022-11-12 9:58:18 +0300
+date:   2022-11-12 13:12:47 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/domestos-camasir-suyu-dag-esintisi-750-76e7e9.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-11-12 12:58:18
+Son Güncelleme: 2022-11-12 16:12:47
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/domestos-camasir-suyu-dag-esintisi-750-76e7e9.jpg" width="200" alt="Domestos Dağ Esintisi 750 ml market fiyatları" />
 
@@ -28,13 +28,13 @@ Marka: Domestos
               <td>17,63 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/domestos-camasir-suyu-dag-esintisi-750-ml-p-1d25103">satın al</a></td>
             </tr><tr>
-              <td title="Şok">ŞOK</td>
-              <td>20,35 TL</td>
-              <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/dag-esintisi-camasir-suyu-806-gr-p-2992/">satın al</a></td>
-            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>22,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/domestos-dag-esintisi-810-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Şok">ŞOK</td>
+              <td>20,35 TL</td>
+              <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/dag-esintisi-camasir-suyu-806-gr-p-2992/">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
               <td>23,49 TL</td>
@@ -51,9 +51,5 @@ Marka: Domestos
               <td title="İste Gelsin">İSTE GELSIN</td>
               <td>24,80 TL</td>
               <td><a title="İste Gelsin" target="_blank" href="https://www.istegelsin.com/urun/domestos-dag-esintisi-750-ml-camasir-suyu-_UNI98-AD">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>42,75 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Domestos_Dag_810_Gr__Kar_Beyazi_810_Gr">satın al</a></td>
             </tr>
 </table>

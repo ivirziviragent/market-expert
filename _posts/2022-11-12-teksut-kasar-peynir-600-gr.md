@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Teksüt Kaşar Peynir 600 gr"
-date:   2022-11-12 10:20:05 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-600-gr-692b.jpg
+date:   2022-11-12 13:33:42 +0300
+image: https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10101926/10101926-372c0f-1650x1650.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-12 13:20:05
+Son Güncelleme: 2022-11-12 16:33:42
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-peynir-600-gr-692b.jpg" width="200" alt="Teksüt Kaşar Peynir 600 gr market fiyatları" />
+<img src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10101926/10101926-372c0f-1650x1650.jpg" width="200" alt="Teksüt Kaşar Peynir 600 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -24,10 +24,6 @@ Marka: Teksüt
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>69,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/teksut-kasar-peynir-600-gr">satın al</a></td>
-            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>87,95 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/teksut-kasar-peyniri-600-g-p-9a24a6">satın al</a></td>

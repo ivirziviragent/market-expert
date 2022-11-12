@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Tam Yağlı Beyaz Peynir 900 gr"
-date:   2022-11-12 10:37:47 +0300
+date:   2022-11-12 14:22:50 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-tam-yagli-beyaz-peynir-900-gr-7-7633.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-12 13:37:47
+Son Güncelleme: 2022-11-12 17:22:50
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-tam-yagli-beyaz-peynir-900-gr-7-7633.jpg" width="200" alt="İçim Tam Yağlı Beyaz Peynir 900 gr market fiyatları" />
 

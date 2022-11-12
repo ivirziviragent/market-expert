@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Tereyağ 1000 gr"
-date:   2022-11-12 10:04:37 +0300
+date:   2022-11-12 13:18:36 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-tereyag-1000-gr-f90-fd.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-12 13:04:37
+Son Güncelleme: 2022-11-12 16:18:36
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-tereyag-1000-gr-f90-fd.jpg" width="200" alt="İçim Tereyağ 1000 gr market fiyatları" />
 

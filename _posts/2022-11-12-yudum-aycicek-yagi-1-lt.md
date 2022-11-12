@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Yudum Ayçiçek Yağı 1 Lt"
-date:   2022-11-12 10:12:46 +0300
+date:   2022-11-12 13:26:00 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-11-12 13:12:46
+Son Güncelleme: 2022-11-12 16:26:00
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg" width="200" alt="Yudum Ayçiçek Yağı 1 Lt market fiyatları" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Uni Baby Islak Havlu Yenidoğan 3x40'lı"
-date:   2022-11-12 10:07:13 +0300
+date:   2022-11-12 13:20:33 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/uni-baby-islak-havlu-yenidogan-3x40li-058047.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-11-12 13:07:13
+Son Güncelleme: 2022-11-12 16:20:33
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/uni-baby-islak-havlu-yenidogan-3x40li-058047.jpg" width="200" alt="Uni Baby Islak Havlu Yenidoğan 3x40'lı market fiyatları" />
 

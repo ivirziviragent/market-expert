@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Tam Yağlı Beyaz Peynir 500 gr"
-date:   2022-11-12 10:20:45 +0300
+date:   2022-11-12 13:34:18 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-tam-yagli-beyaz-peynir-500-gr-5-4a03.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-12 13:20:45
+Son Güncelleme: 2022-11-12 16:34:18
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-tam-yagli-beyaz-peynir-500-gr-5-4a03.jpg" width="200" alt="Sütaş Tam Yağlı Beyaz Peynir 500 gr market fiyatları" />
 
