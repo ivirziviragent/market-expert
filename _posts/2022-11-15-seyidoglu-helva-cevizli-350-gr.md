@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Helva Cevizli 350 gr"
-date:   2022-11-15 6:43:05 +0300
+date:   2022-11-15 13:41:05 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-cevizli-350-gr--78dd4.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-15 9:43:05
+Son Güncelleme: 2022-11-15 16:41:05
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-helva-cevizli-350-gr--78dd4.jpg" width="200" alt="Seyidoğlu Helva Cevizli 350 gr market fiyatları" />
 

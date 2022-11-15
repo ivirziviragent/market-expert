@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Dardanel Ton 2x150 gr"
-date:   2022-11-15 7:49:50 +0300
+date:   2022-11-15 14:19:49 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-2x150-gr-3c-301.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-11-15 10:49:50
+Son Güncelleme: 2022-11-15 17:19:49
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-2x150-gr-3c-301.jpg" width="200" alt="Dardanel Ton 2x150 gr market fiyatları" />
 
@@ -51,9 +51,5 @@ Marka: Dardanel
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>79,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/dardanel-ton-2x150-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>85,45 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Dardanel_160_Gr_X_2_Ton_Balik">satın al</a></td>
             </tr>
 </table>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Torku Banada Kakaolu Fındık Kreması 400 gr"
-date:   2022-11-15 7:26:43 +0300
+date:   2022-11-15 13:52:51 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-400--a315.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-15 10:26:43
+Son Güncelleme: 2022-11-15 16:52:51
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-400--a315.jpg" width="200" alt="Torku Banada Kakaolu Fındık Kreması 400 gr market fiyatları" />
 
@@ -24,10 +24,6 @@ Marka: Torku
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Migros">MIGROS</td>
-              <td>38,90 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/torku-banada-kakaolu-findik-kremasi-400-g-p-6d3046">satın al</a></td>
-            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>41,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/torku-banada-kakaolu-findik-kremasi-400-gr">satın al</a></td>
