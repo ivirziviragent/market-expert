@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Seyidoğlu Reçel Vişne 380 gr"
-date:   2022-11-17 7:36:26 +0300
+date:   2022-11-17 14:39:40 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-recel-visne-380-gr--aa3a-.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-17 10:36:26
+Son Güncelleme: 2022-11-17 17:39:40
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/seyidoglu-recel-visne-380-gr--aa3a-.jpg" width="200" alt="Seyidoğlu Reçel Vişne 380 gr market fiyatları" />
 

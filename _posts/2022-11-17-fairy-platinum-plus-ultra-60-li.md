@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Fairy Platinum Plus Ultra 60 lı"
-date:   2022-11-17 7:34:09 +0300
+date:   2022-11-17 14:38:05 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-11-17 10:34:09
+Son Güncelleme: 2022-11-17 17:38:05
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg" width="200" alt="Fairy Platinum Plus Ultra 60 lı market fiyatları" />
 
@@ -28,6 +28,10 @@ Marka: Fairy
               <td>197,75 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/fairy-platinum-plus-kapsul-60-adet-p-544422">satın al</a></td>
             </tr><tr>
+              <td title="Hepsiburada/G-Market Mağazası">G-MARKET - HB</td>
+              <td>209,99 TL</td>
+              <td><a title="Hepsiburada/G-Market Mağazası" target="_blank" href="https://www.hepsiburada.com/fairy-platinum-plus-bulasik-makinesi-deterjani-tableti-kapsulu-60-yikama-p-HBV00000H3RLE?magaza=G-Market">satın al</a></td>
+            </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>213,50 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/fairy-platinum-plus-ultra-60-kapsul-p-30383114">satın al</a></td>
@@ -35,10 +39,6 @@ Marka: Fairy
               <td title="ToptanTR">TOPTANTR</td>
               <td>219,95 TL</td>
               <td><a title="ToptanTR" target="_blank" href="https://www.toptantr.com/tr/p-fairy-platinum-plus-60-yikama-bulasik-makinesi-deterjani-kapsulu">satın al</a></td>
-            </tr><tr>
-              <td title="Hepsiburada/G-Market Mağazası">G-MARKET - HB</td>
-              <td>239,00 TL</td>
-              <td><a title="Hepsiburada/G-Market Mağazası" target="_blank" href="https://www.hepsiburada.com/fairy-platinum-plus-bulasik-makinesi-deterjani-tableti-kapsulu-60-yikama-p-HBV00000H3RLE?magaza=G-Market">satın al</a></td>
             </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>269,95 TL</td>

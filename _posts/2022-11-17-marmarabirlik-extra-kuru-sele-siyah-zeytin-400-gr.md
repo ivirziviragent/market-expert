@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Marmarabirlik Extra Kuru Sele Siyah Zeytin 400 gr"
-date:   2022-11-17 7:04:49 +0300
+date:   2022-11-17 14:12:15 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/marmarabirlik-extra-kuru-sele-siyah-zeyt-8e47.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-17 10:04:49
+Son Güncelleme: 2022-11-17 17:12:15
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/marmarabirlik-extra-kuru-sele-siyah-zeyt-8e47.jpg" width="200" alt="Marmarabirlik Extra Kuru Sele Siyah Zeytin 400 gr market fiyatları" />
 
