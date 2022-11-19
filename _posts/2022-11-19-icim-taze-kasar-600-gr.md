@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Taze Kaşar 600 gr"
-date:   2022-11-19 6:38:40 +0300
+date:   2022-11-19 13:42:05 +0300
 image: https://www.kimgeldi.com//images/thumbs/0018159_icim-taze-kasar-peyniri-600-gr_510.jpeg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-19 9:38:40
+Son Güncelleme: 2022-11-19 16:42:05
 
 <img src="https://www.kimgeldi.com//images/thumbs/0018159_icim-taze-kasar-peyniri-600-gr_510.jpeg" width="200" alt="İçim Taze Kaşar 600 gr market fiyatları" />
 
@@ -24,6 +24,10 @@ Marka: İçim
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Kim">KIM</td>
+              <td>86,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/icim-taze-kasar-peyniri-600-gr">satın al</a></td>
+            </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>79,90 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/ulker-icim-kasar-600-gr-k-ulker-3264">satın al</a></td>
@@ -32,17 +36,9 @@ Marka: İçim
               <td>79,95 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/icim-kasar-peyniri-600-g-p-30220678">satın al</a></td>
             </tr><tr>
-              <td title="Kim">KIM</td>
-              <td>86,99 TL</td>
-              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/icim-taze-kasar-peyniri-600-gr">satın al</a></td>
-            </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>91,35 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/icim-kasar-600-gr/p/751626">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>93,00 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/icim-kasar-peynir-600-gr">satın al</a></td>
             </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
               <td>99,99 TL</td>
