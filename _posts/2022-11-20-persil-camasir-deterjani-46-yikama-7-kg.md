@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Persil Çamaşır Deterjanı 46 Yıkama 7 Kg"
-date:   2022-11-20 6:04:12 +0300
+date:   2022-11-20 13:06:21 +0300
 image: https://images.migrosone.com/sanalmarket/product/30121523/30121523_etiket-98fff4-1650x1650.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-11-20 9:04:12
+Son Güncelleme: 2022-11-20 16:06:21
 
 <img src="https://images.migrosone.com/sanalmarket/product/30121523/30121523_etiket-98fff4-1650x1650.jpg" width="200" alt="Persil Çamaşır Deterjanı 46 Yıkama 7 Kg market fiyatları" />
 

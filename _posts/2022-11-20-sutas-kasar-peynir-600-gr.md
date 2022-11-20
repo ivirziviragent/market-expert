@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Kaşar Peynir 600 gr"
-date:   2022-11-20 6:33:12 +0300
+date:   2022-11-20 13:33:44 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-600-gr-d07ab8.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-20 9:33:12
+Son Güncelleme: 2022-11-20 16:33:44
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-600-gr-d07ab8.jpg" width="200" alt="Sütaş Kaşar Peynir 600 gr market fiyatları" />
 
@@ -31,10 +31,6 @@ Marka: Sütaş
               <td title="Mopaş">MOPAŞ</td>
               <td>79,99 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/sutas-kasar-600-gr/p/825919">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>87,50 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/sutas-kasar-peynir-600-gr">satın al</a></td>
             </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>87,50 TL</td>
