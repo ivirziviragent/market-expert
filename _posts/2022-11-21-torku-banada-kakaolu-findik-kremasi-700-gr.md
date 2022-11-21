@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Torku Banada Kakaolu Fındık Kreması 700 gr"
-date:   2022-11-21 6:51:05 +0300
+date:   2022-11-21 14:02:14 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-700--d7d2.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-21 9:51:05
+Son Güncelleme: 2022-11-21 17:02:14
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-700--d7d2.jpg" width="200" alt="Torku Banada Kakaolu Fındık Kreması 700 gr market fiyatları" />
 
@@ -40,14 +40,6 @@ Marka: Torku
               <td>59,95 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/torku-banada-700gr-cam">satın al</a></td>
             </tr><tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>62,99 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/torku-banada-kakaolu-findik-kremasi-700-gr-p-215535">satın al</a></td>
-            </tr><tr>
-              <td title="Bizim Toptan">BIZIM TOPTAN</td>
-              <td>63,50 TL</td>
-              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/torku-banada-kakaolu-findik-kremasi-700-g">satın al</a></td>
-            </tr><tr>
               <td title="Hakmar">HAKMAR</td>
               <td>64,75 TL</td>
               <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-kahvaltilik-atistirmalik-torku-banada-findik-kremasi-700gr">satın al</a></td>
@@ -55,6 +47,10 @@ Marka: Torku
               <td title="Macro Center">MACRO CENTER</td>
               <td>67,90 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/torku-banada-kakaolu-findik-kremasi-700-g-p-6d307a">satın al</a></td>
+            </tr><tr>
+              <td title="Bizim Toptan">BIZIM TOPTAN</td>
+              <td>63,50 TL</td>
+              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/torku-banada-kakaolu-findik-kremasi-700-g">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>68,15 TL</td>
