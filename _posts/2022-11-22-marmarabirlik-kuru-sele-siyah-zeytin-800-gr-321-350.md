@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Marmarabirlik Kuru Sele Siyah Zeytin 800 gr (321-350)"
-date:   2022-11-22 7:17:51 +0300
+date:   2022-11-22 14:17:17 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/marmarabirlik-kuru-sele-siyah-zeytin-8-fe-8c1.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-22 10:17:51
+Son Güncelleme: 2022-11-22 17:17:17
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/marmarabirlik-kuru-sele-siyah-zeytin-8-fe-8c1.jpg" width="200" alt="Marmarabirlik Kuru Sele Siyah Zeytin 800 gr (321-350) market fiyatları" />
 
@@ -27,6 +27,10 @@ Marka: Marmara Birlik
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>76,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/marmarabirlik-kuru-sele-siyah-zeytin-800-gr-321-350-21153">satın al</a></td>
+            </tr><tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>69,75 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/marmarabirlik-kuru-sele-zeytin-xs-800-gr-p-539518">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>87,50 TL</td>

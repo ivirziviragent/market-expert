@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Kaşar Peynir 600 gr"
-date:   2022-11-22 6:33:37 +0300
+date:   2022-11-22 13:34:01 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-600-gr-d07ab8.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-22 9:33:37
+Son Güncelleme: 2022-11-22 16:34:01
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sutas-kasar-peynir-600-gr-d07ab8.jpg" width="200" alt="Sütaş Kaşar Peynir 600 gr market fiyatları" />
 
@@ -32,9 +32,9 @@ Marka: Sütaş
               <td>79,99 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/sutas-kasar-600-gr/p/825919">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
+              <td title="Kalafatlar">KALAFATLAR</td>
               <td>87,50 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/sutas-kasar-peynir-600-gr">satın al</a></td>
+              <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/sutas-kasar-peyniri-600-gr">satın al</a></td>
             </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>87,50 TL</td>
@@ -44,8 +44,8 @@ Marka: Sütaş
               <td>89,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/sutas-taze-kasar-600-gr">satın al</a></td>
             </tr><tr>
-              <td title="Kalafatlar">KALAFATLAR</td>
-              <td>87,50 TL</td>
-              <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/sutas-kasar-peyniri-600-gr">satın al</a></td>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>109,90 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/sutas-kasar-peyniri-600-gr-p-548528">satın al</a></td>
             </tr>
 </table>

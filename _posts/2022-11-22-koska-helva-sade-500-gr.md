@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Sade 500 gr"
-date:   2022-11-22 6:45:45 +0300
+date:   2022-11-22 13:45:04 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-500-gr-18f2.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-22 9:45:45
+Son Güncelleme: 2022-11-22 16:45:04
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-500-gr-18f2.jpg" width="200" alt="Koska Helva Sade 500 gr market fiyatları" />
 
@@ -44,13 +44,13 @@ Marka: Koska
               <td>44,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-sade-500-gr">satın al</a></td>
             </tr><tr>
-              <td title="Migros">MIGROS</td>
-              <td>54,95 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/koska-sade-helva-paket-500-g-p-6c0854">satın al</a></td>
-            </tr><tr>
               <td title="Bizim Toptan">BIZIM TOPTAN</td>
               <td>46,25 TL</td>
               <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/koska-helva-sade-500-g">satın al</a></td>
+            </tr><tr>
+              <td title="Migros">MIGROS</td>
+              <td>54,95 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/koska-sade-helva-paket-500-g-p-6c0854">satın al</a></td>
             </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>54,95 TL</td>
@@ -59,5 +59,9 @@ Marka: Koska
               <td title="Showmar">SHOWMAR</td>
               <td>55,75 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/koska-helva-sade-500gr">satın al</a></td>
+            </tr><tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>59,00 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/koska-tahin-helvasi-sade-500-gr-p-547667">satın al</a></td>
             </tr>
 </table>

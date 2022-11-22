@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Red Bull Enerji İçeceği 250 ml"
-date:   2022-11-22 6:26:28 +0300
+date:   2022-11-22 13:25:03 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml-9cc-1e.jpg
 categories: icecekler
 tags: icecekler
 ---
 
-Son Güncelleme: 2022-11-22 9:26:28
+Son Güncelleme: 2022-11-22 16:25:03
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/red-bull-enerji-icecegi-250-ml-9cc-1e.jpg" width="200" alt="Red Bull Enerji İçeceği 250 ml market fiyatları" />
 
@@ -32,10 +32,6 @@ Marka: Red Bull
               <td>14,95 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/red-bull-enerji-icecegi-250-ml-p-7bbfce">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>16,00 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Red_Bull_250_Ml_Bule">satın al</a></td>
-            </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>12,95 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/red-bull-enerji-icecegi-250-ml-p-30097269">satın al</a></td>
@@ -51,6 +47,10 @@ Marka: Red Bull
               <td title="Mopaş">MOPAŞ</td>
               <td>15,70 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/red-bull-sekeriz-250-ml/p/495457">satın al</a></td>
+            </tr><tr>
+              <td title="Market Paketi">MARKET PAKETI</td>
+              <td>17,90 TL</td>
+              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/red-bull-enerji-icecegi-white-edition-250-ml-p-552763">satın al</a></td>
             </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>14,95 TL</td>
