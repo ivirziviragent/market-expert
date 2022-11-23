@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Torku Banada Kakaolu Fındık Kreması 700 gr"
-date:   2022-11-23 7:09:10 +0300
+date:   2022-11-23 14:19:51 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-700--d7d2.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-23 10:09:10
+Son Güncelleme: 2022-11-23 17:19:51
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-700--d7d2.jpg" width="200" alt="Torku Banada Kakaolu Fındık Kreması 700 gr market fiyatları" />
 
@@ -24,10 +24,6 @@ Marka: Torku
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Yunus Market">YUNUS MARKET</td>
-              <td>43,90 TL</td>
-              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/torku-banada-kakaolu-findik-kremasi-700-gr/b488f71d-b32b-4d87-a7f8-bb865caf944e">satın al</a></td>
-            </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>51,00 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/torku-banada-cam-700-g-p-30121161">satın al</a></td>
@@ -59,5 +55,9 @@ Marka: Torku
               <td title="Macro Center">MACRO CENTER</td>
               <td>67,90 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/torku-banada-kakaolu-findik-kremasi-700-g-p-6d307a">satın al</a></td>
+            </tr><tr>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>68,15 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/torku-banada-700-gr/p/566381">satın al</a></td>
             </tr>
 </table>
