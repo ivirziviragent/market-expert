@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sleepy Jumbo Mini 42'li 2 Beden"
-date:   2022-11-24 7:28:50 +0300
+date:   2022-11-24 14:01:55 +0300
 image: https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2d/h38/8944375005214/704630_0_521Wx521H
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-11-24 10:28:50
+Son Güncelleme: 2022-11-24 17:01:55
 
 <img src="https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h2d/h38/8944375005214/704630_0_521Wx521H" width="200" alt="Sleepy Jumbo Mini 42'li 2 Beden market fiyatları" />
 
@@ -24,6 +24,10 @@ Marka: Prima
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Hepsiburada/Sleepy Mağazası">SLEEPY - HB</td>
+              <td>60,99 TL</td>
+              <td><a title="Hepsiburada/Sleepy Mağazası" target="_blank" href="https://www.hepsiburada.com/sleepy-natural-haftalik-paket-bebek-bezi-2-numara-mini-42-adet-p-HBCV000016QRJY">satın al</a></td>
+            </tr><tr>
               <td title="Hepsiburada/DEV GROSSS Mağazası">DEV GROSSS - HB</td>
               <td>79,99 TL</td>
               <td><a title="Hepsiburada/DEV GROSSS Mağazası" target="_blank" href="https://www.hepsiburada.com/sleepy-sensitive-bebek-bezi-2-beden-mini-jumbo-paket-42-adet-p-ZYSLE060369?magaza=dev%20grosss">satın al</a></td>
@@ -39,14 +43,6 @@ Marka: Prima
               <td title="Mopaş">MOPAŞ</td>
               <td>86,05 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/sleepy-jumbo-mini-42li-2-beden/p/704630">satın al</a></td>
-            </tr><tr>
-              <td title="Hepsiburada/Sleepy Mağazası">SLEEPY - HB</td>
-              <td>87,90 TL</td>
-              <td><a title="Hepsiburada/Sleepy Mağazası" target="_blank" href="https://www.hepsiburada.com/sleepy-natural-haftalik-paket-bebek-bezi-2-numara-mini-42-adet-p-HBCV000016QRJY">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>90,95 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Product/?product_id=37463">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>94,90 TL</td>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Sade 200 gr"
-date:   2022-11-24 7:15:15 +0300
+date:   2022-11-24 13:47:43 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-200-gr-a9f6.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-11-24 10:15:15
+Son Güncelleme: 2022-11-24 16:47:43
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-200-gr-a9f6.jpg" width="200" alt="Koska Helva Sade 200 gr market fiyatları" />
 
@@ -47,10 +47,6 @@ Marka: Koska
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>27,00 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/koska-sade-helva-200-g-paket-p-30099054">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>28,80 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Koska_200_Gr_Helva_Sade">satın al</a></td>
             </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>27,00 TL</td>

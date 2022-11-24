@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Doğuş Karadeniz Çayı 1000 G"
-date:   2022-11-24 6:02:40 +0300
+date:   2022-11-24 13:02:58 +0300
 image: https://images.migrosone.com/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-11-24 9:02:40
+Son Güncelleme: 2022-11-24 16:02:58
 
 <img src="https://images.migrosone.com/sanalmarket/product/03118206/03118206-d16a73-1650x1650.jpg" width="200" alt="Doğuş Karadeniz Çayı 1000 G market fiyatları" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Ülker Haylayf Mini Bisküvi 150 gr"
-date:   2022-11-24 7:51:29 +0300
+date:   2022-11-24 14:25:53 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/ulker-haylayf-mini-biskuvi-150-gr-2-2ba1.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-11-24 10:51:29
+Son Güncelleme: 2022-11-24 17:25:53
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/ulker-haylayf-mini-biskuvi-150-gr-2-2ba1.jpg" width="200" alt="Ülker Haylayf Mini Bisküvi 150 gr market fiyatları" />
 
