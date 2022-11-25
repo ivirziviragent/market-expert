@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Dardanel Ton 2x150 gr"
-date:   2022-11-25 7:41:16 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-2x150-gr-3c-301.jpg
+date:   2022-11-25 14:25:26 +0300
+image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-11-25 10:41:16
+Son Güncelleme: 2022-11-25 17:25:26
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-2x150-gr-3c-301.jpg" width="200" alt="Dardanel Ton 2x150 gr market fiyatları" />
+<img src="undefined" width="200" alt="Dardanel Ton 2x150 gr market fiyatları" />
 
 Kategori: Gıda, Şekerleme
 <br />
@@ -23,29 +23,5 @@ Marka: Dardanel
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Bizim Toptan">BIZIM TOPTAN</td>
-              <td>47,90 TL</td>
-              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/dardanel-ekonomik-ton-baligi-2x150-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Migros">MIGROS</td>
-              <td>48,90 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/dardanel-ekonomik-ton-2x150-g-p-89b738">satın al</a></td>
-            </tr><tr>
-              <td title="Macro Center">MACRO CENTER</td>
-              <td>62,75 TL</td>
-              <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/dardanel-aycicek-yagli-ton-baligi-2x150-g-p-8a20e8">satın al</a></td>
-            </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>78,70 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/dardanel-ton-2x150-gr/p/834735">satın al</a></td>
-            </tr><tr>
-              <td title="CarrefourSA">CARREFOURSA</td>
-              <td>79,90 TL</td>
-              <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/dardanel-ton-2x150-g-p-30097066">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>85,45 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Dardanel_160_Gr_X_2_Ton_Balik">satın al</a></td>
-            </tr>
+  
 </table>
