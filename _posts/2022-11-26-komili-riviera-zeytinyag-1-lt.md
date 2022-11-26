@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Komili Riviera Zeytinyağ 1 lt"
-date:   2022-11-26 7:23:39 +0300
+date:   2022-11-26 14:07:54 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/komili-yemeklik-riviera-zeytinyag-1-lt-26debe.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-11-26 10:23:39
+Son Güncelleme: 2022-11-26 17:07:54
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/komili-yemeklik-riviera-zeytinyag-1-lt-26debe.jpg" width="200" alt="Komili Riviera Zeytinyağ 1 lt market fiyatları" />
 
@@ -24,10 +24,6 @@ Marka: Komili
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Bizim Toptan">BIZIM TOPTAN</td>
-              <td>87,90 TL</td>
-              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/komili-riviera-zeytinyagi-1-l">satın al</a></td>
-            </tr><tr>
               <td title="Kim">KIM</td>
               <td>89,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/komili-z-yagi-riviera-1-lt">satın al</a></td>
@@ -52,8 +48,8 @@ Marka: Komili
               <td>117,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/komili-yemeklik-riviera-zeytinyag-1-lt">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>118,65 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Komili_Y_zeytinyagi_Riviera_1_Lt">satın al</a></td>
+              <td title="Bizim Toptan">BIZIM TOPTAN</td>
+              <td>149,89 TL</td>
+              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/komili-riviera-zeytinyagi-1-l">satın al</a></td>
             </tr>
 </table>

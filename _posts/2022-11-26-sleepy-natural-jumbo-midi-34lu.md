@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sleepy Natural Jumbo Midi 34'lü"
-date:   2022-11-26 7:44:25 +0300
+date:   2022-11-26 14:28:54 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sleepy-jumbo-midi-34lu-912a-6.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-11-26 10:44:25
+Son Güncelleme: 2022-11-26 17:28:54
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sleepy-jumbo-midi-34lu-912a-6.jpg" width="200" alt="Sleepy Natural Jumbo Midi 34'lü market fiyatları" />
 
@@ -47,10 +47,6 @@ Marka: Sleepy
               <td title="Şok">ŞOK</td>
               <td>80,45 TL</td>
               <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/sensitive-bebek-bezi-midi-3-numara-45-adet-p-26427/">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>90,95 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Sleepy_Sensitive_Jumbo_Midi">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>94,90 TL</td>
