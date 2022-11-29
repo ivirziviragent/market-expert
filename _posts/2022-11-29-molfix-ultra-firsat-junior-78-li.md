@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Molfix Ultra Fırsat Junior 78 li"
-date:   2022-11-29 7:25:48 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/molfix-ultra-firsat-junior-78-li--b6c8-.jpg
+date:   2022-11-29 14:49:13 +0300
+image: undefined
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-11-29 10:25:48
+Son Güncelleme: 2022-11-29 17:49:13
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/molfix-ultra-firsat-junior-78-li--b6c8-.jpg" width="200" alt="Molfix Ultra Fırsat Junior 78 li market fiyatları" />
+<img src="undefined" width="200" alt="Molfix Ultra Fırsat Junior 78 li market fiyatları" />
 
 Kategori: Bebek
 <br />
@@ -23,13 +23,5 @@ Marka: Molfix
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>149,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/molfix-ultra-firsat-junior-78-li-23526">satın al</a></td>
-            </tr><tr>
-              <td title="Trendyol/Özhan Market Mağazası">ÖZHAN MARKET - TY</td>
-              <td>207,99 TL</td>
-              <td><a title="Trendyol/Özhan Market Mağazası" target="_blank" href="https://www.trendyol.com/molfix/5-numara-11-18-kg-junior-ultra-firsat-paketi-78-adet-bebek-bezi-p-244222563">satın al</a></td>
-            </tr>
+  
 </table>

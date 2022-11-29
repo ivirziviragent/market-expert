@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Reis Trakya Baldo Pirinç 2.5 kg"
-date:   2022-11-29 7:27:11 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-2.5-kg-f392.jpg
+date:   2022-11-29 14:52:15 +0300
+image: undefined
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-11-29 10:27:11
+Son Güncelleme: 2022-11-29 17:52:15
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/reis-trakya-baldo-pirinc-2.5-kg-f392.jpg" width="200" alt="Reis Trakya Baldo Pirinç 2.5 kg market fiyatları" />
+<img src="undefined" width="200" alt="Reis Trakya Baldo Pirinç 2.5 kg market fiyatları" />
 
 Kategori: Gıda, Şekerleme
 <br />
@@ -23,17 +23,5 @@ Marka: Reis
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>126,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/reis-trakya-baldo-pirinc-2-5-kg">satın al</a></td>
-            </tr><tr>
-              <td title="Bizim Toptan">BIZIM TOPTAN</td>
-              <td>44,90 TL</td>
-              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/reis-baldo-pirinc-2-5-kg">satın al</a></td>
-            </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>77,95 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/hunkar-osmancik-pirinc-25-kg/p/105696">satın al</a></td>
-            </tr>
+  
 </table>
