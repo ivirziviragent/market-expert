@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Altınkılıç Klasik Dilimli Beyaz Peynir 450 gr"
-date:   2022-12-11 7:54:04 +0300
-image: https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-dilimli-beyaz-peynir-5-436e.jpg
+date:   2022-12-11 15:48:19 +0300
+image: https://img.istegelsin.com/medium/D0201_0011370alt_nk_l__klasikinekpeyniri450gr.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-12-11 10:54:04
+Son Güncelleme: 2022-12-11 18:48:19
 
-<img src="https://www.cagri.com//Uploads/UrunResimleri/altinkilic-klasik-dilimli-beyaz-peynir-5-436e.jpg" width="200" alt="Altınkılıç Klasik Dilimli Beyaz Peynir 450 gr market fiyatları" />
+<img src="https://img.istegelsin.com/medium/D0201_0011370alt_nk_l__klasikinekpeyniri450gr.jpg" width="200" alt="Altınkılıç Klasik Dilimli Beyaz Peynir 450 gr market fiyatları" />
 
 Kategori: Süt, Kahvaltılık
 <br />
@@ -24,10 +24,6 @@ Marka: Altınkılıç Peynir
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>99,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/altinkilic-klasik-dilimli-beyaz-peynir-450-gr-19563">satın al</a></td>
-            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>79,90 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/altinkilic-3-dilim-tam-yagli-olgun-inek-peyniri-450-g-p-98e100">satın al</a></td>

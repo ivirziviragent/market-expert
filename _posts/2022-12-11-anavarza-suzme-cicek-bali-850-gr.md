@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Anavarza Süzme Çiçek Balı 850 gr"
-date:   2022-12-11 7:51:13 +0300
+date:   2022-12-11 15:45:30 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/anavarza-suzme-cicek-bali-850-gr-c91-4b.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-12-11 10:51:13
+Son Güncelleme: 2022-12-11 18:45:30
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/anavarza-suzme-cicek-bali-850-gr-c91-4b.jpg" width="200" alt="Anavarza Süzme Çiçek Balı 850 gr market fiyatları" />
 
@@ -48,12 +48,12 @@ Marka: Anavarza
               <td>120,00 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/anavarza-kavanoz-suzme-cicek-bal-850-gr-p-540564">satın al</a></td>
             </tr><tr>
-              <td title="Trendyol/Migros Kargo Operasyonu">MIGROS KARGO OPERASYONU - TY</td>
-              <td>124,90 TL</td>
-              <td><a title="Trendyol/Migros Kargo Operasyonu" target="_blank" href="https://www.trendyol.com/anavarza/suzme-cicek-bali-850-gr-p-31640770">satın al</a></td>
-            </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>125,95 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/anavarza-bal-cicek-850-gr/p/702711">satın al</a></td>
+            </tr><tr>
+              <td title="Trendyol/Migros Kargo Operasyonu">MIGROS KARGO OPERASYONU - TY</td>
+              <td>139,90 TL</td>
+              <td><a title="Trendyol/Migros Kargo Operasyonu" target="_blank" href="https://www.trendyol.com/anavarza/suzme-cicek-bali-850-gr-p-31640770">satın al</a></td>
             </tr>
 </table>

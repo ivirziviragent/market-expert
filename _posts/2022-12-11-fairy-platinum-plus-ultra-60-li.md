@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Fairy Platinum Plus Ultra 60 lı"
-date:   2022-12-11 7:48:31 +0300
+date:   2022-12-11 15:36:37 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-12-11 10:48:31
+Son Güncelleme: 2022-12-11 18:36:37
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg" width="200" alt="Fairy Platinum Plus Ultra 60 lı market fiyatları" />
 
@@ -47,10 +47,6 @@ Marka: Fairy
               <td title="Macro Center">MACRO CENTER</td>
               <td>277,25 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/fairy-platinum-plus-tablet-60li-931-g-p-1d8b9a0">satın al</a></td>
-            </tr><tr>
-              <td title="Mopaş">MOPAŞ</td>
-              <td>282,40 TL</td>
-              <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/fairy-platinum-plus-bulasik-makinesi-deterjani-kapsulu-60li/p/772558">satın al</a></td>
             </tr><tr>
               <td title="Showmar">SHOWMAR</td>
               <td>288,50 TL</td>

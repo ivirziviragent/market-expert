@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Prima Bebek Bezi 2 Beden Süper Fırsat Paketi 124 Adet"
-date:   2022-12-11 7:22:52 +0300
+date:   2022-12-11 15:17:53 +0300
 image: https://productimages.hepsiburada.net/s/19/550/9832025456690.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-12-11 10:22:52
+Son Güncelleme: 2022-12-11 18:17:53
 
 <img src="https://productimages.hepsiburada.net/s/19/550/9832025456690.jpg" width="200" alt="Prima Bebek Bezi 2 Beden Süper Fırsat Paketi 124 Adet market fiyatları" />
 

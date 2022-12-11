@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goon Premium Soft Bebek Bezi 3 Beden Jumbo Paket 40 Adet"
-date:   2022-12-11 7:24:43 +0300
+date:   2022-12-11 15:18:59 +0300
 image: https://productimages.hepsiburada.net/s/174/550/110000137941872.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-12-11 10:24:43
+Son Güncelleme: 2022-12-11 18:18:59
 
 <img src="https://productimages.hepsiburada.net/s/174/550/110000137941872.jpg" width="200" alt="Goon Premium Soft Bebek Bezi 3 Beden Jumbo Paket 40 Adet market fiyatları" />
 

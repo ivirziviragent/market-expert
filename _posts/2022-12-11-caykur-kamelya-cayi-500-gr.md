@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Kamelya Çayı 500 gr"
-date:   2022-12-11 6:34:25 +0300
+date:   2022-12-11 14:32:20 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-500-gr-9a74.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-12-11 9:34:25
+Son Güncelleme: 2022-12-11 17:32:20
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-kamelya-cayi-500-gr-9a74.jpg" width="200" alt="Çaykur Kamelya Çayı 500 gr market fiyatları" />
 
@@ -28,21 +28,17 @@ Marka: Çaykur
               <td>39,95 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/caykur-kamelya-cay-500-g-p-2f7988">satın al</a></td>
             </tr><tr>
-              <td title="Hakmar">HAKMAR</td>
-              <td>39,95 TL</td>
-              <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-caykur-kamelya-cayi-siyah-cay-500gr">satın al</a></td>
-            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>41,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/caykur-kamelya-cayi-500-gr">satın al</a></td>
             </tr><tr>
+              <td title="Hakmar">HAKMAR</td>
+              <td>39,95 TL</td>
+              <td><a title="Hakmar" target="_blank" href="https://www.hakmarexpress.com.tr/urun/gida-caykur-kamelya-cayi-siyah-cay-500gr">satın al</a></td>
+            </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>42,50 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/caykur-kamelya-cayi-500-g-p-30018810">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>42,75 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Caykur_500_Gr_Cay_Kamelya">satın al</a></td>
             </tr><tr>
               <td title="Kim">KIM</td>
               <td>49,99 TL</td>
