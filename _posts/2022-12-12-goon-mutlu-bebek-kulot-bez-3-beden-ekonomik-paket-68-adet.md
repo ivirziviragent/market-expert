@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goon Mutlu Bebek Külot Bez 3 Beden Ekonomik Paket 68 Adet"
-date:   2022-12-12 7:05:26 +0300
+date:   2022-12-12 14:23:00 +0300
 image: https://productimages.hepsiburada.net/s/36/550/10504725135410.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-12-12 10:05:26
+Son Güncelleme: 2022-12-12 17:23:00
 
 <img src="https://productimages.hepsiburada.net/s/36/550/10504725135410.jpg" width="200" alt="Goon Mutlu Bebek Külot Bez 3 Beden Ekonomik Paket 68 Adet market fiyatları" />
 
@@ -25,7 +25,7 @@ Marka: Goon
   </tr>
   <tr>
               <td title="Hepsiburada/Farmaucuz Mağazası">FARMAUCUZ - HB</td>
-              <td>0,00 TL</td>
+              <td>200,00 TL</td>
               <td><a title="Hepsiburada/Farmaucuz Mağazası" target="_blank" href="https://www.hepsiburada.com/goon-mutlu-bebek-kulot-bez-3-beden-ekonomik-paket-68-adet-p-HBV00000KDB95?magaza=FARMAUCUZ">satın al</a></td>
             </tr>
 </table>
