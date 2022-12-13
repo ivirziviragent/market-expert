@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Çaykur Tiryaki Çayı 500 gr"
-date:   2022-12-13 6:02:05 +0300
+date:   2022-12-13 13:01:34 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-500-gr-17ef.jpg
 categories: cay-kahve
 tags: cay-kahve
 ---
 
-Son Güncelleme: 2022-12-13 9:02:05
+Son Güncelleme: 2022-12-13 16:01:34
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/caykur-tiryaki-cayi-500-gr-17ef.jpg" width="200" alt="Çaykur Tiryaki Çayı 500 gr market fiyatları" />
 
@@ -36,6 +36,10 @@ Marka: Çaykur
               <td>36,90 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/caykur-tiryaki-cayi-500-g-p-30088502">satın al</a></td>
             </tr><tr>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>36,95 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/caykur-tiryaki-500-gr/p/49591">satın al</a></td>
+            </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>39,90 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/caykur-tiryaki-cayi-500-gr">satın al</a></td>
@@ -43,9 +47,5 @@ Marka: Çaykur
               <td title="Şok">ŞOK</td>
               <td>40,95 TL</td>
               <td><a title="Şok" target="_blank" href="https://www.sokmarket.com.tr/tiryaki-cay-500-gr-p-6600/">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>42,75 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Caykur_500_Gr_Cay_Tiryaki">satın al</a></td>
             </tr>
 </table>

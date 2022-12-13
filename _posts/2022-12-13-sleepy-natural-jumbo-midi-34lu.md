@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sleepy Natural Jumbo Midi 34'lü"
-date:   2022-12-13 7:17:02 +0300
+date:   2022-12-13 14:01:40 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sleepy-jumbo-midi-34lu-912a-6.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-12-13 10:17:02
+Son Güncelleme: 2022-12-13 17:01:40
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sleepy-jumbo-midi-34lu-912a-6.jpg" width="200" alt="Sleepy Natural Jumbo Midi 34'lü market fiyatları" />
 
@@ -47,10 +47,6 @@ Marka: Sleepy
               <td title="Hepsiburada/ebebek Mağazası">EBEBEK - HB</td>
               <td>84,99 TL</td>
               <td><a title="Hepsiburada/ebebek Mağazası" target="_blank" href="https://www.hepsiburada.com/sleepy-sensitive-bebek-bezi-3-beden-midi-jumbo-paket-34-adet-p-ZYSLE060345-?magaza=ebebek">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>90,95 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Sleepy_Sensitive_Jumbo_Midi">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>94,90 TL</td>

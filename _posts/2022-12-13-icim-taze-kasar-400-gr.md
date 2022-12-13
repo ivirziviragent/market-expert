@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Taze Kaşar 400 Gr"
-date:   2022-12-13 6:44:47 +0300
+date:   2022-12-13 13:33:46 +0300
 image: https://www.kimgeldi.com//images/thumbs/0013957_icim-taze-kasar-peyniri-400-gr-_510.jpeg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-12-13 9:44:47
+Son Güncelleme: 2022-12-13 16:33:46
 
 <img src="https://www.kimgeldi.com//images/thumbs/0013957_icim-taze-kasar-peyniri-400-gr-_510.jpeg" width="200" alt="İçim Taze Kaşar 400 Gr market fiyatları" />
 
@@ -28,10 +28,6 @@ Marka: İçim
               <td>62,99 TL</td>
               <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/icim-taze-kasar-peyniri-400-gr">satın al</a></td>
             </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>69,50 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Icim_Kasar_Peynir__500_Gr_">satın al</a></td>
-            </tr><tr>
               <td title="Kalafatlar">KALAFATLAR</td>
               <td>64,90 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/icim-kasar-peyniri-400-gr">satın al</a></td>
@@ -43,6 +39,10 @@ Marka: İçim
               <td title="Migros">MIGROS</td>
               <td>66,90 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/icim-kasar-400-g-p-9a2959">satın al</a></td>
+            </tr><tr>
+              <td title="Mopaş">MOPAŞ</td>
+              <td>69,30 TL</td>
+              <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/icim-kasar-400-gr/p/104912">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>69,95 TL</td>
