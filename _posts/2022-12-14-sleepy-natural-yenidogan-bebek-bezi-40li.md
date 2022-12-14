@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sleepy Natural Yenidoğan Bebek Bezi 40'lı"
-date:   2022-12-14 6:20:14 +0300
+date:   2022-12-14 13:35:35 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sleepy-sensitive-yenidogan-bebek-bezi-40-01cb.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-12-14 9:20:14
+Son Güncelleme: 2022-12-14 16:35:35
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sleepy-sensitive-yenidogan-bebek-bezi-40-01cb.jpg" width="200" alt="Sleepy Natural Yenidoğan Bebek Bezi 40'lı market fiyatları" />
 
@@ -23,9 +23,5 @@ Marka: Sleepy
     <td><strong>Fiyat</strong></td>
     <td><strong>İşlem</strong></td>
   </tr>
-  <tr>
-              <td title="Market Paketi">MARKET PAKETI</td>
-              <td>73,50 TL</td>
-              <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/sleepy-bebek-bezi-natural-1-yenidogan-jumbo-40-adet-p-544726">satın al</a></td>
-            </tr>
+  
 </table>
