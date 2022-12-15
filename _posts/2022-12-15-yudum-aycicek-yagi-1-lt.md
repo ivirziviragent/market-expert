@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Yudum Ayçiçek Yağı 1 Lt"
-date:   2022-12-15 6:24:47 +0300
+date:   2022-12-15 13:28:08 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-12-15 9:24:47
+Son Güncelleme: 2022-12-15 16:28:08
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/yudum-aycicek-yagi-1-lt-c9cd.jpg" width="200" alt="Yudum Ayçiçek Yağı 1 Lt market fiyatları" />
 
@@ -56,16 +56,12 @@ Marka: Yudum
               <td>47,90 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/yudum-aycicek-yagi-1-lt-p-953">satın al</a></td>
             </tr><tr>
-              <td title="Kalafatlar">KALAFATLAR</td>
-              <td>49,90 TL</td>
-              <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/yudum-aycicek-yagi-1-lt">satın al</a></td>
-            </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>52,45 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://www.mopas.com.tr/yudum-aycicek-yagi-1-l/p/1840">satın al</a></td>
             </tr><tr>
-              <td title="Yunus Market">YUNUS MARKET</td>
-              <td>149,90 TL</td>
-              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/yudum-aycicek-yagi-1-lt/df319727-6cc0-4111-bc67-11fe6700f340">satın al</a></td>
+              <td title="Kalafatlar">KALAFATLAR</td>
+              <td>49,90 TL</td>
+              <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/yudum-aycicek-yagi-1-lt">satın al</a></td>
             </tr>
 </table>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goon Premium Soft Bebek Bezi 4 Beden Jumbo Paket 34 Adet"
-date:   2022-12-15 6:54:46 +0300
+date:   2022-12-15 13:58:18 +0300
 image: https://productimages.hepsiburada.net/s/174/550/110000137941866.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-12-15 9:54:46
+Son Güncelleme: 2022-12-15 16:58:18
 
 <img src="https://productimages.hepsiburada.net/s/174/550/110000137941866.jpg" width="200" alt="Goon Premium Soft Bebek Bezi 4 Beden Jumbo Paket 34 Adet market fiyatları" />
 
@@ -25,15 +25,15 @@ Marka: Goon
   </tr>
   <tr>
               <td title="Hepsiburada/Ekmelgross Mağazası">EKMELGROSS - HB</td>
-              <td>101,60 TL</td>
+              <td>101,80 TL</td>
               <td><a title="Hepsiburada/Ekmelgross Mağazası" target="_blank" href="https://www.hepsiburada.com/goon-premium-soft-bebek-bezi-4-beden-jumbo-paket-34-adet-p-HBV00000AW484?magaza=Ekmelgross">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/ARVENZO Mağazası">ARVENZO - HB</td>
-              <td>101,60 TL</td>
+              <td>101,80 TL</td>
               <td><a title="Hepsiburada/ARVENZO Mağazası" target="_blank" href="https://www.hepsiburada.com/goon-premium-soft-bebek-bezi-4-beden-jumbo-paket-34-adet-p-HBV00000AW484?magaza=arvenzo">satın al</a></td>
             </tr><tr>
               <td title="Trendyol/Özhan Market Mağazası">ÖZHAN MARKET - TY</td>
-              <td>108,50 TL</td>
+              <td>104 TL</td>
               <td><a title="Trendyol/Özhan Market Mağazası" target="_blank" href="https://www.trendyol.com/goo-n/goon-premium-soft-bebek-bezi-4-beden-34-adet-p-227197478">satın al</a></td>
             </tr><tr>
               <td title="Hepsiburada/Metropol Mağazası">METROPOL - HB</td>
