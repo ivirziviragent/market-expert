@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sleepy Natural Jumbo Midi 34'lü"
-date:   2022-12-17 11:14:41 +0300
+date:   2022-12-17 14:11:09 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/sleepy-jumbo-midi-34lu-912a-6.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2022-12-17 14:14:41
+Son Güncelleme: 2022-12-17 17:11:09
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/sleepy-jumbo-midi-34lu-912a-6.jpg" width="200" alt="Sleepy Natural Jumbo Midi 34'lü market fiyatları" />
 

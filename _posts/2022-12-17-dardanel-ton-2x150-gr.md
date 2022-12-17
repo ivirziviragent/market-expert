@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Dardanel Ton 2x150 gr"
-date:   2022-12-17 11:20:49 +0300
+date:   2022-12-17 14:17:22 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-2x150-gr-3c-301.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-12-17 14:20:49
+Son Güncelleme: 2022-12-17 17:17:22
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-2x150-gr-3c-301.jpg" width="200" alt="Dardanel Ton 2x150 gr market fiyatları" />
 
