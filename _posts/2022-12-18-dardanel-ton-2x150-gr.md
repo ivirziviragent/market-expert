@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Dardanel Ton 2x150 gr"
-date:   2022-12-18 7:59:06 +0300
+date:   2022-12-18 14:59:05 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-2x150-gr-3c-301.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2022-12-18 10:59:06
+Son Güncelleme: 2022-12-18 17:59:05
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/dardanel-ton-2x150-gr-3c-301.jpg" width="200" alt="Dardanel Ton 2x150 gr market fiyatları" />
 
@@ -24,13 +24,13 @@ Marka: Dardanel
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Bizim Toptan">BIZIM TOPTAN</td>
-              <td>47,90 TL</td>
-              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/dardanel-ekonomik-ton-baligi-2x150-gr">satın al</a></td>
-            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>48,90 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/dardanel-ekonomik-ton-2x150-g-p-89b738">satın al</a></td>
+            </tr><tr>
+              <td title="Bizim Toptan">BIZIM TOPTAN</td>
+              <td>47,90 TL</td>
+              <td><a title="Bizim Toptan" target="_blank" href="https://www.bizimtoptan.com.tr/dardanel-ekonomik-ton-baligi-2x150-gr">satın al</a></td>
             </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>62,75 TL</td>
@@ -43,10 +43,6 @@ Marka: Dardanel
               <td title="Avansas">AVANSAS</td>
               <td>74,15 TL</td>
               <td><a title="Avansas" target="_blank" href="https://www.avansas.com/dardanel-ton-baligi-2-x-150-gr-p-82037">satın al</a></td>
-            </tr><tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>85,45 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Dardanel_160_Gr_X_2_Ton_Balik">satın al</a></td>
             </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>78,70 TL</td>
