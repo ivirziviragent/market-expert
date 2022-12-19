@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Fairy Platinum Plus Ultra 60 lı"
-date:   2022-12-19 7:32:34 +0300
+date:   2022-12-19 14:33:05 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2022-12-19 10:32:34
+Son Güncelleme: 2022-12-19 17:33:05
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg" width="200" alt="Fairy Platinum Plus Ultra 60 lı market fiyatları" />
 
@@ -40,6 +40,10 @@ Marka: Fairy
               <td>244,00 TL</td>
               <td><a title="CarrefourSA" target="_blank" href="https://www.carrefoursa.com/fairy-platinum-plus-ultra-60-kapsul-p-30383114">satın al</a></td>
             </tr><tr>
+              <td title="Hepsiburada/G-Market Mağazası">G-MARKET - HB</td>
+              <td>244,90 TL</td>
+              <td><a title="Hepsiburada/G-Market Mağazası" target="_blank" href="https://www.hepsiburada.com/fairy-platinum-plus-bulasik-makinesi-deterjani-tableti-kapsulu-60-yikama-p-HBV00000H3RLE?magaza=G-Market">satın al</a></td>
+            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>269,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/fairy-platinum-plus-ultra-60-li-24035">satın al</a></td>
@@ -59,9 +63,5 @@ Marka: Fairy
               <td title="Showmar">SHOWMAR</td>
               <td>288,50 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/fairy-platinum-plus-60li">satın al</a></td>
-            </tr><tr>
-              <td title="Hepsiburada/G-Market Mağazası">G-MARKET - HB</td>
-              <td>319,00 TL</td>
-              <td><a title="Hepsiburada/G-Market Mağazası" target="_blank" href="https://www.hepsiburada.com/fairy-platinum-plus-bulasik-makinesi-deterjani-tableti-kapsulu-60-yikama-p-HBV00000H3RLE?magaza=G-Market">satın al</a></td>
             </tr>
 </table>
