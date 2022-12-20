@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sütaş Tereyağ Yayık 250 gr"
-date:   2022-12-20 6:29:22 +0300
+date:   2022-12-20 13:46:53 +0300
 image: https://images.migrosone.com/sanalmarket/product/12010211/12010211-d8c7c1-1650x1650.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2022-12-20 9:29:22
+Son Güncelleme: 2022-12-20 16:46:53
 
 <img src="https://images.migrosone.com/sanalmarket/product/12010211/12010211-d8c7c1-1650x1650.jpg" width="200" alt="Sütaş Tereyağ Yayık 250 gr market fiyatları" />
 
