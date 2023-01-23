@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Tam Yağlı Beyaz Peynir 1000 gr"
-date:   2023-01-23 6:58:07 +0300
+date:   2023-01-23 14:02:17 +0300
 image: https://images.migrosone.com/sanalmarket/product/10016000/10016000-65057c-1650x1650.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2023-01-23 9:58:07
+Son Güncelleme: 2023-01-23 17:02:17
 
 <img src="https://images.migrosone.com/sanalmarket/product/10016000/10016000-65057c-1650x1650.jpg" width="200" alt="İçim Tam Yağlı Beyaz Peynir 1000 gr market fiyatları" />
 
@@ -24,10 +24,6 @@ Marka: İçim
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>106,95 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/D_teksut_Tam_Yagli_Beyaz_Peynir_1000_Gr">satın al</a></td>
-            </tr><tr>
               <td title="Migros">MIGROS</td>
               <td>119,90 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/icim-tam-yagli-beyaz-peynir-1000-g-p-98d500">satın al</a></td>
