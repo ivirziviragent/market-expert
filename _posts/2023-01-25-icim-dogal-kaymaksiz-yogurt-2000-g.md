@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "İçim Doğal Kaymaksız Yoğurt 2000 g"
-date:   2023-01-25 6:17:20 +0300
+date:   2023-01-25 13:24:01 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/icim-dogal-yogurt-2-kg-fa2-bb.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2023-01-25 9:17:20
+Son Güncelleme: 2023-01-25 16:24:01
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/icim-dogal-yogurt-2-kg-fa2-bb.jpg" width="200" alt="İçim Doğal Kaymaksız Yoğurt 2000 g market fiyatları" />
 
@@ -31,6 +31,10 @@ Marka: İçim
               <td title="Migros">MIGROS</td>
               <td>59,90 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/icim-kaymaksiz-yogurt-2000-g-p-bec403">satın al</a></td>
+            </tr><tr>
+              <td title="Kim">KIM</td>
+              <td>59,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/icim-yogurt-2000-gr-dogal-kaymaksiz">satın al</a></td>
             </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>62,95 TL</td>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Papia Tuvalet Kağıdı 32'li"
-date:   2023-01-25 6:10:18 +0300
+date:   2023-01-25 13:16:50 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/papia-tuvalet-kagidi-32li-9cc8ab.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2023-01-25 9:10:18
+Son Güncelleme: 2023-01-25 16:16:50
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/papia-tuvalet-kagidi-32li-9cc8ab.jpg" width="200" alt="Papia Tuvalet Kağıdı 32'li market fiyatları" />
 

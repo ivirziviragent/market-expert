@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Sade Helva kg"
-date:   2023-01-25 6:43:14 +0300
+date:   2023-01-25 14:18:47 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-sade-helva-kg-5c38.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2023-01-25 9:43:14
+Son Güncelleme: 2023-01-25 17:18:47
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-sade-helva-kg-5c38.jpg" width="200" alt="Koska Sade Helva kg market fiyatları" />
 
@@ -24,6 +24,10 @@ Marka: Koska
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
+              <td title="Migros">MIGROS</td>
+              <td>93,75 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/koska-sade-blok-helva-kg-p-6c0890">satın al</a></td>
+            </tr><tr>
               <td title="Çağrı Market">ÇAĞRI MARKET</td>
               <td>94,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-sade-helva-kg">satın al</a></td>

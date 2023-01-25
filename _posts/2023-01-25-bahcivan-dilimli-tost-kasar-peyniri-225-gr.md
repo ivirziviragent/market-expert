@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Bahçıvan Dilimli Tost Kaşar Peyniri 225 gr"
-date:   2023-01-25 6:49:20 +0300
+date:   2023-01-25 14:23:29 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/bahcivan-dilimli-tost-kasar-peyniri-225--69a2.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2023-01-25 9:49:20
+Son Güncelleme: 2023-01-25 17:23:29
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/bahcivan-dilimli-tost-kasar-peyniri-225--69a2.jpg" width="200" alt="Bahçıvan Dilimli Tost Kaşar Peyniri 225 gr market fiyatları" />
 
@@ -31,5 +31,9 @@ Marka: Bahçıvan
               <td title="Migros">MIGROS</td>
               <td>52,95 TL</td>
               <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/bahcivan-tam-yagli-taze-dilimli-tost-peyniri-225-g-p-9a2798">satın al</a></td>
+            </tr><tr>
+              <td title="Macro Center">MACRO CENTER</td>
+              <td>52,95 TL</td>
+              <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/bahcivan-tam-yagli-taze-dilimli-tost-peyniri-225-g-p-9a2798">satın al</a></td>
             </tr>
 </table>
