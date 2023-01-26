@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Duru Baldo Pirinç 1 kg"
-date:   2023-01-26 6:23:04 +0300
+date:   2023-01-26 13:30:16 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/duru-baldo-pirinc-1-kg-b5f2.jpg
 categories: gida-sekerleme
 tags: gida-sekerleme
 ---
 
-Son Güncelleme: 2023-01-26 9:23:04
+Son Güncelleme: 2023-01-26 16:30:16
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/duru-baldo-pirinc-1-kg-b5f2.jpg" width="200" alt="Duru Baldo Pirinç 1 kg market fiyatları" />
 
