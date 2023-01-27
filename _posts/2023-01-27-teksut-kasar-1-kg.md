@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Teksüt Kaşar 1 kg"
-date:   2023-01-27 6:37:35 +0300
+date:   2023-01-27 13:38:03 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-kg-0df096.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2023-01-27 9:37:35
+Son Güncelleme: 2023-01-27 16:38:03
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/teksut-kasar-kg-0df096.jpg" width="200" alt="Teksüt Kaşar 1 kg market fiyatları" />
 

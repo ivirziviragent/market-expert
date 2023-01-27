@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Goo.n Premium Soft Bebek Bezi 1 Beden Premium Bant 50'li"
-date:   2023-01-27 7:11:04 +0300
+date:   2023-01-27 14:08:01 +0300
 image: https://productimages.hepsiburada.net/s/135/550/110000087194026.jpg
 categories: bebek
 tags: bebek
 ---
 
-Son Güncelleme: 2023-01-27 10:11:04
+Son Güncelleme: 2023-01-27 17:08:01
 
 <img src="https://productimages.hepsiburada.net/s/135/550/110000087194026.jpg" width="200" alt="Goo.n Premium Soft Bebek Bezi 1 Beden Premium Bant 50'li market fiyatları" />
 

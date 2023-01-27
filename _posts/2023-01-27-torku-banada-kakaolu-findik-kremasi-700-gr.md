@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Torku Banada Kakaolu Fındık Kreması 700 gr"
-date:   2023-01-27 7:07:47 +0300
+date:   2023-01-27 14:04:49 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-700--d7d2.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2023-01-27 10:07:47
+Son Güncelleme: 2023-01-27 17:04:49
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/torku-banada-kakaolu-findik-kremasi-700--d7d2.jpg" width="200" alt="Torku Banada Kakaolu Fındık Kreması 700 gr market fiyatları" />
 
@@ -24,12 +24,8 @@ Marka: Torku
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Yunus Market">YUNUS MARKET</td>
-              <td>39,95 TL</td>
-              <td><a title="Yunus Market" target="_blank" href="https://www.yunusonline.com/product/torku-banada-kakaolu-findik-kremasi-700-gr/b488f71d-b32b-4d87-a7f8-bb865caf944e">satın al</a></td>
-            </tr><tr>
               <td title="Market Paketi">MARKET PAKETI</td>
-              <td>66,90 TL</td>
+              <td>65,90 TL</td>
               <td><a title="Market Paketi" target="_blank" href="https://www.marketpaketi.com.tr/torku-banada-kakaolu-findik-kremasi-700-gr-p-215535">satın al</a></td>
             </tr><tr>
               <td title="Bizim Toptan">BIZIM TOPTAN</td>
@@ -52,12 +48,12 @@ Marka: Torku
               <td>74,95 TL</td>
               <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/torku-banada-kakaolu-findik-kremasi-700-gr">satın al</a></td>
             </tr><tr>
-              <td title="Showmar">SHOWMAR</td>
-              <td>74,95 TL</td>
-              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/torku-banada-700gr-cam">satın al</a></td>
-            </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>79,90 TL</td>
               <td><a title="Macro Center" target="_blank" href="https://www.macrocenter.com.tr/torku-banada-kakaolu-findik-kremasi-700-g-p-6d307a">satın al</a></td>
+            </tr><tr>
+              <td title="Showmar">SHOWMAR</td>
+              <td>74,95 TL</td>
+              <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/torku-banada-700gr-cam">satın al</a></td>
             </tr>
 </table>

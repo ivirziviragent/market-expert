@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Fairy Platinum Plus Ultra 60 lı"
-date:   2023-01-27 7:32:12 +0300
+date:   2023-01-27 14:29:38 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg
 categories: deterjan-temizlik
 tags: deterjan-temizlik
 ---
 
-Son Güncelleme: 2023-01-27 10:32:12
+Son Güncelleme: 2023-01-27 17:29:38
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/fairy-platinum-plus-ultra-60-li-4b1e-b.jpg" width="200" alt="Fairy Platinum Plus Ultra 60 lı market fiyatları" />
 

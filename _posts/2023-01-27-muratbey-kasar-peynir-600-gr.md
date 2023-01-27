@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Muratbey Kaşar Peynir 600 gr"
-date:   2023-01-27 6:36:36 +0300
+date:   2023-01-27 13:37:05 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/muratbey-kasar-peynir-500-gr-2-9e4a.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2023-01-27 9:36:36
+Son Güncelleme: 2023-01-27 16:37:05
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/muratbey-kasar-peynir-500-gr-2-9e4a.jpg" width="200" alt="Muratbey Kaşar Peynir 600 gr market fiyatları" />
 
