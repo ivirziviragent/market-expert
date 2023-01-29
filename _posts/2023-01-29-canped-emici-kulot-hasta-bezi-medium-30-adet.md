@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Canped Emici Külot Hasta Bezi Medium 30 Adet"
-date:   2023-01-29 7:15:50 +0300
+date:   2023-01-29 19:39:28 +0300
 image: https://productimages.hepsiburada.net/s/51/550/11064887803954.jpg
 categories: saglik-and-medikal-urunleri
 tags: saglik-and-medikal-urunleri
 ---
 
-Son Güncelleme: 2023-01-29 10:15:50
+Son Güncelleme: 2023-01-29 22:39:28
 
 <img src="https://productimages.hepsiburada.net/s/51/550/11064887803954.jpg" width="200" alt="Canped Emici Külot Hasta Bezi Medium 30 Adet market fiyatları" />
 

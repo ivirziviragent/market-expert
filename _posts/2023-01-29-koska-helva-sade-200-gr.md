@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Koska Helva Sade 200 gr"
-date:   2023-01-29 6:57:10 +0300
+date:   2023-01-29 19:20:21 +0300
 image: https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-200-gr-a9f6.jpg
 categories: sut-kahvaltilik
 tags: sut-kahvaltilik
 ---
 
-Son Güncelleme: 2023-01-29 9:57:10
+Son Güncelleme: 2023-01-29 22:20:21
 
 <img src="https://www.cagri.com//Uploads/UrunResimleri/koska-helva-sade-200-gr-a9f6.jpg" width="200" alt="Koska Helva Sade 200 gr market fiyatları" />
 
@@ -24,9 +24,13 @@ Marka: Koska
     <td><strong>İşlem</strong></td>
   </tr>
   <tr>
-              <td title="Happy Center">HAPPY CENTER</td>
-              <td>19,95 TL</td>
-              <td><a title="Happy Center" target="_blank" href="https://www.happycenter.com.tr/Koska_200_Gr_Helva_Sade">satın al</a></td>
+              <td title="Çağrı Market">ÇAĞRI MARKET</td>
+              <td>29,95 TL</td>
+              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-sade-200-gr">satın al</a></td>
+            </tr><tr>
+              <td title="Migros">MIGROS</td>
+              <td>30,75 TL</td>
+              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/koska-sade-helva-paket-200-g-p-6c0859">satın al</a></td>
             </tr><tr>
               <td title="CarrefourSA">CARREFOURSA</td>
               <td>24,60 TL</td>
@@ -36,6 +40,10 @@ Marka: Koska
               <td>26,90 TL</td>
               <td><a title="Kalafatlar" target="_blank" href="https://www.kalafatlar.com/urun/koska-sade-helva-200-gr">satın al</a></td>
             </tr><tr>
+              <td title="Kim">KIM</td>
+              <td>29,99 TL</td>
+              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/koska-helva-200-gr-sade">satın al</a></td>
+            </tr><tr>
               <td title="Mopaş">MOPAŞ</td>
               <td>27,25 TL</td>
               <td><a title="Mopaş" target="_blank" href="https://mopas.com.tr/koska-sade-helva-200-gr/p/93095">satın al</a></td>
@@ -43,18 +51,6 @@ Marka: Koska
               <td title="Showmar">SHOWMAR</td>
               <td>28,95 TL</td>
               <td><a title="Showmar" target="_blank" href="https://www.showmar.com.tr/urun/koska-helva-sade-200gr">satın al</a></td>
-            </tr><tr>
-              <td title="Çağrı Market">ÇAĞRI MARKET</td>
-              <td>29,95 TL</td>
-              <td><a title="Çağrı Market" target="_blank" href="https://www.cagri.com/koska-helva-sade-200-gr">satın al</a></td>
-            </tr><tr>
-              <td title="Kim">KIM</td>
-              <td>29,99 TL</td>
-              <td><a title="Kim" target="_blank" href="https://www.kimgeldi.com/koska-helva-200-gr-sade">satın al</a></td>
-            </tr><tr>
-              <td title="Migros">MIGROS</td>
-              <td>30,75 TL</td>
-              <td><a title="Migros" target="_blank" href="https://www.migros.com.tr/koska-sade-helva-paket-200-g-p-6c0859">satın al</a></td>
             </tr><tr>
               <td title="Macro Center">MACRO CENTER</td>
               <td>30,75 TL</td>
